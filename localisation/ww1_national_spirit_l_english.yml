@@ -1,26 +1,26 @@
 ﻿l_english:
 
  #--------------------------------------------------------------
- AUH_ww1_Multinational_State:0 "Multinational State"
- AUH_ww1_Multinational_State_desc:0 "Unlike most countries of this period, the Austro-Hungarian Empire is not a nationalistically-organized state, but instead a relic of old marriages and throne inheritances, which have given the empire a cultural patchwork of territories. In recent times, many of the subject nationalities of the Empire have begun a push for independence, hurting the Austrian state."
+ AUH_ww1_Multinational_State:0 "다민족 국가"
+ AUH_ww1_Multinational_State_desc:0 "이 시기의 대부분의 나라들과는 달리, 오스트리아-헝가리 제국은 민족적으로 조직된 국가가 아니라, 오래된 결혼과 왕위 계승의 유물이기 때문에, 제국에 영토의 문화적 조각이 주어졌습니다. 최근 제국 지배하에 있는 많은 민족들이 독립을 추진하기 시작하면서 오스트리아 국가가 피해를 입게 되었습니다."
  #--------------------------------------------------------------
- ITA_ww1_Risorgimento:0 "Risorgimento"
- ITA_ww1_Risorgimento_desc:0 "Risorgimento (also known as the Italian Unification) was the political and social movement that consolidated different states of the Italian peninsula into the single state of the Kingdom of Italy. The memory of this event, as well as the Irridentism that followed, is a driving force in both Italian unity and politics."
+ ITA_ww1_Risorgimento:0 "리소르기멘토"
+ ITA_ww1_Risorgimento_desc:0 "리소르기멘토(Risorgimento, 이탈리아 통일 운동)는 이탈리아 반도의 여러 주를 이탈리아 왕국의 단일 국가로 통합한 정치 및 사회 운동입니다. 이 사건에 대한 기억은 물론 이어진 민족통일주의는 이탈리아 통합과 정치 양면에서 원동력입니다."
  #--------------------------------------------------------------
- ww1_Faith_Allah:0 "Faith in Allah"
- ww1_Faith_Allah_desc:0 "In the Qur’an, Allah commands believers to be united, to join ranks in faith, to regard and love one another as brothers, to be forgiving and protective and to strongly avoid fragmentation, division and dispersal. Ottoman hegemony in Mecca, as well as the Sultan's title as the Caliph os Islam, proves their government's faith."
+ ww1_Faith_Allah:0 "알라에 대한 믿음"
+ ww1_Faith_Allah_desc:0 "쿠란에서는 알라가 신자들에게 단결하고, 믿음의 대열에 합류하고, 서로를 형제처럼 여기고 사랑하며, 용서하고 보호하며, 분열과 분열을 강하게 피하라고 명령합니다. 메카에서의 오스만 패권은 물론 술탄의 이슬람 칼리프라는 칭호도 자국 정부의 신념을 증명합니다."
  #--------------------------------------------------------------
- AUH_ww1_House_Habsburg_Lorraine:0 "House of Habsburg-Lorraine"
- AUH_ww1_House_Habsburg_Lorraine_desc:0 "The House of Habsburg-Lorraine is one of the most influential Royal Houses of Europe, and the ruling dynasty of Austria-Hungary. The long legacy of this family on the throne of the Empire gives them much of the necessary legitimacy to maintain their rule, so long as they can maintain it."
+ AUH_ww1_House_Habsburg_Lorraine:0 "합스부르크-로렌 가문"
+ AUH_ww1_House_Habsburg_Lorraine_desc:0 "합스부르크-로렌 가옥은 유럽에서 가장 영향력 있는 왕가 중 하나이며, 오스트리아-헝가리 왕조의 지배 왕조입니다. 제국의 왕좌에 오른 이 가문의 오랜 유산은 그들이 통치권을 유지할 수 있는 한 그들의 통치권을 유지하는 데 필요한 많은 합법성을 부여합니다."
  #--------------------------------------------------------------
- GER_ww1_North_German_Confederation:0 "North German Confederation Legacy"
- GER_ww1_North_German_Confederation_desc:0 "After years of being the secondary player in the German sphere, Prussia formed the North German Confederation, establishing itself as the foremost power in Germany, before finally unifying the empire. With this event still in living memory, the laws and pride of our people are still reflective of this monumental event."
+ GER_ww1_North_German_Confederation:0 "북독일 연방 유산"
+ GER_ww1_North_German_Confederation_desc:0 "프로이센은 몇 년간 독일 영역에서 제2인자로 활동한 끝에, 북독일 연방을 결성하여 독일에서 제1의 강대국으로 자리매김한 뒤 마침내 제국을 통일했습니다. 이 사건이 아직도 살아 있는 기억 속에 남아 있는 가운데, 우리 민족의 법과 자부심은 여전히 이 기념비적인 사건을 반영하고 있습니다."
 
- Austrian_staff:0 "Austrian Staff"
+ Austrian_staff:0 "오스트리아 참모"
  Austrian_staff_desc:0 "The Imperial and Royal General Staff of Austria-Hungary was part of the Ministry of War. It was headed by the Chief of the General Staff for the Whole Armed Forces, who had direct access to the Emperor. The general staff was responsible for planning and preparations, while the Armeeoberkommando (AOK) was the operational high command. In fact, since the AOK was under the direct command of the emperor and the chief of the general staff was his chief adviser, in practice the AOK was under the control of the chief of the general staff."
 
- Franch_Staff:0 "French Staff"
+ Franch_Staff:0 "프랑스 참모"
  Franch_Staff_desc:0 "In times of war, the army chief of staff took charge of general headquarters (GQG: Grand Quartier Général). During the First World War, the leader of the French armies was variously referred to as supreme general (generalissimo) or commander-in-chief. In the closing years of the war, the establishment of the Supreme War Council in 1917 led to overall command being held by French general Ferdinand Foch, and by mid-1918 French army chief Pétain was subordinate to Foch. Although the war essentially ended with the armistice in November 1918, the war-time organisation persisted until 1920."
 
- ENG_Staff:0 "English Staff"
+ ENG_Staff:0 "영국 참모"
  ENG_Staff_desc:0 "The British Army during World War I could trace its organisation to the increasing demands of imperial expansion. The framework was the voluntary system of recruitment and the regimental system, which had been defined by the Cardwell and Childers Reforms of the late 19th century. The British Army had been prepared and primarily called upon for Empire matters and the ensuing colonial wars.[4] In the last years of the 19th century, the Army was involved in a major conflict, the Second Boer War (1899–1902), which highlighted shortcomings in its tactics, leadership and administration. "

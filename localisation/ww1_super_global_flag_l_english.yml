@@ -1,13 +1,13 @@
 ﻿l_english:
 
-SUPER_GLOBAL_Mexican_Revolution_1910:0 "Mexican Revolution"
-SUPER_GLOBAL_Agadir_Crisis_Historical:0 "Treaty of Fez has been signed"
-kis_firstbalkanwar_victory:0 "London Peace Conference Occurred"
-kis_jauresassassination:0 "Jean Jaurès is dead"
-kis_treaty_of_versailles:0 "Treaty of Versailles"
-emperor_franz_dead:0 "Franz Joseph I is dead"
+SUPER_GLOBAL_Mexican_Revolution_1910:0 "멕시코 혁명"
+SUPER_GLOBAL_Agadir_Crisis_Historical:0 "페스 조약 서명됨"
+kis_firstbalkanwar_victory:0 "런던 평화회담 일어남"
+kis_jauresassassination:0 "장 조레스 사망함"
+kis_treaty_of_versailles:0 "베르사유 조약"
+emperor_franz_dead:0 "프란츠 요제프 1세 사망함"
 
-great_war_armistice_flag:0 "[Root.GetName] is asking for a truce "
-compeigne_armistice_flag:0 "Compiegne Armistice "
-refuse_compeigne_armistice_flag:0 "There will be no truce! "
-interwar_wall_street_crash_1929:0 "Wall Street Crash happened"
+great_war_armistice_flag:0 "[Root.GetName]이(가) 휴전을 요청하다 "
+compeigne_armistice_flag:0 "콩피에뉴 휴전 "
+refuse_compeigne_armistice_flag:0 "휴전은 없을 것입니다! "
+interwar_wall_street_crash_1929:0 "월스트리트 대폭락 일어남"

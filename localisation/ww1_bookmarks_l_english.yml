@@ -4,7 +4,7 @@
  #----------------------------------------------------------------------------------------------------------------------------------
  # 1910
 
- POWDERKEG_NAME:0 "The Powderkeg of Europe"
+ POWDERKEG_NAME:0 "유럽의 화약고"
  POWDERKEG_DESC:0 "1910 is a challenging time for the peace in Europe. The Italians are preparing for a war with the Ottomans, which will threaten their hold in the Balkans. Rebellion in Morocco is beginning to boil over, much to the anguish of France and to the delight of the German Empire. All in all, either clear heads will be needed to keep the peace, or strong hearts to win the war."
 
  FRA_POWDERKEG_DESC:0 "In 1870, France was dealt a blow by the forming German Empire in a crushing war which saw the loss of Alsace-Lorraine. This made an implacable enemy of France, who has been licking her wounds since. Though the territory is German-speaking, the French people simply will not let this humiliation stand. \n\nFortunately, French diplomacy has built an Entente Cordial with the United Kingdom and Russia. When war breaks out, surely the Germans will crumble. The matter is, of course, ''when''."
@@ -43,7 +43,7 @@
  #----------------------------------------------------------------------------------------------------------------------------------
  # 1914
 
- SCHLIEFFEN_NAME:0 "The Great War"
+ SCHLIEFFEN_NAME:0 "세계 대전"
  SCHLIEFFEN_DESC:0 "The drums of war are beating fervently. In the next year, a war is expected to break out between, at the very least, France and Russia vs. Germany and Austria-Hungary. If more powers end up getting involved, the conflict could be the largest war the world's ever seen. One thing is certain: For many countries, their very existence is on the line."
 
  FRA_SCHLIEFFEN_DESC:0 "France's revanche is soon at hand. The return of the Tricolor to Alsace-Lorraine and the rightful French territory owned by the Germans in Africa, seems nearer than ever. Of course, the Germans are just as ready to strike, but France's time to prove a lesson learned is now. \n\nAfter all, surely all that will be needed is the French Élan that was missing from the last war, and the Germans will be sent packing. Of course, there's rumors a long war could be to our disadvantage, but rumors aren't always true, are they?"

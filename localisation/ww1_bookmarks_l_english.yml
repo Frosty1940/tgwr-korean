@@ -5,46 +5,46 @@
  # 1910
 
  POWDERKEG_NAME:0 "유럽의 화약고"
- POWDERKEG_DESC:0 "1910 is a challenging time for the peace in Europe. The Italians are preparing for a war with the Ottomans, which will threaten their hold in the Balkans. Rebellion in Morocco is beginning to boil over, much to the anguish of France and to the delight of the German Empire. All in all, either clear heads will be needed to keep the peace, or strong hearts to win the war."
+ POWDERKEG_DESC:0 "1910년은 유럽의 평화가 도전받는 시기입니다. 이탈리아인들은 발칸 반도에 대한 그들의 지배를 위협할 오스만과의 전쟁을 준비하고 있습니다. 모로코에서의 반란은 프랑스의 고통과 독일 제국의 기쁨에 크게 영향을 미치기 시작했습니다. 대체로 평화를 유지하기 위한 명석한 머리가 필요하거나 전쟁에서 승리하기 위한 강한 마음이 필요할 것입니다."
 
- FRA_POWDERKEG_DESC:0 "In 1870, France was dealt a blow by the forming German Empire in a crushing war which saw the loss of Alsace-Lorraine. This made an implacable enemy of France, who has been licking her wounds since. Though the territory is German-speaking, the French people simply will not let this humiliation stand. \n\nFortunately, French diplomacy has built an Entente Cordial with the United Kingdom and Russia. When war breaks out, surely the Germans will crumble. The matter is, of course, ''when''."
+ FRA_POWDERKEG_DESC:0 "1870년, 프랑스는 알자스-로렌을 잃은 참혹한 전쟁에서 독일 제국에 의해 타격을 받았습니다. 이로 인해 프랑스는 그 이후 상처를 핥고 있는 불굴의 적이 되었습니다. 비록 잃어버린 영토가 독일어를 사용하지만, 프랑스 국민들은 이 굴욕을 그냥 내버려두지 않을 것입니다. \n\n다행히도, 프랑스 외교는 영국, 러시아와 함께 영불 협상을 구축했습니다. 전쟁이 일어나면 독일군은 반드시 무너질 것입니다. 중요한 것은 물론 '언제'인지 입니다."
 
- USA_POWDERKEG_DESC:0 "While Europe trudges closer and closer to war and misery, peace and prosperity is the way in the United States in 1910. The success of Dollar Diplomacy and the Roosevelt Corollary have finally secured Latin America from European powers once and for all. The Philippines have been pacified for good. \n\nIt'd be foolish to be blind to Europe, but for now, America is safe to build up."
+ USA_POWDERKEG_DESC:0 "유럽이 점점 더 전쟁과 고난에 가까워지고 있는 반면, 평화와 번영은 1910년 미국의 방식입니다. 달러 외교와 루즈벨트 계론의 성공은 마침내 유럽 강대국들로부터 라틴 아메리카를 완전히 확보했습니다. 필리핀은 영원히 평온해졌습니다. \n\n유럽에 눈이 먼다는 것은 어리석은 일이겠지만, 현재 미국은 성장하기에 안전합니다."
 
- ENG_POWDERKEG_DESC:0 "The British Empire is still at its zenith. Controlling a massive amount of territory in Africa, Asia, and the Americas through both direct rule and dominions, the United Kingdom still has one continent yet to be mastered: Europe. The United Kingdom has a few allies on the mainland, but none they are particularly fond of. \n\nOf course, good king Edward is surely not long for this world, and crown prince George has time to shake things up. What will the next king do for Britannia's place in Europe?"
+ ENG_POWDERKEG_DESC:0 "대영제국은 여전히 절정에 있습니다. 직접적인 통치와 지배를 통해 아프리카, 아시아, 아메리카 대륙의 방대한 영토를 지배하고 있는 영국이 아직 정복하지 않은 하나의 대륙이 있습니다. 유럽입니다. 영국은 본토에 몇 개의 동맹국이 있지만 특별히 좋아하는 나라는 없습니다. \n\n물론, 좋은 왕 에드워드는 이 세상에 오래 살지 못하며, 조지 왕세자는 세상을 뒤흔들 시간이 있습니다. 다음 왕은 유럽에서 브리타니아의 지위를 위해 무엇을 할 것입니까?"
 
- GER_POWDERKEG_DESC:0 "What was once 35 different independent nations is now the German Empire, seen by many as one of the world's foremost powers, if not the strongest of them all. However, there are many who would trifle with such a state. The German enemy of France has formed the Triple Entente of themselves, the UK, and Russia, all far stronger than Germany's own weak allies. \n\nWith just old Austria and disloyal Italy, Germany needs either more friends or more power to survive the coming times."
+ GER_POWDERKEG_DESC:0 "한때 35개의 서로 다른 자주국이었던 것이 지금은 독일 제국인데, 많은 사람들이 독일 제국을 세계 최강의 강대국으로 보고 있습니다. 하지만 이런 상태를 대수롭지 않게 여기는 사람들이 많습니다. 독일의 적, 프랑스는 영국, 러시아와 함께 삼국 협상을 맺었는데, 모두 독일의 약한 동맹국들보다 훨씬 강합니다. \n\n고작 오스트리아, 그리고 불충한 이탈리아와 함께, 독일은 다가올 시대에 살아남기 위해 더 많은 우방이나 더 많은 힘이 필요합니다."
 
- ITA_POWDERKEG_DESC:0 "Italy is  the smallest third of the Triple Alliance, an alliance with which she has little faith in. Austria-Hungary, Italy's natural rival, is now a friend in the world of treaties but still a rival in practical terms. After all, Italian Irredentism still decrees the Austrian-held Dalmatian coast as Italian. For now, however, there are more pressing matters. \n\nWar plans with the Ottoman Turks are already being drawn up. The government predicts a short, decisive war. Italy shall prove her power."
+ ITA_POWDERKEG_DESC:0 "이탈리아는 삼국 동맹의 세 나라 중 가장 작은 나라로, 동맹을 거의 신뢰하지 않습니다. 이탈리아의 천적이자 경쟁국인 오스트리아-헝가리는 이제 조약의 세계에서는 우방이지만 실질적인 면에서는 여전히 경쟁국입니다. 결국, 이탈리아 민족통일주의는 여전히 오스트리아가 지배하고 있는 달마티아 해안을 이탈리아령으로 규정하고 있습니다. 하지만 현재로서는 더 시급한 문제들이 있습니다. \n\n오스만 튀르크와의 전쟁 계획은 이미 그려지는 중입니다. 정부는 짧고 결정적인 전쟁을 예상하고 있습니다. 이탈리아는 스스로의 힘을 증명할 것입니다."
 
- AUH_POWDERKEG_DESC:0 "The last century was a curse to the Austrian throne. Humiliation after humiliation was thrust upon her, from the rampage of Napoleon to the unification of Germany by the Prussians. Venerable old Kaiser Franz Josef now stands as the weakest member of the Triple Alliance, with two of her old enemies. But surprisingly, this has gone well for Austria so far. \n\nThe Hapsburgs have inherited Bosnia, and the people of Hungary finally seem placated. Perhaps more good shall come."
+ AUH_POWDERKEG_DESC:0 "지난 세기는 오스트리아 왕위에 대한 저주였습니다. 나폴레옹의 광란에서부터 프로이센인들에 의한 독일 통일까지, 오스트리아에게는 굴욕 후의 굴욕이 밀려왔습니다. 존경하는 카이저 프란츠 요제프는 이제 오스트리아의 오랜 적들 중 두 명과 함께 삼국 동맹의 가장 약한 일원으로 서 있습니다. 하지만 놀랍게도, 이것은 지금까지 오스트리아에게 잘 되어 왔습니다. \n\n합스부르크가 보스니아를 물려받았고, 헝가리 사람들은 마침내 평온해 보입니다. 아마도 더 좋은 일이 올 것입니다."
 
- RUS_POWDERKEG_DESC:0 "Recent years have not been kind to the Russian Empire. With a major military defeat at the hands of Japan, followed by a revolution that forced the once-invincible Tsar into a constitution, the Russian government must get back on its feet and prove its strength again, or risk revolution. \n\nLuckily, the Balkans are turbulent again. The crumbling Ottoman Empire is Russia's opportunity to expand, create new puppet states, and more importantly, prove it is still a world power."
+ RUS_POWDERKEG_DESC:0 "최근 몇 년은 러시아 제국에 다정하지 않았습니다. 일본에게 중대한 군사적 패배를 당한 데 이어 한때는 불가항력이었던 차르를 헌법으로 강제했던 혁명이 있었습니다, 러시아 정부는 다시 일어서서 그 힘을 다시 증명하거나, 아니면 혁명을 무릅써야 합니다. \n\n운 좋게도, 발칸반도가 다시 격동하고 있습니다. 붕괴되고 있는 오스만 제국은 러시아가 확장하고, 새로운 꼭두각시 국가를 만들 수 있는 기회이며, 더 중요한 것은, 러시아가 여전히 세계 강국임을 증명할 수 있는 기회입니다."
 
- TUR_POWDERKEG_DESC:0 "Storm clouds are gathering over Kostantiniyye. Serbia, Greece and Bulgaria have been scheming together again- likely a war to try and claim the territory they unrightfully claim is theirs. The Albanians are close to revolt. The Italian government is also very publicly contemplating a conquest of the Tripoli Vilayet. \n\nLoss of territory is nearly inevitable. Ottoman Diplomacy, therefore, should center around ensuring we keep the capital, if nothing else."
+ TUR_POWDERKEG_DESC:0 "콘스탄티니예 위로 폭풍구름이 몰려오고 있습니다. 세르비아, 그리스, 불가리아는 다시 한 번 공동의 계획을 짜고 있는데, 이는 정당하지 않은 영토를 자신들의 영토라고 주장하기 위한 전쟁일 가능성이 높습니다. 알바니아인들은 거의 반란을 일으킬 뻔 했습니다. 이탈리아 정부도 트리폴리 빌라예트 정복을 공개적으로 고려하고 있습니다. \n\n영토의 손실은 거의 불가피합니다. 그러므로 오스만 외교는 다른 것은 몰라도 우리가 수도를 지킬 수 있도록 하는 데 중점을 두어야 합니다."
 
- SER_POWDERKEG_DESC:0 "Serbia is seen by outsiders as a backwater, minor nation. Nothing more than a pawn in a great game that the world's empires are playing as each other. Of course, the empires of the world may learn sooner than they think that the Serbs are destined for greater things. \n\nCurrently, most Serbs live outside our borders, in Turkish or Austrian territory. If we are to make a deal with the devil- the Bulgarians- the Serbs may begin their road for glory by way of full Serbian unification."
+ SER_POWDERKEG_DESC:0 "세르비아는 외부인들에게 벽지의 작은 나라로 여겨지고 있습니다. 세계의 제국들이 서로 하고 있는 그레이트 게임의 장기말에 지나지 않습니다. 물론, 세계의 제국은 세르비아인들이 더 큰 일을 할 운명이라고 생각하는 것보다 더 빨리 배울지도 모릅니다. \n\n현재 대부분의 세르비아인들은 우리 국경 밖의 터키나 오스트리아 영토에서 살고 있습니다. 만약 우리가 불가리아와 악마와 거래를 한다면, 불가리아인들은 세르비아 통일을 통해 영광의 길을 걷기 시작할 것입니다."
 
- BUL_POWDERKEG_DESC:0 "Bulgaria has already made a name for itself through successful conflicts against the Serbs and outmaneuvering the Ottoman Empire to unify with Eastern Rumelia. Of course, now the state stands at a more uncomfortable position. The Turks seem unwilling to put up any more Bulgarian territory for grabs, and the Russians are slowly withdrawing their support. \n\nPerhaps it is not too late to mend fences with Serbia? After all, a Bulgaria with strong friends could be a surprising menace."
+ BUL_POWDERKEG_DESC:0 "불가리아는 세르비아인들에 대한 성공적인 분쟁과 동부 루멜리아와의 통일을 위해 오스만 제국을 능가함으로써 이미 유명해졌습니다. 물론, 이제 국가는 더 불편한 입장에 서 있습니다. 터키인들은 불가리아 영토를 더 이상 차지하게 두려고 하지 않는 것 같고, 러시아인들은 서서히 지지를 철회하고 있습니다. \n\n세르비아와의 관계를 개선하는 데 늦지 않았을 지도 모릅니다. 결국, 강한 우방을 가진 불가리아는 놀라운 위협이 될 수 있습니다."
 
- MEX_POWDERKEG_DESC:0 "The Mexico of 1910 is a strange case indeed. The Porfiriato has been a great boon to Mexico since 1876, but now that the heat has been turned up, it seems President Diaz's time may be limited. Of course, the Government sees this as biting the hand. \n\nFrancisco Madero is actively and obviously plotting against the Diaz government. If he finds himself ambitious enough, he may see Mexico in his own back pocket yet."
+ MEX_POWDERKEG_DESC:0 "1910년의 멕시코는 정말 이상한 경우입니다. 포르피리아토는 1876년부터 멕시코에 큰 호재로 작용했지만, 이제 열기가 오르면서 디아스 대통령의 시간이 제한될 수도 있을 것으로 보입니다. 물론, 정부는 이것을 자기 손을 물어뜯는 것으로 보고 있습니다. \n\n프란시스코 마데로는 적극적으로 그리고 명백히 디아스 정부를 상대로 음모를 꾸미고 있습니다. 만약 그가 자신의 야망을 충분히 느낀다면, 그는 아직 멕시코를 자신의 뒷주머니로 볼지도 모릅니다."
 
- JAP_POWDERKEG_DESC:0 "In just under 50 years, Japan has turned from a backwards despotate ruled by a Shogun to a proper modern Empire, just as powerful as any country Europe has to offer. Emperor Meiji is to thank for it, but sadly he is both old and diseased- and can't possibly live much longer. \n\nBefore Crown Prince Yoshihito takes the crown, there are a few more matters to settle, however. The elderly emperor must decide where Japan stands with Russia, and what to do with the Korean vassal."
+ JAP_POWDERKEG_DESC:0 "불과 50년 만에 일본은 쇼군이 통치했던 후진적인 독재국가에서 유럽이 제의할 만한 어떤 나라만큼 강력한 현대 제국으로 변모했습니다. 메이지 천황은 이에 대해 감사해야 하지만 안타깝게도 그는 늙고 병들어 더 이상 살 수 없습니다. \n\n그러나 요시히토 왕세자가 즉위하기 전에 해결해야 할 몇 가지 문제가 더 있습니다. 늙은 황제는 러시아와 함께 일본이 어디에 서 있는지, 그리고 속국 한국를 어떻게 할 것인지 결정해야 합니다."
 
- BEL_POWDERKEG_DESC:0 "Protected by the British, seen by the German as a backdoor leading to Paris avoiding the fortified French military's concentration along the Franco-German border, the Kingdom of Belgium is in a tricky situation.\n\nKing Albert I will have a difficult choice to make, either stand against the Kaiser Wilhelm II and stood side by side with Entente or either let the German troops walk in its territories and take a different course of action."
+ BEL_POWDERKEG_DESC:0 "프랑스-독일 국경을 따라 요새화된 프랑스군의 집중을 피해 파리로 향하는 뒷문으로 보이는 영국인들의 보호를 받는 벨기에 왕국은 까다로운 상황에 처해 있습니다. \n\n국왕 알베르 1세는 카이저 빌헬름 2세에 맞서 협상국과함께 하거나 독일군이 영토를 지나갈 수 있게 하고 다른 노선의 행동을 취하도록 하는 어려운 선택을 할 것입니다."
 
- HOL_POWDERKEG_DESC:0 "Since the Second Hague Conference in 1907, the Netherlands do everything to avoid a Political Alliance with another European Empire.\n\nAs the drums of war resound to the gates of Amsterdam and despite their strong policy of neutrality, the peaceful mill country could soon find itself back to the wall having to make a choice that could forever change the future of the Dutch Empire.\n\nNo one knows how the fiercely patriotic Queen Wilhelmina will react..."
+ HOL_POWDERKEG_DESC:0 "1907년 제2차 헤이그 회담 이후 네덜란드는 또 다른 유럽 제국과의 정치적 동맹을 피하기 위해 모든 노력을 다합니다. 전쟁의 북이 암스테르담의 문으로 울려 퍼지고 네덜란드의 강력한 중립 정책에도 불구하고, 평화로운 방앗간 나라는 네덜란드 제국의 미래를 영원히 바꿀 수 있는 선택을 해야 한다는 것을 곧 알게 될 것입니다. \n\n아무도 맹렬하게 애국적인 빌헬미나 여왕이 어떻게 반응할지 모릅니다..."
  
  QIN_POWDERKEG_DESC:0 ""
  
- OTHER_POWDERKEG_DESC:0 "Other countries of the period."
+ OTHER_POWDERKEG_DESC:0 "그 시기의 다른 나라들"
 
 
  #----------------------------------------------------------------------------------------------------------------------------------
  # 1914
 
  SCHLIEFFEN_NAME:0 "세계 대전"
- SCHLIEFFEN_DESC:0 "The drums of war are beating fervently. In the next year, a war is expected to break out between, at the very least, France and Russia vs. Germany and Austria-Hungary. If more powers end up getting involved, the conflict could be the largest war the world's ever seen. One thing is certain: For many countries, their very existence is on the line."
+ SCHLIEFFEN_DESC:0 "전쟁의 북소리가 뜨겁게 울리고 있습니다. 내년에는 적어도 프랑스와 러시아 대 독일과 오스트리아-헝가리 간에 전쟁이 일어날 것으로 예상됩니다. 만약 더 많은 강대국들이 개입하게 된다면, 그 분쟁은 세계에서 가장 큰 전쟁이 될 수 있습니다. 한 가지는 확실합니다. 많은 나라들이 존재 자체가 위태롭습니다."
 
  FRA_SCHLIEFFEN_DESC:0 "France's revanche is soon at hand. The return of the Tricolor to Alsace-Lorraine and the rightful French territory owned by the Germans in Africa, seems nearer than ever. Of course, the Germans are just as ready to strike, but France's time to prove a lesson learned is now. \n\nAfter all, surely all that will be needed is the French Élan that was missing from the last war, and the Germans will be sent packing. Of course, there's rumors a long war could be to our disadvantage, but rumors aren't always true, are they?"
 
@@ -76,4 +76,4 @@
  
  CHI_SCHLIEFFEN_DESC:0 ""
  
- OTHER_SCHLIEFFEN_DESC:0 "Other countries of the period."
+ OTHER_SCHLIEFFEN_DESC:0 "그 시기의 다른 나라들."

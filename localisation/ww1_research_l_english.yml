@@ -38,7 +38,7 @@
  TITLE_ELECTRICAL_SUBTITLE:0 "전가"
  TITLE_MECHANICAL_SUBTITLE:0 "기계"
  TITLE_CHEMICAL_SUBTITLE:0 "화학"
- electrical_engineering:0 "전기공학"
+ electrical_engineering:0 "전기 공학"
  mechanical_engineering:0 "연소 기관"
  chemical_research:0 "화학 연구"
  aircraft_engine:0 "항공기 엔진"

@@ -7,7 +7,7 @@
 MEX_ww1_army_effort:0 "Restore the Mexican Army"
 MEX_ww1_army_effort_desc:0 "The recent instability of the country has drastically effected our military for the worse. We need to re-establish a proper chain of command and doctrine if we are to have any hope of surviving any future internal conflicts- or god forbid, foreign invasions..."
 
-MEX_ww1_trenchwarfare:0 "Trench Warfare Focus"
+MEX_ww1_trenchwarfare:0 "참호전 중점"
 MEX_ww1_trenchwarfare_desc:0 "" #####
 
 MEX_ww1_artillery_effort_1:0 "Artillery Effort"
@@ -56,7 +56,7 @@ MEX_ww1_armor_effort_1_desc:0 "" #####
 MEX_ww1_armor_effort_2:0 "Armor Effort II"
 MEX_ww1_armor_effort_2_desc:0 "" #####
 
-MEX_ww1_gasmask_focus:0 "Chemical Warfare Focus"
+MEX_ww1_gasmask_focus:0 "화학전 중점"
 MEX_ww1_gasmask_focus_desc:0 "" #####
 #--------------------------------------------------------------
 
@@ -275,7 +275,7 @@ mex_political_commissars_desc:0 "The military, ironically, is a place where anti
 mex_ww1_unitedpeople:0 "Patriotic Fervor"
 mex_ww1_unitedpeople_desc:0 "A motivated populace can do great things! By inspiring our people to rally around our sacred banner, we can easily win their hearts and minds, and string them along for, well, anything we want to do, really, so long as we have a reasonable enough opposing force to look like the good guys."
 
-mex_ww1_massive_effort:0 "Massive Effort"
+mex_ww1_massive_effort:0 "대규모 주력"
 mex_ww1_massive_effort_desc:0 "Every man and woman must help our nation's efforts! With the spectre of the Great War floating over all, a great program has been undertaken to build up our industrial capacity to help us overcome our most hated rivals!"
 
 mex_ww1_fortify_city:0 "Civil Fortifications"

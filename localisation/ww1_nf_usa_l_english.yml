@@ -7,7 +7,7 @@
  USA_ww1_army_effort:0 "Reorganise United States Army"
 USA_ww1_army_effort_desc:0 "" #KAISER_ANONY
 
-USA_ww1_trenchwarfare:0 "Trench Warfare Focus"
+USA_ww1_trenchwarfare:0 "참호전 중점"
 USA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
 
 USA_ww1_artillery_effort_1:0 "Artillery Effort"
@@ -56,7 +56,7 @@ USA_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
 USA_ww1_armor_effort_2:0 "Armor Effort II"
 USA_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
 
-USA_ww1_gasmask_focus:0 "Chemical Warfare Focus"
+USA_ww1_gasmask_focus:0 "화학전 중점"
 USA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
 #--------------------------------------------------------------
  #--------------------------------------------------------------
@@ -276,7 +276,7 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  USA_ww1_unitedpeople:0 "Patriotic Fervor"
  USA_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
 
- USA_ww1_massive_effort:0 "Massive Effort"
+ USA_ww1_massive_effort:0 "대규모 주력"
  USA_ww1_massive_effort_desc:0 "" #KAISER_ANONY
 
  USA_ww1_fortify_city:0 "Civil Fortifications"

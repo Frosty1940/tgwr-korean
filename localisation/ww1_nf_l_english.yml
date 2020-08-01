@@ -7,7 +7,7 @@
  ww1_army_effort:0 "Military Modernization"
  ww1_army_effort_desc:0 "Many of our rifles, cannons, tools, and, unfortunately, military leaders are relics of a bygone era. With the Maxim Gun now not only fabricated, but on a large scale, we simply have no choice but to get with the times. The quicker we bring these new weapons into circulation, and bring in experts who know how to use them, the quicker our military can become a modern, effective fighting force."
 
- ww1_trenchwarfare:0 "Trench Warfare Focus"
+ ww1_trenchwarfare:0 "참호전 중점"
  ww1_trenchwarfare_desc:0 "Since Gatling and Maxim introduced their unholy weapons of warfare, our nation has been keenly interested in strategies based around the defense of Trench lines, which were first seen as far back as the American Civil War. We must seek experts in this theory in order to advance our knowledge in tomorrow's Land Doctrines."
 
  ww1_artillery_effort_1:0 "Artillery Effort"
@@ -55,7 +55,7 @@
  ww1_armor_effort_2:0 "Armor Effort II"
  ww1_armor_effort_2_desc:0 "Our experiments with armor have been a rousing success! However, we cannot be complacent with our current designs. Engineers have been proposing interesting concepts like rotating gun turrets, specific engine compartments, and a hatch for use by a commander, which cannot be ignored. If we are to be the first to make these ideas a reality, perhaps we could become unstoppable!"
 
- ww1_gasmask_focus:0 "Chemical Warfare Focus"
+ ww1_gasmask_focus:0 "화학전 중점"
  ww1_gasmask_focus_desc:0 "Some of our chemists have proposed the use of a new, incredibly deadly agent- poisonous gas, delivered by our artillery and trench mortars. Though chemical warfare has been frowned on for roughly a century, what choice do we have if we are to win the war? Beyond investing in these, it's also likely for the best to develop countermeasures quickly- it would be unfortunate for such an advancement to turn on us!" 
 
 
@@ -281,7 +281,7 @@
  ww1_unitedpeople:0 "Patriotic Fervor"
  ww1_unitedpeople_desc:0 "A motivated populace can do great things! By inspiring our people to rally around our sacred banner, we can easily win their hearts and minds, and string them along for, well, anything we want to do, really, so long as we have a reasonable enough opposing force to look like the good guys."
 
- ww1_massive_effort:0 "Massive Effort"
+ ww1_massive_effort:0 "대규모 주력"
  ww1_massive_effort_desc:0 "Every man and woman must help our nation's efforts! With the spectre of the Great War floating over all, a great program has been undertaken to build up our industrial capacity to help us overcome our most hated rivals!"
 
  ww1_fortify_city:0 "Civil Fortifications"

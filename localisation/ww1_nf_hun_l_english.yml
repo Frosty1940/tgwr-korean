@@ -6,7 +6,7 @@
 HUN_ww1_army_effort:0 "Hungarian Army"
 HUN_ww1_army_effort_desc:0 "Austria-Hungary's army is actually split into three jurisdictions: An Austrian force, a Hungarian force, and a joint unified force, all of which operate with their own officers and staff. Modernization of such a force is a tall order, but possible, and will inevitably lead to a more effective armed force." 
 
-HUN_ww1_trenchwarfare:0 "Trench Warfare Focus"
+HUN_ww1_trenchwarfare:0 "참호전 중점"
 HUN_ww1_trenchwarfare_desc:0 "Since Gatling and Maxim introduced their unholy weapons of warfare, our nation has been keenly interested in strategies based around the defense of Trench lines, which were first seen as far back as the American Civil War. We must seek experts in this theory- both field and armchair generals- in order to advance our knowledge in tomorrow's Land Doctrines."
 
 HUN_ww1_artillery_effort_1:0 "Artillery Effort"
@@ -55,7 +55,7 @@ HUN_ww1_armor_effort_1_desc:0 "Our prior investments have paid off! Artillery de
 HUN_ww1_armor_effort_2:0 "Panzer Effort II"
 HUN_ww1_armor_effort_2_desc:0 "Our experiments with armor have been a rousing success! However, we cannot be complacent with our current designs. Engineers have been proposing interesting concepts like rotating gun turrets, specific engine compartments, and a hatch for use by a commander, which cannot be ignored. If we are to be the first to make these ideas a reality, perhaps we could become unstoppable!"
 
-HUN_ww1_gasmask_focus:0 "Chemical Warfare Focus"
+HUN_ww1_gasmask_focus:0 "화학전 중점"
 HUN_ww1_gasmask_focus_desc:0 "Some of our chemists have proposed the use of a new, incredibly deadly agent- poisonous gas, delivered by our artillery and trench mortars. Though chemical warfare has been frowned on for roughly a century, what choice do we have if we are to win the war? Beyond investing in these, it's also likely for the best to develop countermeasures quickly- it would be unfortunate for such an advancement to turn on us!"
 #--------------------------------------------------------------
 
@@ -281,7 +281,7 @@ HUN_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
 HUN_ww1_unitedpeople:0 "National Effort"
 HUN_ww1_unitedpeople_desc:0 ""
 
-HUN_ww1_massive_effort:0 "Massive Effort"
+HUN_ww1_massive_effort:0 "대규모 주력"
 HUN_ww1_massive_effort_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_fortify_city:0 "Civil Fortifications"

@@ -7,7 +7,7 @@
 HOL_ww1_army_effort:0 "Restore the Dutch Army"
 HOL_ww1_army_effort_desc:0 ""
 
-HOL_ww1_trenchwarfare:0 "Trench Warfare Focus"
+HOL_ww1_trenchwarfare:0 "참호전 중점"
 HOL_ww1_trenchwarfare_desc:0 "" #####
 
 HOL_ww1_artillery_effort_1:0 "Artillery Effort"
@@ -56,7 +56,7 @@ HOL_ww1_armor_effort_1_desc:0 "" #####
 HOL_ww1_armor_effort_2:0 "Armor Effort II"
 HOL_ww1_armor_effort_2_desc:0 "" #####
 
-HOL_ww1_gasmask_focus:0 "Chemical Warfare Focus"
+HOL_ww1_gasmask_focus:0 "화학전 중점"
 HOL_ww1_gasmask_focus_desc:0 "" #####
 #--------------------------------------------------------------
 

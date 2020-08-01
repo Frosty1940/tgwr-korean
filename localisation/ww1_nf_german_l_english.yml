@@ -6,7 +6,7 @@
 GER_ww1_army_effort:0 "Deutsches Heer Focus"
 GER_ww1_army_effort_desc:0 "The German Army is a powerful force indeed. Numerically inferior only to the Russian army, but far more disciplined, trained, well led, and well equipped than the forces of the Bear, our land force is among the world's greatest- if not THE world's greatest. However, that does not mean we can stay comfortably in such a position. We must continue to improve our military, especially on theory and doctrine, to ensure we never fall behind."
 
-GER_ww1_trenchwarfare:0 "Trench Warfare Focus"
+GER_ww1_trenchwarfare:0 "참호전 중점"
 GER_ww1_trenchwarfare_desc:0 "Since Gatling and Maxim introduced their unholy weapons of warfare, our nation has been keenly interested in strategies based around the defense of Trench lines, which were first seen as far back as the American Civil War. We must seek experts in this theory- both field and armchair generals- in order to advance our knowledge in tomorrow's Land Doctrines."
 
 GER_ww1_artillery_effort_1:0 "Artillery Effort"
@@ -55,7 +55,7 @@ GER_ww1_armor_effort_1_desc:0 "Our prior investments have paid off! Artillery de
 GER_ww1_armor_effort_2:0 "Panzer Effort II"
 GER_ww1_armor_effort_2_desc:0 "Our experiments with armor have been a rousing success! However, we cannot be complacent with our current designs. Engineers have been proposing interesting concepts like rotating gun turrets, specific engine compartments, and a hatch for use by a commander, which cannot be ignored. If we are to be the first to make these ideas a reality, perhaps we could become unstoppable!"
 
-GER_ww1_gasmask_focus:0 "Chemical Warfare Focus"
+GER_ww1_gasmask_focus:0 "화학전 중점"
 GER_ww1_gasmask_focus_desc:0 "Some of our chemists have proposed the use of a new, incredibly deadly agent- poisonous gas, delivered by our artillery and trench mortars. Though chemical warfare has been frowned on for roughly a century, what choice do we have if we are to win the war? Beyond investing in these, it's also likely for the best to develop countermeasures quickly- it would be unfortunate for such an advancement to turn on us!"
 #--------------------------------------------------------------
 
@@ -278,7 +278,7 @@ GER_ww1_full_rearmament_desc:0 ""
 GER_ww1_unitedpeople:0 "Patriotic Fervor"
 GER_ww1_unitedpeople_desc:0 "" 
 
-GER_ww1_massive_effort:0 "Massive Effort"
+GER_ww1_massive_effort:0 "대규모 주력"
 GER_ww1_massive_effort_desc:0 "" 
 
 GER_ww1_fortify_city:0 "Civil Fortifications"

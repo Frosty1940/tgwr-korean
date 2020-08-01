@@ -7,7 +7,7 @@
  JAP_ww1_army_effort:0 "Reorganise Imperial Japanese Army"
 JAP_ww1_army_effort_desc:0 ""  
 
-JAP_ww1_trenchwarfare:0 "Trench Warfare Focus"
+JAP_ww1_trenchwarfare:0 "참호전 중점"
 JAP_ww1_trenchwarfare_desc:0 ""  
 
 JAP_ww1_artillery_effort_1:0 "Artillery Effort"
@@ -56,7 +56,7 @@ JAP_ww1_armor_effort_1_desc:0 ""
 JAP_ww1_armor_effort_2:0 "Armor Effort II"
 JAP_ww1_armor_effort_2_desc:0 ""  
 
-JAP_ww1_gasmask_focus:0 "Chemical Warfare Focus"
+JAP_ww1_gasmask_focus:0 "화학전 중점"
 JAP_ww1_gasmask_focus_desc:0 ""  
 #--------------------------------------------------------------
 
@@ -285,7 +285,7 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
  JAP_ww1_unitedpeople:0 "Patriotic Fervor"
  JAP_ww1_unitedpeople_desc:0 ""  
 
- JAP_ww1_massive_effort:0 "Massive Effort"
+ JAP_ww1_massive_effort:0 "대규모 주력"
  JAP_ww1_massive_effort_desc:0 ""  
 
  JAP_ww1_fortify_city:0 "Civil Fortifications"

@@ -7,7 +7,7 @@
  FRA_ww1_army_effort:0 "Armée de Terre Effort"
 FRA_ww1_army_effort_desc:0 "Germany's army is larger, and worse, more experienced than our own, which is still stocked mostly with veterans from the last war we had against them. If France is to pose a serious threat to German interests, we must reverse this scenario, modernize our army, and hopefully modernize our leadership!"
 
-FRA_ww1_trenchwarfare:0 "Trench Warfare Focus"
+FRA_ww1_trenchwarfare:0 "참호전 중점"
 FRA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
 
 FRA_ww1_artillery_effort_1:0 "Artillery Effort"
@@ -56,7 +56,7 @@ FRA_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
 FRA_ww1_armor_effort_2:0 "Armor Effort II"
 FRA_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_gasmask_focus:0 "Chemical Warfare Focus"
+FRA_ww1_gasmask_focus:0 "화학전 중점"
 FRA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
 #--------------------------------------------------------------
 
@@ -280,7 +280,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_unitedpeople:0 "Patriotic Fervor"
  FRA_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
 
- FRA_ww1_massive_effort:0 "Massive Effort"
+ FRA_ww1_massive_effort:0 "대규모 주력"
  FRA_ww1_massive_effort_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_fortify_city:0 "Civil Fortifications"

@@ -63,7 +63,7 @@ ENG_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
 
  # [BRITISH EMPIRE] Aviation Effort
  #=========================================================================
- ENG_ww1_aviation_effort:0 "왕립 비행대 창설"
+ ENG_ww1_aviation_effort:0 "왕립비행대 창설"
   ENG_ww1_aviation_effort_desc:0 "군용 항공기는 영국 밖에서 발명된 것 중 가장 영국적인 발명품 중 하나입니다. 보병 없이도 전력을 투사할 수 있는 이 장치들은 야전에서 우리의 전력을 증가시킬 것입니다. 이것들은 바다에서 사용할 가치가 있는 무기일 수도 있는데, 이 사실은 해군 수뇌부들을 흥분시켰습니다. 그들에게 투자하는 것은 명백한 조치입니다." 
 
  ENG_ww1_fighter_focus:0 "전투기 중점"
@@ -72,19 +72,19 @@ ENG_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  ENG_ww1_bomber_focus:0 "폭격기 중점"
  ENG_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
 
- ENG_ww1_airship_focus:0 "Blimp Focus"
+ ENG_ww1_airship_focus:0 "소형 비행선 중점"
  ENG_ww1_airship_focus_desc:0 "" #KAISER_ANONY
 
- ENG_ww1_aviation_effort_2:0 "비행대 주력"
+ ENG_ww1_aviation_effort_2:0 "항공 주력"
  ENG_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
 
- ENG_ww1_aviation_effort_3:0 "비행대 주력 II"
+ ENG_ww1_aviation_effort_3:0 "항공 주력 II"
  ENG_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
 
- ENG_ww1_aviation_effort_4:0 "비행대 주력 III"
+ ENG_ww1_aviation_effort_4:0 "항공 주력 III"
  ENG_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
 
- ENG_ww1_aviation_effort_5:0 "비행대 주력 IV"
+ ENG_ww1_aviation_effort_5:0 "항공 주력 IV"
  ENG_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
 
  ENG_ww1_pilotformation_1:0 "비행사 대형"
@@ -337,19 +337,19 @@ ENG_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  ENG_ww1_support_romania:0 "루마니아 친선"
  ENG_ww1_support_romania_desc:0 "Romania, despite its membership in the former Triple Alliance and obvious ties to the Central Powers, could quite easily be coerced into alliance, so long as we promise them a great victory against Austria. Hopefully, though, if war is to break out between the two powers, they will be able to defend themselves."
 
- ENG_ww1_nordic_countries:0 "Pressure Nordic Countries"
+ ENG_ww1_nordic_countries:0 "북유럽 국가 압박"
  ENG_ww1_nordic_countries_desc:0 "The Nordic countries are not stocked with fools. They are well aware what our fleet could do to their international trade and livelihood. All it would take is a simple pressure on our ''friends'' to make them realize that trading with the Germans is a foolhardy endeavor."
 
- ENG_ww1_military_training_act:0 "Defence of the Realm Act"
+ ENG_ww1_military_training_act:0 "영역방어법"
  ENG_ww1_military_training_act_desc:0 "Democracy is nice and all, but sometimes personal liberties have to be suspended for the greater good. By surpressing free speech, particularly criticism of the government, suspend the right to trial temporarily, and nationalize our resources for the war effort, we'll be in a much better position to carry out the war effort."
 
- ENG_ww1_conscription_focus:0 "National Military Service"
- ENG_ww1_conscription_focus_desc:0 "With a smaller land force than most of the other major powers, it's essential that we keep our reserves stocked. Establishing wide-reaching conscription will ensure that everyone outside of the necessary members of society- and a good part of them as well- will be put to good use in the trenches."
+ ENG_ww1_conscription_focus:0 "전국민 병역"
+ ENG_ww1_conscription_focus_desc:0 "대부분의 다른 강대국들보다 육군이 적으므로, 예비대를 준비해 두는 것이 필수적입니다. 광범위한 징병제를 확립하는 것은 사회에 필수적인 구성원들(그리고 그들 중 상당수 또한) 외의 모든 사람들이 참호에서 잘 사용될 수 있도록 보장할 것입니다."
 
- ENG_ww1_small_arms_focus:0 "BSA Company"
+ ENG_ww1_small_arms_focus:0 "BSA 회사"
  ENG_ww1_small_arms_focus_desc:0 "The Royal Ordnance Factories are not producing enough small arms for our war effort. Usually we would simply terminate their contract and find another producer, but in a war like this, we need all we can get. Contracting the Birmingham Small Arms Company, and helping expand their capacity, could fill the gap in production."
 
- ENG_ww1_crypto_bomb_focus:0 "Room 40"
+ ENG_ww1_crypto_bomb_focus:0 "40호실"
  ENG_ww1_crypto_bomb_focus_desc:0 "Admiral Oliver, Alfred Ewing, and a few other men have formed a group in Room 40, also known as 40 O.B. (Old Building) (latterly NID25), to codebreak German plans, intelligence reports, and broadcasts. Giving them expanded freedom, and integrating more than simply naval plans into the equation, could give us an edge in [CONFIDENTIAL]."
 
  ENG_ww1_agadir_crisis:0 "아가디르 위기"
@@ -432,10 +432,10 @@ ENG_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  # [FRANCE] Diplomatic Effort
  #=========================================================================
  ENG_ww1_algerie_france_desc:0 "유럽은 위험한 시기에 직면해 있습니다다. 우리는 남쪽으로의 영토를 개선하는 데 주력해야 하며, 항상 본토가 지탱할 수 있도록 해야 합니다."
- ENG_ww1_colonial_industry_desc:0 "We should focus our industry in Algier. Should tensions increase in Europe we will still have an industrial capacity outside the reach of enemy bombers."
- ENG_ww1_military_factories_desc:0 "Our warmachine is falling behind in capacity. We need to focus on production of military equipment at home soil to make sure that our borders are constantly given new equipment."
+ ENG_ww1_colonial_industry_desc:0 "우리는 알제리에 우리의 산업을 집중시켜야 합니다. 유럽에서 긴장이 증가하더라도 우리는 여전히 적 폭격기의 손이 닿지 않는 곳에 산업 능력을 갖게 될 것입니다."
+ ENG_ww1_military_factories_desc:0 "우리 전쟁 병기의 능력이 뒤처지고 있습니다. 우리 국경에 끊임없이 새로운 장비가 주어지는 것을 확실히 하기 위해 우리는 국토에서의 군사 장비 생산에 주력할 필요가 있습니다."
  ENG_ww1_colonial_military_factories:0 "식민지 군수공장"
- ENG_ww1_colonial_military_factories_desc:0 "Placing our military production outside Europe ensures that even if the enemy gains control of our airspace, we will maintain a constant flow of equipment to our frontline troops."
+ ENG_ww1_colonial_military_factories_desc:0 "우리의 군사 생산을 유럽 밖에 배치하면 적이 우리 영공을 장악하더라도 우리는 전방 부대로의 지속적인 장비 흐름을 유지할 수 있습니다."
  
  #--------------------------------------------------------------
 

@@ -71,19 +71,19 @@ TUR_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
 TUR_ww1_airship_focus:0 "비행선 중점"
 TUR_ww1_airship_focus_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_aviation_effort:0 "오스만 비행대 편대"
+TUR_ww1_aviation_effort:0 "오스만 항공대"
 TUR_ww1_aviation_effort_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_aviation_effort_2:0 "비행대 주력"
+TUR_ww1_aviation_effort_2:0 "항공 주력"
 TUR_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_aviation_effort_3:0 "비행대 주력 II"
+TUR_ww1_aviation_effort_3:0 "항공 주력 II"
 TUR_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_aviation_effort_4:0 "비행대 주력 III"
+TUR_ww1_aviation_effort_4:0 "항공 주력 III"
 TUR_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_aviation_effort_5:0 "비행대 주력 IV"
+TUR_ww1_aviation_effort_5:0 "항공 주력 IV"
 TUR_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
 
 TUR_ww1_pilotformation_1:0 "비행사 대형"
@@ -355,7 +355,7 @@ TUR_ww1_AntiBulgaria_desc:0 "" #KAISER_ANONY
 TUR_ww1_anti_ita:0 "반-Italian 정책"
 TUR_ww1_anti_ita_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_BalkanLeagueMenace:0 "발칸 동맹 위햅"
+TUR_ww1_BalkanLeagueMenace:0 "발칸 연맹 위협"
 TUR_ww1_BalkanLeagueMenace_desc:0 "" #KAISER_ANONY
 
 TUR_ww1_SecondBalkanWarOpportunity:0 "제2차 발칸 전쟁 기회"

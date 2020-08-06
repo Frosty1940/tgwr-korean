@@ -61,7 +61,7 @@
  BEL_ww1_doctrine_effort:0 "교리 주력"
  BEL_ww1_doctrine_effort_desc:0 "해야함"
  
- BEL_ww1_aviation_effort:0 "비행대 주력"
+ BEL_ww1_aviation_effort:0 "항공 주력"
  BEL_ww1_aviation_effort_desc:0 "해야함"
  
  BEL_ww1_submarine_effort:0 "잠수함 주력"
@@ -120,7 +120,7 @@
 
 
  #--------------------------------------------------------------
- # [Generic] 비행대 주력
+ # [Generic] Aviation Effort
 
  BEL_ww1_form_air_force:0 "공군 창설" #link me pls
  BEL_ww1_form_air_force_desc:0 "These new Aeroplanes are interesting toys, and perhaps hold some military value. Civilian pilots could easily be attracted to our military, experts could teach us how to use these newfangled contraptions, and if this project bears fruit, we may earn ourselves a decisive advantage over our opponents who fall behind in this field- particularly in the doctrines of these aircraft."
@@ -134,19 +134,19 @@
  BEL_ww1_airship_focus:0 "비행선 중점"
  BEL_ww1_airship_focus_desc:0 "The Balloon is our oldest aircraft, and experts are predicting that it may not have a long future on the battlefield. This is no excuse to ignore the designs of such craft, especially when they may still be an effective way to deliver large bomb payloads. By bringing out-of-work Zeppelin manufacturers under the state's wing, we could squeeze the most out of this design while we still can." 
 
- BEL_ww1_aviation_effort_1:0 "비행대 주력 I" #Link me pls
+ BEL_ww1_aviation_effort_1:0 "항공 주력 I" #Link me pls
  BEL_ww1_aviation_effort_1_desc: "Now that we have formally established an Air Force, we have made some interesting advances. Most notably, our aircraft designers have been proposing designs for specific roles, rather than simply arming generic models. Getting effective use out of these planes, designed with roles like attacking enemy aircraft or dropping bombs in mind, will require testing and research, but may prove beneficial."
 
- BEL_ww1_aviation_effort_2:0 "비행대 주력 II"
+ BEL_ww1_aviation_effort_2:0 "항공 주력 II"
  BEL_ww1_aviation_effort_2_desc:0 "Our efforts to create aircraft roles have resulted in a variety of vastly different aircraft, which do vastly different things. The Fighter class of aircraft in particular has attracted a great amount of youth to aircraft, some of whom are quite adept already, who have some interesting ideas for the future of our air force. Perhaps we should gather some of their ideas, for the good of our doctrines." 
 
- BEL_ww1_aviation_effort_3:0 "비행대 주력 III"
+ BEL_ww1_aviation_effort_3:0 "항공 주력 III"
  BEL_ww1_aviation_effort_3_desc:0 "The development of the Synchronised MG has changed the rules of the Aircraft game. Fighters are now far more effective, Zeppelins might be seeing their last flights, and we need innovative thinkers to help keep us on pace with this development. If we become the master of this weapon, which will perhaps change the air war as much as ground war, we will be well on our way to Air Superiority." 
 
- BEL_ww1_aviation_effort_4:0 "비행대 주력 IV"
+ BEL_ww1_aviation_effort_4:0 "항공 주력 IV"
  BEL_ww1_aviation_effort_4_desc:0 "Our Air Force, which was established only recently, has now integrated itself completely into our armed forces. This brings us the obvious benefit of a pool of aviation experts, as well as a new class of ''Ace'' pilots, who are even becoming minor celebrities. Hiring on these people certainly can't hurt us, and will lead to nice developments in our field." 
 
- BEL_ww1_aviation_effort_5:0 "비행대 주력 V"
+ BEL_ww1_aviation_effort_5:0 "항공 주력 V"
  BEL_ww1_aviation_effort_5_desc:0 "With the development of brand new types of aircraft, such as the Tactical and Strategic Bomber, we have yet more testing and theorycrafting to do on exactly the best way to get use out of this influx of new models. Some are already speculating that bombers may be a wonder weapon capable of deciding a war. What poppycock!"
 
  BEL_ww1_pilotformation_1:0 "조종사 대형 I"

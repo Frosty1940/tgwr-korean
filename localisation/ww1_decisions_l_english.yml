@@ -200,10 +200,10 @@
 
  GRE_sue_for_peace_TUR:0 "터키에 항복 조건 제시"
  
- BUL_leave_balkan_league_decision:0 "발칸 동맹 탈퇴"
+ BUL_leave_balkan_league_decision:0 "발칸 연맹 탈퇴"
  BUL_macedonian_crisis_decision:0 "마케도니아 점령"
- GRE_leave_balkan_league_decision:0 "발칸 동맹 탈퇴"
- MTN_leave_balkan_league_decision:0 "발칸 동맹 탈퇴"
+ GRE_leave_balkan_league_decision:0 "발칸 연맹 탈퇴"
+ MTN_leave_balkan_league_decision:0 "발칸 연맹 탈퇴"
  ROM_great_war_intervention:0 "대전쟁 참전"
  ROM_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
  
@@ -293,8 +293,8 @@
  TUR_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
  TUR_sue_for_peace_ITA:0 "이탈리아에게 항복 조건 제시"
  TUR_peace_ITA:0 "이탈리아와의 조약"
- TUR_sue_for_peace_SER:0 "발칸 동맹에게 항복 조건 제시"
- TUR_peace_SER:0 "발칸 동맹과의 조약"
+ TUR_sue_for_peace_SER:0 "발칸 연맹에게 항복 조건 제시"
+ TUR_peace_SER:0 "발칸 연맹과의 조약"
  TUR_sue_for_peace_GRE:0 "그리스에게 항복 조건 제시"
  TUR_sue_for_peace_GRE_desc:0 "그리스인들이 이스탄불에 입성했습니다! 터키 국민들은 계속 싸울 수 없습니다. 우리는 지난 몇 년간 너무 많은 것을 잃었습니다."
  TUR_investments_category:0 "터키 무역"

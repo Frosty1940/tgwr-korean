@@ -3,22 +3,22 @@
 #--------------------------------------------------------------
 # [FRANCE] Interwar
 #=========================================================================
-FRA_interwar_allied_occupation_rhineland:0 "Allied Occupation of the Rhineland"
-FRA_interwar_allied_occupation_rhineland_desc:0 "Courtesy of the Treaty of Versailles, France has full rights of not only occupation of the Rheinland, but also full economic power in the region, a great boon to the French economy. If we take advantage of our tenure here, we can ensure that Germany's loss is France's gain."
+FRA_interwar_allied_occupation_rhineland:0 "라인란트의 연합군 점령"
+FRA_interwar_allied_occupation_rhineland_desc:0 "베르사유 조약에 따라 프랑스는 라인란트 점령뿐만 아니라 이 지역의 경제력까지 완전하게 장악하고 있어 프랑스 경제에 큰 호재입니다. 여기서 우리의 거주권을 활용한다면 독일의 손실은 프랑스의 이득이라는 것을 확신할 수 있습니다."
 
-FRA_interwar_annees_folles:0 "Les Années Folles"
-FRA_interwar_annees_folles_desc:0 "The end of the war has brought upon us a great economic boom, unmatched by any prior. While some economists are warning that the good times may not last forever, they're just sticks in the mud and prudes. France and the French people will live it up while the times are good!"
+FRA_interwar_annees_folles:0 "미친 해"
+FRA_interwar_annees_folles_desc:0 "전쟁의 종식은 우리에게 어떤 이전과는 비교할 수 없는 엄청난 경제 호황을 가져왔습니다. 일부 경제학자들은 좋은 시기가 영원히 지속되지 않을 수도 있다고 경고하고 있지만, 그것들은 단지 진퇴양난에 빠져 신중할 뿐입니다. 프랑스와 프랑스 사람들은 시대가 좋은 동안 잘 살 것입니다!"
 
-FRA_interwar_occupation_ruhr:0 "Occupation of the Ruhr"
-FRA_interwar_occupation_ruhr_desc:0 "The Germans are unable to pay their completely unreasonable debt to us, perhaps unsurprisingly, which is yet more opportunity for France. The Ruhr region is rich in resources and manufacturing, and we can simply expand our occupation of the Rheinland into the region as compensation for the missed payments."
+FRA_interwar_occupation_ruhr:0 "루르의 점령"
+FRA_interwar_occupation_ruhr_desc:0 "독일인들은 전혀 터무니없는 빚을 우리에게 갚을 수 없고, 어쩌면 놀랍지도 않을지도 모르며, 이것은 프랑스에게는 아직 더 많은 기회입니다. 루르 지역은 자원과 제조업이 풍부하며, 우리는 단순히 지불되지 않은 납입에 대한 보상으로 라인란트의 점령을 그 지역으로 확대할 수 있습니다."
 
-FRA_interwar_great_depression:0 "Deflationist Program"
-FRA_interwar_great_depression_desc:0 "The French government and populace has come to a rare consensus on the subject of the depression. It is a necessary evil, to rid the world of excess flowing cash and companies in over their head saved by speculation and governments. Let them burn, then, as France will simply steer herself for the imminent recovery! Deflation of the Franc will keep us competitive in these times."
+FRA_interwar_great_depression:0 "통화 수축론자 계획"
+FRA_interwar_great_depression_desc:0 "프랑스 정부와 대중은 불경기의 주제에 대해 드물게 의견 일치를 보았습니다. 투기와 정부에 의해 구제된 과잉 유동 현금과 기업들을 그들의 머리 위로 밀어내는 것은 필요한 악입니다. 그러면 프랑스는 곧 회복될 것이기 때문에 불타게 놔둡시다! 프랑화의 디플레이션은 이 시대에 우리를 경쟁력 있게 할 것입니다."
 
-FRA_interwar_treaty_of_lausanne:0 "Treaty of Lausanne"
+FRA_interwar_treaty_of_lausanne:0 "로잔 조약"
 FRA_interwar_treaty_of_lausanne_desc:0 ""
 
-FRA_interwar_invade_constantinople:0 "Invade Constantinople"
+FRA_interwar_invade_constantinople:0 "콘스탄티노폴리스 침공"
 FRA_interwar_invade_constantinople_desc:0 ""
 
 ############################################################################################

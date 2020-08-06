@@ -248,7 +248,7 @@ HUN_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
 HUN_ww1_political_correctness:0 "Political Correctness"
 HUN_ww1_political_correctness_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_military_youth:0 "Military Youth"
+HUN_ww1_military_youth:0 "유소년 군사조직"
 HUN_ww1_military_youth_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_student_movement_focus:0 "Student Movement"
@@ -260,7 +260,7 @@ HUN_ww1_monarchy_desc:0 "" #KAISER_ANONY
 HUN_ww1_democracy:0 "Democratism Focus"
 HUN_ww1_democracy_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_centralizedpower:0 "Bureaucracy"
+HUN_ww1_centralizedpower:0 "관료주의"
 HUN_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_freespeech:0 "Free Speech"
@@ -284,10 +284,10 @@ HUN_ww1_unitedpeople_desc:0 ""
 HUN_ww1_massive_effort:0 "대규모 주력"
 HUN_ww1_massive_effort_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_fortify_city:0 "Civil Fortifications"
+HUN_ww1_fortify_city:0 "민간 요새"
 HUN_ww1_fortify_city_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_fortify_coast:0 "Coastal Defense"
+HUN_ww1_fortify_coast:0 "해안 방어"
 HUN_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_leave_central_power:0 "Leave Central Powers"
@@ -296,7 +296,7 @@ HUN_ww1_leave_central_power_desc:0 "The Germans were once our best bet for survi
 HUN_ww1_install_communism:0 "Proletarian Revolution"
 HUN_ww1_install_communism_desc:0 "The people have had enough of the Austrian elitists who are controlling and oppressing the people in the farms and factories. From now on, the citizens of the Danube will stand together in the face of aristocratic oppression!"
 
-HUN_ww1_install_democracy:0 "Free Elections"
+HUN_ww1_install_democracy:0 "자유 선거"
 HUN_ww1_install_democracy_desc:0 "For the first time, the men of the Danube will have a say in their government. With the old Monarchy now a thing of the past, a federal republic can be proclaimed, which can listen and attend to every part of the nation state. No longer shall we be Austrian, or Hungarian, or anything more or less than citizens."
 
 HUN_ww1_end_dual_monarchy_emperor:0 "End Dual Monarchy"
@@ -324,7 +324,7 @@ HUN_ww1_make_concessions_desc:0 "The Aristocrats are growing increasingly concer
 # [HUNGARY]  Diplomatic Effort
 #=========================================================================
 
-HUN_ww1_diplomatic_effort:0 "Diplomatic Effort"
+HUN_ww1_diplomatic_effort:0 "외교 주력"
 HUN_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_supportaustria:0 "Support The Empire"

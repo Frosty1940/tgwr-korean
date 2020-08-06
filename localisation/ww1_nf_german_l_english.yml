@@ -248,7 +248,7 @@ GER_ww1_paramilitarism_desc:0 ""
 GER_ww1_political_correctness:0 "Political Correctness"
 GER_ww1_political_correctness_desc:0 "" 
 
-GER_ww1_military_youth:0 "Military Youth"
+GER_ww1_military_youth:0 "유소년 군사조직"
 GER_ww1_military_youth_desc:0 "" 
 
 GER_ww1_student_movement_focus:0 "Student Movement"
@@ -260,7 +260,7 @@ GER_ww1_monarchy_desc:0 ""
 GER_ww1_democracy:0 "Democratism Focus"
 GER_ww1_democracy_desc:0 "" 
 
-GER_ww1_centralizedpower:0 "Bureaucracy"
+GER_ww1_centralizedpower:0 "관료주의"
 GER_ww1_centralizedpower_desc:0 "" 
 
 GER_ww1_freespeech:0 "Free Speech"
@@ -275,16 +275,16 @@ GER_ww1_limited_rearmament_desc:0 ""
 GER_ww1_full_rearmament:0 "Full Rearmament"
 GER_ww1_full_rearmament_desc:0 "" 
 
-GER_ww1_unitedpeople:0 "Patriotic Fervor"
+GER_ww1_unitedpeople:0 "애국적 열정"
 GER_ww1_unitedpeople_desc:0 "" 
 
 GER_ww1_massive_effort:0 "대규모 주력"
 GER_ww1_massive_effort_desc:0 "" 
 
-GER_ww1_fortify_city:0 "Civil Fortifications"
+GER_ww1_fortify_city:0 "민간 요새"
 GER_ww1_fortify_city_desc:0 "" 
 
-GER_ww1_fortify_coast:0 "Coastal Defense"
+GER_ww1_fortify_coast:0 "해안 방어"
 GER_ww1_fortify_coast_desc:0 "" 
 
 GER_ww1_leave_central_power:0 "Leave Central Powers"
@@ -293,7 +293,7 @@ GER_ww1_leave_central_power_desc:0 "The Central Powers was the alliance of the o
 GER_ww1_install_communism:0 "Proletarian Revolution"
 GER_ww1_install_communism_desc:0 "A fire that sparked in the south has begun to spread all over Germany. Workers are rising against their bosses, and the locals against the local aristocracy in charge. Germany shall become a communist republic, and bring terror to the burgoise of Europe!" 
 
-GER_ww1_install_democracy:0 "Free Elections"
+GER_ww1_install_democracy:0 "자유 선거"
 GER_ww1_install_democracy_desc:0 "The old Emperor and monarchy simply must go. For Germany to remain stable and peaceful, she must adopt a democracy patterned after that of her contemporaries. The ghost of 1848 will live once again!"
 
 GER_ww1_fascist_coup:0 "Fascist Coup"
@@ -311,7 +311,7 @@ GER_ww1_france_friend_desc:0 "France has been a rival to Germany since the end o
 # [GERMAN EMPIRE] Diplomatic Effort
 #=========================================================================
 
-GER_ww1_diplomatic_effort:0 "Diplomatic Effort"
+GER_ww1_diplomatic_effort:0 "외교 주력"
 GER_ww1_diplomatic_effort_desc:0 "" 
 
 GER_ww1_free_BAV:0 "Bavarian Nationalism"
@@ -359,7 +359,7 @@ GER_ww1_joinfrance_desc:0 ""
 GER_ww1_war_effort:0 "War Effort"
 GER_ww1_war_effort_desc:0 "" 
 
-GER_ww1_diplomatic_effort:0 "Diplomatic Effort"
+GER_ww1_diplomatic_effort:0 "외교 주력"
 GER_ww1_diplomatic_effort_desc:0 "" 
 
 GER_ww1_triple_alliance:0 "Renew Triple Alliance"

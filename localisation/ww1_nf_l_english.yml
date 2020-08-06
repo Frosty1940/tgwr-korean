@@ -225,118 +225,118 @@
  ww1_political_effort_desc:0 "The time for reform is now. While the nation has been fine under the guidance of the system of old for years, these turbulent times require a government that is in position to respond to them. Whether we choose to change our ways as a nation, or bolster our existing government to stand up to new external threats, political change can do nothing but benefit our nation and people's future."
 
 
- ww1_sovereignist_ethos:0 "Centralization"
+ ww1_sovereignist_ethos:0 "중앙집권화"
  ww1_sovereignist_ethos_desc:0 "The authority of the state has been too split for too long. By reducing the powers of our substates compared to our central government, we will overcome regionalism and factionalism to make a stronger nation, which will inevitably open the door to enact further measures."
 
- ww1_monarchy:0 "Authoritarianism Focus"
+ ww1_monarchy:0 "권위주의 중점"
  ww1_monarchy_desc:0 "The powers exercised by the parliament and people can be dangerous. The only true way to keep control of our nation, particularly in such trying times, would be to adopt a generally authoritarian position, and rule over our country as it's meant to be ruled."
 
- ww1_democracy:0 "Democratic Focus"
+ ww1_democracy:0 "민주주의 중점"
  ww1_democracy_desc:0 "It is said that any ruler, at their core, derives their power from the people. If we make a move towards a more democratic society, even if we don't become one ourselves, we can at the very least fall into a much nicer position to trade with the various democratic nations around the world." 
 
- ww1_centralizedpower:0 "Labor Program"
+ ww1_centralizedpower:0 "노동 계획"
  ww1_centralizedpower_desc:0 "In a time of war, or those immediately before or after, everyone has a job to do for their nation. If we put drifters, the homeless, and all of the other moochers who can't get a job to work on building for us, we can establish new manufacturies for nearly no cost, and the factory can even hire from the same labor pool if need be."
 
  ww1_freespeech:0 "자유 연설"
  ww1_freespeech_desc:0 "By giving the people the right to free speech and demonstration, we ensure that, at the very least, people can get their anger and stances out in a more creative way. Anybody who shouts ''FIRE!'' in a crowded movie theater, or uses any explitive to describe the Head of State's mother, is still going to prison." 
 
- ww1_reorganization_act:0 "Reorganization Act"
+ ww1_reorganization_act:0 "재편성법"
  ww1_reorganization_act_desc:0 "Much of our territory has been under the possession of various groups and individuals since civilization came to our humble nation. Over hundreds of years, however, much of this territory has been inefficiently laid out or used. By reorganizing the land and owners of our nation, particularly those that have been dormant, we can squeeze some of the newly displaced people into our factories."
 
- ww1_limited_rearmament:0 "Limited Rationing"
+ ww1_limited_rearmament:0 "제한된 배급제도"
  ww1_limited_rearmament_desc:0 "With food shortages seemingly a fact of life in the near future, it's important that no one hogs more than their fair share of goods. Of course, with limited rationing, civilians will still be able to enjoy themselves- possibly at the expense of our military members, however."
 
- ww1_full_rearmament:0 "Harsh Rationing"
+ ww1_full_rearmament:0 "혹독한 배급제도"
  ww1_full_rearmament_desc:0 "With our brave heroes actively defending the nation, they should have top priority for food and materials! Of course, the civilian population may resort to literally counting their beans and we might have a more restless population on our hands because of it, but if nothing else, our boys in uniform won't go hungry anytime soon." 
 
 
 
- ww1_collectivist_ethos:0 "Anti-Establishment Politics" #link me pls
+ ww1_collectivist_ethos:0 "반체제 정치" #link me pls
  ww1_collectivist_ethos_desc:0 "The old state is doomed to fall, taking our country with it unless we are to take extreme measures. By adopting a harsher stance, and moving our country towards a more extreme government form, we'll be able to protect ourselves and our national interests effectively in today's world."
 
- ww1_nationalism_focus:0 "Nationalism Focus"
+ ww1_nationalism_focus:0 "국민주의 중점"
  ww1_nationalism_focus_desc:0 "National pride for our great home country is swelling thanks to recent events. Some of our country's political experts have even come up with a new form of government, known as Fascism, which may take root in our nation. Perhaps this government form could lead our esteemed empire to further glory!"
 
- ww1_militarism:0 "Militarism"
+ ww1_militarism:0 "군국주의"
  ww1_militarism_desc:0 "Our growing military is becoming more and more a part of our nation's daily life. Luckily, popular support is favoring our troops currently, seeing them as the heroes fighting for our banner that they are. This military culture we are establishing is only furthering the cause of our armed forces."
 
- ww1_military_youth:0 "Military Youth"
+ ww1_military_youth:0 "유소년 군사조직"
  ww1_military_youth_desc:0 "Our militaristic culture must even be present with the children! By drilling respect for the military, and even offering training to the younger generations, we can ensure that they grow up to enlist to serve our glorious regime. Some might call this exploitation, but it sounds better when you say you're giving teenagers a bright future."
 
- ww1_paramilitarism:0 "Paramilitarism"
+ ww1_paramilitarism:0 "준군사주의"
  ww1_paramilitarism_desc:0 "Some nations are foolish enough to condemn armed civilian groups, for fear of rebellion. However, if we are careful to restrict these ad-hoc militias to loyalists to the regime, we can create yet another group of angry men with guns who support our nation, which could do us well in case of war."
 
- ww1_internationalism_focus:0 "Internationalism Focus"
+ ww1_internationalism_focus:0 "국제주의 중점"
  ww1_internationalism_focus_desc:0 "The Communist Revolution cannot be stopped. It is better that our people embrace it and embrace it now, than have a civil war for it later. Once we openly begin our support for the Internationalist Communist Movement, we shall become as red as the blood of man."
 
- ww1_political_correctness:0 "Political Correctness"
+ ww1_political_correctness:0 "정치적 올바름"
  ww1_political_correctness_desc:0 "Anyone who speaks out against our movement is clearly doing it as a hate crime towards the people we support with it. Therefore, anyone who speaks out the regime is to be closely watched, and, perhaps, unpersoned."
 
- ww1_indoctrination:0 "Indoctrination"
+ ww1_indoctrination:0 "세뇌"
  ww1_indoctrination_desc:0 "After many years of debate on how to get rowdy anti-communist citizens to finally support our wonderful new regime, some of the men on the Worker's Council suggested the establishment of a new ''Ministry of Love'', which, officially, humanely persuades people to understand why they should support our government. We don't talk about what happens unofficially in there."
 
- ww1_political_commissars:0 "Political Commissars"
+ ww1_political_commissars:0 "정치지도원"
  ww1_political_commissars_desc:0 "The military, ironically, is a place where anti-communist support thrives. By ensuring that our loving government has eyes everywhere, we can root out the dissent from these groups before it can rise."
 
- ww1_unitedpeople:0 "Patriotic Fervor"
+ ww1_unitedpeople:0 "애국적 열정"
  ww1_unitedpeople_desc:0 "A motivated populace can do great things! By inspiring our people to rally around our sacred banner, we can easily win their hearts and minds, and string them along for, well, anything we want to do, really, so long as we have a reasonable enough opposing force to look like the good guys."
 
  ww1_massive_effort:0 "대규모 주력"
  ww1_massive_effort_desc:0 "Every man and woman must help our nation's efforts! With the spectre of the Great War floating over all, a great program has been undertaken to build up our industrial capacity to help us overcome our most hated rivals!"
 
- ww1_fortify_city:0 "Civil Fortifications"
+ ww1_fortify_city:0 "민간 요새"
  ww1_fortify_city_desc:0 "When the fight comes to our borders, it's best to be prepared. By hiring construction workers to build up fortresses and bunkers on some of our outer provinces, we can safely hold off any enemy who dares attack us!"
 
- ww1_fortify_coast:0 "Coastal Defense"
+ ww1_fortify_coast:0 "해안 방어"
  ww1_fortify_coast_desc:0 "A coastline is not an easy thing to defend. With ships able to land troops nearly anywhere coastal in our nation, Coastal Forts, which can help against marine invasions, are no difficult building to construct, and will help throw our enemies back into the ocean from whence they came."
 
 
  #--------------------------------------------------------------
  # [Generic] Diplomatic Effort
 
- ww1_diplomatic_effort:0 "Diplomatic Effort"
+ ww1_diplomatic_effort:0 "외교 주력"
  ww1_diplomatic_effort_desc:0 "It is becoming increasingly difficult to stay in the middle of the affairs in the world as it stands. Our diplomatic corps is already asking if we're to be involved in the coming power struggle, or if we are to stay out of things entirely. While we can't answer that question quite yet, we can easily expand our corps to be able to choose one of these options."
 
  ww1_takeposition:0 "Take Position"
  ww1_takeposition_desc:0 "Our place in the world is tenuous at best. After all, with the great empires at each others' throats, what's to stop one from turning on us once they're through? We must bet on the winning horse, and quickly, to ensure ourselves a place at the council of victors instead of as a footnote in a history book."
 
- ww1_supportgermany:0 "Support Germany"
+ ww1_supportgermany:0 "독일 지원"
  ww1_supportgermany_desc:0 "With the German Empire's massive industrial sector, they seem to be the clear-cut bet, even if they are diplomatically isolated. Showing public support to the Germans on even a few, non-key matters will send a message that we're moving closer to the Central Powers."
 
- ww1_supportfrance:0 "Support France"
+ ww1_supportfrance:0 "프랑스 지원"
  ww1_supportfrance_desc:0 "Though France's industry can't compete with Germany's, they have far more friends, and we'd even be one more. By supporting France on in a few of the upcoming diplomatic issues, we may just win them over."
 
- ww1_supportaustria:0 "Support Austria-Hungary"
+ ww1_supportaustria:0 "오스트리아-헝가리 지원 "
  ww1_supportaustria_desc:0 "The old empire of Austria-Hungary has lived to see the rise of most of the major nations on the world map. So, surely, if we want to become seen as a more major nation, what better country to support? This will also help us draw closer to the Central Powers." 
 
- ww1_supportrussia:0 "Support Russia"
+ ww1_supportrussia:0 "러시아 지원"
  ww1_supportrussia_desc:0 "The Russian Empire is in pretty dire need of international help. For the nation whose former leader coined the term ''Sick Man of Russia'', they cannot be particularly healthy themselves. Our support will, if nothing else, help them hang on long enough to do something decisive."
 
- ww1_military_reserve:0 "Military Reserve"
+ ww1_military_reserve:0 "예비군"
  ww1_military_reserve_desc:0 "War could easily come to our borders at a moment's notice, and therefore, we have to be prepared for the worst. A Military Reserve of loosely trained conscripts will be of little true value in the case of a war, but these impressionable young men getting a taste of the army life may very easily convince them to join the real thing."
 
- ww1_embargo_germany:0 "Sanction Germany"
+ ww1_embargo_germany:0 "독일 제재"
  ww1_embargo_germany_desc:0 "Germany's illegal Submarine attacks are an insult to free trade! Though a sanction will draw us slightly further from neutrality, it will make us far harder to exploit by the merchants of the German Empire."
 
- ww1_embargo_france:0 "Sanction France"
+ ww1_embargo_france:0 "프랑스 제재"
  ww1_embargo_france_desc:0 "France's diplomatic scheming and backstabbing are unforgivable! Though a sanction will make us appear and act far less neutral in the war situation, it's unlikely to spiral into anything bad, and more importantly, will ensure France cannot take advantage of us!" 
 
- ww1_sellweapons:0 "Sell Weapons"
+ ww1_sellweapons:0 "무기 판매"
  ww1_sellweapons_desc:0 "Though the tension of the world is the highest it's ever been, even this stormcloud has a silver lining. As we have no interest in joining the fight, we can easily hawk our weapons and weapon designs- even to both sides of a conflict, if we want- and make a killing off of the misfortunes of others. Their fault for starting the war."
 
- ww1_appeasement:0 "Appeasement"
+ ww1_appeasement:0 "유화 정책"
  ww1_appeasement_desc:0 "Sometimes, flattery is the best way to save your own skin. Appeasing the larger powers is no prestigous action to have in your playbook, but if used at the right time, simply giving another nation what it wants can be a far lot safer than seeing what happens if you don't...so long as you remember to draw the line somewhere."
 
- ww1_aggressive_foreign_policy:0 "Aggressive Foreign Policy"
+ ww1_aggressive_foreign_policy:0 "공격적인 외교 정책"
  ww1_aggressive_foreign_policy_desc:0 "Actually, you know what? On second thought, Neutrality is boring. To hell with it. We're ready to get involved in this war, and we're gonna come out swinging!"
 
- ww1_joingermany:0 "Join Central Powers"
+ ww1_joingermany:0 "동맹국 가입"
  ww1_joingermany_desc:0 "The Central Powers have long been a friend to our nation, and desperately need help in these most uncertain times. Joining them is a one-way ticket into the war on their side, and we better be in it to win it if we are, but we could turn the tides to a decisive victory on their part."
 
- ww1_joinfrance:0 "Join Entente"
+ ww1_joinfrance:0 "협상국 가입"
  ww1_joinfrance_desc:0 "The Entente currently seem to be in the better position to win the war, and we wouldn't want to be caught missing the peace conference once they do. Joining the Entente will definitely pull us into war, which could wind up disastrously, but at least we'll have allies to help, right?" 
 
- ww1_war_effort:0 "War Effort"
+ ww1_war_effort:0 "전쟁 주력"
  ww1_war_effort_desc:0 "With the world in its current state, we can't afford to let other nations pass over our military. By expanding our industrial base, we can ensure we'll have enough guns and shells to come out on top."
 
  #--------------------------------------------------------------

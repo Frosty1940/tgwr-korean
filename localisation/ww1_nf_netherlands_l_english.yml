@@ -305,7 +305,7 @@ HOL_WW1_Colony_Research_desc:0 ""
 
  # [Holland] Diplomatic Effort
  #=========================================================================
-HOL_ww1_diplomatic_effort:0 "Diplomatic Effort"
+HOL_ww1_diplomatic_effort:0 "외교 주력"
 HOL_ww1_diplomatic_effort_desc:0 "It is becoming increasingly difficult to stay in the middle of the affairs in the world as it stands. Our diplomatic corps is already asking if we're to be involved in the coming power struggle, or if we are to stay out of things entirely. While we can't answer that question quite yet, we can easily expand our corps to be able to choose one of these options."
 
 HOL_ww1_supportgermany:0 "Support Germany"

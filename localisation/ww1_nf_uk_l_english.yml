@@ -248,7 +248,7 @@ ENG_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  ENG_ww1_democracy:0 "민주주의 중점"
  ENG_ww1_democracy_desc:0 "" #KAISER_ANONY
 
- ENG_ww1_centralizedpower:0 "관료제"
+ ENG_ww1_centralizedpower:0 "관료주의"
  ENG_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
 
  ENG_ww1_freespeech:0 "자유 연설"

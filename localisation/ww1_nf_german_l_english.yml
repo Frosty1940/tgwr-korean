@@ -3,50 +3,50 @@
 #--------------------------------------------------------------
 # [GERMAN EMPIRE] Army Effort
 #=========================================================================
-GER_ww1_army_effort:0 "Deutsches Heer Focus"
+GER_ww1_army_effort:0 "독일 육군 중점"
 GER_ww1_army_effort_desc:0 "The German Army is a powerful force indeed. Numerically inferior only to the Russian army, but far more disciplined, trained, well led, and well equipped than the forces of the Bear, our land force is among the world's greatest- if not THE world's greatest. However, that does not mean we can stay comfortably in such a position. We must continue to improve our military, especially on theory and doctrine, to ensure we never fall behind."
 
 GER_ww1_trenchwarfare:0 "참호전 중점"
 GER_ww1_trenchwarfare_desc:0 "Since Gatling and Maxim introduced their unholy weapons of warfare, our nation has been keenly interested in strategies based around the defense of Trench lines, which were first seen as far back as the American Civil War. We must seek experts in this theory- both field and armchair generals- in order to advance our knowledge in tomorrow's Land Doctrines."
 
-GER_ww1_artillery_effort_1:0 "Artillery Effort"
+GER_ww1_artillery_effort_1:0 "포병 주력"
 GER_ww1_artillery_effort_1_desc:0 "One step to expand our young military modernization program is further development of our Artillery batteries. Seeking out designers for new weapons is a logical first step, and once our project is completed, we expect to reap the benefits of an easily-designed new Artillery piece."
 
-GER_ww1_artillery_effort_2:0 "Artillery Effort II"
+GER_ww1_artillery_effort_2:0 "포병 주력 II"
 
 GER_ww1_artillery_effort_2_desc:0 "Now that we have gathered some accomplished Artillery designers, it seems logical to support their endeavors with their own factories. By assigning these men as full-time designers and engineers, and putting workers under them, we can easily make advancements in the field of Artillery." 
 
-GER_ww1_artillery_effort_3:0 "Artillery Effort III"
+GER_ww1_artillery_effort_3:0 "포병 주력 III"
 GER_ww1_artillery_effort_3_desc:0 "Field tests are proving a major issue with our artillery pieces: The wide variety of calibers we're using for various ranges and models of Artillery is proving a costly endeavor, and reducing the effectiveness of our cannons on the field. By enforcing a few standard sizes for our guns, we can produce new models of Artillery that give us, quite literally, more bang for our buck." 
 
-GER_ww1_artillery_effort_4:0 "Artillery Effort IV"
+GER_ww1_artillery_effort_4:0 "포병 주력 IV"
 GER_ww1_artillery_effort_4_desc:0 "Though the direct-fire Field Gun was thought to be on its way out from the battlefield, our quartermasters are actually beginning to request more and more of these light pieces, instead of just demanding more of the Howitzers and Siege Guns. Focusing our efforts on new direct-fire guns, and perhaps more rounds to compensate, will not only inevitably lead to superior models, but perhaps lead to some unexpected advantages elsewhere as well..." 
 
-GER_ww1_special_forces:0 "Special Forces Focus"
+GER_ww1_special_forces:0 "특수부대 중점"
 GER_ww1_special_forces_desc:0 "For all of its horror, Chemical Warfare has, by sheer accident, introduced us to a class of incredibly disciplined troops with lightning reaction times, superior to the other groups in our army. These men seem quite useful to act as Marines, Mountain troops, and other hardy classes of Infantry which are above the caliber of the standard Rifleman. Seeking out these men and good officers for them could lead to some much more effective Special Forces. If only there were a way for them to get to the battle faster, like the Cavalry of the old days..." 
 
-GER_ww1_army_motorization_focus:0 "Motorization Focus"
+GER_ww1_army_motorization_focus:0 "차량화 중점"
 GER_ww1_army_motorization_focus_desc:0 "Some of our geniuses in the General Staff- or perhaps just men fed up with the stalemates of Trench Wafare- have proposed mass-producing vehicles specifically for troop transportation, which would allow our men to get to and from battlefields faster- and, perhaps, around it as well. Of course, even this simple act requires specific equipment and training, which means an investment- though one that could easily pay off." 
 
-GER_ww1_doctrine_effort:0 "Doctrine Effort"
+GER_ww1_doctrine_effort:0 "교리 주력"
 GER_ww1_doctrine_effort_desc:0 "Though the era of the General Staff consisting of the princes of the realm has long ended, several of our Generals and other high-ranking officers were chosen for our armies not because of skill, but for connections or family ties. Though this keeps them loyal, other nations are beginning to become more serious and competitive with their own top brass. We must begin appointments for merit- though still, hopefully, not let too much of the common riff-raff into the esteemed General Staff..." 
 
-GER_ww1_doctrine_effort_2:0 "Doctrine Effort II"
+GER_ww1_doctrine_effort_2:0 "교리 주력 II"
 GER_ww1_doctrine_effort_2_desc:0 "Though our General Staff has now been made thoroughly merit-based, perhaps they aren't the only ones who can assist in our military doctrines. A class of men who have been mostly dormant since the early 1800s- straight military theorists- are beginning to appear once again. Though many of these men have limited combat experience, their study in war cannot be ignored. Integrating them into our staff could prove beneficial for our military tactics." 
 
-GER_ww1_doctrine_effort_3:0 "Doctrine Effort III"
+GER_ww1_doctrine_effort_3:0 "교리 주력 III"
 GER_ww1_doctrine_effort_3_desc:0 "One of our critical elements of warfare has largely been ignored up to now: Logistics. With so much focus on the capability of troops in combat, we must ensure they get there in a timely fashion, and have, at least, food, water, and a weapon. Giving experts on this subject a voice, as well as more training for supply vehicle drivers, would have immediate benefits for our land doctrines, but perhaps future additional benefits as well." 
 
-GER_ww1_equipment_effort:0 "Equipment Effort"
+GER_ww1_equipment_effort:0 "장비 주력"
 GER_ww1_equipment_effort_desc:0 "Our generals are not the only old guard keeping our military in the last century. Our Quartermasters still have some of the 19th century Military issues of corruption and disconnection behind them. By selecting the most well-liked and in-tune officers, we can, most importantly, learn the faults of our current weapons, allowing us to produce corrected and improved designs more quickly- as well as ensure that these men don't get TOO popular!" 
 
-GER_ww1_equipment_effort_2:0 "Equipment Effort II"
+GER_ww1_equipment_effort_2:0 "장비 주력 II"
 GER_ww1_equipment_effort_2_desc:0 "Our new Quartermasters have taken to us with requests for not simply newer rifles, but newer support weapons as well. Experience with this new-pattern army has led to ideas like lighter machine guns, trench mortars, and rifle grenades, which all seem quite useful, so long as we can get the right people on designing them and manufacturing them." 
 
-GER_ww1_equipment_effort_3:0 "Equipment Effort III"
+GER_ww1_equipment_effort_3:0 "장비 주력 III"
 GER_ww1_equipment_effort_3_desc:0 "The Quartermasters have sent a letter of demands for more rifles equipped for the conditions of trenches- those able to launch rifle grenades, attach bayonets or scopes, and more carbines. Though we could simply produce more straight up, it seems like a logical move is to bring our rifles to the standard of being able to do all of these things- which means a new, improved design." 
 
-GER_ww1_equipment_effort_4:0 "Equipment Effort IV"
+GER_ww1_equipment_effort_4:0 "장비 주력 IV"
 GER_ww1_equipment_effort_4_desc:0 "Our Quartermasters have, unfortunately, sent us yet another list of demands. Luckily, we have instructed our postmasters to ignore any further mail from them. Their last demand is new equipment for our Engineer corps- new models of Carbine, new tools, and perhaps those new Flamethrowers, which will be commissioned as soon as possible. Of course, expanding the Engineer corps as such could provide for some unseen benefits..." 
 
 GER_ww1_armor_effort_1:0 "Panzer Effort"
@@ -68,102 +68,102 @@ GER_ww1_airship_focus_desc:0 ""
 GER_ww1_aviation_effort:0 "Form Luftstreitkräfte"
 GER_ww1_aviation_effort_desc:0 "As one of the first nations to use a military airplane, we have a distinct advantage in the initial organization of a new Air branch of our armed forces. Despite this, there are still many yards of red tape, many debates, and many philosophical arguments to be had about this new branch's role and independence- which will inspire in itself advances in our doctrine."
 
-GER_ww1_fighter_focus:0 "Fighter Focus"
+GER_ww1_fighter_focus:0 "전투기 중점"
  GER_ww1_fighter_focus_desc:0 "" 
-GER_ww1_bomber_focus:0 "Bomber Focus"
+GER_ww1_bomber_focus:0 "폭격기 중점"
  GER_ww1_bomber_focus_desc:0 "" 
 
-GER_ww1_aviation_effort_2:0 "Aviation Effort"
+GER_ww1_aviation_effort_2:0 "항공 주력"
 GER_ww1_aviation_effort_2_desc:0 "Now that we have formally established an Air Force, we have made some interesting advances. Most notably, our aircraft designers have been proposing designs for specific roles, rather than simply arming a generic model. Getting effective use out of these planes, which will be designed with roles like attacking enemy aircraft or dropping bombs in mind, will require extensive testing and research, but will no doubt prove beneficial." 
-GER_ww1_aviation_effort_3:0 "Aviation Effort II"
+GER_ww1_aviation_effort_3:0 "항공 주력 II"
 GER_ww1_aviation_effort_3_desc:0 "The development of the Synchronised Machine Gun has changed the rules of the Aircraft game. Fighters are now far more effective, our Zeppelins might be seeing their last flights, and we need innovative thinkers to help keep us on pace with this extreme development. If we become the master of this new development, which will perhaps change the air war as much as ground warfare, we will be well on our way to Air Superiority." 
-GER_ww1_aviation_effort_4:0 "Aviation Effort III"
+GER_ww1_aviation_effort_4:0 "항공 주력 III"
 GER_ww1_aviation_effort_4_desc:0 "Our Air Force, which was established only recently, has now integrated itself completely into the rest of our armed forces. This brings us the obvious benefit of a pool of theorists, engineers, designers, and experts still at our door- as well as a new class of ''Ace'' pilots, who are even becoming minor celebrities. Hiring on these people certainly can't hurt us, and will lead to nice developments in our field." 
-GER_ww1_aviation_effort_5:0 "Aviation Effort IV"
+GER_ww1_aviation_effort_5:0 "항공 주력 IV"
 GER_ww1_aviation_effort_5_desc:0 "With the development of brand new types of aircraft, such as the Tactical and Strategic Bomber, we have yet more testing and theorycrafting to do on exactly the best way to get use out of this influx of new models. Some are already speculating that bombers may be a wonder weapon capable of deciding a war. What poppycock!"
 
-GER_ww1_pilotformation_1:0 "Pilot Formation"
+GER_ww1_pilotformation_1:0 "비행사 대형"
 GER_ww1_pilotformation_1_desc:0 "Currently, Aircraft fly solo- distant from each other, and engaging in one-on-one duels with any enemies they might encounter. However, with more and more machines in the sky, it's becoming clear that this is no longer the most viable way to engage in air combat. Some of our physicists may be valuable in helping us to determine new formations for our pilots to use."
 
-GER_ww1_pilotformation_2:0 "Pilot Formation II"
+GER_ww1_pilotformation_2:0 "비행사 대형 II"
 GER_ww1_pilotformation_2_desc:0 "The new formations we have established have indeed been a boon to us in combat. However, ensuring people stick to the formations is a different story entirely. Encouraging our top aces to put out a manual for our pilots on air tactics and formation will ensure our pilots stick to doing what's best- and perhaps, these sorts of writings will help spread new tricks and doctrines."
 
-GER_ww1_aircraftprod_1:0 "Aircraft Production"
+GER_ww1_aircraftprod_1:0 "항공기 생산"
 GER_ww1_aircraftprod_1_desc:0 "Though Engineers have been making aircraft for us on a decent scale, it is simply time to introduce factories outright to the concept. Putting planes into mass production will help us flood the sky with friendly craft- and, more importantly, help us deprive our enemies of the same advantage. On top of that, who knows? Maybe some of these factory engineers may have some good ideas for aircraft designs..."
 
-GER_ww1_aircraftprod_2:0 "Aircraft Production II"
+GER_ww1_aircraftprod_2:0 "항공기 생산 II"
 GER_ww1_aircraftprod_2_desc:0 "The new formations we have established have indeed been a boon to us in combat. However, ensuring people stick to the formations is a different story entirely. Encouraging our top aces to put out a manual for our pilots on air tactics and formation will ensure our pilots stick to doing what's best- and perhaps, these sorts of writings will help spread new tricks and doctrines."
 
-GER_ww1_airbomb_1:0 "Air Bombing Effort"
+GER_ww1_airbomb_1:0 "항공폭격 주력"
 GER_ww1_airbomb_1_desc:0 "While the tactics of our fighters are improving with formations, our bombers are still very basic machines with very basic doctrines. Some of our old airship bombers possess now essentially unused expertise, which could help the latter as time solves the former. By utilizing these men, we can ensure that the old lessons of bombing are not lost on newer craft."
-GER_ww1_airbomb_2:0 "Air Bombing Effort II"
+GER_ww1_airbomb_2:0 "항공폭격 주력 II"
 GER_ww1_airbomb_2_desc:0 "All of the recent developments to air warfare, both in theory and in practice, have given birth to a golden age of aircraft development. From pilots down to the plane mechanics, it seems that everyone has something to improve and potentially offer, which we can use on a national level. Perhaps one day, Aircraft may be the most important weapon in war...nah, probably not." 
 
-GER_ww1_air_innovation:0 "Air Innovation Focus"
+GER_ww1_air_innovation:0 "항공 혁신 중점"
 GER_ww1_air_innovation_desc:0 "One of our aspiring, mid-level air officers recently displayed the conclusion of a project he had been working on in secret. A seaplane was launched from a static ship, dropped a bomb onto one of our old scrappers, sinking the poor old vessel, before the plane returned and docked once again. Though most of our high command was unimpressed, attention from the head of state could certainly give this ambition a boost." 
 
-GER_ww1_navalair:0 "Naval Bombing Effort"
+GER_ww1_navalair:0 "뇌격 주력"
 GER_ww1_navalair_desc:0 "One of our aspiring, mid-level air officers recently displayed the conclusion of a project he had been working on in secret. A seaplane was launched from a static ship, dropped a bomb onto one of our old scrappers, sinking the poor old vessel, before the plane returned and docked once again. Though most of our high command was unimpressed, attention from the head of state could certainly give this ambition a boost." 
 #--------------------------------------------------------------
 
 
-# [GERMAN EMPIRE] Industrial Effort
+# [GERMAN EMPIRE] 산업 주력
 #=========================================================================
-GER_ww1_industrial_effort:0 "Industrial Effort"
+GER_ww1_industrial_effort:0 "산업 주력"
 GER_ww1_industrial_effort_desc:0 "" 
 
-GER_ww1_construction_effort:0 "Construction Effort"
+GER_ww1_construction_effort:0 "건설 주력"
 GER_ww1_construction_effort_desc:0 "" 
 
-GER_ww1_construction_effort_2:0 "Construction Effort II"
+GER_ww1_construction_effort_2:0 "건설 주력 II"
 GER_ww1_construction_effort_2_desc:0 "" 
 
-GER_ww1_construction_effort_3:0 "Construction Effort III"
+GER_ww1_construction_effort_3:0 "건설 주력 III"
 GER_ww1_construction_effort_3_desc:0 "" 
 
-GER_ww1_production_effort:0 "Armament Effort"
+GER_ww1_production_effort:0 "군비 주력"
 GER_ww1_production_effort_desc:0 "" 
 
-GER_ww1_production_effort_2:0 "Armament Effort II"
+GER_ww1_production_effort_2:0 "군비 주력 II"
 GER_ww1_production_effort_2_desc:0 "" 
 
-GER_ww1_production_effort_3:0 "Armament Effort III"
+GER_ww1_production_effort_3:0 "군비 주력 III"
 GER_ww1_production_effort_3_desc:0 "" 
 
-GER_ww1_dockyard_effort_1:0 "Dockyard Expansion"
+GER_ww1_dockyard_effort_1:0 "조선소 확장"
 GER_ww1_dockyard_effort_1_desc:0 "" 
 
-GER_ww1_dockyard_effort_2:0 "Dockyard Expansion II"
+GER_ww1_dockyard_effort_2:0 "조선소 확장 II"
 GER_ww1_dockyard_effort_2_desc:0 "" 
 
-GER_ww1_dockyard_effort_3:0 "Dockyard Expansion III"
+GER_ww1_dockyard_effort_3:0 "조선소 확장 III"
 GER_ww1_dockyard_effort_3_desc:0 "" 
 
-GER_ww1_airfield_expansion_1:0 "Airfield Expansion"
+GER_ww1_airfield_expansion_1:0 "비행장 확장"
 GER_ww1_airfield_expansion_1_desc:0 "" 
 
-GER_ww1_airfield_expansion_2:0 "Airfield Expansion II"
+GER_ww1_airfield_expansion_2:0 "비행장 확장 II"
 GER_ww1_airfield_expansion_2_desc:0 "" 
 
-GER_ww1_airfield_expansion_3:0 "Airfield Expansion III"
+GER_ww1_airfield_expansion_3:0 "비행장 확장 III"
 GER_ww1_airfield_expansion_3_desc:0 "" 
 
-GER_ww1_infrastructure_effort:0 "Infrastructure Effort"
+GER_ww1_infrastructure_effort:0 "기반시설 주력"
 GER_ww1_infrastructure_effort_desc:0 "" 
 
-GER_ww1_infrastructure_effort_2:0 "Infrastructure Effort II"
+GER_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
 GER_ww1_infrastructure_effort_2_desc:0 "" 
 
-GER_ww1_infrastructure_effort_3:0 "Infrastructure Effort III"
+GER_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
 GER_ww1_infrastructure_effort_3_desc:0 "" 
 
-GER_ww1_infrastructure_effort_4:0 "Infrastructure Effort IV"
+GER_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
 GER_ww1_infrastructure_effort_4_desc:0 "" 
 
-GER_ww1_extra_tech_slot:0 "Extra Research Slot"
+GER_ww1_extra_tech_slot:0 "추가 연구 슬롯"
 GER_ww1_extra_tech_slot_desc:0 "" 
 
-GER_ww1_extra_tech_slot_2:0 "Extra Research Slot II"
+GER_ww1_extra_tech_slot_2:0 "추가 연구 슬롯 II"
 GER_ww1_extra_tech_slot_2_desc:0 "" 
 
 #--------------------------------------------------------------
@@ -174,25 +174,25 @@ GER_ww1_extra_tech_slot_2_desc:0 ""
 GER_ww1_naval_effort:0 "Build Up the Kaiserliche Marine"
 GER_ww1_naval_effort_desc:0 "As we already have the premier Army in Europe, our Navy must be attended to as well, to attempt to keep pace with the Royal Navy and ensure Germany can defend herself and her territory in any way she chooses. If we focus on continually building up in our arms race against the United Kingdom, we will be well on our way to naval dominance."
 
-GER_ww1_newnavalcanons_1:0 "Naval Gun Effort"
+GER_ww1_newnavalcanons_1:0 "함포 주력"
 GER_ww1_newnavalcanons_1_desc:0 "" 
 
-GER_ww1_newnavalcanons_2:0 "Naval Gun Effort II"
+GER_ww1_newnavalcanons_2:0 "함포 주력 II"
 GER_ww1_newnavalcanons_2_desc:0 "" 
 
-GER_ww1_newnavalcanons_3:0 "Naval Gun Effort III"
+GER_ww1_newnavalcanons_3:0 "함포 주력 III"
 GER_ww1_newnavalcanons_3_desc:0 "" 
 
-GER_ww1_dreadnought_effort:0 "Dreadnought Effort"
+GER_ww1_dreadnought_effort:0 "드레드노트 주력"
 GER_ww1_dreadnought_effort_desc:0 "" 
 
-GER_ww1_flexible_navy:0 "Flexible Navy"
+GER_ww1_flexible_navy:0 "유연한 해군"
 GER_ww1_flexible_navy_desc:0 "" 
 
-GER_ww1_large_navy:0 "Large Navy"
+GER_ww1_large_navy:0 "거대 해군"
 GER_ww1_large_navy_desc:0 "" 
 
-GER_ww1_navyreform:0 "Navy Deployment"
+GER_ww1_navyreform:0 "해군 배치"
 GER_ww1_navyreform_desc:0 "" 
 
 GER_ww1_submarine_effort:0 "Unterseeboot Effort"

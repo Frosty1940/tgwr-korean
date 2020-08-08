@@ -115,7 +115,7 @@
 
 
  #--------------------------------------------------------------
- # [Generic] Industrial Effort
+ # [Generic] 산업 주력
 
  ww1_industrial_effort:0 "산업 주력"
  ww1_industrial_effort_desc:0 "The Industrial Era is still well underway, and our nation still has work to do to stay ahead. Beginning some ambitious new projects to increase our industrial capacity will have short and long term benefits to our nation, not the least of which shall be our vastly improved ability to equip a military."
@@ -297,8 +297,8 @@
  ww1_diplomatic_effort:0 "외교 주력"
  ww1_diplomatic_effort_desc:0 "It is becoming increasingly difficult to stay in the middle of the affairs in the world as it stands. Our diplomatic corps is already asking if we're to be involved in the coming power struggle, or if we are to stay out of things entirely. While we can't answer that question quite yet, we can easily expand our corps to be able to choose one of these options."
 
- ww1_takeposition:0 "Take Position"
- ww1_takeposition_desc:0 "Our place in the world is tenuous at best. After all, with the great empires at each others' throats, what's to stop one from turning on us once they're through? We must bet on the winning horse, and quickly, to ensure ourselves a place at the council of victors instead of as a footnote in a history book."
+ ww1_takeposition:0 "위치 선정"
+ ww1_takeposition_desc:0 "세계에서의 우리의 위치는 기껏해야 보잘것없습니다. 결국, 거대 제국들이 서로의 목을 조르고 있는 상황에서, 그들이 한번 지나가고 난 뒤 우리를 배신하는 것을 막을 수 있는 것은 무엇입니까? 우리는 역사책의 각주 대신에 이기는 말에 걸어야 하고, 그리고 빨리 승리한 사람들의 모임에 반드시 자리를 차지해야 합니다."
 
  ww1_supportgermany:0 "독일 지원"
  ww1_supportgermany_desc:0 "With the German Empire's massive industrial sector, they seem to be the clear-cut bet, even if they are diplomatically isolated. Showing public support to the Germans on even a few, non-key matters will send a message that we're moving closer to the Central Powers."

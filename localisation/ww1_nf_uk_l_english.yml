@@ -114,7 +114,7 @@ ENG_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  #--------------------------------------------------------------
 
 
- # [BRITISH EMPIRE] Industrial Effort
+ # [BRITISH EMPIRE] 산업 주력
  #=========================================================================
 ENG_ww1_industrial_effort:0 "산업 주력"
 ENG_ww1_industrial_effort_desc:0 "" #KAISER_ANONY

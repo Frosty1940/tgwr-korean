@@ -175,7 +175,7 @@
 
 
  #--------------------------------------------------------------
- # [Generic] Industrial Effort
+ # [Generic] 산업 주력
 
  BEL_ww1_industrial_effort:0 "산업 주력"
  BEL_ww1_industrial_effort_desc:0 "The Industrial Era is still well underway, and our nation still has work to do to stay ahead. Beginning some ambitious new projects to increase our industrial capacity will have short and long term benefits to our nation, not the least of which shall be our vastly improved ability to equip a military."

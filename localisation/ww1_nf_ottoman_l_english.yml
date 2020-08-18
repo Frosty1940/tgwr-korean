@@ -86,10 +86,10 @@ TUR_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
 TUR_ww1_aviation_effort_5:0 "항공 주력 IV"
 TUR_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_pilotformation_1:0 "비행사 대형"
+TUR_ww1_pilotformation_1:0 "비행사 양성"
 TUR_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_pilotformation_2:0 "비행사 대형 II"
+TUR_ww1_pilotformation_2:0 "비행사 양성 II"
 TUR_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
 
 TUR_ww1_aircraftprod_1:0 "항공기 생산"
@@ -194,7 +194,7 @@ TUR_ww1_dreadnought_effort_desc:0 "" #KAISER_ANONY
 TUR_ww1_flexible_navy:0 "유연한 해군"
 TUR_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_large_navy:0 "거대 해군"
+TUR_ww1_large_navy:0 "대규모 해군"
 TUR_ww1_large_navy_desc:0 "" #KAISER_ANONY
 
 TUR_ww1_navyreform:0 "해군 배치"
@@ -292,7 +292,7 @@ TUR_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
 TUR_ww1_install_democracy:0 "자유 선거"
 TUR_ww1_install_democracy_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_oppression_minorities:0 "소수집단 탄압"
+TUR_ww1_oppression_minorities:0 "소수 집단 탄압"
 TUR_ww1_oppression_minorities_desc:0 "" #KAISER_ANONY
 
 TUR_ww1_france_friend:0 "프랑스-터키 합의"
@@ -355,7 +355,7 @@ TUR_ww1_AntiBulgaria_desc:0 "" #KAISER_ANONY
 TUR_ww1_anti_ita:0 "반-Italian 정책"
 TUR_ww1_anti_ita_desc:0 "" #KAISER_ANONY
 
-TUR_ww1_BalkanLeagueMenace:0 "발칸 연맹 위협"
+TUR_ww1_BalkanLeagueMenace:0 "발칸 동맹 위협"
 TUR_ww1_BalkanLeagueMenace_desc:0 "" #KAISER_ANONY
 
 TUR_ww1_SecondBalkanWarOpportunity:0 "제2차 발칸 전쟁 기회"

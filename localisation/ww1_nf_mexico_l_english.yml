@@ -87,10 +87,10 @@ MEX_ww1_gasmask_focus_desc:0 "" #####
  MEX_ww1_aviation_effort_5:0 "항공 주력 IV"
  MEX_ww1_aviation_effort_5_desc:0 "" #####
 
- MEX_ww1_pilotformation_1:0 "비행사 대형"
+ MEX_ww1_pilotformation_1:0 "비행사 양성"
  MEX_ww1_pilotformation_1_desc:0 "" #####
 
- MEX_ww1_pilotformation_2:0 "비행사 대형 II"
+ MEX_ww1_pilotformation_2:0 "비행사 양성 II"
  MEX_ww1_pilotformation_2_desc:0 "" #####
 
  MEX_ww1_aircraftprod_1:0 "항공기 생산"
@@ -195,7 +195,7 @@ Mex_extra_tech_slot_2_desc:0 "" #####
  MEX_ww1_flexible_navy:0 "유연한 해군"
  MEX_ww1_flexible_navy_desc:0 "" #####
 
- MEX_ww1_large_navy:0 "거대 해군"
+ MEX_ww1_large_navy:0 "대규모 해군"
  MEX_ww1_large_navy_desc:0 "" #####
 
  MEX_ww1_navyreform:0 "해군 배치"
@@ -204,19 +204,19 @@ Mex_extra_tech_slot_2_desc:0 "" #####
  MEX_ww1_submarine_effort:0 "잠수함 주력"
  MEX_ww1_submarine_effort_desc:0 "" #####
 
- MEX_ww1_cruiser_effort:0 "Cruiser Effort"
+ MEX_ww1_cruiser_effort:0 "순양함 주력"
  MEX_ww1_cruiser_effort_desc:0 "" #####
 
- MEX_ww1_destroyer_effort:0 "Destroyer Effort"
+ MEX_ww1_destroyer_effort:0 "구축함 주력"
  MEX_ww1_destroyer_effort_desc:0 "" #####
 
- MEX_ww1_capital_ships_effort:0 "Capital Ship Effort"
+ MEX_ww1_capital_ships_effort:0 "기함 주력"
  MEX_ww1_capital_ships_effort_desc:0 "" #####
 
- MEX_ww1_carrier_focus:0 "Carrier Effort"
+ MEX_ww1_carrier_focus:0 "항공모함 주력"
  MEX_ww1_carrier_focus_desc:0 "" #####
 
- MEX_ww1_antisubmarine:0 "Anti-Submarine Warfare"
+ MEX_ww1_antisubmarine:0 "대잠전"
  MEX_ww1_antisubmarine_desc:0 "" #####
 
  #--------------------------------------------------------------
@@ -224,7 +224,7 @@ Mex_extra_tech_slot_2_desc:0 "" #####
 
  # [mexico] Political Effort
  #=========================================================================
- mex_political_effort:0 "Political Effort" #link me pls
+ mex_political_effort:0 "정치 주력" #link me pls
  mex_political_effort_desc:0 "The time for reform is now. While the nation has been fine under the guidance of the system of old for years, these turbulent times require a government that is in position to respond to them. Whether we choose to change our ways as a nation, or bolster our existing government to stand up to new external threats, political change can do nothing but benefit our nation and people's future."
 
  mex_ww1_sovereignist_ethos:0 "Support Madero's democracy"
@@ -236,10 +236,10 @@ Mex_extra_tech_slot_2_desc:0 "" #####
  mex_ww1_centralizedpower:0 "Labor Program"
  mex_ww1_centralizedpower_desc:0 "In a time of war, or those immediately before or after, everyone has a job to do for their nation. If we put drifters, the homeless, and all of the other moochers who can't get a job to work on building for us, we can establish new manufacturies for nearly no cost, and the factory can even hire from the same labor pool if need be."
 
- mex_ww1_freespeech:0 "Free Speech"
+ mex_ww1_freespeech:0 "자유 연설"
  mex_ww1_freespeech_desc:0 "By giving the people the right to free speech and demonstration, we ensure that, at the very least, people can get their anger and stances out in a more creative way. Anybody who shouts ''FIRE!'' in a crowded movie theater, or uses any explitive to describe the Head of State's mother, is still going to prison."
 
- mex_ww1_reorganization_act:0 "Reorganization Act"
+ mex_ww1_reorganization_act:0 "재편성법"
  mex_ww1_reorganization_act_desc:0 "Much of our territory has been under the possession of various groups and individuals since civilization came to our humble nation. Over hundreds of years, however, much of this territory has been inefficiently laid out or used. By reorganizing the land and owners of our nation, particularly those that have been dormant, we can squeeze some of the newly displaced people into our factories."
 
  mex_ww1_full_rearmament:0 "Harsh Rationing"
@@ -251,25 +251,25 @@ Mex_extra_tech_slot_2_desc:0 "" #####
  Mex_nationalism_focus:0 "Support Pancho Villa"
  Mex_nationalism_focus_desc:0 "Pancho Villa has gotten a taste of power in Mexico, and has harshened his tone, becoming more of a hardline nationalist and pro-military. Perhaps he is the leader that will finally bring us above Uncle Sam..."
 
- mex_militarism:0 "Militarism"
+ mex_militarism:0 "군국주의"
  mex_militarism_desc:0 "Our growing military is becoming more and more a part of our nation's daily life. Luckily, popular support is favoring our troops currently, seeing them as the heroes fighting for our banner that they are. This military culture we are establishing is only furthering the cause of our armed forces."
 
 mex_military_youth:0 "유소년 군사조직"
 mex_military_youth_desc:0 "Our militaristic culture must even be present with the children! By drilling respect for the military, and even offering training to the younger generations, we can ensure that they grow up to enlist to serve our glorious regime. Some might call this exploitation, but it sounds better when you say you're giving teenagers a bright future."
 
-mex_paramilitarism:0 "Paramilitarism"
+mex_paramilitarism:0 "준군사주의"
 mex_paramilitarism_desc:0 "Some nations are foolish enough to condemn armed civilian groups, for fear of rebellion. However, if we are careful to restrict these ad-hoc militias to loyalists to the regime, we can create yet another group of angry men with guns who support our nation, which could do us well in case of war."
 
 mex_internationalism_focus:0 "Support Emiliano Zapata"
 mex_internationalism_focus_desc:0 "Emiliano Zapata's message of extreme Socialism in Mexico- which, to put it bluntly, is nothing more than mere Communism- is a popular message indeed, especially in the very south of the country. Supporting his position could pacify the populace once and for all, even if it makes us slightly unpopular with the world's democracies."
 
-mex_political_correctness:0 "Political Correctness"
+mex_political_correctness:0 "정치적 올바름"
 mex_political_correctness_desc:0 "Anyone who speaks out against our movement is clearly doing it as a hate crime towards the people we support with it. Therefore, anyone who speaks out the regime is to be closely watched, and, perhaps, unpersoned."
 
-mex_indoctrination_focus:0 "Indoctrination"
+mex_indoctrination_focus:0 "세뇌"
 mex_indoctrination_focus_desc:0 "After many years of debate on how to get rowdy anti-communist citizens to finally support our wonderful new regime, some of the men on the Worker's Council suggested the establishment of a new ''Ministry of Love'', which, officially, humanely persuades people to understand why they should support our government. We don't talk about what happens unofficially in there."
 
-mex_political_commissars:0 "Political Commissars"
+mex_political_commissars:0 "정치지도원"
 mex_political_commissars_desc:0 "The military, ironically, is a place where anti-communist support thrives. By ensuring that our loving government has eyes everywhere, we can root out the dissent from these groups before it can rise."
 
 mex_ww1_unitedpeople:0 "애국적 열정"

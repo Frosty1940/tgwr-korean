@@ -83,10 +83,10 @@ HUN_ww1_aviation_effort_4_desc:0 "Our Air Force, which was established only rece
 HUN_ww1_aviation_effort_5:0 "항공 주력 IV"
 HUN_ww1_aviation_effort_5_desc:0 "With the development of brand new types of aircraft, such as the Tactical and Strategic Bomber, we have yet more testing and theorycrafting to do on exactly the best way to get use out of this influx of new models. Some are already speculating that bombers may be a wonder weapon capable of deciding a war. What poppycock!"
 
-HUN_ww1_pilotformation_1:0 "비행사 대형"
+HUN_ww1_pilotformation_1:0 "비행사 양성"
 HUN_ww1_pilotformation_1_desc:0 "Currently, Aircraft fly solo- distant from each other, and engaging in one-on-one duels with any enemies they might encounter. However, with more and more machines in the sky, it's becoming clear that this is no longer the most viable way to engage in air combat. Some of our physicists may be valuable in helping us to determine new formations for our pilots to use."
 
-HUN_ww1_pilotformation_2:0 "비행사 대형 II"
+HUN_ww1_pilotformation_2:0 "비행사 양성 II"
 HUN_ww1_pilotformation_2_desc:0 "The new formations we have established have indeed been a boon to us in combat. However, ensuring people stick to the formations is a different story entirely. Encouraging our top aces to put out a manual for our pilots on air tactics and formation will ensure our pilots stick to doing what's best- and perhaps, these sorts of writings will help spread new tricks and doctrines."
 
 HUN_ww1_aircraftprod_1:0 "항공기 생산"
@@ -190,7 +190,7 @@ HUN_ww1_dreadnought_effort_desc:0 "" #KAISER_ANONY
 HUN_ww1_flexible_navy:0 "유연한 해군"
 HUN_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_large_navy:0 "거대 해군"
+HUN_ww1_large_navy:0 "대규모 해군"
 HUN_ww1_large_navy_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_navyreform:0 "해군 배치"
@@ -199,26 +199,26 @@ HUN_ww1_navyreform_desc:0 "" #KAISER_ANONY
 HUN_ww1_submarine_effort:0 "잠수함 주력"
 HUN_ww1_submarine_effort_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_cruiser_effort:0 "Cruiser Effort"
+HUN_ww1_cruiser_effort:0 "순양함 주력"
 HUN_ww1_cruiser_effort_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_destroyer_effort:0 "Destroyer Effort"
+HUN_ww1_destroyer_effort:0 "구축함 주력"
 HUN_ww1_destroyer_effort_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_capital_ships_effort:0 "Capital Ship Effort"
+HUN_ww1_capital_ships_effort:0 "기함 주력"
 HUN_ww1_capital_ships_effort_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_carrier_focus:0 "Carrier Effort"
+HUN_ww1_carrier_focus:0 "항공모함 주력"
 HUN_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_antisubmarine:0 "Anti-Submarine Warfare"
+HUN_ww1_antisubmarine:0 "대잠전"
 HUN_ww1_antisubmarine_desc:0 "" #KAISER_ANONY
 #--------------------------------------------------------------
 
 
 # [HUNGARY] Political Effort
 #=========================================================================
-HUN_ww1_political_effort:0 "Political Effort"
+HUN_ww1_political_effort:0 "정치 주력"
 HUN_ww1_political_effort_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_sovereignist_ethos:0 "Centralization"
@@ -230,43 +230,43 @@ HUN_ww1_support_kaiser_desc:0 "His royal majesty the Kaiser und Konig has wisely
 HUN_ww1_contest_kaiser:0 "Contest Emperor's Authority"
 HUN_ww1_contest_kaiser_desc:0 "Perhaps Monarchy is no way to rule a multinationalist state anymore. The Kaiser und Konig is harshly unpopular outside of Austria itself, and has many enemies within his own home part of the Empire. If we weaken his authority from within, what chance does he have to retain his rule? More powerful parties can then take his place."
 
-HUN_ww1_internationalism_focus:0 "Internationalism Focus"
+HUN_ww1_internationalism_focus:0 "국제주의 중점"
 HUN_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_militarism:0 "Militarism"
+HUN_ww1_militarism:0 "군국주의"
 HUN_ww1_militarism_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_indoctrination_focus:0 "Indoctrination"
+HUN_ww1_indoctrination_focus:0 "세뇌"
 HUN_ww1_indoctrination_focus_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_political_commissars:0 "Political Commissars"
+HUN_ww1_political_commissars:0 "정치지도원"
 HUN_ww1_political_commissars_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_paramilitarism:0 "Paramilitarism"
+HUN_ww1_paramilitarism:0 "준군사주의"
 HUN_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_political_correctness:0 "Political Correctness"
+HUN_ww1_political_correctness:0 "정치적 올바름"
 HUN_ww1_political_correctness_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_military_youth:0 "유소년 군사조직"
 HUN_ww1_military_youth_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_student_movement_focus:0 "Student Movement"
+HUN_ww1_student_movement_focus:0 "학생 운동"
 HUN_ww1_student_movement_focus_desc:0 "The youth of our country are bright indeed, and that can help us for our research, particularly in the field of Land Doctrines." #KAISER_ANONY
 
-HUN_ww1_monarchy:0 "Authoritarianism Focus"
+HUN_ww1_monarchy:0 "권위주의 중점"
 HUN_ww1_monarchy_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_democracy:0 "Democratism Focus"
+HUN_ww1_democracy:0 "민주주의 중점"
 HUN_ww1_democracy_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_centralizedpower:0 "관료주의"
 HUN_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_freespeech:0 "Free Speech"
+HUN_ww1_freespeech:0 "자유 연설"
 HUN_ww1_freespeech_desc:0 "" #KAISER_ANONY
 
-HUN_ww1_reorganization_act:0 "Reorganization Act"
+HUN_ww1_reorganization_act:0 "재편성법"
 HUN_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
 
 HUN_ww1_leave_central_power:0 "Leave Central Powers"

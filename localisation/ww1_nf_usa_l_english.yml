@@ -70,10 +70,10 @@ USA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  USA_ww1_bomber_focus:0 "폭격기 중점"
  USA_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
 
- USA_ww1_airship_focus:0 "Airship Focus"
+ USA_ww1_airship_focus:0 "비행선 중점"
  USA_ww1_airship_focus_desc:0 "" #KAISER_ANONY
 
- USA_ww1_aviation_effort:0 "Aviation Section Signal Corps"
+ USA_ww1_aviation_effort:0 "항공반 통신단"
  USA_ww1_aviation_effort_desc:0 "" #KAISER_ANONY
 
  USA_ww1_aviation_effort_2:0 "항공 주력"
@@ -88,10 +88,10 @@ USA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  USA_ww1_aviation_effort_5:0 "항공 주력 IV"
  USA_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
 
- USA_ww1_pilotformation_1:0 "비행사 대형"
+ USA_ww1_pilotformation_1:0 "비행사 양성"
  USA_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
 
- USA_ww1_pilotformation_2:0 "비행사 대형 II"
+ USA_ww1_pilotformation_2:0 "비행사 양성 II"
  USA_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
 
  USA_ww1_aircraftprod_1:0 "항공기 생산"
@@ -178,7 +178,7 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
 
  # [USA] Naval Effort
  #=========================================================================
- USA_ww1_naval_effort:0 "Reinforce United States Navy"
+ USA_ww1_naval_effort:0 "미 해군 강화"
  USA_ww1_naval_effort_desc:0 "" #KAISER_ANONY
 
  USA_ww1_newnavalcanons_1:0 "함포 주력"
@@ -196,7 +196,7 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  USA_ww1_flexible_navy:0 "유연한 해군"
  USA_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
 
- USA_ww1_large_navy:0 "거대 해군"
+ USA_ww1_large_navy:0 "대규모 해군"
  USA_ww1_large_navy_desc:0 "" #KAISER_ANONY
 
  USA_ww1_navyreform:0 "USMC Deployment"
@@ -205,19 +205,19 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  USA_ww1_submarine_effort:0 "잠수함 주력"
  USA_ww1_submarine_effort_desc:0 "" #KAISER_ANONY
 
- USA_ww1_cruiser_effort:0 "Cruiser Effort"
+ USA_ww1_cruiser_effort:0 "순양함 주력"
  USA_ww1_cruiser_effort_desc:0 "" #KAISER_ANONY
 
- USA_ww1_destroyer_effort:0 "Destroyer Effort"
+ USA_ww1_destroyer_effort:0 "구축함 주력"
  USA_ww1_destroyer_effort_desc:0 "" #KAISER_ANONY
 
- USA_ww1_capital_ships_effort:0 "Capital Ship Effort"
+ USA_ww1_capital_ships_effort:0 "기함 주력"
  USA_ww1_capital_ships_effort_desc:0 "" #KAISER_ANONY
 
- USA_ww1_carrier_focus:0 "Carrier Effort"
+ USA_ww1_carrier_focus:0 "항공모함 주력"
  USA_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
 
- USA_ww1_antisubmarine:0 "Anti-Submarine Warfare"
+ USA_ww1_antisubmarine:0 "대잠전"
  USA_ww1_antisubmarine_desc:0 "" #KAISER_ANONY
 
  #--------------------------------------------------------------
@@ -225,52 +225,52 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
 
  # [USA] Political Effort
  #=========================================================================
- USA_ww1_political_effort:0 "Political Effort"
+ USA_ww1_political_effort:0 "정치 주력"
   USA_ww1_political_effort_desc:0 "" #KAISER_ANONY
 
- USA_ww1_internationalism_focus:0 "Internationalism Focus"
+ USA_ww1_internationalism_focus:0 "국제주의 중점"
  USA_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
 
- USA_ww1_militarism:0 "Militarism"
+ USA_ww1_militarism:0 "군국주의"
  USA_ww1_militarism_desc:0 "" #KAISER_ANONY
 
- USA_ww1_indoctrination_focus:0 "Indoctrination"
+ USA_ww1_indoctrination_focus:0 "세뇌"
  USA_ww1_indoctrination_focus_desc:0 "" #KAISER_ANONY
 
- USA_ww1_political_commissars:0 "Political Commissars"
+ USA_ww1_political_commissars:0 "정치지도원"
  USA_ww1_political_commissars_desc:0 "" #KAISER_ANONY
 
- USA_ww1_paramilitarism:0 "Paramilitarism"
+ USA_ww1_paramilitarism:0 "준군사주의"
  USA_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
 
- USA_ww1_political_correctness:0 "Political Correctness"
+ USA_ww1_political_correctness:0 "정치적 올바름"
  USA_ww1_political_correctness_desc:0 "" #KAISER_ANONY
 
  USA_ww1_military_youth:0 "유소년 군사조직"
  USA_ww1_military_youth_desc:0 "" #KAISER_ANONY
 
- USA_ww1_student_movement_focus:0 "Student Movement"
+ USA_ww1_student_movement_focus:0 "학생 운동"
  USA_ww1_student_movement_focus_desc:0 "" #KAISER_ANONY
 
- USA_ww1_monarchy:0 "Authoritarianism Focus"
+ USA_ww1_monarchy:0 "권위주의 중점"
  USA_ww1_monarchy_desc:0 "" #KAISER_ANONY
 
- USA_ww1_democracy:0 "Democratism Focus"
+ USA_ww1_democracy:0 "민주주의 중점"
  USA_ww1_democracy_desc:0 "" #KAISER_ANONY
 
  USA_ww1_centralizedpower:0 "관료주의"
  USA_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
 
- USA_ww1_freespeech:0 "Free Speech"
+ USA_ww1_freespeech:0 "자유 연설"
  USA_ww1_freespeech_desc:0 "" #KAISER_ANONY
 
- USA_ww1_reorganization_act:0 "Reorganization Act"
+ USA_ww1_reorganization_act:0 "재편성법"
  USA_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
 
- USA_ww1_limited_rearmament:0 "Limited Rearmament"
+ USA_ww1_limited_rearmament:0 "제한적인 재무장"
  USA_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
 
- USA_ww1_full_rearmament:0 "Full Rearmament"
+ USA_ww1_full_rearmament:0 "완전한 재무장"
  USA_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
 
  USA_ww1_unitedpeople:0 "애국적 열정"
@@ -285,34 +285,34 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  USA_ww1_fortify_coast:0 "해안 방어"
  USA_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
 
- USA_ww1_UnderwoodTariffAct:0 "Underwood Tariff Act"
+ USA_ww1_UnderwoodTariffAct:0 "언더우드 관세법"
  USA_ww1_UnderwoodTariffAct_desc:0 "" #KAISER_ANONY
 
- USA_ww1_Reconciliation:0 "National Reconciliation"
+ USA_ww1_Reconciliation:0 "민족의 화합"
  USA_ww1_Reconciliation_desc:0 "" #KAISER_ANONY
 
- USA_ww1_AntiMexicanSentiment:0 "Anti-Mexican Sentiment"
+ USA_ww1_AntiMexicanSentiment:0 "반-멕시코 정서"
  USA_ww1_AntiMexicanSentiment_desc:0 "" #KAISER_ANONY
 
- USA_ww1_SelectiveServiceAct:0 "Selective Service Act"
+ USA_ww1_SelectiveServiceAct:0 "선택적 징병법"
  USA_ww1_SelectiveServiceAct_desc:0 "" #KAISER_ANONY
 
- USA_ww1_BolshevikRevolution:0 "Acknowledge Bolshevik Revolution"
+ USA_ww1_BolshevikRevolution:0 "볼셰비키 혁명 인정"
  USA_ww1_BolshevikRevolution_desc:0 "" #KAISER_ANONY
 
- USA_ww1_MarxistIdeas:0 "Adopt Marxist Ideas"
+ USA_ww1_MarxistIdeas:0 "마르크스주의 사상 채택"
  USA_ww1_MarxistIdeas_desc:0 "" #KAISER_ANONY
 
- USA_ww1_SovietUSA:0 "Soviet States of America"
+ USA_ww1_SovietUSA:0 "미소비에트국"
  USA_ww1_SovietUSA_desc:0 "" #KAISER_ANONY
 
- USA_ww1_CommunistMenace:0 "The Communist Menace"
+ USA_ww1_CommunistMenace:0 "공산주의의 위협"
  USA_ww1_CommunistMenace_desc:0 "" #KAISER_ANONY
 
- USA_ww1_InterventionSiberia:0 "Intervention in Siberia"
+ USA_ww1_InterventionSiberia:0 "시베리아 개입"
  USA_ww1_InterventionSiberia_desc:0 "" #KAISER_ANONY
 
- USA_ww1_RedAlert:0 "Red Alert"
+ USA_ww1_RedAlert:0 "적색 경보"
  USA_ww1_RedAlert_desc:0 "" #KAISER_ANONY
 
  #--------------------------------------------------------------
@@ -324,92 +324,92 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
 USA_ww1_diplomatic_effort:0 "외교 주력"
 USA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 
-USA_ww1_MexicanRevolution:0 "Mexican Revolution Reaction"
+USA_ww1_MexicanRevolution:0 "멕시코 혁명 반응"
 USA_ww1_MexicanRevolution_desc:0 "" #KAISER_ANONY
 
-USA_ww1_SupportPofirioDiaz:0 "Support Porfirio Díaz"
+USA_ww1_SupportPofirioDiaz:0 "포르피리오 디아스 지원"
 USA_ww1_SupportPofirioDiaz_desc:0 "" #KAISER_ANONY
 
-USA_ww1_ColumbusRaid:0 "Columbus Raid"
+USA_ww1_ColumbusRaid:0 "콜럼버스 습격"
 USA_ww1_ColumbusRaid_desc:0 "" #KAISER_ANONY
 
-USA_ww1_PanchoVillaExpedition:0 "Pressure Victoriano Huerta"
+USA_ww1_PanchoVillaExpedition:0 "빅토리아노 우에르타 압박"
 USA_ww1_PanchoVillaExpedition_desc:0 "" #KAISER_ANONY
 
-USA_ww1_DeployArmyBorder:0 "Deploy Army to Border"
+USA_ww1_DeployArmyBorder:0 "국경에 군대 배치"
 USA_ww1_DeployArmyBorder_desc:0 "" #KAISER_ANONY
 
-USA_ww1_SupportMexicanRevolution:0 "Support the Revolution"
+USA_ww1_SupportMexicanRevolution:0 "혁명 지원"
 USA_ww1_SupportMexicanRevolution_desc:0 "" #KAISER_ANONY
 
-USA_ww1_SendWeaponsMexicanRevolution:0 "Send Weapons to Revolutionary Forces"
+USA_ww1_SendWeaponsMexicanRevolution:0 "혁명군에게 무기 보내기"
 USA_ww1_SendWeaponsMexicanRevolution_desc:0 "" #KAISER_ANONY
 
-USA_ww1_InvadeMexico:0 "Invade Mexico"
+USA_ww1_InvadeMexico:0 "멕시코 침공"
 USA_ww1_InvadeMexico_desc:0 "" #KAISER_ANONY
 
-USA_ww1_NeutralForeignPolicy:0 "Neutral Foreign Policy"
+USA_ww1_NeutralForeignPolicy:0 "중립적 외교정책"
 USA_ww1_NeutralForeignPolicy_desc:0 "" #KAISER_ANONY
 
-USA_ww1_War_in_Europe:0 "War in Europe Debates"
+USA_ww1_War_in_Europe:0 "유럽 전쟁 토론"
 USA_ww1_War_in_Europe_desc:0 "" #KAISER_ANONY
 
-USA_ww1_TakePosition:0 "Take Position"
+USA_ww1_TakePosition:0 "자리 잡기"
 USA_ww1_TakePosition_desc:0 "" #KAISER_ANONY
 
-USA_ww1_Pro_German:0 "Pro-German Policy"
+USA_ww1_Pro_German:0 "친독 정책"
 USA_ww1_Pro_German_desc:0 "" #KAISER_ANONY
 
-USA_ww1_RemoveLondonDiplomats:0 "Withdraw London Diplomats"
+USA_ww1_RemoveLondonDiplomats:0 "런던 외교관 철수"
 USA_ww1_RemoveLondonDiplomats_desc:0 "" #KAISER_ANONY
 
-USA_ww1_EmbargoBritish:0 "Embargo The United Kingdom"
+USA_ww1_EmbargoBritish:0 "영국 금수 조치"
 USA_ww1_EmbargoBritish_desc:0 "" #KAISER_ANONY
 
-USA_ww1_CanadaAct:0 "Canada Act"
+USA_ww1_CanadaAct:0 "캐나다법"
 USA_ww1_CanadaAct_desc:0 "" #KAISER_ANONY
 
-USA_ww1_Join_Central_Power:0 "Join Central Powers"
+USA_ww1_Join_Central_Power:0 "동맹국 가입"
 USA_ww1_Join_Central_Power_desc:0 "" #KAISER_ANONY
 
-USA_ww1_Pro_British:0 "Pro-British Policy"
+USA_ww1_Pro_British:0 "친영 정책"
 USA_ww1_Pro_British_desc:0 "" #KAISER_ANONY
 
-USA_ww1_AntiGermanSubmarineWarfare:0 "Unrestricted Submarine Warfare Response"
+USA_ww1_AntiGermanSubmarineWarfare:0 "무제한 잠수함 작전 대응"
 USA_ww1_AntiGermanSubmarineWarfare_desc:0 "" #KAISER_ANONY
 
-USA_ww1_EscadrilleLaFayette:0 "Escadrille La Fayette"
+USA_ww1_EscadrilleLaFayette:0 "라파예트 비행대"
 USA_ww1_EscadrilleLaFayette_desc:0 "" #KAISER_ANONY
 
-USA_ww1_ZimmermanTelegram:0 "Reacts to the Zimmerman Telegram"
+USA_ww1_ZimmermanTelegram:0 "치머만 전보에 반응"
 USA_ww1_ZimmermanTelegram_desc:0 "" #KAISER_ANONY
 
-USA_ww1_Join_Entente:0 "Declaration of War on Germany"
+USA_ww1_Join_Entente:0 "독일에 대한 선전포고"
 USA_ww1_Join_Entente_desc:0 "" #KAISER_ANONY
 
-USA_ww1_ExpeditionaryForceFrance:0 "Expeditionary Force in France"
+USA_ww1_ExpeditionaryForceFrance:0 "프랑스의 원정군"
 USA_ww1_ExpeditionaryForceFrance_desc:0 "" #KAISER_ANONY
 
-USA_ww1_LibertyBonds:0 "Liberty Bonds"
+USA_ww1_LibertyBonds:0 "자유 채권"
 USA_ww1_LibertyBonds_desc:0 "" #KAISER_ANONY
 
-USA_ww1_Pacifism:0 "Pacifism"
+USA_ww1_Pacifism:0 "평화주의"
 USA_ww1_Pacifism_desc:0 "" #KAISER_ANONY
 
-USA_ww1_Isolationism:0 "Isolationism"
+USA_ww1_Isolationism:0 "고립주의"
 USA_ww1_Isolationism_desc:0 "" #KAISER_ANONY
 
-USA_ww1_ReparationsSlavery:0 "Apologize for Slavery"
+USA_ww1_ReparationsSlavery:0 "노예제에 대한 사과"
 USA_ww1_ReparationsSlavery_desc:0 "" #KAISER_ANONY
 
-USA_ww1_DecolonizationCommittee:0 "Decolonization Committee"
+USA_ww1_DecolonizationCommittee:0 "탈식민지화 위원회"
 USA_ww1_DecolonizationCommittee_desc:0 "" #KAISER_ANONY
 
-USA_ww1_IndiaIndependence:0 "Support Indian Independence"
+USA_ww1_IndiaIndependence:0 "인도 독립 지원"
 USA_ww1_IndiaIndependence_desc:0 "" #KAISER_ANONY
 
-USA_ww1_FreePhilippine:0 "Liberate Philippine"
+USA_ww1_FreePhilippine:0 "필리핀 해방"
 USA_ww1_FreePhilippine_desc:0 "" #KAISER_ANONY
 
-USA_ww1_SanctionJapanKorea:0 "Condemn Korea Annexation"
+USA_ww1_SanctionJapanKorea:0 "한국 병합 규탄"
 USA_ww1_SanctionJapanKorea_desc:0 "" #KAISER_ANONY

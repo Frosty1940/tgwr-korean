@@ -87,10 +87,10 @@ HOL_ww1_gasmask_focus_desc:0 "" #####
  HOL_ww1_aviation_effort_5:0 "항공 주력 IV"
  HOL_ww1_aviation_effort_5_desc:0 "" #####
 
- HOL_ww1_pilotformation_1:0 "비행사 대형"
+ HOL_ww1_pilotformation_1:0 "비행사 양성"
  HOL_ww1_pilotformation_1_desc:0 "" #####
 
- HOL_ww1_pilotformation_2:0 "비행사 대형 II"
+ HOL_ww1_pilotformation_2:0 "비행사 양성 II"
  HOL_ww1_pilotformation_2_desc:0 "" #####
 
  HOL_ww1_aircraftprod_1:0 "항공기 생산"
@@ -195,7 +195,7 @@ HOL_extra_tech_slot_2_desc:0 "" #####
  HOL_ww1_flexible_navy:0 "유연한 해군"
  HOL_ww1_flexible_navy_desc:0 "" #####
 
- HOL_ww1_large_navy:0 "거대 해군"
+ HOL_ww1_large_navy:0 "대규모 해군"
  HOL_ww1_large_navy_desc:0 "" #####
 
  HOL_ww1_navyreform:0 "해군 배치"
@@ -204,19 +204,19 @@ HOL_extra_tech_slot_2_desc:0 "" #####
  HOL_ww1_submarine_effort:0 "잠수함 주력"
  HOL_ww1_submarine_effort_desc:0 "" #####
 
- HOL_ww1_cruiser_effort:0 "Cruiser Effort"
+ HOL_ww1_cruiser_effort:0 "순양함 주력"
  HOL_ww1_cruiser_effort_desc:0 "" #####
 
- HOL_ww1_destroyer_effort:0 "Destroyer Effort"
+ HOL_ww1_destroyer_effort:0 "구축함 주력"
  HOL_ww1_destroyer_effort_desc:0 "" #####
 
- HOL_ww1_capital_ships_effort:0 "Capital Ship Effort"
+ HOL_ww1_capital_ships_effort:0 "기함 주력"
  HOL_ww1_capital_ships_effort_desc:0 "" #####
 
- HOL_ww1_carrier_focus:0 "Carrier Effort"
+ HOL_ww1_carrier_focus:0 "항공모함 주력"
  HOL_ww1_carrier_focus_desc:0 "" #####
 
- HOL_ww1_antisubmarine:0 "Anti-Submarine Warfare"
+ HOL_ww1_antisubmarine:0 "대잠전"
  HOL_ww1_antisubmarine_desc:0 "" #####
 
  #--------------------------------------------------------------
@@ -224,7 +224,7 @@ HOL_extra_tech_slot_2_desc:0 "" #####
 
  # [Holland] Political Effort
  #=========================================================================
- HOL_political_effort:0 "Political Effort"
+ HOL_political_effort:0 "정치 주력"
  HOL_political_effort_desc:0 "The time for reform is now. While the nation has been fine under the guidance of the system of old for years, these turbulent times require a government that is in position to respond to them. Whether we choose to change our ways as a nation, or bolster our existing government to stand up to new external threats, political change can do nothing but benefit our nation and people's future."
  HOL_Reform:0 "Reform"
  HOL_Reform_desc:0 "Reform the Dutch government in favour of a more communistic one"

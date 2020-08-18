@@ -26,7 +26,7 @@
     HOI4TGW_Opinion_ger_auh_advisor_bonus:0 "고문 파견"
     HOI4TGW_Opinion_fra_diplomats_bonus:0 "외교관 파견"
     HOI4TGW_Opinion_influence_faction:0 "세력 영향"
-    HOI4TGW_Opinion_diplomats_malus:0 "Diplomatic Malus"
+    HOI4TGW_Opinion_diplomats_malus:0 "외교 불화" #Diplomatic Malus
     HOI4TGW_Opinion_Russia_Leave_Entente:0 "러시아 제국이 협상국을 떠나다"
     benilux_friendship:0 "베네룩스 친선"
     entente_friendship:0 "협상국 친선"

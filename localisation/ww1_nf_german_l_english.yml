@@ -62,11 +62,11 @@ GER_ww1_gasmask_focus_desc:0 "Some of our chemists have proposed the use of a ne
 
 # [GERMAN EMPIRE] Aviation Effort
 #=========================================================================
-GER_ww1_airship_focus:0 "Zeppelin Focus"
+GER_ww1_airship_focus:0 "체펠린 중점"
 GER_ww1_airship_focus_desc:0 "" 
 
-GER_ww1_aviation_effort:0 "Form Luftstreitkräfte"
-GER_ww1_aviation_effort_desc:0 "As one of the first nations to use a military airplane, we have a distinct advantage in the initial organization of a new Air branch of our armed forces. Despite this, there are still many yards of red tape, many debates, and many philosophical arguments to be had about this new branch's role and independence- which will inspire in itself advances in our doctrine."
+GER_ww1_aviation_effort:0 "공군전력(Luftstreitkräfte) 창설"
+GER_ww1_aviation_effort_desc:0 "군용기를 가장 먼저 사용한 국가 중 하나로서, 우리는 우리 군대의 새로운 항공 분야의 초기 조직에서 뚜렷한 우위를 점하고 있습니다. 그럼에도 불구하고, 이 새로운 부문의 역할과 독립에 대해 가질 많은 논쟁과 많은 철학적 주장들이 여전히 존재하고 있는데, 이것은 그 자체로 우리의 교리에 있어서 진보를 고무시킬 것입니다."
 
 GER_ww1_fighter_focus:0 "전투기 중점"
  GER_ww1_fighter_focus_desc:0 "" 
@@ -82,10 +82,10 @@ GER_ww1_aviation_effort_4_desc:0 "Our Air Force, which was established only rece
 GER_ww1_aviation_effort_5:0 "항공 주력 IV"
 GER_ww1_aviation_effort_5_desc:0 "With the development of brand new types of aircraft, such as the Tactical and Strategic Bomber, we have yet more testing and theorycrafting to do on exactly the best way to get use out of this influx of new models. Some are already speculating that bombers may be a wonder weapon capable of deciding a war. What poppycock!"
 
-GER_ww1_pilotformation_1:0 "비행사 대형"
+GER_ww1_pilotformation_1:0 "비행사 양성"
 GER_ww1_pilotformation_1_desc:0 "Currently, Aircraft fly solo- distant from each other, and engaging in one-on-one duels with any enemies they might encounter. However, with more and more machines in the sky, it's becoming clear that this is no longer the most viable way to engage in air combat. Some of our physicists may be valuable in helping us to determine new formations for our pilots to use."
 
-GER_ww1_pilotformation_2:0 "비행사 대형 II"
+GER_ww1_pilotformation_2:0 "비행사 양성 II"
 GER_ww1_pilotformation_2_desc:0 "The new formations we have established have indeed been a boon to us in combat. However, ensuring people stick to the formations is a different story entirely. Encouraging our top aces to put out a manual for our pilots on air tactics and formation will ensure our pilots stick to doing what's best- and perhaps, these sorts of writings will help spread new tricks and doctrines."
 
 GER_ww1_aircraftprod_1:0 "항공기 생산"
@@ -171,7 +171,7 @@ GER_ww1_extra_tech_slot_2_desc:0 ""
 
 # [GERMAN EMPIRE] Naval Effort
 #=========================================================================
-GER_ww1_naval_effort:0 "Build Up the Kaiserliche Marine"
+GER_ww1_naval_effort:0 "황립해군 증축"
 GER_ww1_naval_effort_desc:0 "As we already have the premier Army in Europe, our Navy must be attended to as well, to attempt to keep pace with the Royal Navy and ensure Germany can defend herself and her territory in any way she chooses. If we focus on continually building up in our arms race against the United Kingdom, we will be well on our way to naval dominance."
 
 GER_ww1_newnavalcanons_1:0 "함포 주력"
@@ -189,28 +189,28 @@ GER_ww1_dreadnought_effort_desc:0 ""
 GER_ww1_flexible_navy:0 "유연한 해군"
 GER_ww1_flexible_navy_desc:0 "" 
 
-GER_ww1_large_navy:0 "거대 해군"
+GER_ww1_large_navy:0 "대규모 해군"
 GER_ww1_large_navy_desc:0 "" 
 
 GER_ww1_navyreform:0 "해군 배치"
 GER_ww1_navyreform_desc:0 "" 
 
-GER_ww1_submarine_effort:0 "Unterseeboot Effort"
+GER_ww1_submarine_effort:0 "운터제보트 주력"
 GER_ww1_submarine_effort_desc:0 "" 
 
-GER_ww1_cruiser_effort:0 "Cruiser Effort"
+GER_ww1_cruiser_effort:0 "순양함 주력"
 GER_ww1_cruiser_effort_desc:0 "" 
 
-GER_ww1_destroyer_effort:0 "Destroyer Effort"
+GER_ww1_destroyer_effort:0 "구축함 주력"
 GER_ww1_destroyer_effort_desc:0 "" 
 
-GER_ww1_capital_ships_effort:0 "Capital Ship Effort"
+GER_ww1_capital_ships_effort:0 "기함 주력"
 GER_ww1_capital_ships_effort_desc:0 "" 
 
-GER_ww1_carrier_focus:0 "Carrier Effort"
+GER_ww1_carrier_focus:0 "항공모함 주력"
 GER_ww1_carrier_focus_desc:0 "" 
 
-GER_ww1_antisubmarine:0 "Anti-Submarine Warfare"
+GER_ww1_antisubmarine:0 "대잠전"
 GER_ww1_antisubmarine_desc:0 "" 
 
 #--------------------------------------------------------------
@@ -218,61 +218,61 @@ GER_ww1_antisubmarine_desc:0 ""
 
 # [GERMAN EMPIRE] Political Effort
 #=========================================================================
-GER_ww1_political_effort:0 "Political Effort"
+GER_ww1_political_effort:0 "정치 주력"
 GER_ww1_political_effort_desc:0 "" 
 
-GER_ww1_sovereignist_ethos:0 "Centralization"
+GER_ww1_sovereignist_ethos:0 "중앙집권화"
 GER_ww1_sovereignist_ethos_desc:0 "" 
 
-GER_ww1_support_kaiser:0 "Reinforce Kaiser's Authority"
+GER_ww1_support_kaiser:0 "카이저의 권한 강화"
 GER_ww1_support_kaiser_desc:0 "Seine Majestät the Kaiser might be a very politically powerful man, but he still has several old constitutional checks in place, most stemming from the old days of Prussia. If we eliminate some of these loopholes and keep building our Kaiser's imperial powers, he will be able to exercize control more directly over the German empire."
 
-GER_ww1_contest_kaiser:0 "Contest Kaiser's Authority"
+GER_ww1_contest_kaiser:0 "카이저의 권한에 이의 제기"
 GER_ww1_contest_kaiser_desc:0 "Wilhelm II is a shadow of his predecessors, and completely unfit to play any role in the German government. Luckily, the higher-ups have already begun to draft plans to potentially depose him entirely if it means changing the system. This will lead to some instability short term, but significant change long term."
 
-GER_ww1_internationalism_focus:0 "Internationalism Focus"
+GER_ww1_internationalism_focus:0 "국제주의 중점"
 GER_ww1_internationalism_focus_desc:0 "" 
 
-GER_ww1_militarism:0 "Militarism"
+GER_ww1_militarism:0 "군국주의"
 GER_ww1_militarism_desc:0 "" 
 
-GER_ww1_indoctrination_focus:0 "Indoctrination"
+GER_ww1_indoctrination_focus:0 "세뇌"
 GER_ww1_indoctrination_focus_desc:0 "" 
 
-GER_ww1_political_commissars:0 "Political Commissars"
+GER_ww1_political_commissars:0 "정치지도원"
 GER_ww1_political_commissars_desc:0 "" 
 
-GER_ww1_paramilitarism:0 "Paramilitarism"
+GER_ww1_paramilitarism:0 "준군사주의"
 GER_ww1_paramilitarism_desc:0 "" 
 
-GER_ww1_political_correctness:0 "Political Correctness"
+GER_ww1_political_correctness:0 "정치적 올바름"
 GER_ww1_political_correctness_desc:0 "" 
 
 GER_ww1_military_youth:0 "유소년 군사조직"
 GER_ww1_military_youth_desc:0 "" 
 
-GER_ww1_student_movement_focus:0 "Student Movement"
+GER_ww1_student_movement_focus:0 "학생 운동"
 GER_ww1_student_movement_focus_desc:0 "" 
 
-GER_ww1_monarchy:0 "Authoritarianism Focus"
+GER_ww1_monarchy:0 "권위주의 중점"
 GER_ww1_monarchy_desc:0 "" 
 
-GER_ww1_democracy:0 "Democratism Focus"
+GER_ww1_democracy:0 "민주주의 중점"
 GER_ww1_democracy_desc:0 "" 
 
 GER_ww1_centralizedpower:0 "관료주의"
 GER_ww1_centralizedpower_desc:0 "" 
 
-GER_ww1_freespeech:0 "Free Speech"
+GER_ww1_freespeech:0 "자유 연설"
 GER_ww1_freespeech_desc:0 "" 
 
-GER_ww1_reorganization_act:0 "Reorganization Act"
+GER_ww1_reorganization_act:0 "재편성법"
 GER_ww1_reorganization_act_desc:0 "" 
 
-GER_ww1_limited_rearmament:0 "Limited Rearmament"
+GER_ww1_limited_rearmament:0 "제한적인 재무장"
 GER_ww1_limited_rearmament_desc:0 "" 
 
-GER_ww1_full_rearmament:0 "Full Rearmament"
+GER_ww1_full_rearmament:0 "완전한 재무장"
 GER_ww1_full_rearmament_desc:0 "" 
 
 GER_ww1_unitedpeople:0 "애국적 열정"
@@ -287,22 +287,22 @@ GER_ww1_fortify_city_desc:0 ""
 GER_ww1_fortify_coast:0 "해안 방어"
 GER_ww1_fortify_coast_desc:0 "" 
 
-GER_ww1_leave_central_power:0 "Leave Central Powers"
+GER_ww1_leave_central_power:0 "동맹국 탈퇴"
 GER_ww1_leave_central_power_desc:0 "The Central Powers was the alliance of the old Germany. Now with the new direction our great country is taking, we stick out in our own alliance. One of our old members can frontline instead, and Germany will seek out a new course entirely." 
 
-GER_ww1_install_communism:0 "Proletarian Revolution"
+GER_ww1_install_communism:0 "프롤레타리아 혁명"
 GER_ww1_install_communism_desc:0 "A fire that sparked in the south has begun to spread all over Germany. Workers are rising against their bosses, and the locals against the local aristocracy in charge. Germany shall become a communist republic, and bring terror to the burgoise of Europe!" 
 
 GER_ww1_install_democracy:0 "자유 선거"
 GER_ww1_install_democracy_desc:0 "The old Emperor and monarchy simply must go. For Germany to remain stable and peaceful, she must adopt a democracy patterned after that of her contemporaries. The ghost of 1848 will live once again!"
 
-GER_ww1_fascist_coup:0 "Fascist Coup"
+GER_ww1_fascist_coup:0 "파시스트 쿠데타"
 GER_ww1_fascist_coup_desc:0 "Elements of our military have begun proposing the idea of an ultranationalistic state, with one of their own members taking autocratic power from the Kaiser. If they can pull this putsch off and seize everything for themselves, it could change the destiny of Europe as a whole, let alone the course of Germany."
 
-GER_ww1_oppression_minorities:0 "Oppress Minorities"
-GER_ww1_oppression_minorities_desc:0 "The best way to ensure loyalty from minority groups is to make them avoid identifying with each other. By making publications in other languages illegal, punishing citizens who fail to confirm to our culture, and enforcing local inferiority, we can fool some into thinking they are one of us, and keep the others from speaking out against us."
+GER_ww1_oppression_minorities:0 "소수 집단 탄압"
+GER_ww1_oppression_minorities_desc:0 "소수 집단의 충성을 보장하는 가장 좋은 방법은 그들이 서로 동일시하지 않도록 하는 것입니다. 다른 언어로 된 출판물을 불법으로 만들고, 우리 문화를 확인하지 못하는 시민들을 처벌하고, 지역 열등감을 강요함으로써, 우리는 몇몇을 속여서 그들이 우리 중 하나라고 생각하게 하고, 다른 사람들이 우리에게 반대하는 목소리를 내지 못하게 할 수 있습니다."
 
-GER_ww1_france_friend:0 "Franco-German Friendship"
+GER_ww1_france_friend:0 "프랑스-독일 간 우호 관계"
 GER_ww1_france_friend_desc:0 "France has been a rival to Germany since the end of Charlemagne's empire. However, with our new government and our termination of the Central Powers, perhaps we can make amends? There are definitely awkward topics remaining, but a Franco-German Alliance may very well be possible in our day."
 
 #--------------------------------------------------------------
@@ -314,130 +314,130 @@ GER_ww1_france_friend_desc:0 "France has been a rival to Germany since the end o
 GER_ww1_diplomatic_effort:0 "외교 주력"
 GER_ww1_diplomatic_effort_desc:0 "" 
 
-GER_ww1_free_BAV:0 "Bavarian Nationalism"
+GER_ww1_free_BAV:0 "바이에른 민족주의"
 GER_ww1_free_BAV_desc:0 "Bavarian nationalism is a point of view that asserts that Bavarians are a nation and promotes the cultural unity of Bavarians. It has been a strong phenomenon since the incorporation of Bavaria into the state of Germany in 1871."
 
-GER_ww1_takeposition:0 "Take Position"
+GER_ww1_takeposition:0 "자리 잡기"
 GER_ww1_takeposition_desc:0 "" 
 
-GER_ww1_supportgermany:0 "Support Germany"
+GER_ww1_supportgermany:0 "독일 지원"
 GER_ww1_supportgermany_desc:0 "" 
 
-GER_ww1_supportfrance:0 "Support France"
+GER_ww1_supportfrance:0 "프랑스 지원"
 GER_ww1_supportfrance_desc:0 "" 
 
-GER_ww1_supportaustria:0 "Support Austria-Hungary"
+GER_ww1_supportaustria:0 "오스트리아-헝가리 지원"
 GER_ww1_supportaustria_desc:0 "" 
 
-GER_ww1_supportrussia:0 "Support Russia"
+GER_ww1_supportrussia:0 "러시아 지원"
 GER_ww1_supportrussia_desc:0 "" 
 
-GER_ww1_military_reserve:0 "Military Reserve"
+GER_ww1_military_reserve:0 "예비군"
 GER_ww1_military_reserve_desc:0 "" 
 
-GER_ww1_embargo_germany:0 "Sanction Germany"
+GER_ww1_embargo_germany:0 "독일 제재"
 GER_ww1_embargo_germany_desc:0 "" 
 
-GER_ww1_embargo_france:0 "Sanction France"
+GER_ww1_embargo_france:0 "프랑스 제재"
 GER_ww1_embargo_france_desc:0 "" 
 
-GER_ww1_sellweapons:0 "Sell Weapons"
+GER_ww1_sellweapons:0 "무기 판매"
 GER_ww1_sellweapons_desc:0 "" 
 
-GER_ww1_appeasement:0 "Appeasement"
+GER_ww1_appeasement:0 "유화 정책"
 GER_ww1_appeasement_desc:0 "" 
 
-GER_ww1_aggressive_foreign_policy:0 "Aggressive Foreign Policy"
+GER_ww1_aggressive_foreign_policy:0 "공격적인 외교 정책"
 GER_ww1_aggressive_foreign_policy_desc:0 "" 
 
-GER_ww1_joingermany:0 "Join Central Powers"
+GER_ww1_joingermany:0 "동맹국 가입"
 GER_ww1_joingermany_desc:0 "" 
 
-GER_ww1_joinfrance:0 "Join Entente"
+GER_ww1_joinfrance:0 "협상국 가입"
 GER_ww1_joinfrance_desc:0 "" 
 
-GER_ww1_war_effort:0 "War Effort"
+GER_ww1_war_effort:0 "전쟁 주력"
 GER_ww1_war_effort_desc:0 "" 
 
 GER_ww1_diplomatic_effort:0 "외교 주력"
 GER_ww1_diplomatic_effort_desc:0 "" 
 
-GER_ww1_triple_alliance:0 "Renew Triple Alliance"
+GER_ww1_triple_alliance:0 "삼국 동맹 갱신"
 GER_ww1_triple_alliance_desc:0 "Our old alliance with Austria-Hungary and Italy needs to be renewed again, and considering the climate of Europe, it's a hard case to argue not at least trying to do so. Italy in particular seems to be less and less dedicated to this alliance as time goes on, and special attention must be given to the area to ensure they don't betray us."
 
-GER_ww1_secret_alliance_rom:0 "Secret Alliance with Romania"
+GER_ww1_secret_alliance_rom:0 "루마니아와의 비밀 동맹"
 GER_ww1_secret_alliance_rom_desc:0 "Romania is ruled by a German, and a distant relative of the Royal Family no less. Due to this alone, if nothing else, they are in a position to have a stake in the Triple Alliance, even if not much, due to their claims on Austria. Still, placating them for a while may be strategically to our advantage, if a war with Russia breaks out."
 
-GER_ww1_italy_ally:0 "Support Italy"
+GER_ww1_italy_ally:0 "이탈리아 지원"
 GER_ww1_italy_ally_desc:0 "Beginning a diplomatic push to further ties with Italy will weaken our position with Austria-Hungary, though this may be a price worth paying to keep them at least slightly more loyal." 
 
-GER_ww1_back_austria:0 "Support Austria-Hungary"
+GER_ww1_back_austria:0 "오스트리아-헝가리 지원"
 GER_ww1_back_austria_desc:0 "Beginning a diplomatic push to further ties with Austria-Hungary will alienate Italy to a degree, but perhaps they can learn from Austria-Hungary's level of loyalty in this case?"
 
-GER_ww1_send_advisor:0 "Send German Advisors"
+GER_ww1_send_advisor:0 "독일 고문 파견"
 GER_ww1_send_advisor_desc:0 "German advisors, particularly in the military, will be warmly recieved by both Italy and Austria-Hungary, and further our relations with both nations, while costing Germany little but finding men worthy of the task and putting them on a train out."
 
-GER_ww1_turkey_friend:0 "Befriend Ottomans"
+GER_ww1_turkey_friend:0 "오스만 친선"
 GER_ww1_turkey_friend_desc:0 "The Ottoman Empire is in desperate need of more friends, and as it just so happens, so are we. Though their military has been rocked by some recent sound defeats, our neighbor France has already recovered from a far worse trouncing, so what's stopping them?"
 
-GER_ww1_zimmermann_telegram:0 "Send the Zimmermann Telegram"
+GER_ww1_zimmermann_telegram:0 "치머만 전보 발송"
 GER_ww1_zimmermann_telegram_desc:0 "Mexico, as unstable as it is, could be the key to keeping the US out of the war. If we form a defensive alliance with Mexico, the US will be forced to think twice about declaring war on us, with a neighbor next door to contend with. Of course, we would look incredibly bad if the telegram was intercepted, particularly if it was mistranslated and exaggerated."
 
-GER_ww1_baghdad:0 "Berlin-Baghdad Railway"
+GER_ww1_baghdad:0 "베를린-바그다드 철도"
 GER_ww1_baghdad_desc:0 "The planned Berlin-Baghdad railway is an ambitious rail project seeking to connect the German capital to the Ottoman heartlands, where a good chunk of the Ottoman oil lies. "
 
-GER_asienkorps:0 "Asienkorps"
+GER_asienkorps:0 "아시아 군단"
 GER_asienkorps_desc:0 ""
 
 GER_ww1_assert_position_west:0 "Assert German Position in the West"
 GER_ww1_assert_position_west_desc:0 "The Western front is a gloomy place for the Central Powers. France and the UK have bonded against us and our interests, which hurts the German future in Africa. Worse yet, Belgium doesn't seem quite so willing anymore to let German troops through to crush the French, who they no longer see as a threat. We must make the most of a bad situation if we are to stay afloat as a great power." 
 
-GER_ww1_anti_fr:0 "Anti-French Policy"
+GER_ww1_anti_fr:0 "반불 정책"
 GER_ww1_anti_fr_desc:0 "Since time immemorial, the Germans and the French have been enemies. If we act around this reality, it opens up new and interesting options to deal with them in the future."
 
-GER_ww1_anti_uk:0 "Anti-British Policy"
+GER_ww1_anti_uk:0 "반영 정책"
 GER_ww1_anti_uk_desc:0 "While the Anglo-German friendship was nice while it lasted, Germany and the United Kingdom have come to bear with each other in recent years, and it seems like this won't be reversed any time soon. Acknowledging our rivalry outright will open up some options to circumvent them diplomatically."
 
-GER_ww1_support_boer:0 "Reinforce Deutsch-Südwestafrika"
+GER_ww1_support_boer:0 "독일령 남서아프리카 강화"
 GER_ww1_support_boer_desc:0 "DSWA, also known as Namibia, is one of Germany's most important colonies. Ensuring that it's defensible in an attack could serve to help out our nation's war efforts if it came down to it, and this would only take minor investment."
 
-GER_ww1_support_boer_war:0 "Boer Revolt"
+GER_ww1_support_boer_war:0 "보어 봉기"
 GER_ww1_support_boer_war_desc:0 "The Boers of South Africa are still only recently conquered, and not adjusted to British rule quite yet. If we supply and train some of the Boers who seek independence from the UK, they may be able to rise up against South African officials, giving us a rare advantage in a mostly Entente-controlled region of the world."
 
-GER_ww1_agadir_crisis:0 "Agadir Crisis"
+GER_ww1_agadir_crisis:0 "아가디르 위기"
 GER_ww1_agadir_crisis_desc:0 "With rebels organizing in Morocco, and just enough German interest in the region to proclaim them relevant, we can support their insurrection against the French goverment to try and seize Morocco for ourselves. While that goal in itself is unlikely, we can, if nothing else, shake down France for more reasonable territory if we grill them enough, though this may draw the UK even closer to them."
 
 GER_ww1_assert_position_east:0 "Assert German Position in the East"
 GER_ww1_assert_position_east_desc:0 "The position of the Central Powers in the East is the same- weaken Russia, and build hegemony in the region. As war with Russia in particular seems to be nearly inevitable, due to the Balkan situation, this is an effective course of action to take, though will drive France and Russia closer, which could prove to be an issue."
 
-GER_ww1_anti_ru:0 "Anti-Russian Policy"
+GER_ww1_anti_ru:0 "반러 정책"
 GER_ww1_anti_ru_desc:0 "Russia is no friend of ours, and perhaps never will be again, due to their extravagant claims on not only friendly territory but our own Polish land. Accepting this truth could lead to some new ways to deal with them down the line." 
 
-GER_ww1_anti_serb:0 "Anti-Serbian Policy"
+GER_ww1_anti_serb:0 "반세르비아 정책"
 GER_ww1_anti_serb_desc:0 "The Serbians are rats, who would sell their own mother if it meant getting just a province out of Austrian Bosnia. If we face them as they truly are- an opposing state to us- we can prepare to stand against them in the future."
 
-GER_ww1_bulgaria_puppet:0 "Puppet Bulgaria"
+GER_ww1_bulgaria_puppet:0 "불가리아 괴뢰화"
 GER_ww1_bulgaria_puppet_desc:0 "Bulgaria proved with its lackluster performances in the Balkan wars that it is of no true use as an ally. Enforcing a puppet state over them may alienate some outsiders, but what does it matter? It's simply another impoverished Balkan hellhole, just like all the others." 
 
-GER_ww1_bulgaria_friend:0 "Befriend Bulgaria"
+GER_ww1_bulgaria_friend:0 "불가리아 친선"
 GER_ww1_bulgaria_friend_desc:0 "Bulgaria has much to gain in a war against Serbia, and another two of our potential enemies in Greece and Romania. If we promise them claims on Macedonia and Thrace, which Austria-Hungary doesn't even have any desire to contest them for, they could join us, opening up a second front to relieve our overstretched forces, and give us another source of much-needed manpower."
 
-GER_ww1_ready_country:0 "Prepare for War"
+GER_ww1_ready_country:0 "전쟁 준비"
 GER_ww1_ready_country_desc:0 "The Generals are anxious for a fight. They're starting to believe that the Entente forces are planning something horrible against us. We must prepare for combat, and we must be ready to make a preemptive strike, or else we may not survive a coming conflict."
 
-GER_ww1_strengthen_kaiser:0 "Strengthen the Kaiser"
+GER_ww1_strengthen_kaiser:0 "카이저 강화"
 GER_ww1_strengthen_kaiser_desc:0 "His majesty's rule over Germany must be unquestioned. Even in turbulent times, he is the best man to fall back on, and can support our empire through thick and thin. Therefore, any measure we can take, from constitutional amendments to new laws in the Reichstag, must be taken to keep Wilhelm powerful."
 
-GER_ww1_weaken_kaiser:0 "Weaken the Kaiser"
+GER_ww1_weaken_kaiser:0 "카이저 약화"
 GER_ww1_weaken_kaiser_desc:0 "Wilhelm II has proven himself an...interesting leader, to say the least. Perhaps to ensure he does no further damage to the German Empire, it would be best to limit his control over the realm, and delegate more power to more capable hands." 
 
-GER_ww1_restructure_ostafrika:0 "Restructure Deutsch-Ostafrika"
+GER_ww1_restructure_ostafrika:0 "독일령 동아프리카 구조조정"
 GER_ww1_restructure_ostafrika_desc:0 "East Africa is our foremost colony, but that doesn't mean we can't do more in the area. By expanding the role and administrative powers of the colonial government, they can effectively build up the region further for us."
 
-GER_ww1_train_ostafrika:0 "Schutztruppe Deployment"
+GER_ww1_train_ostafrika:0 "보호령 군대 배치"
 GER_ww1_train_ostafrika_desc:0 "Our colonial administrators have reported a large amount of local East African men who are unemployed fighters, looking to serve in the German army. If we can find some volunteers to train and lead this group, we could, if nothing else, hold out against British forces in the area as long as possible."
 
-GER_ww1_war_with_france:0 "1915 Schlieffen Plan"
+GER_ww1_war_with_france:0 "1915년 슐리펜 계획"
 GER_ww1_war_with_france_desc:0 "It's finally time! France will be attacked through Belgium, and we will enter Paris while they're none the wiser! Our defenses in the east will be lackluster, but who cares? The troops from the west can be pulled in to help them! It must work! It WILL work, as the Kaiser wills it!"
 
 GER_ww1_polnische_wehrmacht:0 "Polnische Wehrmacht"

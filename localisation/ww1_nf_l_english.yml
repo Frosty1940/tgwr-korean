@@ -89,10 +89,10 @@
  ww1_aviation_effort_5:0 "항공 주력 V"
  ww1_aviation_effort_5_desc:0 "With the development of brand new types of aircraft, such as the Tactical and Strategic Bomber, we have yet more testing and theorycrafting to do on exactly the best way to get use out of this influx of new models. Some are already speculating that bombers may be a wonder weapon capable of deciding a war. What poppycock!"
 
- ww1_pilotformation_1:0 "비행사 대형 I"
+ ww1_pilotformation_1:0 "비행사 양성 I"
  ww1_pilotformation_1_desc:0 "Currently, Aircraft fly solo- distant from each other, and engaging in one-on-one duels with any enemies they might encounter. However, with more and more machines in the sky, it's clear that this is no longer the most viable way to engage in air combat. Some of our physicists may be valuable in helping us to determine new formations for our pilots to use."
 
- ww1_pilotformation_2:0 "비행사 대형 II"
+ ww1_pilotformation_2:0 "비행사 양성 II"
  ww1_pilotformation_2_desc:0 "The new formations we have established have indeed been a boon to us in combat. However, ensuring people stick to the formations is a different story entirely. Encouraging our top aces to put out a manual for our pilots on air tactics and formation will ensure our pilots stick to doing what's best- and perhaps, these sorts of writings will help spread new tricks and doctrines."
 
  ww1_aircraftprod_1:0 "항공기 생산"
@@ -196,7 +196,7 @@
  ww1_flexible_navy:0 "유연한 해군"
  ww1_flexible_navy_desc:0 "A great mass of ships is of no use to us if they're only patrolling a very small amount of the ocean. Building a fleet which can go anywhere, any time it's needed, with large amounts of screens supported by decent numbers of Battleships and Dreadnoughts, could help us control more of the sea and respond to a larger variety of threats, allowing us to project power all across the world."
 
- ww1_large_navy:0 "거대 해군"
+ ww1_large_navy:0 "대규모 해군"
  ww1_large_navy_desc:0 "Having just Battleships and Dreadnoughts would be formidible on its own, but also creating a solid core of screens and battlecruisers can easily tip the seas in our favor from both the tactical options such crafts give us, as well as sheer number. If we build around this concept and study the doctrine to match, our fleet may just become unbeatable."
 
  ww1_navyreform:0 "해군 배치"

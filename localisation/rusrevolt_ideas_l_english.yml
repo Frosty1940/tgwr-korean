@@ -4,7 +4,7 @@
  SOV_nationalization:0 "국유화"
  SOV_red_army:0 "붉은 군대"
  revolution_influence:0 "혁명의 영향"
- red_terror:0 "적색 공포"
+ red_terror:0 "적색 테러"
  revolution_failed:0 "혁명의 패배"
  revolution_failed_desc:0 "러시아 혁명의 붕괴로 볼셰비키들은 국외로 탈출할 수밖에 없었습니다. 이제 그들의 활동은 어느 국가도 통제하지 않습니다. 사회주의의 인기는 전 세계적으로 증가하고 있습니다."
  end_of_civil_war:0 "내전 후의 회복"

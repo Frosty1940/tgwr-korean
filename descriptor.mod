@@ -1,4 +1,4 @@
-version="alpha"
+version="beta"
 tags={
 	"Translation"
 }

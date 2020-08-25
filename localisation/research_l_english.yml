@@ -794,7 +794,7 @@
  trade_interdiction:0 "무역 차단"
  trade_interdiction_desc:0 "적을 빨리 발견할 수록 우리는 빨리 적을 격파할 수 있습니다. 상대의 상선들이 알아채기전에 공격하고 빠집시다.\n"
  unrestricted_submarine_warfare:0 "무제한 잠수함전"
- unrestricted_submarine_warfare_desc:0 "민간 여부 상관 없이 우리의 잠수함이 모든 함선을 경고없이 침몰시키도록 합니다.  일부는 전쟁 규칙 위반이라 생각하지만, 이것이 효과적이라는 것에는 누구도 부정을 안할 것입니다."
+ unrestricted_submarine_warfare_desc:0 "민간 여부 상관 없이 우리의 잠수함이 모든 함선을 경고없이 침몰시키도록 합니다. 일부는 전쟁 규칙 위반이라 생각하지만, 이것이 효과적이라는 것에는 누구도 부정을 안할 것입니다."
  wolfpacks:0 "늑대떼"
  wolfpacks_desc:0 "우리 잠수함을 집단으로 구성해 서로간에 협력을 크게 향상 시킵니다. 적이 우리 잠수함에 위치하면 남은 잠수함 집단이 도착할 때까지 기다리며, 우리가 압도적인 승산이 있을 경우에만 공격합니다."
  advanced_submarine_warfare:0 "발전된 잠수함전"

@@ -17,37 +17,37 @@
  CAN_air_focus:0 "새 공군"
  CAN_air_focus_desc:0 "The world is changing, and so is it's wars. An airforce must be made."
  
- CAN_Loyalty:0 "Canadian Loyalty"
+ CAN_Loyalty:0 "캐나다의 충성심"
  CAN_Loyalty_desc:0 "For a hundred years we have been loyal to the crown, we will be loyal for a hundred more."
  
- CAN_republic:0 "Formalize the Republic"
+ CAN_republic:0 "공화국 공식화"
  CAN_republic_desc:0 "No longer will we be bound by chains of a monarchy, for the Canadian Republic."
  
- CAN_democracy:0 "Northern Freedom"
+ CAN_democracy:0 "북부의 자유"
  CAN_democracy_desc:0 "Every man in this world should experience the delights of freedom. Countries shall hear of this utopia."
  
- CAN_americas_guarantee:0 "Safegaurd the Americas"
+ CAN_americas_guarantee:0 "미국 보호"
  CAN_americas_guarantee_desc:0 "We must protect the Americas. Not only will this expand our influence, but nations will know not to trifle with our republic and it's neighbours."
  
- CAN_seperation:0 "캐네디언 드림"
+ CAN_seperation:0 "캐나디안 드림"
  CAN_seperation_desc:0 "The dream of prosperity, wealth, ambition, and northern pride is only a step away."
  
  CAN_Patriation:0 "Immediate Patriation"
  CAN_Patriation_desc:0 "We demand freedom from these british chains, we will not be held back by foriegn bureaucrats."
  
- CAN_const_monarchy:0 "The British Compromise"
+ CAN_const_monarchy:0 "영국 타협"
  CAN_const_monarchy_desc:0 "We are a traditional people, and as in tradition, we are loyal to the crown."
  
- CAN_commonwealth_research:0 "For the Empire"
+ CAN_commonwealth_research:0 "제국을 위하여"
  CAN_commonwealth_research_desc:0 "We shall maintain our majesty's empire, just as they have helped us maintain our home."
  
- CAN_france_diplomacy:0 "Mission to France"
+ CAN_france_diplomacy:0 "프랑스 외교사절"
  CAN_france_diplomacy_desc:0 "We must communicate with our allies in the west."
  
- CAN_McGill_fair:0 "McGill University Fair"
+ CAN_McGill_fair:0 "맥길 대학교 박람회"
  CAN_McGill_fair_desc:0 "We must delve into scientific research for the commonwealth, and a prestigious school like McGill will double our efforts."
  
- CAN_eng_oil:0 "Develop Albertan Oil Sands"
+ CAN_eng_oil:0 "앨버타 오일샌드 개발"
  CAN_eng_oil_desc:0 "For our economy to grow, we must develop our most valuable resource."
  
  CAN_defense_board:0 "북아메리카 방어"
@@ -95,10 +95,10 @@
  CAN_Alaska:0 "알래스카 요구"
  CAN_Alaska_desc:0 "All northern territory is rightfully Canadian. This american incursion into the north shall be dealt with."
  
- CAN_british_demands:0 "Demand Newfoundland and Labrador"
+ CAN_british_demands:0 "뉴펀들랜드와 래브라도 요구"
  CAN_british_demands_desc:0 "The british empire is falling, and they must release the atlantic colonies from their tyrannical hands."
  
- CAN_france_demands:0 "Demand St.Pierre and Miquelon"
+ CAN_france_demands:0 "생피에르 미클롱 요구"
  CAN_france_demands_desc:0 "The French have no business in North America. This land belongs to Canada and it's people."
  
  CAN_1812:0 "1812년 대안"
@@ -113,23 +113,23 @@
  CAN_reintegrate_columbia:0 "Reintegrate Columbia"
  CAN_reintegrate_columbia_desc:0 "The pacific coast of British Columbia was divided. We shall reunite this territoy with it's former american territory."
  
- CAN_american_puppet:0 "An Amercian Protectorate"
+ CAN_american_puppet:0 "미국 보호령"
  CAN_american_puppet_desc:0 "To bring balance to North America, we must allow the americans to govern themselves with limited power. An American protectorate will be made."
  
  CAN_mexico:0 "Tame the Southern Jaguar"
  CAN_mexico_desc:0 "For years, Mexico has been in civil turmoil. We shall help our monarchist allies in Mexico put an end to this."
  
- CAN_mexican_claims:0 "Reinstate Mexican Claims"
- CAN_mexican_claims_desc:0 "The American south is rightfully Mexican, and was stolen. We shall return their claim of America."
+ CAN_mexican_claims:0 "멕시코 권리 회복"
+ CAN_mexican_claims_desc:0 "미국 남부는 당연히 멕시코 땅이며, 도둑맞았습니다. 우리는 미국에 대한 그들의 권리를 반환할 것입니다."
  
  CAN_mexico_empire:0 "멕시코 제3제국"
- CAN_mexico_empire_desc:0 "With the Americans defeated, it is only right to allow the rebirth of the Mexican Empire."
+ CAN_mexico_empire_desc:0 "미국이 패배한 상황에서 멕시코 제국의 재탄생을 허용하는 것은 옳은 일입니다."
  
  CAN_carribean:0 "카리브 공격"
  CAN_carribean_desc:0 "Europeans will no longer have their fingernails in Central America. It was never theirs to keep. "
  
- CAN_carribean_confederation:0 "A United Carribean Protectorate"
- CAN_carribean_confederation_desc:0 "With the end of European influence in the Carribean, it is our duty as Canadians to help develop this new land. Establish a protectorate."
+ CAN_carribean_confederation:0 "연합 카리브 보호령"
+ CAN_carribean_confederation_desc:0 "카리브 해에서 유럽의 영향력이 종식되면서, 이 새로운 땅을 개발하는 것을 돕는 것은 캐나다인으로서 우리의 의무입니다. 보호령을 설치해야 합니다."
  
  CAN_japanese_alliance:0 "태평양 동맹"
  CAN_japanese_alliance_desc:0 "The Japanese ambition for the pacific may help us with our ambition for North America. Send a diplomat to show a shared interest."
@@ -138,7 +138,7 @@
  CAN_japanese_ships_desc:0 "To develop our fleet, Japanese ships will be needed. Request an order of their most esteemed capital ships."
  
  CAN_german_alliance:0 "신성 모독 동맹"
- CAN_german_alliance_desc:0 "It seems the Germans have a shared interest of destroying British dominance.Send them a telegram of Canadian freindship."
+ CAN_german_alliance_desc:0 "독일인들은 영국의 지배권을 무너뜨리는 것에 대한 공동의 이익을 가지고 있는 것 같습니다. 그들에게 캐나다의 친선 전보를 보냅시다."
  
  CAN_german_ships:0 "독일 선박 주문"
  CAN_german_ships_desc:0 "The Germans have some of the best dreadnoughts ever made. Request an order for German Dreadnoughts."
@@ -149,22 +149,22 @@
  CAN_excavation:0 "캐나다 광물"
  CAN_excavation_desc:0 "Canada is a rich land with minerals everywhere. Utilize these resources."
  
- CAN_lowland_excavation:0 "Lowland Quarries"
- CAN_lowland_excavation_desc:0 "The lowlands contain many escarpments ripe with metals. Expand our quarries."
+ CAN_lowland_excavation:0 "저지대 채석장"
+ CAN_lowland_excavation_desc:0 "저지대에는 금속이 무르익은 비탈진 곳이 많습니다. 채석장을 확장해야 합니다."
  
- CAN_columbian_metals:0 "Pacific Coast Rare Metals"
+ CAN_columbian_metals:0 "태평양 연안 희소금속"
  CAN_columbian_metals_desc:0 "We must exploit the rich rare metals found in the west of Canada. This will expand our industries and manufacturing."
  
- CAN_grand_excavation:0 "Grand Canadian Excavation"
- CAN_grand_excavation_desc:0 "We must improve our methods of extracting resources for a much grander economy."
+ CAN_grand_excavation:0 "대규모 캐나다 채굴"
+ CAN_grand_excavation_desc:0 "우리는 훨씬 더 큰 경제를 위해 자원을 추출하는 우리의 방법을 개선해야 합니다."
  
  CAN_oil:0 "임페리얼 오일"
- CAN_oil_desc:0 "Imperial Oil wants to expand it's facilities to Western Canada. This will bring profits to Canada, and give us an edge on the oil trade."
+ CAN_oil_desc:0 "임페리얼 오일은 그 시설을 캐나다 서부 지역으로 확장하기를 원합니다. 이것은 캐나다에 이익을 가져다 줄 것이고, 우리가 석유 무역의 우위를 차지할 것입니다."
  
  CAN_fuel:0 "텍사스 정제 공장"
  CAN_fuel_desc:0 "Canadian crude oil must be sent to the best and most efficient refineries in North America. Make the deal."
  
- CAN_CNR:0 "Canadian National Railway"
+ CAN_CNR:0 "캐나디안 내셔널 철도"
  CAN_CNR_desc:0 "Our nation is large and sparse. To connect our Canadians together, we must make a railway from sea to sea."
  
  CAN_railway2:0 "The People's Railway"
@@ -287,7 +287,7 @@
  CAN_war_fueled_economy:0 "War Fueled Economy"
  CAN_war_fueled_economy_desc:0 "Canada is ready for war and will no longer be a faultering nation that is falling behind on industrialization."
  
- CAN_industrialized_new:0 "새 캐나다"
+ CAN_industrialized_new:0 "새로운 캐나다"
  CAN_industrialized_new_desc:0 "Canada is united and ready with an industrialized economic heart. No longer do we have a broken economy."
  
  CAN_storm_troopers:0 "돌격대"

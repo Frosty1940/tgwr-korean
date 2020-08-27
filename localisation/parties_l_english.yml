@@ -639,7 +639,11 @@
  HAI_democratic_party:0 "자유당"
  HAI_neutrality_party:0 "국민당"
  
- KOR_democratic_party:0 "PGRK"
+ KOR_fascism_party:0 "대한군정부"
+ KOR_fascism_party_long:0 "대한군정부"
+ KOR_communism_party:0 "KSP"
+ KOR_communism_party_long:0 "한인사회당"
+ KOR_democratic_party:0 "임시 정부"
  KOR_democratic_party_long:0 "대한민국 임시 정부"
  KOR_neutrality_party:0 "이씨 가문"
  KOR_march_one_movement:0 "3·1 운동"

@@ -43,4 +43,6 @@
  BOL_hero_of_pacific:0 "태평양의 영웅"
  BOL_taboo_politician:0 "금기시되는 정치인"
  BOL_secret_caudillo:0 "비밀 카우디요"
- BOL_foreign_leader:0 "외국인 지도자" 
+ BOL_foreign_leader:0 "외국인 지도자"
+ patriota:0 "O Patriota"
+ patriota_desc:0 "The young king is very concerned about the prestige of his country and pays special attention to the army and navy."

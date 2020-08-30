@@ -532,10 +532,8 @@
  ALB_democratic_party:0 "진보당"
  ALB_democratic_party_long:0 "알바니아 진보당"
  
- BOL_democratic_party:0 "PL- 자유주의자"
- BOL_democratic_party_long:0 "자유당 (자유주의자)"
- BOL_neutrality_party:0 "PL- 과두주의자" #Oligarchistas
- BOL_neutrality_party_long:0 "자유당 (과두주의자)" 
+ BOL_democratic_party:0 "공화당"
+ BOL_neutrality_party:0 "자유당"
  BOL_fascism_party:0 "Junta de Gobierno"
  BOL_communism_party:0 "사회당"
  

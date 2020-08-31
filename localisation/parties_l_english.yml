@@ -461,6 +461,7 @@
  NZL_neutrality_party:0 "총독부"
  NZL_democratic_party:0 "자유당"
  NZL_democratic_party_long:0 "뉴질랜드 자유당"
+ NZL_democratic_party_reform:0 "개혁당"
  NZL_communism_party:0 "WSP"
  NZL_communism_party_long:0 "웰링턴 사회당"
  
@@ -488,12 +489,13 @@
  BEL_resistance:0 "LPLRSM-ZMLVZM"
  BEL_resistance_long:0 "폐하의 가장 충실한 저항군" #La Plus Loyale Résistance de Sa Majesté-Zijn Meest Loyale Verzet van Zijne Majesteit
  
- SWI_communism_party:0 "KPS"
- SWI_communism_party_long:0 "스위스 공산당"
+ SWI_fascism_party:0 "SVV"
+ SWI_fascism_party_long:0 "스위스 애국 연맹" #Swiss Patriotic Federation
+ SWI_communism_party:0 "SPS"
+ SWI_communism_party_long:0 "스위스 사회당"
  SWI_democratic_party:0 "연방평의회"
  SWI_democratic_party_long:0 "연방평의회"
- SWI_neutrality_party:0 "FDP"
- SWI_neutrality_party_long:0 "자유민주당"
+ SWI_neutrality_party:0 "스위스군"
  
  RAJ_neutrality_party:0 "인도 총독부"
  RAJ_neutrality_party_long:0 "인도 총독부"

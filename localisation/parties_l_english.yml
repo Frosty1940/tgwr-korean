@@ -95,8 +95,8 @@
  AUH_fascism_party_long:0 "독일 노동자당"
  
  RUS_neutrality_party:0 "로마노프 가문"
- RUS_neutrality_party_URP:0 "러시아 인민연합당"
- RUS_neutrality_party_URP_long:0 "러시아 인민연합당"
+ RUS_neutrality_party_URP:0 "러시아 인민연합"
+ RUS_neutrality_party_URP_long:0 "러시아 인민연합"
  RUS_democratic_party_long:0 "10월 17일 연합"
  RUS_democratic_party:0 "10월당"
  RUS_democratic_party_SR_long:0 "사회혁명당"
@@ -112,7 +112,7 @@
  RUS_fascism_party_OMSK:0 "러시아 정부"
  
  QIN_neutrality_party:0 "섭정의회"
- QIN_neutrality_party_puyi:0 "아이신기오로 가문"
+ QIN_neutrality_party_puyi:0 "청 왕조"
  QIN_fascism_party:0 "군국주의자"
  QIN_communism_party:0 "혁명가"
  QIN_communism_party_long:0 "혁명가"
@@ -136,8 +136,8 @@
  ENG_neutrality_party_long:0 "작센코부르크고타 가문"
  ENG_national_socialist_party:0 "국가사회당"
  ENG_national_socialist_party_long:0 "국가사회당"
- ENG_united_socialist_council:0 "통일사회의회"
- ENG_united_socialist_council_long:0 "통일사회의회"
+ ENG_united_socialist_council:0 "통일사회주의의회"
+ ENG_united_socialist_council_long:0 "통일사회주의의회"
  ENG_windsor:0 "윈저 가문"
  ENG_windsor_long:0 "윈저 가문"
  ENG_tudor:0 "튜더 가문"
@@ -171,7 +171,7 @@
  JAP_communism_party:0 "일본 공산당"
  JAP_democratic_party:0 "입헌민정당"
  JAP_fascism_party:0 "대정익찬회"
- JAP_neutrality_party:0 "야마토 가문"
+ JAP_neutrality_party:0 "야마토 왕조"
 
  USA_communism_party:0 "미국 사회당"
  USA_communism_party_long:0 "미국 사회당"
@@ -193,11 +193,11 @@
  SOV_communism_party_postwar:0 "전연방 공산당"
  SOV_democratic_party_postwar:0 "트루도비크"
  SOV_fascism_party_postwar:0 "러시아 파시스트당"
- SOV_neutrality_party_postwar:0 "임시정부"
+ SOV_neutrality_party_postwar:0 "임시 정부"
  SOV_communism_party_postwar_long:0 "전연방 공산당"
  SOV_democratic_party_postwar_long:0 "트루도비크"
  SOV_fascism_party_postwar_long:0 "러시아 파시스트당"
- SOV_neutrality_party_postwar_long:0 "임시정부"
+ SOV_neutrality_party_postwar_long:0 "임시 정부"
  SOV_communism_party_antibolshevik:0 "러시아 공산당"
  SOV_communism_party_antibolshevik_long:0 "러시아 공산당"
  SOV_neutrality_party_antibolshevik:0 "러시아 전인민당"
@@ -291,10 +291,10 @@
  CAN_neutrality_party_long:0 "협동연방당"
  
  AST_neutrality_party:0 "총독부"
- AST_democratic_party:0 "호주 노동당"
- AST_democratic_party_long:0 "호주 노동당"
- AST_communism_party:0 "호주 사회당"
- AST_communism_party_long:0 "호주 사회당"
+ AST_democratic_party:0 "오스트레일리아 노동당"
+ AST_democratic_party_long:0 "오스트레일리아 노동당"
+ AST_communism_party:0 "오스트레일리아 사회당"
+ AST_communism_party_long:0 "오스트레일리아 사회당"
 
  MEX_democratic_party:0 "입헌진보당"
  MEX_democratic_party_long:0 "입헌진보당"
@@ -319,12 +319,12 @@
  BRA_neutrality_party:0 "브라질 군주주의 운동"
  BRA_neutrality_party_long:0 "브라질 군주주의 운동"
 
- TUR_fascism_party:0 "Enverists"
+ TUR_fascism_party:0 "엔베르주의자"
  TUR_communism_party:0 "오스만 사회당"
  TUR_communism_party_long:0 "오스만 사회당"
  TUR_democratic_party:0 "자유협상"
- TUR_neutrality_party:0 "통일과 진보위원회"
- TUR_neutrality_party_long:0 "통일과 진보위원회"
+ TUR_neutrality_party:0 "통일과 진보 위원회"
+ TUR_neutrality_party_long:0 "통일과 진보 위원회"
 
  HUN_democratic_party:0 "독립당과 48"
  HUN_democratic_party_long:0 "독립당과 48"
@@ -417,7 +417,7 @@
  RAJ_fascism_party:0 "전인도힌두의회"
  RAJ_fascism_party_long:0 "전인도힌두의회"
  
- PER_neutrality_party:0 "카자르 가문"
+ PER_neutrality_party:0 "카자르 왕조"
  
  COL_communism_party:0 "콜롬비아 공산당"
  COL_communism_party_long:0 "콜롬비아 공산당"
@@ -478,7 +478,7 @@
  IRE_communism_party:0 "혁명노동자집단"
  IRE_communism_party_long:0 "혁명노동자집단"
  
- AFG_neutrality_party:0 "바라크자이 가문"
+ AFG_neutrality_party:0 "바라크자이 왕조"
  
  LUX_democratic_party:0 "우파당"
  LUX_communism_party:0 "룩셈부르크 사회노동당"
@@ -499,7 +499,7 @@
  HON_communism_party_long:0 "온두라스 공산당"
  
  NEP_neutrality_party:0 "샤 가문"
- NEP_democratic_party:0 "라나 가문"
+ NEP_democratic_party:0 "라나 왕조"
  
  PAN_democratic_party:0 "자유당"
  PAN_communism_party:0 "노동당"
@@ -566,7 +566,7 @@
  EGY_communism_party_long:0 "이집트 사회당"
  EGY_democratic_party:0 "자유헌법당"
  EGY_democratic_party_long:0 "자유헌법당"
- EGY_neutrality_party:0 "알라위야 가문"
+ EGY_neutrality_party:0 "알라위야 왕조"
  
  PAL_fascism_party:0 "알무카다"
  PAL_communism_party:0 "국민해방동맹"
@@ -576,8 +576,8 @@
  PAL_neutrality_party:0 "충성파"
  
  MNT_democratic_party:0 "인민당"
- MNT_neutrality_party:0 "페트로비치네고시 가문"
- MNT_neutrality_party_long:0 "페트로비치네고시 가문"
+ MNT_neutrality_party:0 "페트로비치네고시 왕조"
+ MNT_neutrality_party_long:0 "페트로비치네고시 왕조"
  
  UKR_democratic_party:0 "우크라이나 사회혁명당"
  UKR_democratic_party_long:0 "우크라이나 사회혁명당"
@@ -649,7 +649,7 @@
  
  QAT_neutrality_party:0 "알 타니 가문"
  
- ASR_neutrality_party:0 "이드리시 가문"
+ ASR_neutrality_party:0 "이드리시 왕조"
  
  SIB_neutrality_party:0 "Esers"
  SIB_communism_party:0 "볼셰비키"

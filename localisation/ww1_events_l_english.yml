@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  #Generic WW1
  ww1_generic.1.t:0 "[?global.year|0]년 선거"
  ww1_generic.1.d:0 "[Root.GetName] 측은 민주 선거를 실시하였습니다. [ROOT.GetLeader] 측의 주장에 따르면 이 어려운 시기에 국가가 살아남을 수 있을 뿐만 아니라 경제적, 외교적으로 성공할 수 있도록 가능한 모든 것을 했다고 했습니다. \n\n 당선자는 이미 유권자들에게 연설을 했고 국가원수의 직무를 받아들일 준비가 되어 있습니다."

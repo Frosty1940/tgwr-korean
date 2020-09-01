@@ -5,10 +5,10 @@
  interwar_recovery:0 "전간기 회복"
  
  #GENERIC
- AUSTRIAN_EMPIRE_SEPARATISM_RULE_TOOLTIP:0 "§Y[AUH.GetName]§!은(는) 제국이 §Y통일 군주제§!로 개혁될 때까지 국가를 해방할 수 없습니다."
- GERMANY_UNITED_RULE_TOOLTIP:0 "§Y[GER.GetName]§!은(는) §Y독일 핵심 주§!를 해방할 수 없습니다."
- RUSSIAN_REVOLUTION_THREAT_RULE_TOOLTIP:0 "§Y[RUS.GetName]§!은(는) §R혁명의 위협§!이 있는 동안 국가를 해방할 수 없습니다."
- SCRAMBLE_FOR_AFRICA_RULE_TOOLTIP:0 "§Y[Root.GetName]§!은(는) §Y아프리카를 위한 쟁탈전§!에 연루되었으며 식민지를 해방할 수 없습니다."
+ AUSTRIAN_EMPIRE_SEPARATISM_RULE_TOOLTIP:0 "§Y[AUH.GetName]§! 측은 제국이 §Y단일군주제§!로 개혁될 때까지 국가를 해방할 수 없습니다."
+ GERMANY_UNITED_RULE_TOOLTIP:0 "§Y[GER.GetName]§! 측은 Y독일 핵심 주§!를 해방할 수 없습니다."
+ RUSSIAN_REVOLUTION_THREAT_RULE_TOOLTIP:0 "§Y[RUS.GetName]§! 측은 §R혁명의 위협§!이 있는 동안 국가를 해방할 수 없습니다."
+ SCRAMBLE_FOR_AFRICA_RULE_TOOLTIP:0 "§Y[Root.GetName]§! 측은 §Y아프리카를 위한 쟁탈전§!에 연루되었으며 식민지를 해방할 수 없습니다."
  ww1_Scramble_for_Africa:0 "아프리카를 위한 쟁탈전"
  ww1_Scramble_for_Africa_desc:0 "§W아프리카를 위한 쟁탈전은 다음 경우에 끝날 것입니다§! §Y대전쟁§!§W, 또는 §! §Y1919년.§!\n\n아프리카 식민지의 자원을 통제하기 위한 유럽 열강들의 경쟁은 이 시대에 세계 긴장이 고조되는 주요 원인입니다."
  idea_spanish_flu_censor:0 "인플루엔자 대유행"
@@ -637,7 +637,7 @@
  meclis_islam:0 "Meclis-i İslam-ı Muhammed-i"
  TUR_monarch:0 "오스만 가문의 최고 권력자"
  idea_turkey_harbiyeli_army:0 "§OHarbiyeliler§!"
- ottoman_family:0 "오스만 왕가"
+ ottoman_family:0 "오스만 황가"
  ottoman_family_socialist:0 "§CNihad-I Esasi§!"
  Nihad:0 "국민의 단결자 니하드"
  sevket:0 "대개혁자이자 3월 31일의 영웅"

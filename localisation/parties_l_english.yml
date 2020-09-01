@@ -50,8 +50,8 @@
  centrism:0 "중도주의"
  centrism_desc:0 "중도주의는 현재와 미래에 필요한 것들을 상식적인 것으로 적절히 연설을 통해 해결하기를 원하는 정부의 한 형태로, 대중의 믿음과 위험을 고려하는 중도선을 이러한 요구의 맥락에서 수용하는 것을 지지합니다."
  # Fascist dicatorship
- military_dictatorship:0 "군부독재"
- military_dictatorship_desc:0 "군부독재란 군부가 정치적 권위에 대해 완전하거나 실질적인 통제권을 행사하는 독재입니다. 군 지도자들은 종종 군정으로서 통치하고, 그들 중 한 명을 우두머리로 뽑습니다."
+ military_dictatorship:0 "군부 독재"
+ military_dictatorship_desc:0 "군부 독재란 군부가 정치적 권위에 대해 완전하거나 실질적인 통제권을 행사하는 독재입니다. 군 지도자들은 종종 군정으로서 통치하고, 그들 중 한 명을 우두머리로 뽑습니다."
  #Syndicalism
  national_syndicalism:0 "국민생디칼리슴"
  national_syndicalism_desc:0 "국민생디칼리즘은 통합국민주의와 생디칼리슴을 결합한 이념입니다. 논리적입니다."

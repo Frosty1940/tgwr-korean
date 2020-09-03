@@ -1,4 +1,5 @@
 ﻿l_english:
+ leave_faction:0 "세력 탈퇴"
  GER_great_war:0 "대전쟁"
  GER_great_war_desc:0 "대전쟁은 전세계 국가들의 운명을 바꿀 것입니다. 만약 파벌 지도자가 항복한다면, 승자들은 그들이 평화를 만들 준비가 된 조건을 결정해야 합니다.\n\n§G승리한 파벌은 화담 이후 영유권 주장 주와 핵심 주를 차지하게 될 것입니다.§!"
  GER_schlieffen_plan:0 "슐리펜 계획"
@@ -65,7 +66,7 @@
  kis_war:0 "대전쟁"
  great_war_loser:0 " 대전쟁의 패배 "
  great_war_winner:0 " 대전쟁의 승리 "
- interbellum:0 " 전간기 "
+ interbellum:0 "전간기"
  great_war_ends:0 " 대전쟁이 끝남 "
  
  RUS_rename_petersburg:0 "상트페테르부르크 개명"

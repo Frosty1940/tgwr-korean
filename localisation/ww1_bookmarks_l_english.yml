@@ -62,17 +62,17 @@
 
  TUR_SCHLIEFFEN_DESC:0 "한때 세계 최강의 제국이었던 것이 이제는 거의 파멸에 이르렀습니다. 술탄국은 더 이상 유럽의 주요 강국으로 여겨지지 않으며, 모든 유럽 강대국들 사이에 터키를 저미는 것은 현실로 점점 더 가까이 기어가는 끊임없는 위협입니다. 설상가상으로 무능한 엔베르 파샤가 정부의 효과적인 통제권을 장악했습니다. \n\n터키 정부에 따르면, 가장 좋은 방법은 독일과 가까워지는 것이며, 그들의 강력한 군대가 우리가 어려울 때 우리를 보호해 줄 수 있기를 바라는 것입니다."
 
- SER_SCHLIEFFEN_DESC:0 "The Balkan Wars saw a massive success for Serbia, as well as their most important ally in Greece. The hard part, however has just begun: The Habsburgs still hold the region of Bosnia, as well as other South Slavic territories. Worse yet, they see Serbia as a troublemaker, and would be more than happy to rid the world of the state at a moment's notice. \n\nFortunately, Russia seems to have taken a liking to Serbia, though perhaps for malicious reasons. If Tsar Peter utilizes this, the world may change forever..."
+ SER_SCHLIEFFEN_DESC:0 "발칸 전쟁은 세르비아와 그리스에게 엄청난 성과를 안겨다주었습니다. 그러나 아직 시작에 불과합니다. 합스부르크 왕가는 남부 슬라브 영토뿐만 아니라, 보스니아 지역을 여전히 가지고 있습니다. 그들은 세르비아를 안좋은 인식으로 보고 있으며, 세르비아가 없어지기를 고대하고 있습니다. \n\n다행히 러시아가 우리의 뒤를 받쳐주고 있으며, 이들을 이용한다면, 위기를 기회로 바꿀 수 있을지 모릅니다."
 
- BUL_SCHLIEFFEN_DESC:0 "Bulgaria was wrong to trust the Greeks and the Romanians to stay out of the inevitable conflict between themselves and Serbia, and are down to the lowest territorial extent since independence from the Ottoman Empire. It is unlikely they will be fooled twice. Russia seems next in the line of false friends, seeking only to profit from the state. \n\nThe only countries that seem to genuinely have Bulgaria's best interests at heart are Germany and Austria. Perhaps it's time for a new alliance?"
+ BUL_SCHLIEFFEN_DESC:0 "불가리아는 자신과 세르비아 사이의 피할 수 없는 갈등에서 벗어나기 위해 그리스와 루마니아를 신뢰했고, 그것은 큰 실수였습니다. 때문에 오스만 제국으로부터 독립한 이래 가장 낮은 영토를 이루게 되었습니다. 더 이상 이런 거짓된 이웃 나라들을 믿을 순 없습니다. \n\n진정으로 불가리아의 이익을 마음에 두고 있는 것처럼 보이는 나라는 독일과 오스트리아 뿐입니다. 새로운 동맹이 필요한 때인가?"
 
- MEX_SCHLIEFFEN_DESC:0 "While initially it seemed Madero's victory in the first phase of the Mexican Civil War was the end of it, in 1913 he was deposed, killed, and replaced by one of his former generals, Victoriano Huerta. Huerta is not popular or terribly competent, and few see him lasting long in command of the nation. \n\nStill, there is no agreement among the Mexican populace as to who is to be the next leader. Some rally behind causes as extreme as Communism or Military Dictatorship. Will Civil War rear its ugly head again?"
+ MEX_SCHLIEFFEN_DESC:0 "초기 멕시코 내전에서 마데로가 승리한 것처럼 보였지만, 1913년 그는 퇴위 및 살해당하고, 전직 장군 중 한 명인 빅토리아노 우에르타로 교체되었습니다. 우에르타는 인기가 없고, 유능하지 않기 때문에, 그가 오랜기간 동안 국가를 통치할 것이라고 보는 사람은 거의 없습니다. 그러나 차기 지도자가 누가 될 것인지에 대해서는 멕시코 국민들 사이에 합의가 이루어지지 않고 있습니다. 아마도 또 한 번의 내전이 그들의 머리에 씌워질 것 같습니다."
 
  JAP_SCHLIEFFEN_DESC:0 "불행히도, 다이쇼 천황은 그의 통치 능력에 심각한 영향을 끼친 정신적 고통으로 저주받은 것으로 밝혀졌습니다. 다행히도 그의 각료들과 다른 황궁 구성원들이 처음으로 자유를 맛보고 있는 일본을 통치하기 시작했습니다. \n\n하지만 여전히, 유럽에서의 전쟁은? 투신하는 것이 일본의 이익에 도움이 됩니까? 결국, 영일 동맹은 기껏해야 미약하며, 일본은 단순히 어느 쪽이 자국의 이익에 이바지할 것인가를 선택하는 데만 기다리는 편이 나을지도 모릅니다."
 
- BEL_SCHLIEFFEN_DESC:0 "Protected by the British, seen by the German as a backdoor leading to Paris avoiding the fortified French military's concentration along the Franco-German border, the Kingdom of Belgium is in a tricky situation.\n\nKing Albert I will have a difficult choice to make, either stand against the Kaiser Wilhelm II and stood side by side with Entente or either let the German troops walk in its territories and take a different course of action."
+ BEL_SCHLIEFFEN_DESC:0 "프랑스-독일 국경을 따라, 요새화된 프랑스군을 뒤로하고, 파리로 이어지는 뒷문으로 보이는 영국인들에 의해 보호받고 있는 벨기에 왕국은 까다로운 상황에 처해 있습니다. \n\n알버트 1세는 빌헬름 2세에 맞서, 협상국과 나란히 서거나, 독일군이 자신들의 영토를 걸어다니게 하며, 다른 행동을 취하게 하는 어려운 선택을 맞이하게 될 것입니다."
 
- HOL_SCHLIEFFEN_DESC:0 "Since the Second Hague Conference in 1907, the Netherlands do everything to avoid a Political Alliance with another European Empire.\n\nAs the drums of war resound to the gates of Amsterdam and despite their strong policy of neutrality, the peaceful mill country could soon find itself back to the wall having to make a choice that could forever change the future of the Dutch Empire.\n\nNo one knows how the fiercely patriotic Queen Wilhelmina will react..."
+ HOL_SCHLIEFFEN_DESC:0 "1907년 제2차 헤이그 회의 이후, 네덜란드는 또 다른 유럽 제국과의 정치적 동맹을 피하기 위해 모든 것을 행할 것입니다. 전쟁의 북이 암스테르담에 울려 펴지자, 그들의 강력한 중립 정책에도 불구하고, 평화로운 풍차 나라는 곧 네덜란드 제국의 미래를 영원히 바꿀 수 없는 선택을 해야 한다는 것을 알게 될 것입니다. \n\n맹렬하게 애국적인 여왕 빌헬미나 께선 어떤 반응을 보이실까요?"
  
  CHI_SCHLIEFFEN_DESC:0 ""
  

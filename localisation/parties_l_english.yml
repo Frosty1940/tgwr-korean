@@ -395,6 +395,10 @@
  BRA_communism_cbt_party_long:0 "브라질 노동자 연합"
  BRA_communism_maximalist_party:0 "브라질 최대주의 연합"
  BRA_communism_maximalist_party_long:0 "브라질 최대주의 연합"
+ BRA_communism_PCB_party:0 "브라질 공산당"
+ BRA_communism_PCB_party_long:0 "브라질 공산당"
+ BRA_communism_KR_party:0 "브라질 생디칼리스트당"
+ BRA_communism_KR_party_long:0 "브라질 생디칼리스트당"
  BRA_neutrality_party:0 "군주제 운동"
  BRA_neutrality_party_long:0 "브라질 군주제 운동"
  BRA_house_of_orleans_braganza:0 "오를레앙-브라간사"
@@ -413,6 +417,7 @@
  BRA_liberal_republican_party:0 "자유공화당"
  BRA_liberal_republican_party_long:0 "자유공화당"   
  BRA_liberal_party:0 "자유당"
+ BRA_republican_reaction_party:0 "반동공화당"
 
  TUR_fascism_party:0 "엔베르주의자"
  TUR_communism_party:0 "오스만 사회당"
@@ -645,6 +650,8 @@
  TAN_democratic_party:0 "진 가문"
  
  PAR_democratic_party:0 "청색당"
+ PAR_neutrality_party:0 "적색당"
+ PAR_communism_party:0 "노동당"
  
  CUB_democratic_party:0 "자치진보당"
  CUB_democratic_party_long:0 "자치진보당"
@@ -700,6 +707,7 @@
  PAL_neutrality_party:0 "충성파"
  
  MNT_democratic_party:0 "인민당"
+ MNT_democratic_party_long:0 "인민당"
  MNT_neutrality_party:0 "페트로비치네고시"
  MNT_neutrality_party_long:0 "페트로비치네고시 왕조"
  

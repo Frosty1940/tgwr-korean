@@ -199,7 +199,7 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  USA_ww1_large_navy:0 "대규모 해군"
  USA_ww1_large_navy_desc:0 "" #KAISER_ANONY
 
- USA_ww1_navyreform:0 "USMC Deployment"
+ USA_ww1_navyreform:0 "미합중국 해병대 배치"
  USA_ww1_navyreform_desc:0 "" #KAISER_ANONY
 
  USA_ww1_submarine_effort:0 "잠수함 주력"
@@ -303,7 +303,7 @@ USA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  USA_ww1_MarxistIdeas:0 "마르크스주의 사상 채택"
  USA_ww1_MarxistIdeas_desc:0 "" #KAISER_ANONY
 
- USA_ww1_SovietUSA:0 "미소비에트국"
+ USA_ww1_SovietUSA:0 "아메리카 소비에트국"
  USA_ww1_SovietUSA_desc:0 "" #KAISER_ANONY
 
  USA_ww1_CommunistMenace:0 "공산주의의 위협"

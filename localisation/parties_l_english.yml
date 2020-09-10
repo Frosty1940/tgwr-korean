@@ -40,7 +40,7 @@
  neutrality:0 "비동맹주의"
  neutrality_desc:0 "권위주의 체제"
  autocracy:0 "독재정"
- autocracy_desc:0 "독재 정치는 최고 권력이 한 사람의 손에 집중되는 정부의 형태이며, 한 사람의 결정은 외부의 법적 구속도 받지 않고 대중의 통제의 규칙화된 메커니즘도 따르지 않습니다."
+ autocracy_desc:0 "독재주의는 최고 권력이 한 사람의 손에 집중되는 정부의 형태이며, 한 사람의 결정은 외부의 법적 구속도 받지 않고 대중의 통제의 규칙화된 메커니즘도 따르지 않습니다."
  despotism:0 "전제정"
  despotism_desc:0 "전제주의는 막강한 권력을 가진 한 사람이 지배하는 정부를 구성합니다."
  oligarchism:0 "과두정"
@@ -233,7 +233,7 @@
  JAP_fascism_party:0 "대정익찬회"
  JAP_neutrality_party:0 "야마토 왕조"
 
- USA_communism_party:0 "사회당"
+ USA_communism_party:0 "미국 사회당"
  USA_communism_party_long:0 "미국 사회당"
  USA_democratic_party:0 "민주당"
  USA_republican_party:0 "공화당"
@@ -338,10 +338,10 @@
  
  SWE_communism_party:0 "스웨덴 공산당"
  SWE_communism_party_long:0 "스웨덴 공산당"
- SWE_democratic_party:0 "온건당"
+ SWE_democratic_party:0 "온건연합당"
  SWE_democratic_party_long:0 "온건연합당"
  SWE_neutrality_party:0 "베르나도테 가문"
- 
+
  FIN_royal_house:0 "헤센 가문"
  FIN_neutrality_party:0 "국가섭정"
  FIN_democratic_party:0 "국민연합당"
@@ -357,17 +357,17 @@
  DEN_communism_party_long:0 "덴마크 좌파사회당"
  DEN_neutrality_party:0 "글뤽스부르크 가문"
  
- CAN_democratic_party:0 "자유당"
+ CAN_democratic_party:0 "캐나다 자유당"
  CAN_democratic_party_long:0 "캐나다 자유당"
- CAN_communism_party:0 "사회당"
+ CAN_communism_party:0 "캐나다 사회당"
  CAN_communism_party_long:0 "캐나다 사회당"
  CAN_neutrality_party:0 "협동연방당"
  CAN_neutrality_party_long:0 "협동연방당"
  
  AST_neutrality_party:0 "총독부"
- AST_democratic_party:0 "노동당"
+ AST_democratic_party:0 "오스트레일리아 노동당"
  AST_democratic_party_long:0 "오스트레일리아 노동당"
- AST_communism_party:0 "사회당"
+ AST_communism_party:0 "오스트레일리아 사회당"
  AST_communism_party_long:0 "오스트레일리아 사회당"
 
  MEX_democratic_party:0 "입헌진보당"
@@ -441,14 +441,14 @@
  ROM_democratic_party_long:0 "국민자유당"
  ROM_fascism_party:0 "민족민주당"
  ROM_fascism_party_long:0 "민족민주당"
-
+ 
  SER_communism_party:0 "세르비아 사회민주당"
  SER_communism_party_long:0 "세르비아 사회민주당"
  SER_democratic_party:0 "인민급진당"
  SER_democratic_party_long:0 "인민급진당"
  SER_fascism_party:0 "흑수단"
  SER_fascism_party_long:0 "단결 혹은 죽음"
- SER_neutrality_party:0 "카라조르제비치"
+ SER_neutrality_party:0 "카라조르제비치 가문"
  SER_neutrality_party_long:0 "카라조르제비치 가문"
 
  BUL_neutrality_party:0 "작센코부르크 가문"
@@ -470,7 +470,7 @@
  SAF_fascism_party:0 "보어인"
  
  NZL_neutrality_party:0 "총독부"
- NZL_democratic_party:0 "자유당"
+ NZL_democratic_party:0 "뉴질랜드 자유당"
  NZL_democratic_party_long:0 "뉴질랜드 자유당"
  NZL_democratic_party_reform:0 "개혁당"
  NZL_communism_party:0 "웰링턴 사회당"
@@ -552,7 +552,7 @@
  ETH_neutrality_party:0 "솔로몬 가문"
  
  ALB_neutrality_party:0 "왕당파"
- ALB_democratic_party:0 "진보당"
+ ALB_democratic_party:0 "알바니아 진보당"
  ALB_democratic_party_long:0 "알바니아 진보당"
  
  BOL_democratic_party:0 "공화당"
@@ -580,7 +580,7 @@
  
  SIA_neutrality_party:0 "짜끄리 가문"
  
- URG_democratic_party:0 "콜로라도"
+ URG_democratic_party:0 "콜로라도당"
  URG_democratic_party_long:0 "콜로라도당"
  URG_communism_party:0 "우루과이 사회당"
  URG_communism_party_long:0 "우루과이 사회당"
@@ -642,7 +642,7 @@
  MON_communism_party:0 "몽골 인민혁명당"
  MON_communism_party_long:0 "몽골 인민혁명당"
  MON_neutrality_party:0 "제쮠담바 후툭투"
- MON_fascism_party:0 "웅게른 충성파"
+ MON_fascism_party:0 "운게른 충성파"
  
  TAN_communism_party:0 "투바 인민혁명당"
  TAN_communism_party_long:0 "투바 인민혁명당"

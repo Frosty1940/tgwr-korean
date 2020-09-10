@@ -1,0 +1,21 @@
+﻿l_english:
+ CAN_democratic_party:0 "자유당"
+ CAN_democratic_party_long:0 "캐나다 자유당"
+ 
+ CAN_democratic_party2:0 "보수당"
+ CAN_democratic_party2_long:0 "캐나다 보수당"
+ 
+ CAN_fascism_party:0 "매카시즘"
+ CAN_fascism_party_long:0 "매카시즘"
+ 
+ CAN_communism_party:0 "SPC"
+ CAN_communism_party_long:0 "캐나다 사회당"
+ 
+ CAN_neutrality_party:0 "군주제지지자연맹"
+ CAN_neutrality_party_long:0 "캐나다군주제지지자연맹"
+ 
+ CAN_neutrality_party_royal:0 "오타와 가문"
+ CAN_neutrality_party_royal_long:0 "오타와 가문"
+ 
+ MEX_neutrality_party_royal:0 "이투르비데 가문"
+ MEX_neutrality_party_royal_long:0 "이투르비데 가문"

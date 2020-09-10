@@ -209,19 +209,19 @@
  infantry_at2_desc:0 "보병들이 중장갑 병력과 효과적으로 교전하기 위해서,  고성능 대전차 무기는 더 작고 가볍게 만들어질 필요가 있습니다."
 
  support_weapons:0 "지원 화기 I"
- support_weapons_desc:0 "초기 기관총 지원."
+ support_weapons_desc:0 "전쟁 전 시대의 표준화된 기관총."
  support_weapons2:0 "지원 화기 II"
- support_weapons2_desc:0 "저격 지원."
+ support_weapons2_desc:0 "저격소총과 감시 장치용 첨단 광학 장비."
  support_weapons3:0 "지원 화기 III"
- support_weapons3_desc:0 "이젤 기관총 지원."
+ support_weapons3_desc:0 "이젤 기관총은 이제 화승을 개선했고, 탄퍼짐을 최소화했습니다."
  support_weapons4:0 "지원 화기 IV"
- support_weapons4_desc:0 "화염방사기 지원."
+ support_weapons4_desc:0 "화염방사기는 특히 연기를 피워 적을 참호 밖으로 나오게 하는 데 효과적입니다."
  support_weapons5:0 "지원 화기 V"
- support_weapons5_desc:0 "초기 휴대용 총 지원."
+ support_weapons5_desc:0 "기관총 치수가 크게 줄어듭니다. 새로운 기관총은 공격 집단뿐만 아니라 지원 무기로도 사용될 수 있습니다."
  support_weapons6:0 "지원 화기 VI"
- support_weapons6_desc:0 "전간기 휴대용 총 지원."
+ support_weapons6_desc:0 "대전의 경험은 기관총의 설계를 개선하고 지원대를 재편성할 것입니다."
  support_weapons7:0 "지원 화기 VII"
- support_weapons7_desc:0 "전간기 기관총 지원."
+ support_weapons7_desc:0 "전후의 공학 경험에 힘입어 신뢰성, 사속, 기관총 이동성이 최고 수준에 도달했습니다."
 
 
 

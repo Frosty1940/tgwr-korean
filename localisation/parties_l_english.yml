@@ -102,9 +102,9 @@
  RUS_democratic_party_long:0 "10월 17일 연합"
  RUS_democratic_party:0 "10월당"
  RUS_democratic_party_SR_long:0 "사회주의혁명당"
- RUS_democratic_party_SR:0 "입헌민주당"
+ RUS_democratic_party_SR:0 "사회혁명당"
  RUS_democratic_party_CDP_long:0 "입헌민주당"
- RUS_democratic_party_CDP:0 "전러시아 정부"
+ RUS_democratic_party_CDP:0 "입헌민주당"
  RUS_democratic_party_UFA_long:0 "전러시아 정부"
  RUS_democratic_party_UFA:0 "집정부"
  RUS_communism_party:0 "사회민주당"
@@ -257,7 +257,7 @@
  SOV_communism_party:0 "볼셰비키"
  SOV_democratic_party:0 "멘셰비키"
  SOV_fascism_party:0 "검은 백인단"
- SOV_neutrality_party:0 "녹색 군대"
+ SOV_neutrality_party:0 "녹군"
  SOV_communism_party_postwar:0 "전연방 공산당"
  SOV_democratic_party_postwar:0 "트루도비크"
  SOV_fascism_party_postwar:0 "러시아 파시스트당"
@@ -372,8 +372,8 @@
 
  MEX_democratic_party:0 "입헌진보당"
  MEX_democratic_party_long:0 "입헌진보당"
- MEX_fascism_party:0 "종교자유수호 국민연맹"
- MEX_fascism_party_long:0 "종교자유수호 국민연맹"
+ MEX_fascism_party:0 "종교자유수호국민연맹"
+ MEX_fascism_party_long:0 "종교자유수호국민연맹"
  MEX_communism_party:0 "사파타주의"
  MEX_neutrality_party:0 "포르피리아토"
  
@@ -422,7 +422,7 @@
  TUR_fascism_party:0 "엔베르주의자"
  TUR_communism_party:0 "오스만 사회당"
  TUR_communism_party_long:0 "오스만 사회당"
- TUR_democratic_party:0 "자유 협상"
+ TUR_democratic_party:0 "자유협상"
  TUR_neutrality_party:0 "통일진보위원회"
  TUR_neutrality_party_long:0 "통일진보위원회"
 
@@ -430,7 +430,7 @@
  HUN_democratic_party_long:0 "독립당과 48"
  HUN_communism_party:0 "헝가리 공산당"
  HUN_communism_party_long:0 "헝가리 공산당"
- HUN_neutrality_party:0 "섭정 정치"
+ HUN_neutrality_party:0 "섭정"
  HUN_fascism_party:0 "헝가리 국방협회"
  HUN_fascism_party_long:0 "헝가리 국방협회"
  
@@ -565,8 +565,8 @@
  
  COS_democratic_party:0 "국민공화당"
  COS_democratic_party_long:0 "국민공화당"
- COS_communistm_party:0 "노동자 농민 연합"
- COS_communistm_party_long:0 "노동자 농민 연합"
+ COS_communistm_party:0 "노동자농민연합"
+ COS_communistm_party_long:0 "노동자농민연합"
  COS_neutrality_party:0 "펠리퀴스타당"
  
  ELS_neutrality_party:0 "자유당"
@@ -597,8 +597,8 @@
  
  IRE_democratic_party:0 "아일랜드 공화주의 형제단"
  IRE_democratic_party_long:0 "아일랜드 공화주의 형제단"
- IRE_communism_party:0 "혁명 노동자 집단"
- IRE_communism_party_long:0 "혁명 노동자 집단"
+ IRE_communism_party:0 "혁명노동자집단"
+ IRE_communism_party_long:0 "혁명노동자집단"
  
  AFG_neutrality_party:0 "바라크자이 왕조"
  
@@ -708,7 +708,7 @@
  
  MNT_democratic_party:0 "인민당"
  MNT_democratic_party_long:0 "인민당"
- MNT_neutrality_party:0 "페트로비치네고시"
+ MNT_neutrality_party:0 "페트로비치네고시 왕조"
  MNT_neutrality_party_long:0 "페트로비치네고시 왕조"
  
  UKR_democratic_party:0 "우크라이나 사회혁명당"
@@ -739,8 +739,8 @@
  ARM_communism_party_long:0 "아르메니아 공산당"
  ARM_neutrality_party:0 "국회"
  
- BLR_democratic_party:0 "벨라루스 기독교 민주주의"
- BLR_democratic_party_long:0 "벨라루스 기독교 민주주의"
+ BLR_democratic_party:0 "벨라루스 기독교민주주의"
+ BLR_democratic_party_long:0 "벨라루스 기독교민주주의"
  BLR_communism_party:0 "벨로루시야 공산당"
  BLR_communism_party_long:0 "벨로루시야 공산당"
  BLR_neutrality_party:0 "라다"

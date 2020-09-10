@@ -680,6 +680,8 @@
  #RUSSIA
  nicholas_ii:0 "니콜라이 2세"
  RUS_idea_urgent_strengthening_of_airfleet:0 "항공대의 시급한 강화"
+ RUS_idea_berlin_baghdad_railway:0 "베를린-바그다드 철도 건설"
+ RUS_idea_berlin_baghdad_railway_desc:0 "[ROOT.GetName] 측은 베를린-바그다드 철도 건설에 동참해 독일 투자자들의 도움을 받고 있습니다."
  RUS_idea_army_collapse:0 "러시아군 붕괴"
  RUS_idea_army_collapse_desc:0 "군대의 일부가 우리에게 반란을 일으켰습니다! 혁명의 시작 때문에 많은 지휘관들이 붉은 군대로 넘어갔습니다. 집단 탈영과 적과의 교제가 러시아군의 완전한 붕괴로 이어졌습니다. 신이시여, 우리가 살아남을 수 있도록 도와주소서!"
  RUS_idea_orthodox_church:0 "정교회의 수호자"
@@ -1145,6 +1147,14 @@
  #USA
  USA_idea_volunteer_corps:0 "자원부대"
  USA_idea_faith_act:0 "신앙법"
+ USA_arms_reduction:0 "무기 감축"
+ USA_idea_labor_desegregation:0 "노동의 인종 차별 철폐"
+ USA_idea_army_desegregation:0 "군대의 인종 차별 철폐"
+ USA_idea_segregation_movement:0 "인종 차별 철폐 운동"
+ USA_idea_labor_equality_act:0 "노동평등법"
+ USA_idea_intervention_in_russia:0 "러시아 간섭"
+ USA_idea_red_terror:0 "적색 테러"
+ USA_arms_reduction_desc:0 "미국인들은 군비통제법을 강요했습니다."
  USA_idea_confederate_heritage:0 "연합국의 유산"
  USA_idea_great_revolution:0 "제2차 미국 혁명"
  USA_idea_legacy_of_revolution:0 "혁명의 유산"

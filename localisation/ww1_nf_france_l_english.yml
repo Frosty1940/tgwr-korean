@@ -305,7 +305,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
 FRA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_triple_alliance:0 "협상국 강화"
-FRA_ww1_triple_alliance_desc:0 "The Entente was formed for a direct reason- to oppose German interests. We must remind the Russia that, for our squabbles, that is an aim we must stay true on, or else they might become too strong to oppose."
+FRA_ww1_triple_alliance_desc:0 "협상국은 독일의 이익에 반대하기 위한 직접적 이유로 결성되었습니다. 우리는 러시아에 우리의 하찮은 불화에 대해, 그것이 우리가 진실하게 유지되어야 하는 목표라는 것을 상기시켜야 합니다. 그렇지 않으면 그들은 너무 강해져서 반대할 수 없을지도 모릅니다."
 
  FRA_ww1_back_uk:0 "영국 지원"
 FRA_ww1_back_uk_desc:0 "The UK was France's worst enemy once, but that time has long gone. Supporting the UK further will perhaps sour our relations with the Russians just a bit, but solidly confirm to the UK that if they have the ships, we have the soldiers."
@@ -365,10 +365,10 @@ FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our
  FRA_ww1_vivani_desc:0 "Prime minister René Viviani is likely not the man at fault for the issues the French military has faced at this point in the war. However, he makes an excellent scapegoat, and isn't exactly too important to lose. Ending his administration will please military officials, and likely give at least a minor boost to the satisfaction of the population."
 
  FRA_ww1_agadir_crisis:0 "모로코 보호령"
- FRA_ww1_agadir_crisis_desc:0 "Rebels are beginning to organize against our puppet, the Sultan of Morocco. While we could intervene immediately, letting him feel the heat for a bit would not only be the perfect pretext for annexation, but also be a good way to ensure that the local governments comply in it. The Germans may try to stick their nose into our affairs, but we do have a backup plan if such is the case."
+ FRA_ww1_agadir_crisis_desc:0 "반란군들이 우리의 꼭두각시인 모로코의 술탄에 대항하여 조직되기 시작하고 있습니다. 우리가 즉각 개입할 수는 있겠지만, 그에게 잠시나마 열기를 느끼게 하는 것은 합병의 완벽한 빌미가 될 뿐만 아니라, 지역 정부가 이에 응할 수 있도록 하는 좋은 방법이 될 것입니다. 독일놈들이 우리 일에 참견하려 할지도 모르지만, 만약 그렇다면 우리에겐 예비 계획이 있습니다."
 
  FRA_ww1_ready_country:0 "전쟁 준비"
- FRA_ww1_ready_country_desc:0 "As the world tension continues to rise, France must build up to resist any oncoming invasion. When these defense measures are complete, there will be no siege of Paris this time."
+ FRA_ww1_ready_country_desc:0 "세계의 긴장이 계속 고조되고 있는 가운데, 프랑스는 다가오는 침략에 저항하기 위해 힘을 모아야 합니다. 이러한 방어조치가 완료되면 이번에는 파리 포위전은 없을 것입니다."
 
  FRA_ww1_alsaceloreaine_propaganda:0 "보복주의 선전"
  FRA_ww1_alsaceloreaine_propaganda_desc:0 "So what if Alsace-Lorraine is German-speaking? It was once French, and as God himself has ordained, all land touched by the French is righfully our own. The only way to get it is with a military campaign against the Germans, which we will begin to start building up support for."

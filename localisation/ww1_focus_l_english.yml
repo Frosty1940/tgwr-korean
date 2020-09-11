@@ -1422,7 +1422,7 @@
  RUS_build_berlin_baghdad_railway_desc:0 "Помочь Германии в строительстве пути к Багдаду. Мотивирует строительство пути Москва-Багдад."
  RUS_denounce_portsmouth:0 "포츠머스 조약 비난"
  RUS_denounce_portsmouth_desc:0 "Начинает миссию, в ходе которой нужно построить достаточно кораблей, чтобы получить бонус к атаке на Японию в случае войны."
- RUS_dalnyi_or_war_desc:0 "Нужно восстановить флот, прежде чем нападать на Японию."
+ RUS_dalnyi_or_war_desc:0 "일본을 공격하기 전에 해군을 재건해야 합니다."
  RUS_safety_of_amur_road_desc:0 "만주의 시베리아 횡단 철도 보호를 보장합니다."
  RUS_safety_of_amur_road_tt:0 "중국 붕괴 위협 시, §Y만주는 러시아의 보호령이 될 것입니다§!.\n\n"
  RUS_focus_on_scandinavia:0 "스칸디나비아 중점"
@@ -1468,6 +1468,7 @@
  RUS_force_tsar_abdtication_desc:0 "케렌스키 (사회주의)가 통치자가 될 것입니다. 혁명의 위협을 제거합니다. 차르는 퇴위합니다."
  RUS_president_election_desc:0 "대통령 책임제 공화국. 평화 시에 허용됩니다."
  RUS_unity_of_entente:0 "협상국 통합"
+ RUS_unity_of_entente_desc:0 "" #RUS_unity_of_entente 자체가 아예 누락되어 있었음
  RUS_rapprochement_with_kaiser:0 "카이저와의 화해"
  RUS_negotiations_with_Lenin:0 "레닌과의 협상"
  RUS_Soviet_Russia:0 "뜻밖의 타협"
@@ -1615,7 +1616,7 @@
  RUS_resist_the_duma_desc:0 "Начинается Кризис Думы, который должен окончиться разгромом оппозиции и установлением большинства националистов."
  RUS_resist_the_duma_tt:0 "§Y정치적 위기가 닥쳤을 때 니콜라스 2세는 퇴위하지 않을 것입니다.§! 그러나 혁명가들은 군주제를 전복시키기 위해 모든 것을 할 것입니다.\n\n"
  RUS_union_of_russian_people:0 "러시아 인민연합당"
- RUS_union_of_russian_people_desc:0 "Правящей партией становится Союз Русского Народа"
+ RUS_union_of_russian_people_desc:0 "러시아 인민연합당이 집권당이 됩니다."
  RUS_orthodoxy_autocracy_nationality:0 "정교회, 전제 정치, 민족"
  RUS_orthodoxy_autocracy_nationality_tt:0 "§R절대군주정을 수립합니다. 두마 사태가 예방되지 않으면 혁명이 시작될 것입니다.§!\n\n"
  RUS_orthodoxy_autocracy_nationality_desc:0 "Провоцирует Гражданскую войну с демократами. Страна становится Абсолютной Монархией. Дума распущена."
@@ -1641,12 +1642,14 @@
  SER_great_serbia:0 "대세르비아"
  SER_great_serbia_desc:0 "Известнейший сербский политик Никола Пашич считал, что славянские государства должны объединяться именно под сербским знаменем."
  SER_black_hand:0 ""통일이냐 죽음이냐""
+ SER_black_hand_desc:0 "" #SER_black_hand_desc 자체가 아예 누락되어 있었음
  SER_support_gendarmerie:0 "국가헌병대 지원"
  SER_unite_nationalist_organization:0 "민족주의 단체 통합"
  SER_balkan_league:0 "발칸 동맹"
  SER_balkan_league_condition:0 "§Y불가리아§!와 §Y그리스§!가 발칸 동맹 가입을 거부하면 §R중점§!이 불가능합니다.\n"
  SER_strengthen_civil_authority:0 "민권 강화"
  SER_establish_regency:0 "섭정 수립"
+ SER_establish_regency_desc:0 "" #SER_establish_regency_desc 자체가 아예 누락되어 있었음
  SER_military_coup:0 "군사 쿠데타"
  SER_intervention_in_albania:0 "알바니아의 지위"
  SER_demand_macedonia:0 "마케도니아 요구"
@@ -1672,6 +1675,7 @@
  SER_coronation:0 "대관식"
  SER_appoint_ministerial_advisers:0 "장관 보좌관 임명"
  SER_war_with_ottomans:0 "오스만 제국과의 전쟁"
+ SER_war_with_ottomans_desc:0 "" #SER_war_with_ottomans_desc 자체가 아예 누락되어 있었음
  SER_finance_university_of_belgrade:0 "베오그라드 대학교에 투자"
  SER_restore_south_serbian_administration:0 "세르비아 남부 행정 복구"
  SER_Strengthen_civilian_authorities:0 "민간 당국 강화"
@@ -1758,6 +1762,7 @@
  ITA_colonial_airbase:0 "식민지 비행장"
  ITA_war_with_ottoman:0 "오스만 제국과의 전쟁"
  ITA_claim_on_lybia:0 "리비아 요구"
+ ITA_claim_on_lybia:0 "" #ITA_claim_on_lybia 자체가 아예 누락되어 있었음
  ITA_claim_on_savoy:0 "가리발디의 집을 해방하라!"
  ITA_destroy_parlament_opposition:0 "급진적 반대파 파괴"
  ITA_flexible_foreign_policy:0 "유연한 외교 정책"
@@ -1775,6 +1780,7 @@
  ITA_protect_industrial_region:0 "산업 지역 보호"
  ITA_protect_mainports:0 "주요 항만 보호"
  ITA_spirit_of_risorgimento:0 "리소르기멘토의 정신"
+ ITA_spirit_of_risorgimento_desc:0 "" #ITA_spirit_of_risorgimento_desc 자체가 아예 누락되어 있었음
  ITA_union_with_greece:0 "그리스와의 로마 조약"
  ITA_punish_ottoman:0 "오스만 처벌"
  ITA_vittoria_mutilata:0 "불구의 승리"
@@ -1826,9 +1832,11 @@
  
  AUH_prevent_collapse_tt:0 "§Y이 중점은 대전에서 패할 경우 제국의 붕괴를 막습니다.§!\n\n"
  AUH_integration_of_bosnia:0 "보스니아 통합"
+ AUH_integration_of_bosnia_desc:0 "" #AUH_integration_of_bosnia_desc 자체가 아예 누락되어 있었음
  AUH_dualism:0 "이원론 강화"
  AUH_suppression_of_separatism:0 "국가적 문제"
  AUH_federalism:0 "합중국"
+ AUH_federalism_desc:0 "" #AUH_federalism_desc 자체가 아예 누락되어 있었음
  AUH_deal_with_italy:0 "이탈리아 처리"
  AUH_deportation_of_italians:0 "이탈리아인 추방"
  AUH_expel_italy:0 "이탈리아를 삼국 동맹에서 추방"

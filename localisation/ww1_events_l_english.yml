@@ -3712,5 +3712,297 @@ ww1_hungary.1.d:0 "공산주의가 얼마나 대중화되고 있는가를 보면
 ww1_hungary.1.a:0 "공산주의자들이 권력을 얻는 걸 절대 용납하지 않을 것이다. 빨갱이보다 죽는 게 낫다."
 ww1_hungary.1.b:0 "우리가 양보를 하면 그들은 침묵할 것이다."
 ww1_hungary.2.t:0 "호르티가 군주제 회복을 시도하다"
-ww1_hungary.2.d:0 "굴욕적인 군사적 패배가 잇따르자 공산정권이 물러났고, 루마니아인들은 한동안 우리 수도를 점령했습니다. 이제 그들은 우리 영토의 서부에서 병력을 후퇴시켰습니다. 호르티 제독은 우리가 민주정권을 회복하는 것이 아니라 군주제를 회복하는 것이 우리 나라에 어떤 정통성을 가져다 줄 것을 제안한니다. 우리는 선택의 여지가 없지만, 또한 이 선택이 최선이라고 생각합니다." 
+ww1_hungary.2.d:0 "굴욕적인 군사적 패배가 잇따르자 공산정권이 물러났고, 루마니아인들은 한동안 우리 수도를 점령했습니다. 이제 그들은 우리 영토의 서부에서 병력을 후퇴시켰습니다. 호르티 제독은 우리가 민주정권을 회복하는 것이 아니라 군주제를 회복하는 것이 우리 나라에 어떤 정통성을 가져다 줄 것을 제안한니다. 우리는 선택의 여지가 없지만, 또한 이 선택이 최선이라고 생각합니다."
 ww1_hungary.2.a:0 "그에게 기회를 줘라."
+
+ #Welcome to Canada
+ canada.1.t:0 "캐나다에 오신 것을 환영합니다 - 캐나다 개발자로부터의 메시지"
+ canada.1.d:0 "Thanks for playing as Canada in the WW1 Redux Mod. There are some things you should consider while playing Canada. You have four options to go down in the focus tree; §C1.Historical§!, §G2.Freedom Historical§!, §B3.Freedom Liberty§!, and §R4.Monarchist Canada§!. I have tried to make the focus tree as plausible as I can, while including a fun game experience. I have also made the focuses as historical as possible, with many references for your immersion. This is the beta version of Canada, and I will be adding much more later!\n Some things to note is that I have not finished a lot of the GFX, so stay tuned, and I will be implementing a Canadian navy when the Mod has finished the navy rework.\nHave fun and I hope you like playing this mod with Canada!\n\n-PrometheusNavagadro"
+ canada.1.a:0 "시작하자!"
+ 
+ #A Mari Usque ad Mare
+ canada.2.t:0 "바다에서 바다로"
+ canada.2.d:0 "In this new day and age, there is a difference between the Canadians and the British. Canada is not a melting-pot. Canada is an association of people who have, and cherish, great differences but who work together because they can respect themselves and eachother. We are a nation that span from sea to sea, and with that realization, we are a nation of many differences."
+ canada.2.a:0 "Our Home and Native Land"
+ 
+ #Canadian Loyalty
+ canada.3.t:0 "왕위에 충성하다"
+ canada.3.d:0 "캐나다는 더 이상 식민지가 아닙니다. 우리는 대영 제국 내에서 발전된 사회입니다. 우리는 영국 입헌 체제의 의회제, 내각제, 그리고 다른 특징들을 물려받았습니다. 우리가 사용하는 이 모든 체계은 영국식이며, 우리가 생각하기도 전에 제자리에 놓여져 있습니다. 왕위에 대한 불충이라는 생각을 할 수나 있습니까."
+ canada.3.a:0 "끝까지 충성하리라."
+ 
+ canada.4.t:0 "캐나다인들이 워싱턴을 방문하다"
+ canada.4.d:0 "캐나다 외교관들이 유럽에서 벌어지고 있는 전쟁에 대해 논의하기 위해 왔습니다. 그들은 미국과의 무역협정을 완화해 줄 것을 요청했습니다. 외교관들은 새로운 화학 무기에서부터 불타는 도시와 도시에 이르기까지 전쟁에서 일어난 많은 잔혹행위를 나타냈습니다. 대영 제국을 대표하여, 그들은 독일군에 대한 전쟁에 참가하기 위해 우리를 지원하고 있습니다. 어떻게 대응해야 합니까?"
+ canada.4.a:0 "제안을 받아들여라."
+ canada.4.b:0 "미국은 중립국이다."
+ canada.4.c:0 "우리는 전쟁을 하지 않을 것이다."
+ 
+ canada.5.t:0 "미국이 제안을 받아들이다"
+ canada.5.d:0 "미국은 더 긴밀한 관계를 위해 우리의 외교적 제안을 받아들였고, 다시 독일과의 전쟁에 참전할지도 모릅니다."
+ canada.5.a:0 "우리의 친밀한 유대관계를 위해 건배."
+ 
+ canada.6.t:0 "미국은 중립을 유지할 것이다"
+ canada.6.d:0 "미국은 중립을 유지하기로 결정했습니다. 그러나 외교 사절단은 실패가 아니었습니다."
+ canada.6.a:0 "아직 기회가 있을까?"
+ 
+ canada.7.t:0 "미국이 제안을 거절하다"
+ canada.7.d:0 "미국은 그들이 유럽에서의 전쟁에서 어떤 부분도 원하지 않는다는 것을 분명히 했습니다. 그들은 심지어 그 노력을 돕기를 원하지도 않습니다. 이렇게 되면 그들과의 관계는 크게 단절될 것입니다."
+ canada.7.a:0 "그들은 결코 우리의 형제는 아니었던 것 같군."
+
+ canada.8.t:0 "1917년 징병 위기"
+ canada.8.d:0 "정치적 및 군사적 위기가 캐나다를 강타했습니다. 프랑스계 캐나다인들은 영국에 대한 충성심이 없다고 느낍니다. 그들은 캐나다에 대한 충성심만 가지고 있을 뿐, 이번 외국의 전쟁은 캐나다와는 아무런 관계가 없습니다. 앙리 부라사가 프랑스계 캐나다인들을 선동해 대규모 시위를 벌였습니다. 우리는 남자들을 최전선으로 이끌기 위해 무언가를 해야 합니다."
+ canada.8.a:0 "오 이런!"
+ 
+ canada.9.t:0 "퀘벡 폭동"
+ canada.9.d:0 "프랑스계 캐나다인들은 대규모 시위와 폭동을 일으키며 거리로 나왔습니다. 그들은 우리가 그들의 타협과 건강한 토론 요구를 듣지 못하고 있다고 화가 났습니다. 징병통지서가 만들어져야 합니다."
+ canada.9.a:0 "이미 끝난 일이다."
+ 
+ canada.10.t:0 "우리의 충성 맹세"
+ canada.10.d:0 "우리의 유산이 우리를 정의하는 것입니다. 우리는 캐나다인일 수도 있지만 마음속으로는 영국인입니다. 우리는 죽어가는 숨결까지도 우리의 왕과 그의 제국을 섬깁니다."
+ canada.10.a:0 "우리는 우리의 왕을 섬긴다."
+ 
+ canada.11.t:0 "캐나다가 뉴펀들랜드와 래브라도를 원하다"
+ canada.11.d:0 "새로 독립한 캐나다는 뉴펀들랜드와 래브라도의 연방 가입을 요청했습니다. 뉴펀들랜드와 래브라도의 식민지 주민들도 같은 요청을 가지고 사절을 보내왔습니다. 지금 그곳은 주로 우리 손을 벗어나 있으므로 주로 서명하지 않으면 안 됩니다."
+ canada.11.a:0 "그곳은 그들의 영토일 것이다."
+ 
+ canada.12.t:0 "영국이 주를 양도하다"
+ canada.12.d:0 "캐나다를 위한 좋은 날입니다. 북부 연방은 완성되었고, 우리는 마침내 통일된 국가입니다."
+ canada.12.a:0 "축하하자."
+ 
+ canada.13.t:0 "우리는 공화국을 요구한다"
+ canada.13.d:0 "사람은 누구나 자유롭게 태어납니다. 우리 캐나다인들이 자유와 자유의 길을 진정으로 채택하기 위해서는 미국인의 삶의 방식을 채택해야 합니다."
+ canada.13.a:0 "모든 캐나다인을 위한 자유!"
+ 
+ canada.14.t:0 "캐나다의 방위 조약 초대"
+ canada.14.d:0 "We have been invited to a mutual defence pact with Mexico and Canada. This will protect the America's from foriegn wars and strengthen our ties with our neighbours."
+ canada.14.a:0 "초대를 받아들여라."
+ canada.14.b:0 "초대를 거절하라."
+
+ canada.15.t:0 "캐나다의 방위 조약 초대"
+ canada.15.d:0 "We have been invited to a mutual defence pact with the USA and Canada. This will protect the America's from foriegn wars and strengthen our ties with our neighbours."
+ canada.15.a:0 "초대를 받아들여라."
+ canada.15.b:0 "초대를 거절하라." 
+ 
+ canada.16.t:0 "조약이 체결되다"
+ canada.16.d:0 "Our neighbours have signed the pact. This is the beginning of an American alliance."
+ canada.16.a:0 "만세!"
+ 
+ canada.17.t:0 "조약이 거절되다"
+ canada.17.d:0 "Our neighbours have declined our invitation. Our efforts have been halted."
+ canada.17.a:0 "실망이군."
+ 
+ canada.18.t:0 "미국의 NATO 협정"
+ canada.18.d:0 "Diplomats from Canada have asked that we should join a North American alliance that will defend North American interests from foriegn threats. This alliance will be very successful economically and will bring our countries bonds closer together."
+ canada.18.a:0 "There is no reason not to Join"
+ canada.18.b:0 "This goes against our Interests"
+ 
+ canada.19.t:0 "멕시코의 NATO 협정"
+ canada.19.d:0 "Diplomats from Canada have asked that we should join a North American alliance that will defend North American interests from foriegn threats. This alliance will be very successful economically and will bring our countries bonds closer together."
+ canada.19.a:0 "There is no reason not to Join"
+ canada.19.b:0 "This goes against our Interests"
+ 
+ canada.20.t:0 "Canadian Diplomats in Havana"
+ canada.20.d:0 "Canadian diplomats have arrived in Havana and wish to strengthen relations, trade for our precious cigars, as well as invite us to an alliance of North America. This would keep us protected from European nations and our products could be sold more."
+ canada.20.a:0 "What the Hell, Accept the Canadian Offer"
+ canada.20.b:0 "We would rather stick to selling Cigars"
+ 
+ canada.21.t:0 "Canadian Diplomats in Panama City"
+ canada.21.d:0 "Canadian diplomats have arrived in Havana and wish to strengthen relations, continue free trade negotiations, and invite us to an alliance of North America. This would gaurantee our freedom and protection."
+ canada.21.a:0 "Offer the Diplomats a Fine stay at our Beach Resorts"
+ canada.21.b:0 "We are not Interested in Canadian Protection"
+ 
+ canada.22.t:0 "미국이 받아들이다"
+ canada.22.d:0 "The US has Accepted our alliance offer."
+ canada.22.a:0 "A Toast to our American Brothers"
+ 
+ canada.23.t:0 "멕시코가 받아들이다"
+ canada.23.d:0 "Mexico has Accepted our alliace offer"
+ canada.23.a:0 "A Toast to our Mexican Amigos"
+ 
+ canada.24.t:0 "쿠바가 받아들이다"
+ canada.24.d:0 "Cuba has Accepted our alliance offer"
+ canada.24.a:0 "A Toast to our Cuban Compadres"
+ 
+ canada.25.t:0 "파나마가 받아들이다"
+ canada.25.d:0 "Panama has Accepted our alliance offer"
+ canada.25.a:0 "A Toast to our Panamanian Camaradas"
+
+ canada.26.t:0 "The US Declines our Offer"
+ canada.26.d:0 "The US has Declined our alliance offer."
+ canada.26.a:0 "Oh Well"
+ 
+ canada.27.t:0 "Mexico Declines our Offer"
+ canada.27.d:0 "Mexico has Declined our alliace offer"
+ canada.27.a:0 "Oh Well"
+ 
+ canada.28.t:0 "Cuba Declines our Offer"
+ canada.28.d:0 "Cuba has Declined our alliance offer"
+ canada.28.a:0 "At least we can still import Cigars"
+ 
+ canada.29.t:0 "Panama Declines our Offer"
+ canada.29.d:0 "Panama has Declined our alliance offer"
+ canada.29.a:0 "So much for the Panamanian Vacation Spots"
+ 
+ canada.30.t:0 "캐나다 제국주의"
+ canada.30.d:0 "A new imperial sentiment is rising in Canada. Canadians are begging for a national identity. Canadians are begging for an ambitious country. Canadians are begging for an awe inspiring leader. It is time to forget the old world and their squabbles for worthless clay. It is time for the Canadian to recognize their destiny and the pivotal role that will be played in the wars to come. Canada will break the chains of colonial enslavement from a foreign monarch, and grant power to it's own Prince. 'Glory', 'Patriotism' and 'Pride' will be the words taught to Canadians, not 'obedience', 'subservience' and 'compliance'. From this day forward, Canada will be Glorious"
+ canada.30.a:0 "May We be Glorious in the Wars to Come!"
+ 
+ canada.31.t:0 "The Forgotten Prince"
+ canada.31.d:0 "Prince Arthur, Duke of Connaught and Strathearn, Governor General of Canada, may you accept a crown fit for a King, a country large enough for an emperor, and a people fit for service. Rise King Arthur, first of his name, King of Canada, House of Ottawa. LONG MAY HE REIGN!"
+ canada.31.a:0 "LONG MAY HE REIGN!"
+ 
+ canada.32.t:0 "북쪽의 제국"
+ canada.32.d:0 "For Canada to be a relevant industrial nation of the modern era, we must make allies, strike niegbours, and claim what is rightfully ours. Our home will be forged into the greatest nation the world has ever seen. Canadians will only know Ice and Blood"
+ canada.32.a:0 "ICE AND BLOOD!"
+ 
+ canada.33.t:0 "Canada Wishes to Purchase Greenland"
+ canada.33.d:0 "Canada has sent diplomats to discuss the purchase of Greenland. They have given an offer we cannot refuse, and have also gauranteed our saftey, and the saftey of danish people on Greenland. The Canadians have been very kind and wish to continue a prosperous trading agreement with us."
+ canada.33.a:0 "Give them the Northern Wasteland"
+ 
+ canada.34.t:0 "덴마크가 그린란드를 넘겨주다"
+ canada.34.d:0 "Denmark has given us Greenland in return for Canadian resources and good relations. Our Empire grows larger."
+ canada.34.a:0 "This is Greatly Appreciated"
+ 
+ canada.35.t:0 "캐나다가 알래스카를 요구하다"
+ canada.35.d:0 "Canada has demanded Alaska, claiming it is a northern territory under their influence."
+ canada.35.a:0 "Manifest Destiny is Dead"
+ canada.35.b:0 "The Canadians Cannot threaten Us"
+ 
+ canada.36.t:0 "The US has Accepted our Demands"
+ canada.36.d:0 "The US has caved to our demands. Alaska is now ours and our empire grows stronger."
+ canada.36.a:0 "American Fools"
+ 
+ canada.37.t:0 "The US has Declined our Demands"
+ canada.37.d:0 "The cowards in the US have declined rightful Canadian territory. Prepare the Canadian war machine."
+ canada.37.a:0 "더러운 비겁자들."
+ 
+ canada.38.t:0 "캐나다가 뉴펀들랜드와 래브라도를 요구하다"
+ canada.38.d:0 "캐나다는 우리의 북미 식민지를 요구해 왔습니다. 그것은 그들의 영향력 아래 있지만, 우리는 그 지역이 향후 전쟁에 유용할 수 있습니다."
+ canada.38.a:0 "엄밀히 말하면 그곳은 캐나다 땅이다."
+ canada.38.b:0 "그곳은 우리 식민지다."
+ 
+ canada.39.t:0 "Britain has Accepted our Demands"
+ canada.39.d:0 "Britain has caved to our demands. Newfoundland and Labrador is has been integrated into our empire after all these years."
+ canada.39.a:0 "The British are Weak"
+ 
+ canada.40.t:0 "Britain has Declined our Demands"
+ canada.40.d:0 "The British fools have declined what is rightfully ours. This is more than an insult to the Canadian identity."
+ canada.40.a:0 "제국에 반대하라!"
+ 
+ canada.41.t:0 "캐나다가 생피에르 미클롱을 요구하다"
+ canada.41.d:0 "캐나다가 생피에르 미클롱을 요구합니다. 그것은 프랑스와 문화적으로 다르며, 그 지역을 붙잡을 필요가 없습니다."
+ canada.41.a:0 "캐나다인들에게 선물로 줘라."
+ canada.41.b:0 "그곳은 프랑스 땅이다."
+ 
+ canada.42.t:0 "프랑스가 우리에게 선물을 주다"
+ canada.42.d:0 "France has gifted us St. Pierre and Miquelon explaining it is long past time that it is Canadian soil."
+ canada.42.a:0 "프랑스인들은 좋은 사람들이다"
+ 
+ canada.43.t:0 "France Rejects our Demands"
+ canada.43.d:0 "The French have declined the transfer of St. Pierre and Miquelon. This is outrageous."
+ canada.43.a:0 "This is Unacceptable!"
+ 
+ canada.45.t:0 "자유는 죽었다"
+ canada.45.d:0 "캐나다인들은 신속한 미국 침공으로 우리를 패배시켰습니다. 그들의 동맹국 멕시코가 남쪽에서 우리를 공격하고 있으니, 희망이 없습니다. 그리고 우리는 자유의 죽음을 보게 될 것입니다."
+ canada.45.a:0 "캐나다와 멕시코에 영토를 양도하라."
+ canada.45.b:0 "우리가 그들을 이길 수 없다면, 그들과 합류하라."
+ canada.45.c:0 "자유가 아니면 죽음을 달라."
+ 
+ canada.46.t:0 "자유는 죽었다"
+ canada.46.d:0 "캐나다인들은 신속한 미국 침공으로 우리를 패배시켰습니다. 그들의 동맹국 일본이 태평양에서 우리를 밀어내고 있으니, 희망이 없습니다. 그리고 우리는 자유의 죽음을 보게 될 것입니다."
+ canada.46.a:0 "캐나다와 일본에 영토를 양도하라."
+ canada.46.b:0 "우리가 그들을 이길 수 없다면, 그들과 합류하라."
+ canada.46.c:0 "자유가 아니면 죽음을 달라."
+ 
+ canada.47.t:0 "자유는 죽었다"
+ canada.47.d:0 "캐나다인들은 신속한 미국 침공으로 우리를 패배시켰습니다. 우리의 산업력이 상실되었으니, 희망이 없습니다. 그리고 우리는 자유의 죽음을 보게 될 것입니다."
+ canada.47.a:0 "캐나다에 영토를 양도하라."
+ canada.47.b:0 "우리가 그들을 이길 수 없다면, 그들과 합류하라."
+ canada.47.c:0 "자유가 아니면 죽음을 달라."
+ 
+ canada.48.t:0 "미국이 항복하다"
+ canada.48.d:0 "After vigourous fighting, the US has surrendered to our great Empire. We have showed them only Ice and Blood. They have handed over our rightful claims of land. With peace negotiations, the US owes us large sums of war reparations, and must declare us the Rightful Protector of the Americas!"
+ canada.48.a:0 "천년제국이여!"
+ 
+ canada.49.t:0 "미국이 항복하다"
+ canada.49.d:0 "After vigourous fighting, the US has surrendered to our great Empire. We have showed them only Ice and Blood. They have handed over our rightful claims of land. The US has also decided to join our nation as a Canadian Protectorate. This is the best possible outcome. We truly are the Rightful Protector of the Americas now."
+ canada.49.a:0 "천년제국이여!"
+ 
+ canada.51.t:0 "관에 못 박기"
+ canada.51.d:0 "캐나다인들은 마침내 북아메리카에서 그들의 궁극적인 권위를 행사하게 되었습니다. 그들은 우리에게 항복을 요구했고, 그리고 그들은 우리와 북아메리카를 보호할 것입니다."
+ canada.51.a:0 "생존을 위해서다."
+ canada.51.b:0 "우린 노예가 아니다."
+ 
+ canada.52.t:0 "미국이 괴뢰화를 수락하다"
+ canada.52.d:0 "The US has accepted our proposal to become an American Protectorate"
+ canada.52.a:0 "미국은 이제 없다."
+ 
+ canada.53.t:0 "The US has Declined Vassalization"
+ canada.53.d:0 "The US has declined our proposal to become an American Protectorate"
+ canada.53.a:0 "이것은 치욕이다."
+ 
+ canada.54.t:0 "그레이 전보"
+ canada.54.d:0 "Canada has sent Albert Grey to discuss issues involving the US. Canada Has recently supported us in national pride and Mexican heritage, and this alliance could benefit us greatly. We will gain our historical claims on the US, and will have the full support of the Canadian Military by our side."
+ canada.54.a:0 "What could Possibly go Wrong"
+ canada.54.b:0 "We Have too Many Problems Already"
+ 
+ canada.55.t:0 "멕시코가 받아들이다"
+ canada.55.d:0 "멕시코는 미국에 대항하는 우리의 상호조약을 받아들였습니다. 이것은 우리에게는 중대한 승리입니다."
+ canada.55.a:0 "독수리를 꼬챙이에 끼었다."
+ 
+ canada.56.t:0 "멕시코가 거절하다"
+ canada.56.d:0 "The foolish morons in Mexico have declined our offer of mutual alliance against the US. What to we do now?"
+ canada.56.a:0 "이번엔 또 뭐야?"
+ 
+ canada.57.t:0 "The Ascendence of Agustin de Iturbide y Green"
+ canada.57.d:0 "The Canadians have asked Agustin, the last remaining heir to the Mexican Empire, to take the throne. This will bring us closer to the Canadians, and guarantee our claim on Mexican land in the US."
+ canada.57.a:0 "La Patria es Primero"
+ 
+ canada.58.t:0 "The Canadians Propose a Pacific Alliance"
+ canada.58.d:0 "Canadian diplomats have proposed an alliance, which will be bound in blood. They have commented on the situation in the Pacific, and how we should be the masters of the Pacific. With this deal, Canada will attack the US, and we will take the Pacific, leaving Hawaii to Canada. This will expand our Trade dominion and recources in the Pacific, as well as show our military power."
+ canada.58.a:0 "Accept the Proposal"
+ canada.58.b:0 "We Cannot Back This Plan"
+ 
+ canada.59.t:0 "일본이 받아들이다"
+ canada.59.d:0 "The Empire of Japan has accepted our proposal for a Pacific Alliance."
+ canada.59.a:0 "Our Families Will be Bound in Blood"
+ 
+ canada.60.t:0 "일본이 거절하다"
+ canada.60.d:0 "The Empire of Japan has declined our proposal for a Pacific Alliance. They do not believe it is in their best interest to go to war with the USA. "
+ canada.60.a:0 "So Be It!"
+ 
+ canada.61.t:0 "캐나다인들이 동맹국 가입을 요청하다"
+ canada.61.d:0 "Canadian diplomats have proposed to join the Central Powers. This will help us greatly if the US decides to join the war. "
+ canada.61.a:0 "제안을 받아들여라."
+ canada.61.b:0 "캐나다는 너무 약하다."
+ 
+ canada.62.t:0 "독일 제국이 받아들이다"
+ canada.62.d:0 "The German Empire has accepted our proposal to join the Central Powers."
+ canada.62.a:0 "우리는 전쟁할 준비가 되었다."
+ 
+ canada.63.t:0 "독일이 거절하다"
+ canada.63.d:0 "The German Empire has refused our allowance into the Central Powers"
+ canada.63.a:0 "그렇다면 좋다!"
+ 
+ canada.64.t:0 "Army Deadlock"
+ canada.64.d:0 "The Canadian Armed Forces have been in a deadlock argument about what we should focus on. A large portion of the army wants to focus on winter war and survival, while the Navy and a small portion of the army want to focus on naval tactics and the Canadian Marines. What should we do?"
+ canada.64.a:0 "The North is our Strength!"
+ canada.64.b:0 "The Ocean is our Strenght!"
+ 
+ canada.65.t:0 "우리의 해군 계획"
+ canada.65.d:0 "The Canadian Naval Administration is considering what to invest resources in. Do we want a submersive and deceitful navy, or a powerful and protective navy?"
+ canada.65.a:0 "Submersive is the Plan!"
+ canada.65.b:0 "Powerful Gets Things Done!"
+ 
+ canada.66.t:0 "공군 개혁"
+ canada.66.d:0 "Canada's newly created airforce must focus on developing and designing planes. We must decide whether we want to control the skies, or support our troops."
+ canada.66.a:0 "하늘을 차지하라!"
+ canada.66.b:0 "우리의 용감한 사람들을 지원하라!"
+ 
+ canada.67.t:0 "선거"
+ canada.67.d:0 "전국적인 선거가 우리에게 닥쳤습니다. 로버트 보든은 영국을 도울 보수당 영국 충성파인데, 윌프리드 로리에는 캐나다가 영국에의 의존에서 벗어나 자유로 나아가기를 원합니다."
+ canada.67.a:0 "보든이 우리의 충성심을 지켜줄 것이다."
+ canada.67.b:0 "우리나라는 영국식 가식를 취할 필요가 없다."
+ 
+ canada.68.t:0 "새 총리 선출"
+ canada.68.d:0 "로버트 보든의 후임자 아서 미언이 선거에서 승리하여 캐나다의 수상으로 임명되었습니다."
+ canada.68.a:0 "그의 행운을 빈다."

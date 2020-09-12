@@ -362,7 +362,6 @@
  CAN_democratic_party2:0 "캐나다 보수당"
  CAN_democratic_party2_long:0 "캐나다 보수당"
  CAN_fascism_party:0 "매카시즘"
- CAN_fascism_party_long:0 "매카시즘"
  CAN_communism_party:0 "캐나다 사회당"
  CAN_communism_party_long:0 "캐나다 사회당"
  CAN_neutrality_party:0 "군주제지지자연맹"
@@ -477,7 +476,7 @@
  SAF_democratic_party_long:0 "남아프리카당"
  SAF_fascism_party:0 "보어인"
  
- NZL_neutrality_party:0 "총독부"
+ NZL_neutrality_party:0 "뉴질랜드 총독부"
  NZL_democratic_party:0 "뉴질랜드 자유당"
  NZL_democratic_party_long:0 "뉴질랜드 자유당"
  NZL_democratic_party_reform:0 "개혁당"

@@ -1079,6 +1079,8 @@
  ENG_caribbean_aftermath_desc:0 "우리의 가장 오래된 식민지의 일부를 아주 짧은 기간에 잃어버린 후, 우리는 해외 문제를 다루는 방식에 대한 심각한 개혁과 변화가 필요합니다. 우리는 이를 금방 잊지 않을 것입니다!"
  ENG_PCIA:0 "내무인민위원회"
  ENG_PCIA_2:0 "내무인민위원회"
+ ENG_PCIA_mosley:0 "내무인민위원회"
+ ENG_PCIA_mosley_2:0 "내무인민위원회"
  ENG_great_war_revenge:0 "보복주의 정신"
  ENG_post_war_stoicism:0 "스토아 철학"
  ENG_hm_loyal_secret_police:0 "폐하의 왕립경찰대"
@@ -1345,7 +1347,7 @@ serbian_sparta_desc:0 "몬테네그로는 수세기 동안 터키인과의 싸�
  BRA_idea_renegotiated_external_debt:0 "재조정된 외채"
  BRA_contestado_war:0 "콘테스타도 전쟁"
  BRA_contestado_war_desc:0 "The Contestado War, broadly speaking, is a guerrilla war for land between settlers and landowners, the latter supported by the Brazilian state's police and military forces.\n\nThe conflict is permeated by religious fanaticism expressed by faith that they are engaged in a religious war."
- BRA_professional_army:0 "전문적인 군대"
+ BRA_idea_professional_army:0 "전문적인 군대"
  BRA_idea_rebuild_the_imperial_navy:0 "제국 해군 재건"
 
  BRA_estrada_ferro_central_brasil:0 "Estrada de Ferro Central do Brasil"

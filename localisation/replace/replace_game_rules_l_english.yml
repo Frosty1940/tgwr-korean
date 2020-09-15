@@ -5,3 +5,14 @@
  rule_burgundy_activation_description:0 "독일의 대전 승리에 따라, 벨기에는 옛 벨기에의 정체성을 지우려는 독일인들의 시도로 '부르군트'로 이름이 바뀔 것입니다.\n\n당초 독일이 승리하는 한 무조건적으로 부르군트가 수립되는 것에 대한 여부를 놓고 내부 분쟁이 벌어져 이 설정이 추가된 것입니다."
  rule_burgundy_disabled:0 "독일 승리 시 벨기에 유지"
  rule_burgundy_disabled_description:0 "독일의 대전 승리에 따라 벨기에를 인정하던 국경은 크게 바뀌었지만 벨기에는 옛 명칭이 그대로 유지될 것입니다.\n\n당초 독일이 승리하는 한 무조건적으로 무조건적으로 부르군트가 수립되는 것에 대한 여부를 놓고 내부 분쟁이 벌어져 이 설정이 추가된 것입니다."
+
+ #AI BEHAVIOR
+ RULE_OPTION_JUNTA:0 "군사 정부"
+ RULE_OPTION_SOCIALIST:0 "사회주의자"
+ 
+ #Brazil
+ BRA_AI_BEHAVIOR:0 "@BRA 브라질"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_BRA_AI_DESC:0 "브라질 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
+ RULE_FASCIST_BRA_AI_DESC:0 "브라질 AI는 플로리아누주의 군사 독재를 시도할 것입니다."
+ RULE_OPTION_NEUTRALITY_MONARCHIST_BRA_AI_DESC:0 "브라질 AI는 브라질 제국 재수립 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_DEMOCRATIC_ALTERNATE_BRA_AI_DESC:0 "브라질 AI는 공화국 개혁 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."

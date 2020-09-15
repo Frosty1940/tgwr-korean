@@ -1179,7 +1179,7 @@ CAN_the_mounties_desc:0 "기마경찰이 캐나다군에 통합됨으로써 우�
 CAN_the_prairies:0 "캐나다 식량 보급"
 CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 양의 비옥한 땅을 가지고 있습니다. 이 식량을 최전선으로 보내야 합니다."
 
-  ####################
+ ####################
  
  #CHINA/QING
  QIN_idea_purchase_restriction:0 "구매 제한"
@@ -1307,15 +1307,15 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
  HOL_spread_socialism_bel:0 "[BEL.GetName]의 지하 운동"
  HOL_underground_agitation:0 "지하 소요"
 
-#ISRAEL
-ISR_jewish_colonisation:0 "유대인 식민지화"
-ISR_jewish_colonisation_desc:0 "비록 이 땅은 원래 신의 선택받은 민족이 살고 있는 것은 아니었지만, 유태인 디아스포라는 1만 5천년 만에 마침내 유대 국가를 이루겠다는 희망으로 지금 떼를 지어 몰려들고 있습니다."
+ #ISRAEL
+ ISR_jewish_colonisation:0 "유대인 식민지화"
+ ISR_jewish_colonisation_desc:0 "비록 이 땅은 원래 신의 선택받은 민족이 살고 있는 것은 아니었지만, 유태인 디아스포라는 1만 5천년 만에 마침내 유대 국가를 이루겠다는 희망으로 지금 떼를 지어 몰려들고 있습니다."
 
-#MONTENEGRO
-serbian_sparta:0 "세르비아 스파르타"
-serbian_sparta_desc:0 "몬테네그로는 수세기 동안 터키인과의 싸움에서 세르비아 스파르타-몬테네그로인의 유명한 영웅적 행위를 따서 세르비아 스파르타라고 불리는 경우가 많습니다."
+ #MONTENEGRO
+ serbian_sparta:0 "세르비아 스파르타"
+ serbian_sparta_desc:0 "몬테네그로는 수세기 동안 터키인과의 싸움에서 세르비아 스파르타-몬테네그로인의 유명한 영웅적 행위를 따서 세르비아 스파르타라고 불리는 경우가 많습니다."
 
-#Brazil
+ #Brazil
  BRA_idea_coronelism:0 "코로넬리즘"
  BRA_idea_coronelism_desc:0 ""Rule of the Coronels", it's responsible for the centralization of the political power in the hands of a locally dominant oligarch, known as a coronel, who would dispense favors in return for loyalty."
  BRA_idea_coffee_with_milk:0 "Café com leite politics"

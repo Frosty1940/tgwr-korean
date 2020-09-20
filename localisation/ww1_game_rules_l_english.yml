@@ -1,0 +1,38 @@
+l_english:
+#The Burgundy Rule >:)
+ RULE_BURGUNDY_TGWR:0 "부르군트 통치"
+ rule_burgundy_activated:0 "독일 승리 시 부르군트 수립"
+ rule_burgundy_activation_description:0 "독일의 대전 승리에 따라, 벨기에는 옛 벨기에의 정체성을 지우려는 독일인들의 시도로 '부르군트'로 이름이 바뀔 것입니다.\n\n당초 독일이 승리하는 한 무조건적으로 부르군트가 수립되는 것에 대한 여부를 놓고 내부 분쟁이 벌어져 이 설정이 추가된 것입니다."
+ rule_burgundy_disabled:0 "독일 승리 시 벨기에 유지"
+ rule_burgundy_disabled_description:0 "독일의 대전 승리에 따라 벨기에를 인정하던 국경은 크게 바뀌었지만 벨기에는 옛 명칭이 그대로 유지될 것입니다.\n\n당초 독일이 승리하는 한 무조건적으로 무조건적으로 부르군트가 수립되는 것에 대한 여부를 놓고 내부 분쟁이 벌어져 이 설정이 추가된 것입니다."
+
+ #AI BEHAVIOR
+ RULE_OPTION_JUNTA:0 "군사 정부"
+ RULE_OPTION_SOCIALIST:0 "사회주의자"
+ 
+ #Brazil
+ BRA_AI_BEHAVIOR:0 "@BRA 브라질"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_BRA_AI_DESC:0 "브라질 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
+ RULE_FASCIST_BRA_AI_DESC:0 "브라질 AI는 플로리아누주의 군사 독재를 시도할 것입니다."
+ RULE_OPTION_NEUTRALITY_MONARCHIST_BRA_AI_DESC:0 "브라질 AI는 브라질 제국 재수립 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_DEMOCRATIC_ALTERNATE_BRA_AI_DESC:0 "브라질 AI는 공화국 개혁 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_MAXIMALIST:0 "최대주의자"
+ RULE_MAXIMALIST_BRA_AI_DESC:0 "브라질 AI는 최대주의자들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_SYNDICALIST:0 "생디칼리스트"
+ RULE_SYNDICALIST_BRA_AI_DESC:0 "브라질 AI는 생디칼리스트들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+
+  #Bulgaria
+ BUL_AI_BEHAVIOR:0 "@BUL 불가리아"
+ RULE_OPTION_HISTORICAL_BUL_AI_DESC:0 "불가리아 AI는 최대한 많은 역사적 사건을 발생시길 것입니다."
+ RULE_OPTION_BORIS_III:0 "보리스 3세의 통치"
+ RULE_OPTION_BORIS_III_S_AI_DESC:0 "불가리아 AI는 보리스 3세를 조기에 집권시키고 대전 중 중립을 지키려는 시도와 관련 있는 국가적 중점 계통도를 따라 내력라 것입니다."
+ RULE_OPTION_LIBERALIST_BUL:0 "자유주의자"
+ RULE_OPTION_LIBERALIST_BUL_AI_DESC:0 "불가리아 AI는 자유주의자들을 조기에 집권시키고 대전 중 동맹국에 가입하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_AGRARIANIST_BUL:0 "농본주의자"
+ RULE_OPTION_AGRARIANIST_BUL_AI_DESC:0 "불가리아 AI는 농본주의자들을 조기에 집권시키고 대전 중 협상국에 가입하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_SOCILAIST_BUL_AI_DESC:0 "불가리아 AI는 사회주의자들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를  따라 내려갈 것입니다."
+ RULE_OPTION_FASCIST_BUL:0 "프로토파시스트"
+ RULE_OPTION_FASCIST_BUL_AI_DESC:0 "불가리아 AI는 대전 중 반동주의자들을 조기에 집권시키고 동맹국에 가입하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_RADOMIR_REPUBLIC:0 "라도미르 공화국"
+ RULE_OPTION_RADOMIR_REPUBLIC_BUL_AI_DESC:0 "불가리아 AI는 라도미르 공화국 수립 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ 

@@ -477,6 +477,10 @@
  BRA_contestado_war_7:0 "일곱번째 공세"
  BRA_contestado_war_8:0 "마지막 공세"
  BRA_second_federalist_revolution:0 "제2차 연방 혁명"
+ BRA_reincorporate_riograndense_republic:0 "히우그란지 공화국 재통합"
+ BRA_spreading_revolution_category:0 "혁명 전파"
+ BRA_socialist_influence:0 "[From.GetNameDefCap]에 사회주의 전파"
+ BRA_socialist_coup:0 "[From.GetName]의 사회주의 혁명"
 
  SAU_conquer_al_hasa:0 "알하사 정복"
 
@@ -485,6 +489,4 @@
  BUL_form_byzantine_empire:0 "비잔티움 복원"
  BUL_form_byzantine_empire_category:0 "새로운 비잔티움"
  BUL_form_byzantine_empire_category_desc:0 "그의 이전의 많은 다른 통치자들처럼, 페르디난드는 "새로운 비잔티움"의 수립을 원했습니다. 이제 비잔티움의 옛 영토가 우리의 지배하에 있기 때문에, 우리는 약간의 선전을 통해 우리 나라가 비잔티움 제국의 후계자라고 주장할 수 있습니다. 이 유산은 확실히 우리의 국제적 위신이 치솟을 것입니다!"
-
- debug_decisions:0 "디버그" #hate this _ line
  

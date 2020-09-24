@@ -303,6 +303,7 @@
  SPR_communism_party:0 "스페인 사회노동당"
  SPR_communism_party_long:0 "스페인 사회노동당"
  SPR_neutrality_party:0 "부르봉 가문"
+ SPR_fascism_party:0 "통합당"
 
  POR_neutrality_party:0 "브라간사 가문"
  POR_communism_party:0 "포르투갈 사회당"
@@ -620,8 +621,10 @@
  
  BHU_neutrality_party:0 "왕축 가문"
  
- ECU_democratic_party:0 "에콰도르 급진자유당"
- ECU_democratic_party_long:0 "에콰도르 급진자유당"
+ ECU_democratic_party:0 "에콰도르 자유당 - 급진파"
+ ECU_democratic_party_long:0 "에콰도르 자유당 (급진파)"
+ ECU_neutrality_party:0 "에콰도르 자유당 - 온건파"
+ ECU_neutrality_party_long:0 "에콰도르 자유당 (온건파)"
  ECU_communism_party:0 "에콰도르 사회당"
  ECU_communism_party_long:0 "에콰도르 사회당"
  

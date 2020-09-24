@@ -9,6 +9,13 @@ l_english:
  #AI BEHAVIOR
  RULE_OPTION_JUNTA:0 "군사 정부"
  RULE_OPTION_SOCIALIST:0 "사회주의자"
+ RULE_OPTION_PROTO_FASCIST:0 "프로토파시스트"
+ 
+ #Austria-Hungary
+ AUH_AI_BEHAVIOR:0 "@AUH 오스트리아-헝가리"
+ RULE_OPTION_HISTORICAL_AUH_AI_DESC:0 "오스트리아-헝가리 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
+ RULE_OPTION_FEDERALISM_AUH:0 "합중국"
+ RULE_OPTION_FEDERALISM_AUH_AI_DESC:0 "오스트리아-헝가리 AI는 자치화 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  
  #Brazil
  BRA_AI_BEHAVIOR:0 "@BRA 브라질"
@@ -21,18 +28,38 @@ l_english:
  RULE_OPTION_SYNDICALIST:0 "생디칼리스트"
  RULE_SYNDICALIST_BRA_AI_DESC:0 "브라질 AI는 생디칼리스트들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
 
-  #Bulgaria
+ #British
+ RULE_OPTION_WW1_DEMOCRATIC_ENG_AI_DESC:0 "영국 AI는 자유당 집권을 유지하고 대륙 문제에 관여하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_FABIAN_ASCENDANCY:0 "페이비언 우위"
+ RULE_OPTION_FABIAN_ASCENDANCY_ENG_AI_DESC:0 "영국 AI는 사회주의 통합과 브리튼 공화국 수립 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ROYAL_PREROGATIVE:0 "대권"
+ RULE_OPTION_ROYAL_PREROGATIVE_ENG_AI_DESC:0 "영국 AI는 팍스 브리타니카의 지속과 군주의 대권 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_LORD_PROTECTOR:0 "호국경"
+ RULE_OPTION_LORD_PROTECTOR_ENG_AI_DESC:0 "영국 AI는 허버트 키치너를 호국경으로 추대하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ALL_THE_KINGS_MEN_EDWARD:0 "모든 왕의 사람들: 적법한 왕"
+ RULE_OPTION_ALL_THE_KINGS_MEN_EDWARD_ENG_AI_DESC:0 "영국 AI는 공화주의 혁명의 실패 이후 에드워드 8세를 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ALL_THE_KINGS_MEN_VICTORIA:0 "모든 왕의 사람들: 빅토리아의 귀환"
+ RULE_OPTION_ALL_THE_KINGS_MEN_VICTORIA_ENG_AI_DESC:0 "영국 AI는 공화주의 혁명의 실패 이후 빅토리아 공주를 권좌에 앉히려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ALL_THE_KINGS_MEN_AUWI:0 "모든 왕의 사람들: 와일드카드"
+ RULE_OPTION_ALL_THE_KINGS_MEN_AUWI_ENG_AI_DESC:0 "영국 AI는 공화주의 혁명의 실패 이후 호헨촐레른 귀족을 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+
+ #Bulgaria
  BUL_AI_BEHAVIOR:0 "@BUL 불가리아"
  RULE_OPTION_HISTORICAL_BUL_AI_DESC:0 "불가리아 AI는 최대한 많은 역사적 사건을 발생시길 것입니다."
  RULE_OPTION_BORIS_III:0 "보리스 3세의 통치"
- RULE_OPTION_BORIS_III_S_AI_DESC:0 "불가리아 AI는 보리스 3세를 조기에 집권시키고 대전 중 중립을 지키려는 시도와 관련 있는 국가적 중점 계통도를 따라 내력라 것입니다."
+ RULE_OPTION_BORIS_III_AI_DESC:0 "불가리아 AI는 보리스 3세를 조기에 집권시키고 대전 중 중립을 지키려는 시도와 관련 있는 국가적 중점 계통도를 따라 내력라 것입니다."
  RULE_OPTION_LIBERALIST_BUL:0 "자유주의자"
  RULE_OPTION_LIBERALIST_BUL_AI_DESC:0 "불가리아 AI는 자유주의자들을 조기에 집권시키고 대전 중 동맹국에 가입하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_AGRARIANIST_BUL:0 "농본주의자"
  RULE_OPTION_AGRARIANIST_BUL_AI_DESC:0 "불가리아 AI는 농본주의자들을 조기에 집권시키고 대전 중 협상국에 가입하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_SOCILAIST_BUL_AI_DESC:0 "불가리아 AI는 사회주의자들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를  따라 내려갈 것입니다."
- RULE_OPTION_FASCIST_BUL:0 "프로토파시스트"
  RULE_OPTION_FASCIST_BUL_AI_DESC:0 "불가리아 AI는 대전 중 반동주의자들을 조기에 집권시키고 동맹국에 가입하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_RADOMIR_REPUBLIC:0 "라도미르 공화국"
  RULE_OPTION_RADOMIR_REPUBLIC_BUL_AI_DESC:0 "불가리아 AI는 라도미르 공화국 수립 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  
+ #Germany
+ RULE_OPTION_HISTORICAL_GER_AI_DESC:0 "독일 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
+ RULE_OPTION_CONTAIN_THE_KAISER:0 "카이저 억제"
+ RULE_OPTION_CONTAIN_THE_KAISER_GER_AI_DESC:0 "독일 AI는 카이저를 억제하고 아시아로 향하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_BACKSTAB:0 "배후중상"
+ RULE_OPTION_BACKSTAB_GER_AI_DESC:0 "독일 AI는 오스트리아-헝가리와의 동맹을 파기하고 아시아로 향하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."

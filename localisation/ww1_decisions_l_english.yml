@@ -149,6 +149,7 @@
  RUS_claim_85:0 "그단스크 요구"
  RUS_claim_86:0 "포즈난 요구"
  RUS_claim_762:0 "카토비체 요구"
+ RUS_release_KOR:0 "한국 해방"
  
  basmach_released:0 "바스마시 해방됨"
  alash_released:0 "카자흐 해방됨"
@@ -197,6 +198,7 @@
  POL_sue_for_peace_SOV:0 "소비에트에 항복 조건 제시"
  october_revolution:0 " 10월 혁명 "
  russia_ask_for_brest_litovsk:0 " 러시아가 휴전을 요청하다 "
+ SOV_release_KOR:0 "한국 해방"
  
  ITA_lybian_war_mission:0 "이탈리아-터키 전쟁"
  ITA_lybian_war_mission_desc:0 "하루빨리 리비아를 점령하고 개입을 늦추지 말아야 합니다. 그렇지 않으면 오스만인들은 런던 회의를 개회하고 우리에게 배상금을 요구할 수 있을 것입니다."
@@ -301,6 +303,8 @@
  CHI_unite_china_JNC:0 "[JNC.GetName]의 운명"
  CHI_unite_china_GNC:0 "[GNC.GetName]의 운명"
  CHI_unite_china_SDC:0 "[SDC.GetName]의 운명"
+ CHI_release_KOR:0 "한국 해방"
+ QIN_release_KOR:0 "한국 해방"
  
  TUR_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
  TUR_sue_for_peace_ITA:0 "이탈리아에게 항복 조건 제시"
@@ -490,3 +494,9 @@
  BUL_form_byzantine_empire_category:0 "새로운 비잔티움"
  BUL_form_byzantine_empire_category_desc:0 "그의 이전의 많은 다른 통치자들처럼, 페르디난드는 "새로운 비잔티움"의 수립을 원했습니다. 이제 비잔티움의 옛 영토가 우리의 지배하에 있기 때문에, 우리는 약간의 선전을 통해 우리 나라가 비잔티움 제국의 후계자라고 주장할 수 있습니다. 이 유산은 확실히 우리의 국제적 위신이 치솟을 것입니다!"
  
+ KOR_rename_keijyo:0 "게이조를 경성으로 개명"
+ KOR_rename_gyeongseong:0 "경성을 게이조로 개명"
+ KOR_rename_fusan:0 "푸산을 부산으로 개명"
+ KOR_rename_busan:0 "부산을 푸산으로 개명"
+ KOR_rename_heijyo:0 "헤이조를 평양으로 개명"
+ KOR_rename_pyeongyang:0 "평양을 헤이조로 개명"

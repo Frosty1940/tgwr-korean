@@ -489,9 +489,12 @@
  NZL_communism_party_long:0 "웰링턴 사회당"
  
  NOR_neutrality_party:0 "글뤽스부르크 가문"
- NOR_communism_party:0 "노르웨이 노동당"
- NOR_communism_party_long:0 "노르웨이 노동당"
+ NOR_socialism_party:0 "노르웨이 노동당"
+ NOR_socialism_party_long:0 "노르웨이 노동당"
+ NOR_communism_party:0 "노르웨이 공산당"
+ NOR_communism_party_long:0 "노르웨이 공산당"
  NOR_democratic_party:0 "보수당"
+ NOR_junta_party:0 "노르웨이 행동당" #Norsk Aktion
  
  HOL_neutrality_party:0 "오라녜나사우 가문"
  HOL_communism_party:0 "사회민주노동당"
@@ -509,6 +512,7 @@
  BEL_democratic_party:0 "가톨릭당"
  BEL_neutrality_party:0 "작센코부르크 가문"
  BEL_neutrality_party_long:0 "작센코부르크고타 가문"
+ BEL_fascism_party:0 "전선당"
  BEL_resistance:0 "폐하의 가장 충실한 저항군"
  BEL_resistance_long:0 "폐하의 가장 충실한 저항군" #La Plus Loyale Résistance de Sa Majesté-Zijn Meest Loyale Verzet van Zijne Majesteit
  

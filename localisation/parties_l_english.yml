@@ -177,7 +177,6 @@
  ENG_churchill_pax_britannica:0 "입헌당"
 
  SCO_neutrality_party:0 "자코바이트"
- SCO_neutrality_party_long:0 "자코바이트"
  SCO_democratic_party:0 "스코틀랜드 국민 연맹"
  SCO_democratic_party_long:0 "스코틀랜드 국민 연맹"
  SCO_wittelsbach:0 "비텔스바흐 가문"
@@ -193,14 +192,12 @@
  JAM_neutrality_party:0 "영국 충성파"
  JAM_neutrality_party_long:0 "영국과 영국 국왕 폐하를 위한 아프리카계 아메리카인" #African-Americans for Britain and His Majesty the King of England
 
- QBC_neutrality_party:0 "국민주의자 - 중도"
- QBC_neutrality_party_long:0 "교황 지상권론주의 국민주의자 - 중도파" #Ultramontane Nationalists
- QBC_fascism_party:0 "국민주의자 - 우파"
- QBC_fascism_party_long:0 "교황 지상권론주의 국민주의자 - 우파"
- QBC_democratic_party:0 "국민주의자 - 좌파"
- QBC_democratic_party_long:0 "교황 지상권론주의 국민주의자 - 좌파"
- QBC_communism_party:0 "퀘벡 노동조합총회"
- QBC_communism_party_long:0 "퀘벡 노동조합총회" #Trade Union Congress
+ QBC_neutrality_party:0 "국민연맹" #Ligue Nationaliste
+ QBC_fascism_party:0 "행동연맹" #Ligue d'Action
+ QBC_democratic_party:0 "자유당"
+ QBC_democratic_party_long:0 "퀘벡 자유당"
+ QBC_communism_party:0 "노동당"
+ QBC_communism_party_long:0 "퀘벡 노동당"
 
  NIR_neutrality_party:0 "오렌지단"
  NIR_neutrality_party_long:0 "충의 오렌지단"

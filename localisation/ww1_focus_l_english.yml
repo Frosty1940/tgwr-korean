@@ -221,7 +221,7 @@
  ww1_antisubmarine_desc:0 "Submarines are a tricky vessel to catch, particularly when well-commandeered. If we don't intend to let all of our incoming cargo ships sink to the bottom of the ocean, our admirals have advised us to begin investing in depth charges, advanced torpedos, and other weapons that might be able to take out the unseen menace." 
 
 
- ww1_political_effort:0 "정치 주력" #link me pls
+ ww1_political_effort:0 "정치 주력 #link me pls
  ww1_political_effort_desc:0 "개혁의 시기는 지금입니다. 우리나라는 오랜 세월 동안 구체제의 지도 아래 잘 지내왔지만, 이런 격동의 시대에는 이에 대응할 수 있는 위치에 있는 정부가 필요합니다. 우리가 국가로서의 방식을 바꾸기로 선택하든, 아니면 새로운 외부 위협에 맞서기 위해 기존 정부를 강화하든, 정치적 변화는 국가와 국민의 미래에 도움이 될 수 밖에 없습니다."
  ww1_sovereignist_ethos:0 "개인주의 기풍"
  ww1_sovereignist_ethos_desc:0 "Society and state must coexist in peace and order. It is important to reject the radical ideas that have fueled revolutions and upheavals over the past century."
@@ -3944,13 +3944,13 @@ CAN_storm_troopers_desc:0 "새로운 병사가 전장에서 닳았습니다. 영
  KOR_ww1_airfield_expansion_2_desc:0 "Some of the civilian airstrips from the days before military aviation are still around and mostly abandoned. We could buy them up for next to nothing, and use them for our own means."
  KOR_ww1_airfield_expansion_3:0 "비행장 확장 III"
  KOR_ww1_airfield_expansion_3_desc:0 "Establishing proper airstrips near major cities can create easily supplied bases able to protect some of our most valuable areas."
- KOR_ww1_infrastructure_effort:0 "기반시설 주력""
+ KOR_ww1_infrastructure_effort:0 "기반시설 주력"
  KOR_ww1_infrastructure_effort_desc:0 "Along with the growth of our industry, the private sector is demanding we increase our investment in infrastructure to help the state economy out. Until we do so, we're unlikely to get any more special opportunities for factory construction. Of course, infrastructure helps our nation as well, by increasing the speed and supply flow of our troops, so investing might not be such a bad plan." 
- KOR_ww1_infrastructure_effort_2:0 "기반시설 주력" II"
+ KOR_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
  KOR_ww1_infrastructure_effort_2_desc:0 "With our industries, dockyards, and airstrips continuing to expand, there is still more to invest in. Currently, the logical step forward is railways, which we have largely ignored up to now. Investing to modernize these will help move supplies and men, as well as open up new areas to invest in our economy."
- KOR_ww1_infrastructure_effort_3:0 "기반시설 주력" III"
+ KOR_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
  KOR_ww1_infrastructure_effort_3_desc:0 "With the threat of a great war, we must continaully invest in construction projects, to ensure our troops have the nicest looking railroads in the world." 
- KOR_ww1_infrastructure_effort_4:0 "기반시설 주력" IV"
+ KOR_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
  KOR_ww1_infrastructure_effort_4_desc:0 "Some civil engineers have proposed a very ambitious Highway system, designed to connect more directly some of our major cities and even military centers. Investing in this project will make our infrastructure the envy of the world! All roads shall lead to our capital!"
  KOR_ww1_extra_tech_slot:0 "추가 연구 슬롯"
  KOR_ww1_extra_tech_slot_desc:0 "With a greatly expanded industrial sector and several of our country's leading minds at the helms of new manufacturies of both military and civil R&D inevitably will result. Some of the industries we have prior supported have produced and exposed some keen-minded individuals, who can develop interesting new technologies for our nation."

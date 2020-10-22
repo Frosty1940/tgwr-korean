@@ -818,6 +818,7 @@
  VIN_dysfunctional_government_desc:0 "인도차이나 정부는 자치적인 군사 행정과 방치된 민간 행정으로 믿을 수 없을 정도로 형편없이 운영되고 있습니다. 기업은 광란하고 부패가 만연합니다."
  
  #GERMANY
+ GER_zeppelin_bombing:0 "체펠린 폭격"
  GER_idea_german_exploitation:0 "독일의 착취"
  GER_idea_economic_pressure:0 "독일의 경제 압박"
  GER_idea_tokyo_pact:0 "도쿄-베를린 조약"
@@ -884,6 +885,12 @@
  GER_legation_profits_desc:0 "우리는 국제 조계 정부를 설립했고, 우리는 보상을 받고 있습니다."
  SHL_kiel_canal_profits:0 "킬 운하 이익"
  SHL_kiel_canal_profits_desc:0 "킬 운하는 발트 해 연안 무역의 중요한 지역이며, 우리는 그 혜택을 크게 누리고 있습니다."
+ GER_german_staff_planning_auh:0 "독일 참모 계획"
+ GER_german_staff_planning_auh_desc:0 "독일 본부가 우리 전선에 집중했습니다."
+ GER_german_staff_planning:0 "합동 계획"
+ GER_german_staff_planning_desc:0 "우리 본부는 동맹군의 위치로 몇 명의 고위 장성들을 파견했습니다."
+ GER_state_in_blockade:0 "봉쇄 상태"
+ GER_state_in_blockade_desc:0 "이 나라는 적의 봉쇄에 처해 있습니다. 그들은 완전한 경제적 고립이 기근을 유발할 것으로 예상합니다."
  
  #AUSTRIA-HUNGARY
  AUH_ww1_Trialism:0 "삼원론"

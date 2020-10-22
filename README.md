@@ -1,4 +1,4 @@
 # 그레이트 워 리덕스 비공식 한글패치
 '하츠 오브 아이언 4: 그레이트 워 리덕스' 모드의 비공식 한글 번역 패치입니다.
 
-[스팀 창작마당 바로가기](https://steamcommunity.com/sharedfiles/filedetails/?id=2173059011)
+이 가지는 현재 Github에서 작업 중인 개발 버전(https://github.com/ComradeR/tgwr-mod)을 번역하였습니다. 계속되는 수정 사항이 즉각적으로 반영되지 않으니 유의바랍니다.

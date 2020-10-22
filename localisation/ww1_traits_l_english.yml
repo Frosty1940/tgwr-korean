@@ -12,6 +12,8 @@
  colonial_governor:0 "식민지 총독"
  colonial_governor_desc:0 "이 고위 행정관은 우리의 식민통치 대상자들과의 유대를 강화할 것입니다."
  lunatic:0 "미치광이"
+ mysterious_manipulator:0 "불가사의한 조종자"
+ mysterious_manipulator_desc:0 "그의 인격은 여전히 신비에 싸여 있고, 명목상의 통치자에 대한 그의 영향력은 너무나 커서 공포까지 불러일으키고 있습니다."
  emperor_taisho:0 "다이쇼 천황"
  emperor_meiji:0 "메이지 천황"
  progressive_reformer:0 "진보적 개혁가"
@@ -46,3 +48,10 @@
  BOL_foreign_leader:0 "외국인 지도자"
  patriota:0 "O Patriota"
  patriota_desc:0 "The young king is very concerned about the prestige of his country and pays special attention to the army and navy."
+ regency_council:0 "섭정의회"
+ canadian_imperialist:0 "캐나다 제국주의자"
+ canadian_father_figure:0 "캐나다 파더 피규어" #Canadian Father Figure
+ british_loyalist:0 "영국 충성파"
+ old_fighter:0 "고참 투사" #The Old Fighter
+ prince_of_paradox:0 "역설의 왕자"
+ eng_imperialist_author:0 "제국주의자 작가"

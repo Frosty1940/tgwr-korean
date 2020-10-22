@@ -8,5 +8,5 @@ dependencies={
 	"Hearts of Iron IV: The Great War Redux [Beta]"
 }
 picture="thumbnail.png"
-supported_version="1.9.3"
+supported_version="1.10.1"
 remote_file_id="2173059011"

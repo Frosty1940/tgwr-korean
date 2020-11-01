@@ -772,7 +772,8 @@
  BLR_neutrality_party:0 "라다"
  
  TMS_democratic_party:0 "알라시"
- TMS_communism_party:0 "볼셰비키"
+ TMS_communism_party:0 "투르키스탄 공산당"
+ TMS_communism_party_long:0 "투르키스탄 공산당"
  TMS_neutrality_party:0 "바스마시"
  
  JBS_neutrality_party:0 "라시드 가문"

@@ -48,6 +48,12 @@
  GER_support_separatism_in_lithuania:0 "리투아니아에서 분리주의 지원"
  GER_support_separatism_in_latvia:0 "라트비아에서 분리주의 지원"
  GER_support_separatism_in_estonia:0 "에스토니아에서 분리주의 지원"
+ GER_decision_puppet_kingdoms:0 "괴뢰 왕국"
+ GER_form_poland:0 "폴란드 왕국 형성"
+ GER_form_lithuania:0 "리투아니아 형성"
+ GER_form_courland:0 "쿠를란트 형성"
+ GER_form_baltic_duchy:0 "발트 공국 형성"
+ GER_unite_baltics:0 "발트 통일"
  
  FRA_capitulation:0" 프랑스가 항복하다 "
  FRA_great_war:0 "대전쟁"

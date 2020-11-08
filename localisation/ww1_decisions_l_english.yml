@@ -536,8 +536,8 @@
  BUL_form_byzantine_empire_category:0 "새로운 비잔티움"
  BUL_form_byzantine_empire_category_desc:0 "그의 이전의 많은 다른 통치자들처럼, 페르디난드는 "새로운 비잔티움"의 수립을 원했습니다. 이제 비잔티움의 옛 영토가 우리의 지배하에 있기 때문에, 우리는 약간의 선전을 통해 우리 나라가 비잔티움 제국의 후계자라고 주장할 수 있습니다. 이 유산은 확실히 우리의 국제적 위신이 치솟을 것입니다!"
  
- KOR_rename_keijyo:0 "게이조를 경성으로 개명"
- KOR_rename_gyeongseong:0 "경성을 게이조로 개명"
+ KOR_rename_keijyo:0 "게이조를 한성으로 개명"
+ KOR_rename_gyeongseong:0 "한성을 게이조로 개명"
  KOR_rename_fusan:0 "푸산을 부산으로 개명"
  KOR_rename_busan:0 "부산을 푸산으로 개명"
  KOR_rename_heijyo:0 "헤이조를 평양으로 개명"
@@ -556,7 +556,7 @@
  KOR_rename_seogando:0 "지린을 서간도로 개명"
  KOR_rename_bukgando:0 "쑹장을 북간도로 개명"
 
- JAP_rename_gyeongseong:0 "경성을 게이조로 개명"
+ JAP_rename_gyeongseong:0 "한성을 게이조로 개명"
  JAP_rename_busan:0 "부산을 푸산으로 개명"
  JAP_rename_pyeongyang:0 "평양을 헤이조로 개명"
  JAP_rename_jeju:0 "제주를 사이슈로 개명"

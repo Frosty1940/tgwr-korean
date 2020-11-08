@@ -617,4 +617,13 @@
  PER_infantry_equipment_2_short:0 "마우저 98"
  PER_infantry_equipment_3:0 "베르그만 MP18"
  PER_infantry_equipment_3_short:0 "MP18"
+
+ KOR_infantry_equipment_0:0 "22식 소총"
+ KOR_infantry_equipment_0_short:0 "22식"
+ KOR_infantry_equipment_1:0 "마우저 1식"
+ KOR_infantry_equipment_1_short:0 "마우저 1식"
+ KOR_infantry_equipment_2:0 "마우저 4식"
+ KOR_infantry_equipment_2_short:0 "마우저 4식"
+ KOR_infantry_equipment_3:0 "베르그만 MP18"
+ KOR_infantry_equipment_3_short:0 "MP18"
  

@@ -658,6 +658,8 @@
  KOR_JAP_governor_general_DEF:0 "한국령 일본"
  KOR_JAP_resident_general:0 "한국 보호령"
  KOR_JAP_resident_general_DEF:0 "한국 보호령"
+ KOR_independence_army:0 "대한독립군"
+ KOR_independence_army_DEF:0 "대한독립군"
  JAP_KOR_original_neutrality:0 "일본 왕국"
  JAP_KOR_original_neutrality_DEF:0 "일본 왕국"
  JAP_KOR_original_fascism:0 "일본"

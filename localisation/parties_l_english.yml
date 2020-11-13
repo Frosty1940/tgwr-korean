@@ -384,12 +384,12 @@
  MEX_neutrality_party_royal:0 "이투르비데 가문"
  MEX_neutrality_party_royal_long:0 "이투르비데 가문"
  
- ARG_democratic_party:0 "국민자율당"
- ARG_democratic_party_long:0 "국민자율당"
- ARG_communism_party:0 "급진시민연합"
- ARG_communism_party_long:0 "급진시민연합"
- ARG_neutrality_party:0 "콩코르단시아"
- ARG_neutrality_party_long:0 "콩코르단시아"
+ ARG_neutrality_party:0 "국민자율당"
+ ARG_neutrality_party_long:0 "국민자율당"
+ ARG_democratic_party:0 "급진시민연합"
+ ARG_democratic_party_long:0 "급진시민연합"
+ ARG_communism_party:0 "사회당"
+ ARG_communism_party_long:0 "사회당"
  
  BRA_fascism_party:0 "플로리아누파"
  BRA_integralist_party:1 "브라질 통일주의 행동당"
@@ -452,6 +452,11 @@
  ROM_democratic_party_long:0 "국민자유당"
  ROM_fascism_party:0 "민족민주당"
  ROM_fascism_party_long:0 "민족민주당"
+
+ MOL_democratic_party:0 "국가의회"
+ MOL_communism_party:0 "볼셰비키"
+ MOL_neutrality_party:0 "병사회의"
+ MOL_neutrality_party_long:0 "몰도바병사회의"
  
  SER_communism_party:0 "세르비아 사회민주당"
  SER_communism_party_long:0 "세르비아 사회민주당"
@@ -637,6 +642,7 @@
  
  PAN_democratic_party:0 "자유당"
  PAN_communism_party:0 "노동당"
+ PAN_neutrality_party:0 "보수당"
  
  PHI_democratic_party:0 "필리핀 의회"
  

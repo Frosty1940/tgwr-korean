@@ -240,9 +240,13 @@
  BUL_macedonian_crisis_decision:0 "마케도니아 점령"
  GRE_leave_balkan_league_decision:0 "발칸 동맹 탈퇴"
  MTN_leave_balkan_league_decision:0 "발칸 동맹 탈퇴"
- ROM_great_war_intervention:0 "대전쟁 참전"
+
  ROM_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
+ ROM_great_war_intervention:0 "대전쟁 참전"
+ ROM_great_war_surrender:0 "독일에 항복"
  ROM_great_war_rejoin:0 "대전쟁 재참전"
+
+ MOL_join_romania:0 "루마니아 가입"
  
  SER_secret_purchases_category:0 "비밀 무기 보급"
  SER_secret_purchases_category_desc:0 "적들에게 둘러싸인 전시 동안 적들이 그들을 포로로 잡을 수 없도록 동맹국들로부터의 무기 공급을 체계화해야 합니다."

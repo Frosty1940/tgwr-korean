@@ -781,6 +781,7 @@
  TMS_communism_party:0 "투르키스탄 공산당"
  TMS_communism_party_long:0 "투르키스탄 공산당"
  TMS_neutrality_party:0 "바스마시"
+ TMS_neutrality_party:0 "울레마 위원회"
  
  JBS_neutrality_party:0 "라시드 가문"
  
@@ -893,3 +894,9 @@
  UZB_fascism_party:0 "바스마시"
 
  RYU_neutrality_party:0 "쇼씨왕통"
+
+ TUN_neutrality_party:0 "후세인 왕조"
+ 
+ KUR_democratic_party:0 "쿠르디스탄 진보회"
+ KUR_democratic_party_long:0 "쿠르디스탄 진보회"
+ KUR_neutrality_party:0 "Berzincî Klik"

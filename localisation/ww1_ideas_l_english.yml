@@ -597,6 +597,7 @@
  ITA_idea_italian_autarky:0 "이탈리아 경제 자립 정책"
  ITA_idea_mafia:0 "강력한 마피아"
  ITA_idea_camicie_nere:0 "Le Camicie Nere"
+ ITA_death_before_surrender:0 "항복할 바엔 죽으리라"
  
  #TURKEY
  idea_turkey_import_dependency_6:0 "수입 의존"

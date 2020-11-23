@@ -182,6 +182,12 @@
  SCO_democratic_party_long:0 "스코틀랜드 국민 연맹"
  SCO_wittelsbach:0 "비텔스바흐 가문"
  SCO_wittelsbach_long:0 "비텔스바흐 가문"
+ SCO_communism_party:0 "스코틀랜드 사회주의 연합"
+ SCO_communism_party_long:0 "스코틀랜드 사회주의 연합"
+ 
+ WLS_democratic_party:0 "자유당"
+ WLS_communism_party:0 "남웨일즈 사회주의회"
+ WLS_communism_party_long:0 "남웨일즈 사회주의회"
 
  JAM_fascism_party:0 "국제흑인개선협회 및 아프리카공동체연맹"
  JAM_fascism_party_long:0 "국제흑인개선협회 및 아프리카공동체연맹"
@@ -218,6 +224,12 @@
  ITA_communism_party:0 "이탈리아 사회당"
  ITA_communism_party_long:0 "이탈리아 사회당"
  ITA_democratic_party:0 "자유연합"
+ ITA_democratic_republican_party:0 "이탈리아 급진당"
+ ITA_democratic_republican_party_long:0 "이탈리아 급진당"
+ ITA_democratic_reformist_party:0 "이탈리아 개혁사회당"
+ ITA_democratic_reformist_party_long:0 "이탈리아 개혁사회당"
+ ITA_democratic_ldr_party:0 "자유당, 민주당, 급진당"
+ ITA_democratic_ldr_party_long:0 "자유당, 민주당, 급진당"
  ITA_fascism_party:0 "이탈리아 국민주의자 협회"
  ITA_fascism_party_long:0 "이탈리아 국민주의자 협회"
  ITA_fascism_fasces_party:0 "이탈리아 전투 파스키"
@@ -225,8 +237,11 @@
  ITA_fascism_fascist_party:0 "국가 파시스트당"
  ITA_fascism_fascist_party_long:0 "국가 파시스트당"
  ITA_neutrality_party:0 "사보이 가문"
-
- ITS_neutrality_party:0 "부르봉-파르마 가문"
+ ITA_neutrality_monarchist_party:0 "군주주의 운동"
+ ITA_neutrality_monarchist_party_long:0 "군주주의 운동"
+ 
+ ITS_neutrality_party:0 "부르봉 가문"
+ ITS_neutrality_party_long:0 "부르봉-양시칠리아 가문"
 
  JAP_communism_party:0 "일본 공산당"
  JAP_democratic_party:0 "입헌민정당"

@@ -243,6 +243,12 @@
  ITS_neutrality_party:0 "부르봉 가문"
  ITS_neutrality_party_long:0 "부르봉-양시칠리아 가문"
 
+ SRD_democratic_party:0 "사르데냐 급진당"
+ SRD_democratic_party_long:0 "사르데냐 급진당"
+ SRD_communism_party:0 "사르데냐 사회당"
+ SRD_communism_party_long:0 "사르데냐 사회당"
+ SRD_fascism_party:0 "전사당"
+
  JAP_communism_party:0 "일본 공산당"
  JAP_democratic_party:0 "입헌민정당"
  JAP_fascism_party:0 "대정익찬회"

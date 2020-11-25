@@ -243,11 +243,18 @@
  ITS_neutrality_party:0 "부르봉 가문"
  ITS_neutrality_party_long:0 "부르봉-양시칠리아 가문"
 
- SRD_democratic_party:0 "사르데냐 급진당"
- SRD_democratic_party_long:0 "사르데냐 급진당"
- SRD_communism_party:0 "사르데냐 사회당"
- SRD_communism_party_long:0 "사르데냐 사회당"
- SRD_fascism_party:0 "전사당"
+ EMI_neutrality_party:0 "합스부르크 가문"
+ EMI_neutrality_party_long:0 "합스부르크에스테 가문"
+
+ SIC_democratic_party:0 "자유당, 민주당, 급진당"
+ SIC_democratic_party_long:0 "자유당, 민주당, 급진당"
+ SIC_neutrality_party:0 "부르봉 가문"
+ SIC_neutrality_party_long:0 "부르봉-양시칠리아 가문"
+
+ SRD_neutrality_party:0 "사보이 가문"
+
+ TUS_neutrality_party:0 "합스부르크 가문"
+ TUS_neutrality_party_long:0 "합스부르크로트링겐 가문"
 
  JAP_communism_party:0 "일본 공산당"
  JAP_democratic_party:0 "입헌민정당"

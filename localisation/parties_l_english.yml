@@ -241,10 +241,10 @@
  ITA_neutrality_monarchist_party_long:0 "군주주의 운동"
  
  ITS_neutrality_party:0 "부르봉 가문"
- ITS_neutrality_party_long:0 "부르봉-양시칠리아 가문"
+ ITS_neutrality_party_long:0 "부르봉 양시칠리아 가문"
 
- EMI_neutrality_party:0 "합스부르크 가문"
- EMI_neutrality_party_long:0 "합스부르크에스테 가문"
+ EMI_neutrality_party:0 "부르봉 가문"
+ EMI_neutrality_party_long:0 "부르봉파르마 가문"
 
  SIC_democratic_party:0 "자유당, 민주당, 급진당"
  SIC_democratic_party_long:0 "자유당, 민주당, 급진당"

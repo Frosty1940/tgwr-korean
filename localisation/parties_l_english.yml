@@ -275,6 +275,19 @@
  USA_federalist_party:0 "연방당" #Neutral
  USA_fascism_party:0 "쿠 클럭스 클랜"
  USA_1776_party:0 "독립당"
+ USA_neutrality_party:0 "미합중국 육군"
+
+ USB_communism_party:0 "미국 사회당"
+ USB_communism_party_long:0 "미국 사회당"
+ USB_democratic_party:0 "공화당"
+ USB_fascism_party:0 "쿠 클럭스 클랜"
+ USB_neutrality_party:0 "미합중국 육군"
+ 
+ CSA_communism_party:0 "사회당"
+ CSA_democratic_party:0 "민주당"
+ CSA_fascism_party:0 "잃어버린 대의"
+ CSA_neutrality_party:0 "딕시크랫"
+ CSA_deseret_neutrality_party:0 "모르몬교"
 
  FRA_communism_party:0 "노동자 인터내셔널 프랑스 지부"
  FRA_communism_party_long:0 "노동자 인터내셔널 프랑스 지부"
@@ -901,7 +914,7 @@
  RGS_fascism_party:0 "콘테스타도르" #Contestadores
 
  SHL_democratic_party:0 "농장노동자민주주의"
- SHL_democratic_party_long:0 "슐레스비히-홀슈타인 농부과 농장노동자민주주의"
+ SHL_democratic_party_long:0 "슐레스비히-홀슈타인 농부와 농장노동자민주주의"
  SHL_fascism_party:0 "토지당"
  SHL_fascism_party_long:0 "슐레스비히-홀슈타인 토지당"
 
@@ -928,3 +941,12 @@
  KUR_democratic_party:0 "쿠르디스탄 진보회"
  KUR_democratic_party_long:0 "쿠르디스탄 진보회"
  KUR_neutrality_party:0 "Berzincî Klik"
+
+ PHI_fascism_party:0 "혁명재향군인회"
+ PHI_fascism_party_long:0 "혁명재향군인회"
+ PHI_democratic_party:0 "국민당"
+ PHI_democratic_party_long:0 "국민당"
+ PHI_communism_party:0 "필리핀 노동자회"
+ PHI_communism_party_long:0 "필리핀 노동자회"
+ PHI_neutrality_party:0 "독립 필리핀 교회"
+ PHI_neutrality_party_long:0 "독립 필리핀 교회"

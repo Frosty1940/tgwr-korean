@@ -360,16 +360,24 @@
 
  LIT_neutrality_party:0 "국가진보당"
  LIT_neutrality_party_long:0 "국가진보당"
+ LIT_kingdom_party:0 "리투아니아 의회"
  LIT_communism_party:0 "볼셰비키"
+ LIT_democratic_party:0 "리투아니아 기독교민주당"
+ LIT_democratic_party_long:0 "리투아니아 기독교민주당"
  
  LAT_neutrality_party:0 "제헌의회"
  LAT_communism_party:0 "볼셰비키"
  LAT_democratic_party:0 "라트비아 농민연합"
- LAT_democratic_party_long:0 "라트비아 농민연합" 
- 
- EST_neutrality_party:0 "에스토니아 인민당"
+ LAT_democratic_party_long:0 "라트비아 농민연합"
+
+ COU_neutrality_party:0 "쿠를란트 지방의회"
+
+ EST_neutrality_party:0 "농민연합"
+ EST_democratic_party:0 "에스토니아 인민당"
  EST_communism_party:0 "에스토니아 공산당"
  EST_communism_party_long:0 "에스토니아 공산당"
+
+ UBD_neutrality_party:0 "섭정 의회"
  
  IRQ_neutrality_party:0 "하심 가문"
  IRQ_fascism_party:0 "국민형제당"

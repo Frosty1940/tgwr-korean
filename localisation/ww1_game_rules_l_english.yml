@@ -64,6 +64,8 @@
  RULE_OPTION_ROYAL_PREROGATIVE_ENG_AI_DESC:0 "영국 AI는 팍스 브리타니카의 지속과 군주의 대권 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_LORD_PROTECTOR:0 "호국경"
  RULE_OPTION_LORD_PROTECTOR_ENG_AI_DESC:0 "영국 AI는 허버트 키치너를 호국경으로 추대하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ALL_THE_KINGS_MEN:0 "모든 왕의 사람들 - 무작위"
+ RULE_OPTION_ALL_THE_KINGS_MEN_AI_DESC:0 "영국 AI는 공화주의 혁명의 실패 이후 무작위로 새 군주를 뽑는 것과 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_ALL_THE_KINGS_MEN_EDWARD:0 "모든 왕의 사람들: 적법한 왕"
  RULE_OPTION_ALL_THE_KINGS_MEN_EDWARD_ENG_AI_DESC:0 "영국 AI는 공화주의 혁명의 실패 이후 에드워드 8세를 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_ALL_THE_KINGS_MEN_VICTORIA:0 "모든 왕의 사람들: 빅토리아의 귀환"

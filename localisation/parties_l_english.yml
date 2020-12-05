@@ -635,7 +635,7 @@
  COS_neutrality_party:0 "펠리퀴스타당"
  
  ELS_neutrality_party:0 "자유당"
- ELS_fascism_party:0 "시민 집정부"
+ ELS_fascism_party:0 "시민총재정부"
  ELS_communism_party:0 "노동당"
  ELS_democratic_party:0 "국민민주당"
  ELS_democratic_party_long:0 "국민민주당"
@@ -792,13 +792,16 @@
  MNT_neutrality_party:0 "페트로비치네고시 왕조"
  MNT_neutrality_party_long:0 "페트로비치네고시 왕조"
  
- UKR_democratic_party:0 "우크라이나 사회혁명당"
- UKR_democratic_party_long:0 "우크라이나 사회혁명당"
+ UKR_democratic_party:0 "우크라이나 중앙평의회"
+ UKR_democratic_party_long:0 "우크라이나 중앙평의회"
  UKR_communism_party:0 "우크라이나 공산당"
  UKR_communism_party_long:0 "우크라이나 공산당"
- UKR_neutrality_party:0 "총재정부"
+ UKR_neutrality_party:0 "우크라이나 인민회의"
+ UKR_neutrality_party_long:0 "우크라이나 인민회의"
  UKR_fascism_party:0 "우크라이나 군사기구"
  UKR_fascism_party_long:0 "우크라이나 군사기구"
+ UKR_directory_party:0 "총재정부"
+ UKR_monarchy_party:0 "합스부르크 가문"
  
  GEO_democratic_party:0 "조지아 사회민주당"
  GEO_democratic_party_long:0 "조지아 사회민주당"

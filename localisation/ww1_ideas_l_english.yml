@@ -814,6 +814,7 @@
 
  FRA_idea_moroccan_intervention:0 "식민 개입"
  FRA_idea_moroccan_intervention_desc:0 "프랑스가 모로코에 계속 개입하고 있습니다. 항구 도시들은 식민 세력의 지배를 받고 있습니다."
+ FRA_idea_disunited_french_front:0 "분열된 프랑스 전선"
 
  #Indochina
  si_electric:0 "Société Indochinoise d'Électricité"
@@ -1074,7 +1075,7 @@
  royal_militia:0 "왕립 의용군"
  eng_red_scare:0 "적색 테러"
  eng_fleet_at_rest:0 "움직이지 않는 함대"
- eng_fleet_at_rest_desc:0 "영국 함대(곧 추가 예정)는 현재 활발한 기동훈련에 참여하지 않고 있으며, 선원들은 집에서 쉬고 있습니다. 함대의 효율을 회복하기 위해 동원을 시작해야 합니다."
+ eng_fleet_at_rest_desc:0 "영국 함대는 현재 활발한 기동훈련에 참여하지 않고 있으며, 선원들은 집에서 쉬고 있습니다. 함대의 효율을 회복하기 위해 동원을 시작해야 합니다."
  eng_dic_pro:0 "프롤레타리아 독재"
  trade_union_democracy:0 "노동조합 민주주의"
  eng_pension:0 "연금"

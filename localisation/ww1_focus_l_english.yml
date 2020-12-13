@@ -2008,7 +2008,6 @@
  ITA_colonial_airbase:0 "식민지 비행장"
  ITA_war_with_ottoman:0 "오스만 제국과의 전쟁"
  ITA_claim_on_lybia:0 "리비아 요구"
- ITA_claim_on_lybia:0 "" #ITA_claim_on_lybia 자체가 아예 누락되어 있었음
  ITA_claim_on_savoy:0 "가리발디의 집을 해방하라!"
  ITA_destroy_parlament_opposition:0 "급진적 반대파 파괴"
  ITA_flexible_foreign_policy:0 "유연한 외교 정책"

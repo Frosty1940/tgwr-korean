@@ -945,6 +945,8 @@
  AUH_escort_production_desc:0 "국가는 호위함 자금을 조달하는 프로그램을 실시하고 있습니다."
  AUH_idea_german_cooperation:0 "독일 협력"
  AUH_maximilian_ronge:0 "막시밀리안 롱게"
+ AUH_greater_germany:0 "대독일주의 통일"
+ AUH_greater_germany_desc:0 "우여곡절 끝에 독일 민족은 오스트리아의 주도 아래에서 다시 하나가 되었습니다. 그러나 모든 사람들이 이에 만족하는 것은 아닙니다..."
  
  #INTERWAR IDEAS
  idea_great_war_armistice:0 "콩피에뉴 휴전"

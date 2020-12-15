@@ -34,6 +34,7 @@
  GER_agadir_crisis_escalation:0 "위기 확대"
  GER_decison_colonial_exploitation:0 "식민지 수탈"
  GER_yellow_HRE:0 "새 국가 색상"
+ GER_yellow_HRE_desc:0 "네, 신성 분홍 제국입니다. 행복을 위해 또 뭐가 더 필요하겠습니까?"
  GER_decision_joint_staff:0 "동맹국 합동참모"
  GER_control_austrian_planning:0 "오스트리아 계획 제어"
  GER_decision_federal_army:0 "연방군"
@@ -72,6 +73,10 @@
  european_crisis_mission:0 "유럽 위기"
  european_crisis_mission_desc:0 "유럽 연합이 앞으로 몇 주 동안 외교적으로 위기의 결과를 해결하지 못한다면, 평화는 깨질 것입니다. 신이시여 우리를 도우소서!"
  european_crisis_mission_tt:0 "오스트리아는 세르비아에 최후통첩을 보낼 것입니다."
+ AUH_german_confederation:0 "독일 연방의 재건"
+ AUH_german_confederation_desc:0 "소독일주의는 실수였으니, 이제 대독일주의를 성취해야 하며, 이는 성취될 것입니다!"
+ AUH_HRE:0 "신성 로마 제국의 부활"
+ AUH_HRE_desc:0 "우리 제국은 한때 모든 독일 국민들을 지배했습니다. 그리고 사람들은 우리를 로마라고 불렀습니다. 그리고 다시, 우리는 그 영광을 되찾을 것입니다."
  
  member_of_entente_armistice:0 "항복 거부\n"
  member_of_entente:0 "동맹국의 적\n"

@@ -281,7 +281,7 @@
  USA_federalist_party:0 "연방당" #Neutral
  USA_fascism_party:0 "쿠 클럭스 클랜"
  USA_1776_party:0 "독립당"
- USA_neutrality_party:0 "미국 육군"
+ USA_neutrality_party:0 "미합중국 육군"
 
  USB_communism_party:0 "미국 사회당"
  USB_communism_party_long:0 "미국 사회당"
@@ -980,8 +980,3 @@
  SAX_neutrality_party:0 "베틴 가문"
 
  WUR_neutrality_party:0 "뷔르템베르크 가문"
-
- CYP_democratic_party:0 "에노시스"
- CYP_neutrality_party:0 "고등판무관"
- CYP_neutrality_party_long:0 "키프로스 고등판무관"
- CYP_neutrality_party_governor:0 "키프로스 총독"

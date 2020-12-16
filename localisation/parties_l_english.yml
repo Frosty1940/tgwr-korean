@@ -980,3 +980,8 @@
  SAX_neutrality_party:0 "베틴 가문"
 
  WUR_neutrality_party:0 "뷔르템베르크 가문"
+
+ CYP_democratic_party:0 "에노시스"
+ CYP_neutrality_party:0 "고등판무관"
+ CYP_neutrality_party_long:0 "키프로스 고등판무관"
+ CYP_neutrality_party_governor:0 "키프로스 총독"

@@ -28,9 +28,9 @@
  anarchist_communism:0 "아나르코공산주의"
  anarchist_communism_desc:0 "국가 없는 사회를 지향하는 공산주의 사상을 아우르는 이념인 아나르코공산주의는 과도기적 사회주의 국가의 사상을 피하고 자발적 결사와 상호원조에 기초한 사회를 선호합니다."
  nazism:0 "나치즘"
- nazism_desc:0 "극도의 국가주의에 뿌리를 두는 국가사회주의는, 독일 우월주의 사상에 의해 주도됩니다. '총통'이라 불리는 절대권력을 보유한 지도자 아래에서 공격적인 팽창주의와 국민이 단결하는 전체주의 국가를 지향합니다."
+ nazism_desc:0 "독일의 대전에서의 굴욕적인 패배 이후 굳어진 극도의 국가주의에 뿌리를 두는 국가사회주의는, 독일 우월주의 사상에 의해 주도됩니다. '총통'이라 불리는 절대권력을 보유한 지도자 아래에서 공격적인 팽창주의와 국민이 단결하는 전체주의 국가를 지향합니다."
  fascism_ideology:0 "파시즘"
- fascism_ideology_desc:0 "다양한 국수주의 운동을 아우르는 파시즘은 강력한 지도자 아래 국민을 단결케 하여 국가에 헌신하는 것을 숭배합니다."
+ fascism_ideology_desc:0 "다양한 국수주의 운동을 아우르는 파시즘은 강력한 지도자 아래 국민을 단결케 하여 국가에 헌신하는 것을 숭배합니다. 파시즘은 대전의 불만으로 인해 상대적으로 새로운 운동으로 태어났고, 그 기원은 프로토파시즘 이념에 연결되어 있었습니다."
  falangism:0 "팔랑헤주의"
  falangism_desc:0 "파시즘과 보수주의의 특성을 가지고 있는 권위주의 이념인 팔랑헤주의는, 국가와 가톨릭 정체성에 가치를 두고 있습니다."
  rexism:0 "렉시즘"
@@ -45,13 +45,14 @@
  despotism_desc:0 "전제주의는 막강한 권력을 가진 한 사람이 지배하는 정부를 구성합니다."
  oligarchism:0 "과두정"
  oligarchism_desc:0 "과두주의는 막강한 권력을 가진 한 무리의 사람들이 지배하는 정부를 구성합니다."
+ oligarchism_desc:0 "과두주의는 과두정으로 알려진 소수의 선택받은 과두 정치가들이 국가와 국민을 절대적으로 지배하는 정부의 한 형태입니다."
  moderatism:0 "온건주의"
  moderatism_desc:0 "온건주의는 온건한 자세나 방침을 취함으로 급진적인 우파나 좌파를 피하는 정부의 형태입니다."
  centrism:0 "중도주의"
  centrism_desc:0 "중도주의는 현재와 미래에 필요한 것들을 상식적인 것으로 적절히 연설을 통해 해결하기를 원하는 정부의 한 형태로, 대중의 믿음과 위험을 고려하는 중도선을 이러한 요구의 맥락에서 수용하는 것을 지지합니다."
  # Fascist dicatorship
  military_dictatorship:0 "군부 독재"
- military_dictatorship_desc:0 "군부 독재란 군부가 정치적 권위에 대해 완전하거나 실질적인 통제권을 행사하는 독재입니다. 군 지도자들은 종종 군정으로서 통치하고, 그들 중 한 명을 우두머리로 뽑습니다."
+ military_dictatorship_desc:0 "군부 독재란 군부가 정치적 권위에 대해 완전하거나 실질적인 통제권을 행사하는 독재입니다. 군 지도자들은 종종 군정으로서 통치하고, 그들 중 한 명을 우두머리로 뽑습니다. 군부 독재 정권은 대개 일종의 정치적 혼란이나 중대한 사건의 결과로 형성됩니다."
  fundamentalism:0 "근본주의"
  fundamentalism_desc:0 "근본주의는 종교 내의 어떤 종파나 운동을 말하는데, 종교의 근본원리로서 자신이 자임하고 있는 것을 경직되게 고수하는 것을 강조하여 대체적인 실천과 해석의 폄하를 초래합니다."
  #Syndicalism
@@ -73,7 +74,7 @@
  theocracy:0 "신정"
  theocracy_desc:0 "신정주의는 신(God)이나 어떤 유형의 신(Deity)이 최고 통치권자로 인정되어 정부의 일상 업무를 관리하는 인간 중개인에게 신의 지도를 하는 정부의 형태입니다."
  anarcho_primitivism:0 "아나코원시주의"
- anarcho_primitivism_desc:0 "아나코원시주의는 문명의 기원과 진보를 무정부주의적으로 비판하는 것입니다. 우가우가."
+ anarcho_primitivism_desc:0 "아나코원시주의는 문명의 기원과 진보를 무정부주의적으로 비판하는 것입니다. 원래 아프가니스탄 어딘가에서 신질서를 위해 순교한 위대한 수도승에 의해 결성되었으며, 아나코원시주의 추종자들에게는 신이 되었습니다. 아나코원시주의는 사람들이 날고기를 먹고 바닥에 똥을 누던 옛날 생활방식으로 돌아가고 싶어합니다."
 
  GER_fascism_party:0 "육군최고사령부"
  GER_fascism_party_long:0 "육군최고사령부"
@@ -85,9 +86,14 @@
  GER_communism_party:0 "스파르타쿠스 동맹"
  GER_democratic_party:0 "독일 사회민주당"
  GER_democratic_party_long:0 "독일 사회민주당"
- GER_democratic_party_zentrum:0 "중앙당"
- GER_democratic_party_zentrum_long:0 "중앙당"
+ GER_democratic_party_zentrum:0 "독일 중앙당"
+ GER_democratic_party_zentrum_long:0 "독일 중앙당"
+ GER_democratic_party_conservative:0 "독일 보수당"
+ GER_democratic_party_conservative_long:0 "독일 보수당"
+ GER_democratic_party_nationalist:0 "독일 조국당"
+ GER_democratic_party_nationalist_long:0 "독일 조국당"
  GER_neutrality_party:0 "호헨촐레른 가문"
+ GER_frankfurt_parliament:0 "프랑크푸르트 국민의회"
  
  AUH_neutrality_party:0 "합스부르크 가문"
  AUH_democratic_party:0 "오스트리아 사회민주당"
@@ -486,7 +492,7 @@
  TUR_fascism_party:0 "엔베르주의자"
  TUR_communism_party:0 "오스만 사회당"
  TUR_communism_party_long:0 "오스만 사회당"
- TUR_democratic_party:0 "자유협상"
+ TUR_democratic_party:0 "자유와 합의"
  TUR_neutrality_party:0 "통일진보위원회"
  TUR_neutrality_party_long:0 "통일진보위원회"
 
@@ -820,6 +826,7 @@
  AZR_democratic_party:0 "민주당"
  AZR_communism_party:0 "볼셰비키"
  AZR_neutrality_party:0 "무사바트당"
+ AZR_fascism_party:0 "이티하드당"
  
  ARM_democratic_party:0 "아르메니아 혁명 연맹"
  ARM_democratic_party_long:0 "아르메니아 혁명 연맹"
@@ -965,3 +972,15 @@
  PHI_communism_party_long:0 "필리핀 노동자회"
  PHI_neutrality_party:0 "독립 필리핀 교회"
  PHI_neutrality_party_long:0 "독립 필리핀 교회"
+
+ TRA_democratic_party:0 "트란실바니아와 바나트의 루마니아 국민당"
+ TRA_democratic_party_long:0 "트란실바니아와 바나트의 루마니아 국민당"
+
+ RHN_french_military:0 "프랑스군정"
+ RHN_french_military_long:0 "프랑스군정"
+
+ BAY_neutrality_party:0 "비텔스바흐 가문"
+
+ SAX_neutrality_party:0 "베틴 가문"
+
+ WUR_neutrality_party:0 "뷔르템베르크 가문"

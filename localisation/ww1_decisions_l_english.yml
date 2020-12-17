@@ -290,6 +290,8 @@
  AST_thesinaicampaign_desc:0 "시나이 전역의 넓은 전선은 넓게 휩쓸며 기동할 수 있게 해주며, 우리 군인들은 정찰을 실시하고 배울 수 있는 더 큰 기회를 갖게 됩니다."
  AST_baptismatgallipoli:0 "갈리폴리의 세례"
  AST_baptismatgallipoli_desc:0 "다르다넬스 해협의 비탈길을 열정적으로 공격한 부대는 그들을 떠났던 부대와 같은 부대가 아닙니다. 이 처참한 전역에서 얻은 교훈은 비싼 대가를 치르고 얻은 것입니다."
+ AST_britain_seize_the_power:0 "왕당파로 정권 장악"
+ AST_britain_seize_the_power_desc:0 "이런 시기에 완전한 자유민주주의는 사치입니다. 생디칼리슴의 위협에 대비해 전쟁을 준비하고 국가를 재건할 필요가 있습니다. 그러기 위해서 권력은 국왕에게 향해야 합니다."
  
  CHI_xinhai_revolution:0 "신해혁명"
  CHI_xinhai_revolution_desc:0 "중국 국민이 분열되었습니다. 지방은 반란을 일으키고 있고 많은 사람들은 독립을 선언할 준비가 되어 있습니다. 동맹회는 제국 권력에 대항하는 무장 반란을 준비하고 있습니다. 곧 혁명이 일어날 것입니다."
@@ -561,6 +563,9 @@
  ENG_join_germany:0 "동맹국 가입"
  ENG_form_the_raf:0 "영국 왕립공군 창설"
  ENG_flee_to_canada:0 "내전을 포기하고 캐나다로 피난"
+
+ CAN_britain_seize_the_power:0 "왕당파로 정권 장악"
+ CAN_britain_seize_the_power_desc:0 "이런 시기에 완전한 자유민주주의는 사치입니다. 생디칼리슴의 위협에 대비해 전쟁을 준비하고 국가를 재건할 필요가 있습니다. 그러기 위해서 권력은 국왕에게 향해야 합니다."
 
  BRA_military_interventions_category:0 "구원 정책"
  BRA_military_interventions_category_desc:0 "구원의 정치는 과두정치를 약화시키기 위한 군사적 개입으로 구성되었습니다."

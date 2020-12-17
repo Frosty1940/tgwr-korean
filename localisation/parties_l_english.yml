@@ -448,10 +448,10 @@
  
  ARG_neutrality_party:0 "국민자율당"
  ARG_neutrality_party_long:0 "국민자율당"
+ ARG_conservative_party:0 "보수당"
  ARG_democratic_party:0 "급진시민연합"
  ARG_democratic_party_long:0 "급진시민연합"
  ARG_communism_party:0 "사회당"
- ARG_communism_party_long:0 "사회당"
  
  BRA_fascism_party:0 "플로리아누파"
  BRA_integralist_party:1 "브라질 통일주의 행동당"

@@ -429,6 +429,10 @@
  AST_democratic_party_long:0 "오스트레일리아 노동당"
  AST_communism_party:0 "오스트레일리아 사회당"
  AST_communism_party_long:0 "오스트레일리아 사회당"
+ AST_australasia_democratic_party:0 "노동당-자유당 연정"
+ AST_australasia_democratic_party_long:0 "노동당-자유당 연정"
+ AST_australasia_communism_party:0 "오스트랄라시아 사회당"
+ AST_australasia_communism_party_long:0 "오스트랄라시아 사회당"
 
  MEX_democratic_party:0 "입헌진보당"
  MEX_democratic_party_long:0 "입헌진보당"

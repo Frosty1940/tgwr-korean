@@ -55,6 +55,8 @@
  GER_form_courland:0 "쿠를란트 형성"
  GER_form_baltic_duchy:0 "발트 공국 형성"
  GER_unite_baltics:0 "발트 통일"
+ GER_help_white_russia:0 "백러시아 지원"
+ GER_help_nationalist_france:0 "국민주의 프랑스 지원"
  
  FRA_capitulation:0" 프랑스가 항복하다 "
  FRA_great_war:0 "대전쟁"
@@ -65,6 +67,22 @@
  decision_versailles_desc:0 "며칠 후, 승전국들이 영유권을 주장하는 지역뿐만 아니라 다른 지역까지 받을 수 있는 회담이 시작될 것입니다."
  FRA_alliance_with_romania:0 "[ROM.GetName]와(과)의 동맹"
  FRA_alliance_with_romania_desc:0 "우리는 [ROM.GetName]이(가) [GER.GetName]와(과) 동맹을 맺을 의무가 있다는 것을 알고 있었습니다. 그러나 그들은 중립을 지키면서도 트란실바니아 영토에 대한 자신들의 요구를 내세웠습니다. 우리는 가능한 한 빨리 그들을 협상국으로 데려가야 합니다."
+ FRA_army_mutiny_crisis:0 "프랑스군 반란"
+ FRA_army_mutiny_crisis_desc:0 "프랑스군은 최근의 실패한 공세로 사기가 저하되었습니다. 상황은 매시간 악화되고 있습니다. 점점 더 많은 군인들이 사령부의 명령에 복종하기를 거부하고 참호를 공격하는 것을 거부합니다."
+ french_mutinies_supressed:0 "진압된 프랑스 반란\n"
+ FRA_arrest_leaders_of_the_mutiny:0 "반란군 지도자 체포"
+ FRA_reorganization_of_command:0 "사령부 개편"
+ FRA_provide_the_home_leave:0 "휴가 제공"
+ FRA_hold_the_military_tribunal:0 "군사재판 개정"
+ french_mutinies_supression_tt:0 "§Y위기가 확대되기 전에 모든 반란 진압 조치를 완료하십시오.§!\n"
+ FRA_mutiny_leaders_arrested:0 "체포된 반란군 지도자"
+ FRA_suppress_army_rebellion:0 "군사반란 진압!"
+ FRA_rebellious_army:0 "반란군"
+ FRA_rebellious_army_desc:0 "반란은 프랑스군의 전면적인 봉기로 확대되었습니다."
+
+ NFA_occupy_malta:0 "몰타 점령"
+
+ FRC_internationale:0 "인터내셔널 설립"
  
  AUH_franzferdinand:0 "프란츠 페르디난트 문제"
  AUH_franzferdinand_desc:0 "오스트리아-에스테의 존경받는 대공이자 오스트리아-헝가리 제국의 황태자인 프란츠 페르디난트가 죽은 채 누워 있습니다. 그의 고귀한 아내는 그의 옆에 있습니다. 프란츠 요제프는 또 다른 후계자를 잃었고, 저주받은, 비열한, 세르비아인 개자식들에게 아들들을 잃었습니다. 세르비아 정부는 공식적으로 암살자 가브릴로 프린치프와의 관계를 부인하며 흑수단을 비난하고 있습니다."
@@ -254,6 +272,7 @@
  
 
  GRE_sue_for_peace_TUR:0 "터키에 항복 조건 제시"
+ GRE_occupy_cyprus:0 "키프로스 점령"
  
  BUL_leave_balkan_league_decision:0 "발칸 동맹 탈퇴"
  BUL_macedonian_crisis_decision:0 "마케도니아 점령"
@@ -406,6 +425,7 @@
  TUR_raise_rebellion_in_mal:0 "말레이의 반식민 봉기"
  TUR_raise_rebellion_in_raj:0 "영국령 인도의 반식민 봉기"
  TUR_raise_rebellion_in_ins:0 "인도네시아의 반식민 봉기"
+ TUR_occupy_cyprus:0 "키프로스 점령"
  
  USA_statehood_for_arizona:0 "애리조나의 주 지위 승인"
  USA_statehood_for_new_mexico:0 "뉴멕시코의 주 지위 승인"
@@ -632,5 +652,8 @@
  JAP_sue_for_peace_KOR:0 "한국에 조건부 평화 조건 제시"
 
  HUN_sue_for_peace_ROM:0 "루마니아에 항복 조건 제시"
+
+ JAM_federation_french_guiana:0 "프랑스령 기아나 점령"
+ JAM_federation_suriname:0 "수리남 점령"
 
  debug_decisions:0 "디버그" #hate this _ line

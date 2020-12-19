@@ -81,6 +81,7 @@
  FRA_rebellious_army_desc:0 "반란은 프랑스군의 전면적인 봉기로 확대되었습니다."
 
  NFA_occupy_malta:0 "몰타 점령"
+ NFA_sue_for_peace_FRC:0 "프랑스 본토에서 철수"
 
  FRC_internationale:0 "인터내셔널 설립"
  
@@ -655,5 +656,7 @@
 
  JAM_federation_french_guiana:0 "프랑스령 기아나 점령"
  JAM_federation_suriname:0 "수리남 점령"
+
+ UKR_occupy_crimea:0 "크림반도 점령"
 
  debug_decisions:0 "디버그" #hate this _ line

@@ -987,3 +987,11 @@
  SAX_neutrality_party:0 "베틴 가문"
 
  WUR_neutrality_party:0 "뷔르템베르크 가문"
+
+ BRI_fascism_party:0 "브르타뉴 국민당 - 급진파"
+ BRI_fascism_party_long:0 "브르타뉴 국민당 (급진파)"
+ BRI_neutrality_party:0 "브르타뉴 공작"
+ BRI_democratic_party:0 "브르타뉴 국민당 - 온건파"
+ BRI_democratic_party_long:0 "브르타뉴 국민당 (온건파)"
+ BRI_communism_party:0 "브르타뉴 생디칼리슴당"
+ BRI_communism_party_long:0 "브르타뉴 생디칼리슴당"

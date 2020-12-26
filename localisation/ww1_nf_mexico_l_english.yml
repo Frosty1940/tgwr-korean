@@ -227,13 +227,13 @@ Mex_extra_tech_slot_2_desc:0 "" #####
  mex_political_effort:0 "정치 주력" #link me pls
  mex_political_effort_desc:0 "The time for reform is now. While the nation has been fine under the guidance of the system of old for years, these turbulent times require a government that is in position to respond to them. Whether we choose to change our ways as a nation, or bolster our existing government to stand up to new external threats, political change can do nothing but benefit our nation and people's future."
 
- mex_ww1_sovereignist_ethos:0 "Support Madero's democracy"
+ mex_ww1_sovereignist_ethos:0 "마데로의 민주주의 지원"
  mex_ww1_sovereignist_ethos_desc:0 "Francisco Madero has been arguing for a re-furbishing of Mexico's democracy, to return it to the more liberal and decentralized state it has been in the past. While critics argue that such a state is what was responsible for Mexico's decline since independence, it may be worth risking to avoid the implosion of the state."
 
- mex_ww1_Support_the_democracy:0 "Support the Democracy"
+ mex_ww1_Support_the_democracy:0 "'참'민주주의 복원"
  mex_ww1_Support_the_democracy_desc:0 "It is said that any ruler, at their core, derives their power from the people. If we make a move towards a more democratic society, even if we don't become one ourselves, we can at the very least fall into a much nicer position to trade with the various democratic nations around the world."
 
- mex_ww1_centralizedpower:0 "Labor Program"
+ mex_ww1_centralizedpower:0 "노동 "
  mex_ww1_centralizedpower_desc:0 "In a time of war, or those immediately before or after, everyone has a job to do for their nation. If we put drifters, the homeless, and all of the other moochers who can't get a job to work on building for us, we can establish new manufacturies for nearly no cost, and the factory can even hire from the same labor pool if need be."
 
  mex_ww1_freespeech:0 "자유 연설"
@@ -242,13 +242,13 @@ Mex_extra_tech_slot_2_desc:0 "" #####
  mex_ww1_reorganization_act:0 "재편성법"
  mex_ww1_reorganization_act_desc:0 "Much of our territory has been under the possession of various groups and individuals since civilization came to our humble nation. Over hundreds of years, however, much of this territory has been inefficiently laid out or used. By reorganizing the land and owners of our nation, particularly those that have been dormant, we can squeeze some of the newly displaced people into our factories."
 
- mex_ww1_full_rearmament:0 "Harsh Rationing"
+ mex_ww1_full_rearmament:0 "혹독한 배급제도"
  mex_ww1_full_rearmament_desc:0 "With our brave heroes actively defending the nation, they should have top priority for food and materials! Of course, the civilian population may resort to literally counting their beans and we might have a more restless population on our hands because of it, but if nothing else, our boys in uniform won't go hungry anytime soon."
 
  Mex_collectivist_ethos:0 "Supporting Other Revolutionary Leaders" #link me pls
  Mex_collectivist_ethos_desc:0 "The old state is doomed to fall, taking our country with it unless we are to take extreme measures. By adopting a harsher stance, and moving our country towards a more extreme government form, we'll be able to protect ourselves and our national interests effectively in today's world."
 
- Mex_nationalism_focus:0 "Support Pancho Villa"
+ Mex_nationalism_focus:0 "판초 빌라 지원"
  Mex_nationalism_focus_desc:0 "Pancho Villa has gotten a taste of power in Mexico, and has harshened his tone, becoming more of a hardline nationalist and pro-military. Perhaps he is the leader that will finally bring us above Uncle Sam..."
 
  mex_militarism:0 "군국주의"
@@ -260,7 +260,7 @@ mex_military_youth_desc:0 "Our militaristic culture must even be present with th
 mex_paramilitarism:0 "준군사주의"
 mex_paramilitarism_desc:0 "Some nations are foolish enough to condemn armed civilian groups, for fear of rebellion. However, if we are careful to restrict these ad-hoc militias to loyalists to the regime, we can create yet another group of angry men with guns who support our nation, which could do us well in case of war."
 
-mex_internationalism_focus:0 "Support Emiliano Zapata"
+mex_internationalism_focus:0 "에밀리아노 자파타 "
 mex_internationalism_focus_desc:0 "Emiliano Zapata's message of extreme Socialism in Mexico- which, to put it bluntly, is nothing more than mere Communism- is a popular message indeed, especially in the very south of the country. Supporting his position could pacify the populace once and for all, even if it makes us slightly unpopular with the world's democracies."
 
 mex_political_correctness:0 "정치적 올바름"
@@ -360,19 +360,19 @@ mex_ww1_Stabilize_the_country_desc:0 "The country's turmoil seems to be over, at
 mex_ww1_diplomatic_effort:0 "외교 주력"
 mex_ww1_diplomatic_effort_desc:0 "It is becoming increasingly difficult to stay in the middle of the affairs in the world as it stands. Our diplomatic corps is already asking if we're to be involved in the coming power struggle, or if we are to stay out of things entirely. While we can't answer that question quite yet, we can easily expand our corps to be able to choose one of these options."
 
-mex_ww1_takeposition:0 "Take Position"
+mex_ww1_takeposition:0 "국제정서에 끼어들기"
 mex_ww1_takeposition_desc:0 "Our place in the world is tenuous at best. After all, with the great empires at each others' throats, what's to stop one from turning on us once they're through? We must bet on the winning horse, and quickly, to ensure ourselves a place at the council of victors instead of as a footnote in a history book."
 
-mex_ww1_supportgermany:0 "Support Germany"
+mex_ww1_supportgermany:0 "독일 지원"
 mex_ww1_supportgermany_desc:0 "With the German Empire's massive industrial sector, they seem to be the clear-cut bet, even if they are diplomatically isolated. Showing public support to the Germans on even a few, non-key matters will send a message that we're moving closer to the Central Powers."
 
-mex_ww1_supportfrance:0 "Support France"
+mex_ww1_supportfrance:0 "프랑스 지원"
 mex_ww1_supportfrance_desc:0 "Though France's industry can't compete with Germany's, they have far more friends, and we'd even be one more. By supporting France on in a few of the upcoming diplomatic issues, we may just win them over."
 
-mex_ww1_supportaustria:0 "Support Austria-Hungary"
+mex_ww1_supportaustria:0 "오스트리아-헝가리 지원"
 mex_ww1_supportaustria_desc:0 "The old empire of Austria-Hungary has lived to see the rise of most of the major nations on the world map. So, surely, if we want to become seen as a more major nation, what better country to support? This will also help us draw closer to the Central Powers."
 
-mex_ww1_supportrussia:0 "Support Russia"
+mex_ww1_supportrussia:0 "러시아 지원"
 mex_ww1_supportrussia_desc:0 "The Russian Empire is in pretty dire need of international help. For the nation whose former leader coined the term ''Sick Man of Europe'', they cannot be particularly healthy themselves. Our support will, if nothing else, help them hang on long enough to do something decisive."
 
 mex_ww1_military_reserve:0 "Military Reserve"
@@ -387,10 +387,10 @@ mex_ww1_embargo_france_desc:0 "France's diplomatic scheming and backstabbing are
 mex_ww1_sellweapons:0 "Sell Weapons"
 mex_ww1_sellweapons_desc:0 "Though the tension of the world is the highest it's ever been, even this stormcloud has a silver lining. As we have no interest in joining the fight, we can easily hawk our weapons and weapon designs- even to both sides of a conflict, if we want- and make a killing off of the misfortunes of others. Their fault for starting the war."
 
-mex_ww1_joingermany:0 "Join Central Powers"
+mex_ww1_joingermany:0 "동맹국 가입"
 mex_ww1_joingermany_desc:0 "The Central Powers have long been a friend to our nation, and desperately need help in these most uncertain times. Joining them is a one-way ticket into the war on their side, and we better be in it to win it if we are, but we could turn the tides to a decisive victory on their part."
 
-mex_ww1_joinfrance:0 "Join Entente"
+mex_ww1_joinfrance:0 "협상국 가입"
 mex_ww1_joinfrance_desc:0 "The Entente currently seem to be in the better position to win the war, and we wouldn't want to be caught missing the peace conference once they do. Joining the Entente will definitely pull us into war, which could wind up disastrously, but at least we'll have allies to help, right?"
 
 mex_ww1_war_effort:0 "War Effort"
@@ -402,7 +402,7 @@ mex_ww1_equip_fra_desc:0 "The French are prepared to pay top dollar for our rifl
 mex_ww1_equip_ger:0 "Central Powers Arms Deliveries"
 mex_ww1_equip_ger_desc:0 "For some reason, the Germans want our guns. Why not give them what they want?"
 
-mex_neutrality_focus:0 "Neutrality Focus"
+mex_neutrality_focus:0 "중립적 중점"
 mex_neutrality_focus_desc:0 "While others may claim it takes bravery and wisdom to take sides in a global conflict, we know it takes more to refuse."
 
 mex_interventionism_focus:0 "Interventionism Focus"
@@ -411,7 +411,7 @@ mex_interventionism_focus_desc:0 "We value the freedom of all people, not only o
 mex_deterrence:0 "Deterrence"
 mex_deterrence_desc:0 "Standing alone, we rarely benefit from war. Fortunately, we know that the best defense is one so well-known you never have to put it to use."
 
-mex_volunteer_corps:0 "Volunteer Corps"
+mex_volunteer_corps:0 "의용군 "
 mex_volunteer_corps_desc:0 "Forcing our people to die for ideals of freedom would be an exercise in irony, but establishing means for those who wish to aid people abroad is not."
 
 mex_foreign_expeditions:0 "Foreign Expeditions"

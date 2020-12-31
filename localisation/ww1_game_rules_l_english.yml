@@ -1,4 +1,12 @@
 ﻿l_english:
+#Strengthen
+ custom_diff_strong_rus:0 "러시아 강화"
+ custom_diff_strong_auh:0 "오스트리아-헝가리 강화"
+ custom_diff_strong_tur:0 "오스만 강화"
+ custom_diff_strong_ser:0 "세르비아 강화"
+ custom_diff_strong_bul:0 "불가리아 강화"
+ custom_diff_strong_sov:0 "소비에트 연방 강화"
+
 #GAME SETUP
  #The Burgundy Rule >:)
  RULE_BURGUNDY_TGWR:0 "부르군트 통치"

@@ -579,6 +579,8 @@
  idea_xinhai_warlords_desc:0 "공화국의 일부 지역은 새 정권에 대해 극도로 불만족스러워하고 있습니다. 지방 통치자들은 언제든지 자기 땅의 독립을 선언할 준비가 되어 있습니다."
  
  #ITALY
+ ITA_ww1_Risorgimento:0 "리소르지멘토"
+ ITA_ww1_Risorgimento_desc:0 "리소르지멘토(Risorgimento, 이탈리아 통일운동)는 이탈리아 반도의 여러 주를 이탈리아 왕국의 단일 국가로 통합한 정치 및 사회 운동입니다. 이 사건에 대한 기억은 물론 이어진 민족통일주의는 이탈리아 통합과 정치 양면에서 원동력입니다."
  idea_italy_emanuell_iii:0 "에마누엘레 3세"
  idea_german_investors:0 "독일 투자"
  idea_french_investors:0 "협상국 투자"
@@ -813,6 +815,53 @@
  SOV_idea_scientific_atheism:0 "과학적 무신론"
  SOV_idea_revival_of_russia:0 "러시아의 부활"
  SOV_idea_kronstadt:0 "크론슈타트 반란"
+
+ intervention_in_russia:0 "러시아 개입"
+ SOV_great_revolution:0 "위대한 사회주의 혁명"
+ SOV_nationalization:0 "국유화"
+ SOV_red_army:0 "붉은 군대"
+ revolution_influence:0 "혁명의 영향"
+ red_terror:0 "적색 테러"
+ revolution_failed:0 "혁명의 패배"
+ revolution_failed_desc:0 "러시아 혁명의 붕괴로 볼셰비키들은 국외로 탈출할 수밖에 없었습니다. 이제 그들의 활동은 어느 국가도 통제하지 않습니다. 사회주의의 인기는 전 세계적으로 증가하고 있습니다."
+ end_of_civil_war:0 "내전 후의 회복"
+ SOV_social_welfare:0 "사회복지"
+ SOV_prodrazverstka_idea:0 "군사공산주의"
+ SOV_communism_economy:0 "프롤레타리아 독재"
+ SOV_new_economy:0 "신경제정책"
+ SOV_soviet_capitalism:0 "국가자본주의"
+ SOV_plan_economy:0 "계획 경제"
+ SOV_orthodox_church:0 "종교와의 투쟁"
+ SOV_opposition:0 "권력 투쟁"
+ SOV_VCHK:0 "체카 비밀경찰"
+ SOV_coalition:0 "사회당 연정"
+ SOV_democratic_federation:0 "대연방"
+ SOV_brest_litovsk:0 "브레스트-리토프스크 평화"
+ SOV_brest_litovsk_desc:0 "부끄러운 브레스트 평화의 서명은 온 나라에 큰 타격이었습니다. 독일과의 전면전이 끝난 후 정규군은 더 이상 전쟁을 계속하고 싶지 않았고 많은 군인들이 집으로 돌아갔습니다."
+ SOV_petrogad_uprising:0 "페트로그라드 봉기"
+ RUS_ww1_russian_workers:0 "노동자 탄압"
+ RUS_ww1_russian_workers_desc:0 "러시아 산업은 높은 성장률을 가지고 있습니다. 그러나 이 성공은 러시아 노동자들의 피와 땀에 기반한 것이었습니다. 프롤레타리아 계급은 억압받고 있으며, 심각한 손실을 가져오는 파업이 종종 있습니다."
+ RUS_ww1_dual_power:0 "이중 권력"
+ RUS_ww1_russian_revolution:0 "혁명가의 위협"
+ RUS_ww1_russian_revolution_desc:0 "1905년은 러시아에 새로운 시대의 시작점이었습니다. 제국은 차르의 독재에 대항하여 국민의 모든 분노와 권력을 돌릴 적절한 때를 기다리는 혁명 단체들에 의해 분열되어 있습니다."
+ RUS_whites:0 "백군"
+ sov_horse:0 "«부됸노프치»"
+ sov_horse_desc:0 "세묜 부됸니는 기병을 기반으로 강력한 충격 경비대를 만들었습니다. 이런 부대의 병사들은 매우 다른 투지와 맹공격의 힘입니다."
+ stalinite_plot:0 "스탈린파의 음모?"
+ stalinite_plot_purged:0 "스탈린파 음모는 숙청되었는가?"
+ 
+ leon_trotskiy:0 "레프 트로츠키"
+ joseph_stalin:0 "이오시프 스탈린"
+ viktor_nogin:0 "빅토르 노긴"
+ felix_dzerzhinsky:0 "펠릭스 제르진스키"
+ alexei_ryikov:0 "알렉세이 리코프"
+ alexander_kerensky:0 "알렉산드르 케렌스키"
+ vladimir_ovseenko:0 "블라디미르 오브세옌코"
+ pavel_dyibenko:0 "파벨 디벤코"
+ semen_budennyi:0 "세묜 부됸니"
+ mikhail_frunze:0 "미하일 프룬제"
+
+ sov_after_civil_war:0 "러시아 내전 종결"
  
  #FREE TERRITORY
  VLN_idea_mother_anarchy:0 "어머니 아나키"
@@ -828,6 +877,8 @@
  BEL_belgian_resistance_desc:0 "늙은 왕 알베르 1세는 독일 통치에 대항하는 지하 저항 운동을 주도하고 있습니다.\n\n'La Plus Loyale Résistance de Sa Majesté-Zijn Meest Loyale Verzet van Zijne Majesteit' 또는 줄여서 LPLRSM-ZMLVZM은 그들은 벨기에를 영구 점령군으로 인식하는 것으로부터 "해방"하기 위해 그들의 삶을 바치는 자유주의적 군주주의 빅텐트 동맹입니다.\n\n그들은 광범위한 대중의 지지를 받고 있고, 우리의 통치를 여기서 확고히 하기는 어려울 것입니다."
  
  #FRANCE
+ Franch_Staff:0 "프랑스 참모"
+ Franch_Staff_desc:0 "전시에는 육군참모총장이 총사령부(GQG: Grand Quartier Général)를 맡았습니다. 제1차 세계 대전 당시 프랑스 군대의 지도자는 여러 차례 총대장(대원수) 또는 총사령관으로 일컬어졌습니다. 전쟁이 끝난 해에는 1917년 최고 전쟁 평의회 설립으로 프랑스 장군 페르디낭 포슈가 전반적인 지휘권을 장악하게 되었고, 1918년 중반에 이르러 프랑스 육군 대장 페탱이 포슈의 하급자가 되었습니다. 전쟁은 1918년 11월 휴전으로 본질적으로 끝났지만, 전시 조직은 1920년까지 존속했습니다."
  FRA_ww1_Revanchism:0 "보복주의"
  FRA_ww1_Revanchism_desc:0 "1870년 프로이센-프랑스 전쟁의 여파로, 많은 민족주의자들이 프랑스의 패배를 복수하고 알자스-로레인의 잃어버린 영토를 되찾기를 원했습니다."
  FRA_idea_dual_power:0 "이중 권력"
@@ -925,6 +976,10 @@
  GER_state_in_blockade_desc:0 "이 나라는 적의 봉쇄에 처해 있습니다. 그들은 완전한 경제적 고립이 기근을 유발할 것으로 예상합니다."
  
  #AUSTRIA-HUNGARY
+ AUH_ww1_House_Habsburg_Lorraine:0 "합스부르크-로트링겐 가문"
+ AUH_ww1_House_Habsburg_Lorraine_desc:0 "합스부르크-로트링겐 가문은 유럽에서 가장 영향력 있는 왕가 중 하나이며, 오스트리아-헝가리 왕조의 지배 왕조입니다. 제위에 오른 이 가문의 오랜 유산은 그들이 통치권을 유지할 수 있는 한 그들의 통치권을 유지하는 데 필요한 많은 합법성을 부여합니다."
+ Austrian_staff:0 "오스트리아 참모"
+ Austrian_staff_desc:0 "오스트리아-헝가리의 제왕 총참모부는 전쟁부의 일부였습니다. 황제와 직접 접촉한 전군 총참모장이 지휘했습니다. 총참모부는 입안과 준비를 담당했고, 육군최고사령부(AOK)는 작전의 상급 사령부였습니다. 사실 AOK는 황제의 직할을 받고 총참모장은 그의 수석 고문이었기 때문에 실제로는 AOK는 총참모장의 지휘를 받고 있었습니다."
  AUH_ww1_Trialism:0 "삼원론"
  AUH_ww1_Trialism_desc:0 "오스트리아-헝가리 역사에서 삼원론은 이중제국을 삼중제국으로 재편하여 오스트리아, 헝가리와 동등한 지위에 있는 크로아티아 국가를 만들려는 정치적 운동을 말합니다."
  AUH_czech_separatism:0 "체코 의회"
@@ -1089,6 +1144,8 @@
  AST_idea_overseas_vol_desc:0""
  
  #UK
+ ENG_Staff:0 "영국 참모"
+ ENG_Staff_desc:0 "제1차 세계 대전 중 영국 육군은 제국주의의 팽창에 대한 증가하는 요구로 그 조직을 기술할 수 있었습니다. 그 틀은 19세기 후반의 카드웰 칠더스 개혁으로 규정되어 있던 자발적인 모병 체계와 연대 체계였습니다. 영국 육군은 준비되었고 주로 제국의 문제와 이어지는 식민지 전쟁에 부름을 받았습니다. 19세기 말에 육군은 전술과 지도력, 관리의 단점을 부각시킨 제2차 보어 전쟁(1899–1902)이라는 큰 갈등에 휘말렸습니다."
  edward_vii:0 "에드워드 7세"
  IRE_idea_IRA:0 "아일랜드 공화국군"
  IRE_idea_IRA_desc:0 "블랙 앤 탠즈 패거리들아 어서 뛰어와라, 이리 나와서 나와 남자답게 싸워보자!"
@@ -1203,7 +1260,7 @@ CAN_monarchism2_desc:0 "독자성이 구축되고 있습니다. 캐나다 사람
 CAN_blood_ice:0 "얼음과 피"
 CAN_blood_ice_desc:0 "이제부터 모든 캐나다인들은 피와 얼음만 알게 될 것입니다."
 CAN_danish_trade:0 "캐나다 교역로"
-CAN_danish_trade_desc:0 "캐나다인들은 우리가 그들에게 그린란드를 주었기 때문에 우리에게 무역 우선권을 주었습니다."
+CAN_danish_trade_desc:0 "덴마크가 그린란드를 주었기 때문에 우리는 그들에게 무역 우선권을 주었습니다."
 CAN_american_defensive_war:0 "미국 방어"
 CAN_american_defensive_war_desc:0 "우리의 어리석은 북쪽 이웃들이 우리에게 전쟁 위협을 가했습니다."
 CAN_canadian_victory:0 "캐나다의 승리"
@@ -1488,3 +1545,7 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
  KOR_idea_mass_conscription_desc:0 "모든 남자들은 적어도 3년 동안 의무적으로 군 복무를 해야 합니다."
  KOR_idea_army_tradition:0 "의병의 전통"
  KOR_idea_army_tradition_desc:0 "신대한국 독립군의 백만용사야\n조국의 부르심을 네가 아느냐\n삼천 리 삼천만의 우리 동포들\n건질 이 너와 나로다"
+
+ #Denmark
+ DEN_canadian_trade:0 "캐나다 교역로"
+ DEN_canadian_trade_desc:0 "캐나다인들은 우리가 그들에게 그린란드를 주었기 때문에 우리에게 무역 우선권을 주었습니다."

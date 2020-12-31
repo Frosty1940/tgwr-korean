@@ -145,6 +145,8 @@
  MASS_MOBILIZATION_LABEL:0 "대규모 동원"
  FRONT_ORGANIZATION_LABEL:0 "전선 조직"
  motorised_infantry2:0 "차량화보병"
+ russian_research_name:0 "러시아 군사 협력"
+ russian_research_desc:0 ""
  austrian_research_name:0 "오스트리아-독일 군사 협력"
  austrian_research_desc:0 ""
  brazilian_german_research_name:0 "브라질-독일 군사 훈련"

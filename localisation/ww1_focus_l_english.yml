@@ -5,6 +5,134 @@
  factory_effort_2:0 "공장 주력 2"
  political_effort:0 "정치 주력"
  social_reform_effort:0 "사회 개혁 주력"
+ 
+ #Soviet
+ ww1_sov_revolution:0 "대혁명"
+ ww1_sov_peace:0 "평화에 관한 포고"
+ ww1_sov_land:0 "토지에 관한 포고"
+ ww1_sov_continue_war:0 "승리를 향한 전쟁"
+ ww1_sov_red_army:0 "붉은 군대"
+ ww1_sov_social_welfare:0 "사회 복지"
+ ww1_sov_prodrazverstka:0 "전쟁 공산주의"
+ ww1_sov_fire_of_revolution:0 "혁명의 불"
+ ww1_sov_sovnarkom:0 "인민위원평의회"
+ ww1_sov_red_com:0 "군대 개혁"
+ newfocus_7:0 "체카 설립"
+ ww1_sov_red_fleet:0 "붉은 함대"
+ ww1_sov_airfleet:0 "붉은 항공대"
+ ww1_sov_railroad:0 "기반시설 확충"
+ ww1_sov_real_communism:0 "프롤레타리아 독재"
+ ww1_sov_nep:0 "신경제정책"
+ ww1_sov_help_for_red:0 "서방 소비에트"
+ ww1_sov_world_revolution:0 "세계 혁명"
+ ww1_sov_ateism:0 "종교와 싸우다"
+ ww1_sov_tech_slot:0 "과학 학술원"
+ ww1_sov_constitution:0 "신헌법"
+ ww1_sov_defend_revolution:0 "제헌 국회"
+ ww1_sov_red_terror:0 "적색테러"
+ ww1_sov_budenniy:0 "부됸니의 전략"
+ ww1_sov_frunze:0 "프룬제의 전략"
+ ww1_sov_tuhach:0 "투하쳅스키의 전략"
+ ww1_sov_north_fleet:0 "발트 함대"
+ ww1_sov_south_fleet:0 "흑해 함대"
+ ww1_sov_electrification:0 "GOELRO 계획"
+ ww1_sov_paradise:0 "노동자의 낙원"
+ ww1_sov_agrar:0 "농업 개혁"
+ ww1_sov_reds_in_ukraine:0 "소비에트 우크라이나"
+ ww1_sov_isolation:0 "고립"
+ ww1_sov_kill_tsar:0 "차르의 운명"
+ ww1_sov_dictator:0 "당의 독재"
+ ww1_sov_coalition:0 "사회당 연정"
+ ww1_sov_horse:0 "기병대에 투자"
+ ww1_sov_strategy:0 "전략에 투자"
+ ww1_sov_sturm:0 "대규모 돌격에 투자"
+ ww1_sov_goscapital:0 "국가자본주의"
+ ww1_sov_plan:0 "계획 경제"
+ ww1_sov_poland:0 "소비에트 폴란드"
+ newfocus_19:0 "코민테른"
+ ww1_sov_repression:0 "반대파 말살"
+ ww1_sov_democratic:0 "온건사회주의"
+ ww1_sov_five_years:0 "5개년 계획"
+ ww1_sov_intervention:0 "개입의 위협"
+ ww1_sov_ussr:0 "소비에트 공화국"
+ ww1_sov_veterans:0 "대전쟁의 교훈"
+ ww1_sov_social_federation:0 "대연방"
+ ww1_sov_union:0 "소비에트 연방"
+ ww1_sov_civil_war_after:0 "내전의 교훈"
+ ww1_sov_collectvization:0 "집산화"
+ ww1_sov_cult:0 "개인숭배"
+ ww1_sov_mc_1:0 "소비에트 전차"
+ ww1_sov_motrization:0 "차량화부대"
+ ww1_sov_aircraft:0 "항공모함 생산"
+ ww1_air_nation:0 "붉은 천국"
+ ww1_upgrade_old_airplanes:0 "항공대 개선"
+ ww1_kirov_reporting:0 "키로프 보고"
+ ww1_lenin_drednout:0 "«혁명»급"
+ ww1_sea_nation:0 "해군력"
+ ww1_sov_finland:0 "소비에트 핀란드"
+ 
+ ww1_sov_revolution_desc:0 "일어나라 노동자들이여 그대들의 잠에서!\n일어나라 가난한 죄수들이여!\n저항의 까닭에 천둥이 울린다\n그리고 마침내 위선의 시대가 끝난다."
+ ww1_sov_peace_desc:0 "혁명 초기부터 소비에트 정부는 독일과 그 동맹국과의 전쟁을 완전히 용납할 수 없다고 여겼습니다. 우리는 브레스트-리토프스크 조약을 체결하고, 피비린내 나는 전쟁을 중지할 것입니다."
+ ww1_sov_land_desc:0 "모든 권력을 소비에트로! 땅은 기독교인들에게! 공장은 노동자들에게! 우리는 부르주아의 이상을 파괴했습니다! 개인 소유의 국유화는 혁명의 핵심 아이디어 중 하나입니다. 그래야 새 소비에트 러시아의 모든 국민이 자본주의의 억압 없이 일하고 살 권리를 갖게 될 것입니다!"
+ ww1_sov_continue_war_desc:0 "트로츠키 동지는 독일이 계속 공격전을 벌일 수 없다고 시사했는데, 이는 우리가 굴욕적인 평화 없이 할 수 있다는 뜻입니다."
+ ww1_sov_red_army_desc:0 "바로 그렇게\n붉은 군대여\n총검을 든 억센 손으로,\n위력 있게 압박하라.\n그리고 우리 모두는\n두려워하지 않으며\n마지막 죽음의 결전으로 가야만 한다!"
+ ww1_sov_social_welfare_desc:0 "사회주의 국가에서 무상교육, 무상의료, 무상안보 같은 것들이 도입되고 있다는 것을 알면서 자본주의 세계 전체가 자긍심에 타격을 입을 것이라고 생각합니다. 인간은 살아가야지, 견뎌 내서는 안 됩니다!"
+ ww1_sov_prodrazverstka_desc:0 "나라는 끔찍한 경제 위기에 처해 있습니다. 군대와 시민들은 굶주림에 시달리고, 공급은 어려움을 겪고 있습니다. 대재앙을 막기 위해 배급 독재를 실시하고, 모든 군대에서 식량을 분배하고, 전쟁의 형세 속에서 공산 경제를 이끌어야 합니다."
+ ww1_sov_fire_of_revolution_desc:0 "러시아에 맞서 싸우며 우리에게 큰 영토를 포기하라고 강요한 적들이 가장 큰 실수를 저지르며 혁명정부에 압력을 가했습니다. 제국주의자들은 선전의 힘에 의해 무장해제될 것이며, 우리는 유럽의 노동자들과 군인들에게 사회주의 혁명의 횃불을 주어 그들이 사회주의 미래로 나아갈 수 있도록 할 것입니다."
+ ww1_sov_sovnarkom_desc:0 "노동자와 농민들의 임시정부로 설립된 인민위원평의회. 레닌 동지가 이끄는 이 비상정부는 러시아를 어려운 상황에서 벗어나도록 이끌어야 합니다."
+ ww1_sov_red_com_desc:0 "인민군은 우리의 저명한 이론가들이 보증하는 대대적인 개혁이 필요합니다. 이념적 훈련과 군사훈련을 병행해 매우 효과적인 대형을 만들 것입니다."
+ newfocus_7_desc:0 "사회주의 혁명의 점령지는 반혁명 주체들의 공격으로부터 보호되어야 합니다. 강력한 예방책이 그 나라의 국방력을 증가시킬 것입니다."
+ ww1_sov_red_fleet_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_airfleet_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_railroad_desc:0 "대규모 공산주의 대건설을 위한 토대를 마련할 철도 체계를 확충해야 할 때입니다!"
+ ww1_sov_real_communism_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_tech_slot_desc:0 "오늘날까지, 과학 연구소는 사회주의 이상과는 크게 다른 그들만의 계획을 주도하고 있습니다. 우리는 정부의 통제 하에 전체 교육 시스템을 가져가고 모든 시민이 이념적으로 올바른 교육을 받을 수 있도록 할 것입니다."
+ ww1_sov_nep_desc:0 "신경제정책은 공산주의 이상을 바탕으로 한 건국계획과 다릅니다. 사실, 우리는 우리가 돈과 다른 것들을 거절할 수 없을 때까지 사회주의 경제를 설정하게 되었습니다."
+ ww1_sov_help_for_red_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_world_revolution_desc:0 "러시아 혁명의 승리는 전 세계에 엄청난 영향을 미칠 것입니다! 세계혁명의 시작에 관한 뉴스가 퍼지면 부르주아 국가 지하에 있는 우리의 동지들이 자본주의 정부를 전복시키고 우리의 투쟁에 동참하는 데 도움이 될 것입니다!"
+ ww1_sov_ateism_desc:0 "교회는 천국의 농민에 대한 무의미한 헛소리로 우리를 오염시키고 있습니다. 터무늬없습니다! 교회 계층 전체가 스스로를 차르 정부 시절 선택된 엘리트라고 여겼습니다. 이 나라에는 오직 하나의 종교만 있습니다 - 그것은 공산주의입니다!"
+ ww1_sov_defend_revolution_desc:0 "임시정부와 케렌스키는 너무 느려서 제헌국회를 임명하고 소집하지도 못했습니다. 우리는 곧 있을 정부 선거에 대비하는 효험을 떠맡았습니다. 선거가 끝나면 국민이 가장 신뢰하는 정당이 어디인지 알아낼 것입니다."
+ ww1_sov_red_terror_desc:0 "이런 상황에서는 공포 정책이 필요합니다. 강경한 조치로써, 당내의 야당과 반역자를 제거하면 나라가 강해지고 모든 반혁명 사상이 정화됩니다."
+ ww1_sov_budenniy_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_frunze_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_tuhach_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_north_fleet_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_south_fleet_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_electrification_desc:0 "«레닌의 등불»이 아직 빛을 내지 않은 곳이 어디입니까? 산업을 육성하면 러시아 전체에 전기를 공급할 수 있습니다. 그것은 우리에게 공학 개발에 큰 힘을 실어줄 것입니다."
+ ww1_sov_paradise_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_agrar_desc:0 "사회주의가 촌락에 도래했습니다. 이제 모든 소비에트 농민들은 자신의 필요에 따라 노동력을 사용할 수 있는 땅과 권리가 있습니다. 공산주의 건설의 이익을 위해 소작농을 어떻게 이용할 것인가를 생각해 볼 때입니다! 개혁은 농경문화의 효율을 높일 것입니다."
+ ww1_sov_reds_in_ukraine_desc:0 "우크라이나 인민 공화국이 결성된 후 사회주의 정당들이 우크라이나에서 탄압받기 시작했습니다. 우리는 우크라이나 대표들에게 연락해서 그들이 자국민에 대한 압력을 멈추도록 해야 합니다. 그렇지 않으면 우리는 그들의 일에 개입해야 할 것입니다!"
+ ww1_sov_isolation_desc:0 "러시아가 전쟁과 대규모의 변화 상태에 있는 한, 우리는 더 이상 부르주아 제국을 다룰 수 없습니다. 그들은 개입으로 우리를 위협하는데, 그렇다면 그들과 협력해야 할 이유가 무엇입니까? 국내 정치에 더 집중하는 것이 더 낫습니다."
+ ww1_sov_kill_tsar_desc:0 "차르 니콜라이 2세는 오랫동안 그 가족과 함께 망명 중입니다. 그가 투옥되는 동안 백군은 왕정 복원에 대한 희망을 가지며, 사회주의 국가에서 포로가 된 차르의 존재는 설 자리가 없습니다."
+ ww1_sov_dictator_desc:0 "모든 것은 분명합니다 - 적들은 어디에나 있고 심지어 우리의 옛 동맹국들 사이에서도 있습니다. 제헌의회는 분산될 것이며, 오직 한 당사자만이 합법적인 권한을 갖게 될 것입니다."
+ ww1_sov_democratic_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_horse_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_strategy_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_sturm_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_goscapital_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_plan_desc:0 "가계계획은 생산을 증가시키기 위해 모든 자원을 집중시킬 수 있게 합니다. 그러나 계획에는 시간이 필요하기 때문에 기술 발전은 더디게 될 것입니다."
+ ww1_sov_poland_desc:0 "무너진 제국의 서쪽 지방은 폴란드국에 대한 합의에 의해 계승되었습니다. 이제 폴란드는 벨라루스와 우크라이나 서부의 영토를 주장하고 있습니다. 우리의 목표는 폴란드에 우호적인 정부를 수립하고 벨라루스와 우크라이나의 서쪽 땅을 소비에트 연방 정부로 인정하는 것입니다!"
+ newfocus_19_desc:0 "의회는 세계의 모든 공산주의자들을 하나의 동맹으로 통합시킬 제3인터내셔널을 소집하기로 결정했습니다! 미래에는 반혁명의 자본가 히드라와 싸울 동맹국을 찾을 것입니다!"
+ ww1_sov_repression_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_coalition_desc:0 "멘셰비키와 사회혁명당 대표들은 제헌의회 선거에서 승리하고 급진적인 볼셰비키들을 추방하기 위해 통일된 연합을 만들기로 결정했습니다!"
+ ww1_sov_five_years_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_intervention_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_ussr_desc:0 "사회주의는 점점 전 세계로 퍼져나가고 있고, 이미 옛 러시아 제국의 많은 나라들이 우리 소비에트 인터내셔널에 가입하고 싶어합니다! 그들이 통합에 동의한다면, 우리는 부르주아 세계에 대한 압력을 높일 것입니다!"
+ ww1_sov_veterans_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_social_federation_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_union_desc:0 "우리의 미래 정책은 레닌 동지의 계획에 따라 세계 사회주의가 하나의 국가로 통일되는 것입니다. 사회주의 공화국 소비에트 연방은 우리의 조국입니다!"
+ ww1_sov_civil_war_after_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_collectvization_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_cult_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_mc_1_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_motrization_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_aircraft_desc:0 "[번역 대기 중 ...]"
+ ww1_air_nation_desc:0 "[번역 대기 중 ...]"
+ ww1_upgrade_old_airplanes_desc:0 "[번역 대기 중 ...]"
+ ww1_kirov_reporting_desc:0 "우리나라는 비행선이 필요합니다! 우리는 대규모의 비행선 건설 프로그램을 시작할 것이며, 이것은 붉은 공군의 주요 상징이 될 것입니다!"
+ ww1_lenin_drednout_desc:0 "[번역 대기 중 ...]"
+ ww1_sea_nation_desc:0 "[번역 대기 중 ...]"
+ ww1_sov_finland_desc:0 "핀란드와의 상황은 지금 매우 긴박합니다. 내전은 그들을 우회하지 않았지만, 그들의 일에 대한 간섭은 원로원을 지지하는 독일의 대응으로 우리를 위협하고 있습니다. 핀란드의 독립성을 결정하거나 인정하거나 위험한 모험을 하고 적핀란드를 지원할 필요가 있습니다."
 
   ## GENERIC
  ww1_army_effort:0 "군대 현대화"
@@ -1153,12 +1281,12 @@
  GER_rome_act:0 "로마법"
  GER_rome_act_desc:0 "로마는 제국에 복종해야 합니다."
  GER_general_staff_purge:0 "장군참모 숙청"
- GER_general_staff_purge_desc:0 "육군최고사령부는 음모를 꾸미고있는 것 같습니다. 숙청이 실행되어야 하고 제국의 반역자들은 즉시 제거되어야 합니다!"
+ GER_general_staff_purge_desc:0 "총참모부의 충성심은 아무리 좋게 보아도 의심스럽기 때문에 우리는 즉시 상황을 안정시켜야 합니다."
  GER_austrian_commune:0 "오스트리아 코뮌"
  GER_federation_of_communes:0 "코뮌 연방"
- GER_federation_of_communes_desc:0 "만약 독립한다면 바이에른인들은 궁극적으로 연방으로 돌아가야 합니다."
+ GER_federation_of_communes_desc:0 "우리는 우리 땅에서 우리의 위치를 더욱 강화시키기 위해 연방 종속국들을 수립해야 합니다."
  GER_push_through_poland:0 "폴란드를 통한 대공격"
- GER_push_through_poland_desc:0 "폴란드는 베르사유 체제의 실수입니다. 소비에트 러시아는 우리와 통합하기 위해 노력하고 있으며 폴란드는 혁명 사이의 마지막 장벽입니다."
+ GER_push_through_poland_desc:0 "폴란드는 항상 유럽이라는 장미의 골칫거리였습니다. 폴란드 회랑은 더 이상 폴란드 땅이 될 수 없습니다!"
  GER_third_international:0 "제3인터내셔널"
  GER_third_internationale:0 "제3인터내셔널"
  GER_czech_commune:0 "체코 코뮌"
@@ -1168,7 +1296,7 @@
  GER_mass_mobilization:0 "대규모 동원"
  GER_scientific_communism:0 "과학적 공산주의"
  GER_soviet_military_cooperation:0 "소비에트 군사 협력"
- GER_soviet_military_cooperation_desc:0 "장교단 교환 훈련과 같이 모든 것이 공유되어야 합니다."
+ GER_soviet_military_cooperation_desc:0 "동쪽에 있는 우리 형제들은 도움을 절실히 필요로 하고 있습니다. 강력한 동맹국으로서 그들을 보호하는 것이 우리에게 가장 적합합니다."
  GER_luftstreitkrafte:0 "항공대"
  GER_luftstreitkrafte_desc:0 "독일 항공대를 재편성하십시오."
  GER_focus_on_airships:0 "비행선 중점"
@@ -1191,84 +1319,149 @@
  GER_second_bjork_agreement:0 "제2차 비요크 협정"
  GER_second_bjork_agreement_desc:0 "우리는 러시아가 불가침 조약을 체결하도록 설득할 수 있습니다."
  
- AST_advisorycouncilonscienceandindustry:0 "과학 및 산업 자문 위원회"
- AST_advisorycouncilonscienceandindustry_desc:0 ""
- AST_britisharmssupplies:0 "영국제 무기 보급품"
- AST_britisharmssupplies_desc:0 ""
- AST_australianwarloans:0 "오스트레일리아 전쟁 차관"
- AST_australianwarloans_desc:0 ""
- AST_thesecondplebiscite:0 "제2차 국민 투표"
- AST_thesecondplebiscite_desc:0 ""
- AST_americanloans:0 "미국 차관"
- AST_americanloans_desc:0 ""
- AST_1915imperialloans:0 "1915년 제국 차관"
- AST_1915imperialloans_desc:0 ""
- AST_warprecautionsact1914:0 "1914년 전쟁예방법"
- AST_warprecautionsact1914_desc:0 ""
- AST_referendumof1910:0 "1910년 총선거"
- AST_referendumof1910_desc:0 "문제는 영연방 정부가 국가 부채를 인수할 법적 능력이 있는지 여부와 국가가 정기적인 보수를 받는 대가로 관세와 의무를 향유해야 하는지에 대한 것입니다."
- AST_cockatooislanddockyard:0 "코카투섬 선착장"
- AST_cockatooislanddockyard_desc:0 "코카투 섬 조선소는 주요 조선소입니다. 우리는 조선대와 철판 비가열 단조장을 더해서 조선소를 더 확장해야 합니다."
- AST_theaustralianaviationcorps:0 "오스트레일리아 항공대"
- AST_theaustralianaviationcorps_desc:0 "1911년 제국 회의에 따라, 제국 자치령 중 하나인 오스트레일리아는 공군을 창설할 것입니다."
- AST_aifinventionsresearchsection:0 "AIF 발명 연구 부서"
- AST_aifinventionsresearchsection_desc:0 ""
- AST_lithgowarms:0 "리스고 조병창"
- AST_lithgowarms_desc:0 "리스고의 군수공장은 우리의 주요 무기 공급원이다. 성장하는 우리 군의 현재 요구를 충족시키기 위해 시설을 확대해야 합니다."
- AST_imperialsecurity:0 "제국 방위"
- AST_imperialsecurity_desc:0 ""
- AST_thebhpsteelworks:0 "BHP 제철소"
- AST_thebhpsteelworks_desc:0 ""
- AST_thefirstplebiscite:0 "제1차 국민 투표"
- AST_thefirstplebiscite_desc:0 ""
- AST_navalandmilitaryexpeditionaryforce:0 "해군 및 군사 원정군"
- AST_navalandmilitaryexpeditionaryforce_desc:0 ""
- AST_firstflights:0 "첫 비행"
- AST_firstflights_desc:0 ""
- AST_workerseducationalassociation:0 "노동자 교육 협회"
- AST_workerseducationalassociation_desc:0 ""
- AST_establishgoldenfleececompany:0 "골든 플리스 사 설립"
- AST_establishgoldenfleececompany_desc:0 ""
- AST_thefirstaif:0 "제1차 오스트레일리아 제국군"
- AST_thefirstaif_desc:0 "제국은 이유 없는 독일의 침략으로 위협받고 있습니다. 우리는 모국의 부름에 응할 것입니다."
- AST_openthecommonwealthbank:0 "커먼웰스 은행 개장"
- AST_openthecommonwealthbank_desc:0 "이 새로운 국립은행은 국내 산업에 매우 필요한 자본을 제공할 것입니다."
- AST_thematernityallowanceact:0 "출산수당법"
- AST_thematernityallowanceact_desc:0 "출생한 모든 아동에 대해 모든 여성 시민에게 아동 수당이 지급될 것입니다."
- AST_referendumof1913:0 "1913년 총선거"
- AST_referendumof1913_desc:0 "문제는 무역과 상업, 기업, 산업 문제, 신탁, 독점 그리고 철도 분쟁에 대한 영연방 통제에 대한 것입니다."
- AST_amalgamatedwirelessaustralasialimited:0 "통합 무선 오스트랄라시아 유한책임회사" #Amalgamated Wireless Australasia Limited
- AST_amalgamatedwirelessaustralasialimited_desc:0 ""
- AST_theroyalaustraliannavy:0 "오스트레일리아 왕립해군"
- AST_theroyalaustraliannavy_desc:0 "우리는 오스트레일리아 해군 방위법을 통과시켜 해군을 창설했습니다."
- AST_duntroonmilitarycollege:0 "던트룬 육군참모대학교"
- AST_duntroonmilitarycollege_desc:0 "던트룬에 있는 왕립 군사대학은 미래의 모든 장교들의 학교가 될 것입니다."
- AST_referendumof1911:0 "1911년 총선거"
- AST_referendumof1911_desc:0 "문제는 무역법과 상거래에 대한 연방정부의 통제와 독점권의 국유화에 대한 것입니다."
- AST_thecommonwealthbankact:0 "커먼웰스 은행법"
- AST_thecommonwealthbankact_desc:0 "우리의 첫 국립은행의 설립은 많은 필요한 자본을 허용할 것입니다. 이는 우리가 우리의 산업을 더욱 발전시킬 수 있게 해줄 것입니다."
- AST_theaustraliandollar:0 "오스트레일리아 파운드"
- AST_theaustraliandollar_desc:0 "오스트레일리아 재무부는 영국 파운드화의 사용을 대체하여 화폐 발행 권한을 부여받았습니다."
- AST_opentheuniversityofqueensland:0 "퀸즐랜드 대학교 개장"
- AST_opentheuniversityofqueensland_desc:0 "퀸즐랜드 대학교는 오스트레일리아의 샌드스톤 대학교 중 하나입니다. 학부는 교육하고 연구를 실시하기 시작합니다."
- AST_openthemarburgrailwayline:0 "말버그 철도 노선 개통"
- AST_openthemarburgrailwayline_desc:0 "퀸즐랜드 주의 주도와 시골 서부를 연결하는 주요 철도 계획입니다."
- AST_compulsorymilitarytraining:0 "의무 군사 훈련"
- AST_compulsorymilitarytraining_desc:0 "제국은 많은 위협을 받고 있습니다. 모든 사람이 싸울 준비가 되어 있어야 합니다."
- AST_thehmsmelbourne:0 "HMS 멜버른"
- AST_thehmsmelbourne_desc:0 "우리 해군의 확장을 돕기 위한 노력의 일환으로 모국은 경순양함을 건조하여 인도하였습니다."
- AST_hmasaustralia:0 "HMAS 오스트레일리아"
- AST_hmasaustralia_desc:0 "우리의 새로운 기함, 영국의 최신 전투 순양함이 준비되었습니다!"
- AST_establishthecentralflyingschool:0 "중앙비행학교 설립"
- AST_establishthecentralflyingschool_desc:0 ""
- AST_1914imperialloans:0 "1914년 제국 차관"
- AST_1914imperialloans_desc:0 ""
- AST_vulcanengineeringworks:0 "벌컨 공업사"
- AST_vulcanengineeringworks_desc:0 ""
- AST_thedefenseact:0 "방위법"
- AST_thedefenseact_desc:0 "세계적인 지정학적 상황은 우리가 우리의 지역 방위군을 개혁해야 한다는 것을 의미하며, 만일의 사태에 대비해야 한다는 것을 의미합니다."
- AST_1stlightcarpatrol:0 "제1경차량정찰대"
- AST_1stlightcarpatrol_desc:0 ""
+ #Australia
+ Australia_advisory_council_on_science_and_industry:0 "과학 및 산업 자문 위원회"
+ Australia_advisory_council_on_science_and_industry_desc:0 "Establishing a single body, responsible for the sciences, is the first step to ward a national laboratory."
+ Australia_1915_imperial_loans:0 "1915년 제국 차관"
+ Australia_1915_imperial_loans_desc:0 "We require further financial resources from the crown. We will be further indebted to the crown."
+ Australia_war_precautions_act_1914:0 "1914년 전쟁예방법"
+ Australia_war_precautions_act_1914_desc:0 "The threats to the prosecution of the war effort, whether they be alien citizens or bomb throwing anarchists, must be curtailed. We must secure the country and thereby, the empire."
+ Australia_developing_the_federal_territory:0 "연방 영토 개발"
+ Australia_developing_the_federal_territory_desc:0 "Seat of Government Act 1908 has designated the territory and site of our future capital. We should begin preparing the site for development."
+ Australia_cockatoo_island_dockyard:0 "코카투섬 선착장"
+ Australia_cockatoo_island_dockyard_desc:0 "The cockatoo island dockyard is a major ship building installation. We should expand it further with an additional slipway and plate shop."
+ Australia_aif_inventions_research_section:0 "AIF Inventions Research Section"
+ Australia_aif_inventions_research_section_desc:0 "Australian troops, have been continually submitting "inventions" to the British high command. The British command has decided to form an AIF research division in response."
+ Australia_lithgow_arms:0 "Lithgow Arms"
+ Australia_lithgow_arms_desc:0 "The arms factory at Lithgow is our major source of armaments. We should expand it in order to meet the current needs of our growing military."
+ Australia_imperial_security:0 "제국 방위"
+ Australia_imperial_security_desc:0 "우리 북쪽에 있는 독일의 존재는 오스트레일리아 국경에서 계속 감점 요인이 될 수 없습니다. 이들 식민지를 영구적으로 점령하기로 한 결정은 이제 공식적인 정책입니다."
+ Australia_broken_hill_propriety_steelworks:0 "Broken Hill Propriety steelworks"
+ Australia_broken_hill_propriety_steelworks_desc:0 "The industrial requirements of modern war, mean that the growth of a local steel industry, is an imperative."
+ Australia_hold_the_conscription_plebiscite:0 "징병제 국민 투표 실시"
+ Australia_hold_the_conscription_plebiscite_desc:0 "우리나라는 국민 투표를 실시할 것입니다. 정부가 징병제를 도입할 수 있을지 없을지에 대한 판단이 내려집니다."
+ Australia_conscription_plebiscite_tt:0 "This will trigger the conscription campaign event chain \n"
+ Australia_naval_and_military_expeditionary_force:0 "Naval and Military Expeditionary Force"
+ Australia_naval_and_military_expeditionary_force_desc:0 "The nature of nearby hostile colonies, requires greater cooperation between the army and naval services. The development of a combined force has authorized."
+ Australia_workers_educational_association:0 "Workers Educational Association"
+ Australia_workers_educational_association_desc:0 "Opening an Australian branch of this association, will help us in supporting the growth of skilled labour."
+ Australia_the_golden_fleece_company:0 "The Golden Fleece Company"
+ Australia_the_golden_fleece_company_desc:0 "The Golden Fleece company, established in 1893, was Australia's premier supplier of petrochemical products."
+ Australia_the_first_aif:0 "제1차 오스트레일리아 제국군"
+ Australia_the_first_aif_desc:0 "우리는 모국을 도울 군대를 소집할 것입니다. (전쟁의 교훈 결정을 엽니다)"
+ lessons_war_tt:0 " 전쟁의 교훈 결정을 엽니다 \n"
+ Australia_open_the_commonwealth_bank:0 "커먼웰스 뱅크 개점"
+ Australia_open_the_commonwealth_bank_desc:0 "This new bank national bank will provide much needed capital for local industry."
+ Australia_the_maternity_allowance_act:0 "The Maternity Allowance Act"
+ Australia_the_maternity_allowance_act_desc:0 "A "baby bonus" payment will be awarded to every female citizen for every child born."
+ Australia_declaring_our_new_capital:0 "새 수도 선언"
+ Australia_declaring_our_new_capital_desc:0 "It is time to move our capital city and begin large scale construction."
+ Australia_amalgamated_wireless_australasia_limited:0 "Amalgamated Wireless Australasia Limited"
+ Australia_amalgamated_wireless_australasia_limited_desc:0 "The AWA is Australia's most prominent wireless and electronics manufacturer. Government investment, would help in the further development of the electronics industry."
+ Australia_the_royal_australian_navy:0 "왕립 오스트레일리아 해군"
+ Australia_the_royal_australian_navy_desc:0 "We have passed the Australian Naval Defense Act, establishing a navy."
+ Australia_duntroon_military_college:0 "던트룬 육군참모대학교"
+ Australia_duntroon_military_college_desc:0 "The royal military college at Duntroon, will be the school of all future officers. Doctrina vim promovet""
+ Australia_begin_laying_the_ground_work:0 "Begin Laying The Ground Work"
+ Australia_begin_laying_the_ground_work_desc:0 "Walter Burley Griffin, a Chicago architect, has won the international competition to design our new capital. We shall begin preparing the ground for construction."
+ Australia_the_commonwealth_bank_act:0 "커먼웰스 뱅크법"
+ Australia_the_commonwealth_bank_act_desc:0 "The founding of our first national bank will allow much needed capital. This will allow us to further develop our industry."
+ Australia_the_australian_dollar:0 "오스트레일리아 파운드"
+ Australia_the_australian_dollar_desc:0 "The Australian Treasury has been given authority to issue currency, replacing the use of the British Pound."
+ Australia_open_the_university_of_queensland:0 "Open the University of Queensland"
+ Australia_open_the_university_of_queensland_desc:0 "The university of Queensland is one of Australia's "sandstone" universities. The faculty begin educating and conducting research."
+ Australia_open_the_marburg_railway_line:0 "Open the Marburg railway line"
+ Australia_open_the_marburg_railway_line_desc:0 "A major railway project connecting the state capital of Queensland to its rural west."
+ Australia_compulsory_military_training:0 "Compulsory Military Training"
+ Australia_compulsory_military_training_desc:0 "The empire has many threats. we need every man to be prepared to fight."
+ Australia_the_hms_melbourne:0 "HMS 멜버른"
+ Australia_the_hms_melbourne_desc:0 "In an effort to help expand our navy. The mother country has built and delivered a light cruiser."
+ Australia_hmas_australia:0 "HMAS 오스트레일리아"
+ Australia_hmas_australia_desc:0 "Our new flagship is ready! A modern British battle cruiser."
+ Australia_1914_imperial_loans:0 "1914 Imperial Loans"
+ Australia_1914_imperial_loans_desc:0 "The war effort requires large financial resources to be maintained. We can request assistance from the crown. We will be indebted to pay the crown, and will have to pay them after the war is over."
+ Australia_vulcan_engineering_works:0 "Vulcan Engineering Works"
+ Australia_vulcan_engineering_works_desc:0 ""
+ Australia_the_defense_act:0 "방위법"
+ Australia_the_defense_act_desc:0 "The global geopolitical situation means the we must reform our local defense force, to be prepared for any eventuality."
+ Australia_1st_light_car_patrol:0 "1st Light Car Patrol"
+ Australia_1st_light_car_patrol_desc:0 ""
+ Australia_further_officer_training:0 "Further Officer Training"
+ Australia_further_officer_training_desc:0 ""
+ Australia_the_naval_defence_act:0 "The Naval Defence Act"
+ Australia_the_naval_defence_act_desc:0 ""
+ Australia_methodical_battle_planning:0 "Methodical Battle Planning"
+ Australia_methodical_battle_planning_desc:0 "We will focus on highly synchronised set piece attacks."
+ Australia_war_of_manouver:0 "기동전"
+ Australia_war_of_manouver_desc:0 "Aggressive and rapid attacks conducted by mobile units is the way of modern way."
+ Australia_large_unit_manouvers:0 "대규모 부대 기동"
+ Australia_large_unit_manouvers_desc:0 ""
+ Australia_technical_innovations:0 "기술 혁신"
+ Australia_technical_innovations_desc:0 ""
+ Australia_mobile_artillery:0 "이동식 포"
+ Australia_mobile_artillery_desc:0 ""
+ Australia_the_automobile:0 "자동차"
+ Australia_the_automobile_desc:0 ""
+ Australia_the_modern_cavalryman:0 "현대 기병"
+ Australia_the_modern_cavalryman_desc:0 ""
+ Australia_the_tank:0 "전차"
+ Australia_the_tank_desc:0 ""
+ Australia_modern_arms:0 "현대 무기"
+ Australia_modern_arms_desc:0 ""
+ Australia_staff_officer_courses:0 "Staff Officer Courses"
+ Australia_staff_officer_courses_desc:0 ""
+ Australia_gunnery_schools:0 "포병학교"
+ Australia_gunnery_schools_desc:0 ""
+ Australia_modern_engineers:0 "현대 기술자"
+ Australia_modern_engineers_desc:0 ""
+ Australia_modern_artillery:0 "현대식 포병대"
+ Australia_modern_artillery_desc:0 ""
+ Australia_the_beginnings_of_a_modern_army:0 "The Beginnings of a Modern Army"
+ Australia_the_beginnings_of_a_modern_army_desc:0 ""
+ Australia_expand_the_australian_army_intelligence_corps:0 "Expand the Australian Army Intelligence Corps"
+ Australia_expand_the_australian_army_intelligence_corps_desc:0 ""
+ Australia_return_servicemans_league:0 "Return Serviceman's League"
+ Australia_return_servicemans_league_desc:0 ""
+ Australia_veteran_settlement_scheme:0 "Veteran Settlement Scheme"
+ Australia_veteran_settlement_scheme_desc:0 ""
+ Australia_infiltrate_the_labor_party:0 "노동당 침투"
+ Australia_infiltrate_the_labor_party_desc:0 ""
+ Australia_establish_relations_with_the_soviet_republic:0 "Establish Relations With The Soviet Republic"
+ Australia_establish_relations_with_the_soviet_republic_desc:0 ""
+ Australia_establish_underground_cadres:0 "Establish Underground Cadres"
+ Australia_establish_underground_cadres_desc:0 ""
+ Australia_establish_a_socialist_republic:0 "Establish A Socialist Republic"
+ Australia_establish_a_socialist_republic_desc:0 ""
+ Australia_revolution_under_siege:0 "Revolution Under Siege"
+ Australia_revolution_under_siege_desc:0 ""
+ Australia_liberate_the_workers_of_new_zealand:0 "Liberate The Workers of New Zealand"
+ Australia_liberate_the_workers_of_new_zealand_desc:0 ""
+ Australia_reinvigorate_national_strikes:0 "Reinvigorate National Strikes"
+ Australia_reinvigorate_national_strikes_desc:0 ""
+ Australia_reactivate_prewar_spy_rings:0 "Reactivate Prewar Spy Rings"
+ Australia_reactivate_prewar_spy_rings_desc:0 ""
+ Australia_develop_papua:0 "파푸아 개발"
+ Australia_develop_papua_desc:0 ""
+ Australia_establish_the_australian_federal_police:0 "Establish The Australian Federal Police"
+ Australia_establish_the_australian_federal_police_desc:0 ""
+ Australia_promote_monash:0 "Promote Monash"
+ Australia_promote_monash_desc:0 ""
+ Australia_lest_we_forget:0 "Lest We Forget"
+ Australia_lest_we_forget_desc:0 ""
+ Australia_federal_army:0 "연방군"
+ Australia_federal_army_desc:0 ""
+ Australia_expand_the_royal_australian_engineers:0 "Expand the Royal Australian Engineers"
+ Australia_expand_the_royal_australian_engineers_desc:0 ""
+ Australia_expand_foreign_military_missions:0 "Expand Foreign Military Missions"
+ Australia_expand_foreign_military_missions_desc:0 ""
+ Australia_bolster_the_department_of_defence:0 "Bolster the Department of Defence"
+ Australia_bolster_the_department_of_defence_desc:0 ""
+ Australia_standing_infantry_brigades:0 "Standing Infantry Brigades"
+ Australia_standing_infantry_brigades_desc:0 ""
+ Australia_expand_the_australian_army_intelligence_corps:0 "Expand the Army Intelligence Corps"
+ Australia_expand_the_australian_army_intelligence_corps_desc:0 ""
+ Australia_disestablish_the_cmf:0 "Disestablish the C.M.F"
+ Australia_disestablish_the_cmf_desc:0 ""
  
  BUL_claim_adrianople:0 "아드리아노폴리스 요구"
  BUL_claim_adrianople_desc:0 "" 
@@ -1526,7 +1719,7 @@
  SOV_red_terror:0 "적색 테러"
  SOV_militant_atheism:0 "무신론 활동가"
  SOV_socialist_agriculture:0 "사회주의 농업"
- SOV_socialist_agriculture_desc:0 "집단 및 국영 농장이 "
+ SOV_socialist_agriculture_desc:0 "농업 개혁은 기근과 다른 자연재해를 예방하기 위해 이루어져야 합니다."
  SOV_nationalization:0 "국유화"
  SOV_nationalization_tt:0 "국유화는 §R백러시아§!로부터 §Y산업적인 우려§!를 가져갈 것입니다.\n\n"
  SOV_war_communism_tt:0 "\n§Y전쟁 공산주의§!의 정책은 §R농민 봉기§!로 이어질 수 있습니다!\n\n"
@@ -1534,9 +1727,9 @@
  SOV_GOERLO:0 "«고엘로»"
  SOV_socialist_education:0 "사회주의 교육"
  SOV_collectivization:0 "완전한 집산화"
- SOV_planned_economy_desc:0 "국가 계획위원회가 만들어지고 있습니다. 과학 연구 속도는 느려지지만 산업 연구 속도는 증가합니다. 공산주의만 진행할 수 있습니다."
+ SOV_planned_economy_desc:0 "국가는 무너진 소비에트 경제를 효과적으로 통제하기 위해 경제를 장악해야 합니다."
  SOV_nationalization_desc:0 "전쟁 공산주의가 시작될 것입니다."
- SOV_collectivization_desc:0 "농업 제국 국민정신을 대체하는 기근이 시작됩니다."
+ SOV_collectivization_desc:0 ""
  SOV_five_years_plan:0 "제1차 5개년 계획"
  SOV_rural_support:0 "농촌지원사업"
  SOV_antimonopoly_commissariat:0 "독점금지인민위원회"
@@ -1547,7 +1740,7 @@
  SOV_evolutionary_industrialization_desc:0 "부분적으로 민영화합니다. 농업 제국 국민정신은 6개월 후에 사라질 것입니다."
  SOV_red_army:0 "붉은 군대"
  SOV_red_fleet:0 "붉은 함대"
- SOV_red_fleet_desc:0 "혁명적인 수병들은 정부에 대한 불만으로 정부를 전복시킬 수 있다는 점에서 중요한 정치적 역할을 합니다. 그러므로 혁명적 인 선원들에게 큰 압력을 가할 수 없습니다."
+ SOV_red_fleet_desc:0 "우리의 신생 소비에트 공화국에서 붉은 함대가 수행하는 큰 정치적 역할 때문에, 우리는 해군을 너무 세게 눌러서는 안 됩니다. 해군이 반란을 일으킬 정도로 화나게 하지 않도록 말입니다."
  SOV_red_fleet_tt:0 "볼셰비키가 함대를 약화시킬 수 있다면 §R혁명 수병들은 반란을 일으킬 수 있습니다!§!\n\n"
  SOV_red_army_desc:0 "붉은 군대는 해군과 달리 초기 단계에서 훈련된 장교가 없기 때문에 지속적인 통제 강화가 필요합니다. 군대 개혁을 완료하지 못하면 군사 반란을 진압해야 합니다."
  SOV_red_army_tt:0 "§Y붉은 군대 중점 분과§!를 완성하여 §R군대의 붕괴§!를 방지합니다.\n\n"
@@ -1631,13 +1824,13 @@
  SOV_its_time_to_unite:0 "통일할 시간이다"
  SOV_its_time_to_unite_desc:0 "백러시아에 대한 공격."
  SOV_export_revolution_desc:0 "대전쟁에서 패한 국가들과 확실히 독일은 공산주의의 지원을 받게 될 것입니다."
- SOV_focus_on_europe_desc:0 "유럽 ​​국가: 발트 해 연안, 벨로루시, 우크라이나에 대한 공격."
+ SOV_focus_on_europe_desc:0 "유럽의 반동 정권들은 러시아 소비에트 사회주의 연방 공화국의 존재를 확실히 하기 위해 분쇄되어야 합니다."
  SOV_overseas_front:0 "해외 전선"
  SOV_overseas_front_desc:0 "Советские республики теперь можно создавать и в странах-мажорах."
  SOV_congress_of_peoples_deputies:0 "인민대표대회"
  SOV_congress_of_peoples_deputies_desc:0 "Проводятся выборы, крестьянство и пролетариат теперь имеют собственное представительство. Меньшевики не будут этому рады."
- SOV_anti_bolshevik_coup_desc:0 "За Советы без Большевиков! Если Комиртерн существует, то будет изменен на Социнтерн."
- SOV_fate_of_bolsheviks_desc:0 "Если оставить большевиков в живых, они образуют Компартию России, во главе которой будет Бухарин. Если ликвидировать партию большевиков, то Троцкий станет лидером партии в изгнании."
+ SOV_anti_bolshevik_coup_desc:0 "이 비열한 볼셰비키들은 즉시 떠나야 합니다! 그들은 노동자들을 위해 전혀 아무것도 하지 않았습니다. 그들은 형편 없는 가면을 쓴 반동분자들입니다!"
+ SOV_fate_of_bolsheviks_desc:0 "우리 해방된 국가에 남아있는 볼셰비키들은 반드시 청산되어야 합니다."
  SOV_decree_on_land_desc:0 "SOV_decree_on_land_desc"
  SOV_dictate_of_committees_of_workers:0 "노동자 위원회의 지시"
  SOV_dictate_of_committees_of_workers_desc:0 "노동자 통제에 관한 규정.
@@ -1668,8 +1861,8 @@
  RUS_denounce_portsmouth_desc:0 "포츠머스 조약은 1905년 러일 전쟁에서 우리가 패배했다는 것을 상기시켜주는 끔찍한 사건입니다. 우리는 우리를 유럽의 웃음거리로 만든 이 역겨운 조약을 파기해야 합니다! 더 이상 두려움에 떨지 않을 것입니다. 지금이 우리의 가치를 증명할 시간입니다!"
  RUS_dalnyi_or_war:0 "달니냐 전쟁이냐"
  RUS_dalnyi_or_war_desc:0 "일본인들이 우리 항구를 빼앗았으니 포기해야 합니다. 만약 그들이 감히 거절한다면, 우리는 일본 전역을 행진할 것입니다!"
- RUS_safety_of_amur_road_desc:0 "만주의 시베리아 횡단 철도 보호를 보장합니다."
- RUS_safety_of_amur_road_tt:0 "중국 붕괴 위협 시, §Y만주는 러시아의 보호령이 될 것입니다§!.\n\n"
+ RUS_safety_of_amur_road_desc:0 "전략적인 아무르 공로의 안전을 보장해야 합니다. 중국의 혁명가들에게 넘어가지 않도록 해야 합니다."
+ RUS_safety_of_amur_road_tt:0 "§Y만주는 중국이 붕괴한다면 러시아의 보호령이 될 것입니다.§!.\n\n"
  RUS_focus_on_scandinavia:0 "스칸디나비아 중점"
  RUS_vladivostok_defense:0 "블라디보스토크 방어"
  RUS_unite_ruthenia:0 "루테니아 통합"
@@ -1734,11 +1927,10 @@
  RUS_reliable_boundaries_desc:0 "독일은 보증을 제공합니다."
  RUS_second_bjork_agreement:0 "제2차 비요크 협정"
  RUS_second_bjork_agreement_desc:0 "우리는 독일인들과 어떻게 외교적으로 더 가까워지려고 노력하는지를 고려하여 협정을 체결해야 할 것입니다."
- RUS_safety_of_amur_road_desc:0 "우리는 아무르 공로가 중국 혁명가들에게 넘어 가지 않도록 안전을 보장해야 합니다."
  RUS_crush_the_revolutionaries_movement:0 "파업 운동 분쇄"
  RUS_german_tech_exchange:0 "독일 기술 교류"
- RUS_secure_asia:0 "아시아 확보"
- RUS_secure_asia_desc:0 "중국은 약합니다. 우리가 솔선수범해서 몽골을 안전하게 지켜야 합니다!"
+ RUS_secure_asia:0 "몽골 확보"
+ RUS_secure_asia_desc:0 "청 왕조가 무너졌으니 몽골과 탄누 투바를 점령하는 것이 현명할 것입니다."
  RUS_military_exhibitions:0 "군사 전시회"
  RUS_ultimatum_to_persia:0 "페르시아에 최후통첩"
  RUS_for_the_good_of_peasantry_desc:0 "파업이 끝날 것입니다."
@@ -1794,7 +1986,7 @@
  RUS_fireman_of_europe:0 "유럽의 소방수"
  RUS_entrepreneurship:0 "국가의 기업가 정신"
  RUS_entrepreneurship_desc:0 "사업 제한을 줄이고 투자를 유치합니다."
- RUS_shatter_of_empires_desc:0 "Война против Британии (Если они не в Антанте), Австрии и Германии."
+ RUS_shatter_of_empires_desc:0 "완전한 통제가 확립된 상태에서, 우리는 반동의 지배하에 있는 유럽의 나머지 국가들을 보아야 합니다. 구질서를 무너뜨리고 파괴해야 합니다!"
  RUS_fireman_of_europe_desc:0 "Подписывает пакт о нейтралитете. Возможно отклонить призыв к мобилизации. Мобилизация - событие, которые появляется в случае европейского кризиса. Дает бонус к обороне и отправке добровольцев, гарантий стран. Пропадает, если начинает наступательную войну."
  RUS_anti_corruption_agency:0 "반부패기구"
  RUS_national_projects:0 "국책 사업"
@@ -1837,7 +2029,7 @@
  RUS_army_rearmament:0 "제국군 재무장"
  RUS_engineering_troops:0 "공병대"
  RUS_complete_army_reform:0 "군대 개혁 완료"
- RUS_complete_army_reform_desc:0 "Реформа 1905-1912"
+ RUS_complete_army_reform_desc:0 "군대는 1905년부터 1912년 사이에 개혁됩니다."
  RUS_tighten_the_selection_of_officers:0 "엄격한 장교 선발"
  RUS_sikorsky_aircraft:0 "시코르스키 항공기"
  RUS_aviation_school:0 "항공학교"
@@ -1862,7 +2054,7 @@
  RUS_white_volunteer_army_desc:0 "Армия становится профессиональной, как это было в США."
  RUS_emergency_conscription_desc:0 "Каждый гражданин обязан отдать свой долг перед Отечеством! Победа или смерть!"
  RUS_resist_the_duma:0 "두마 저항"
- RUS_resist_the_duma_desc:0 "Начинается Кризис Думы, который должен окончиться разгромом оппозиции и установлением большинства националистов."
+ RUS_resist_the_duma_desc:0 "두마는 치명적인 실수였습니다. 제국의 자유화는 반드시 취소되어야 합니다!"
  RUS_resist_the_duma_tt:0 "§Y정치적 위기가 닥쳤을 때 니콜라스 2세는 퇴위하지 않을 것입니다.§! 그러나 혁명가들은 군주제를 전복시키기 위해 모든 것을 할 것입니다.\n\n"
  RUS_union_of_russian_people:0 "러시아 인민연합당"
  RUS_union_of_russian_people_desc:0 "러시아 인민연합당이 집권당이 됩니다."
@@ -1870,21 +2062,21 @@
  RUS_orthodoxy_autocracy_nationality_tt:0 "§R절대군주정을 수립합니다. 두마 사태가 예방되지 않으면 혁명이 시작될 것입니다.§!\n\n"
  RUS_orthodoxy_autocracy_nationality_desc:0 "Провоцирует Гражданскую войну с демократами. Страна становится Абсолютной Монархией. Дума распущена."
  RUS_league_of_slavic_peoples:0 "슬라브 인민 연맹"
- RUS_league_of_slavic_peoples_desc:0 "Распад Антанты. Образует Русский Союз, приглашает вступить Сербию."
+ RUS_league_of_slavic_peoples_desc:0 "러시아는 유럽의 분쟁에 직접 개입하지 말고 발칸 반도와 다른 지역에서의 자국의 이익을 보호해야 합니다."
  RUS_liberation_of_the_balkans:0 "발칸반도 해방"
  RUS_ban_trade_unions:0 "노동조합 금지"
- RUS_ban_trade_unions_desc:0 "Разрешает жестоко подавлять стачки, чтобы убрать удалить идею Забастовочного движения."
+ RUS_ban_trade_unions_desc:0 "이 노동조합들은 우리 정부를 전복시키려는 마르크스주의자들의 이상향의 온상에 불과합니다!"
  RUS_treaty_of_the_Three_emperors:0 "삼제 조약"
- RUS_treaty_of_the_Three_emperors_desc:0 "Британия, Германия, Россия подписывают договор о ненападении. Британия обязуется отстраниться от Франции, Германия - от Австрии. В случае войны Русский Союз станет Братским Союзом."
- RUS_liberation_of_the_balkans_desc:0 "Фокус нужен, чтобы Румыния и Болгария гарантированно стали на сторону России."
+ RUS_treaty_of_the_Three_emperors_desc:0 "독일, 영국과 강한 유대관계를 맺는 것은 우리에게 이로운 일입니다."
+ RUS_liberation_of_the_balkans_desc:0 "우리는 발칸 지역에서 정교회 신자들을 해방시켜야 합니다."
  RUS_colonial_claims:0 "식민지 요구"
  RUS_colonial_claims_desc:0 "Германия, Британия, Россия получают претензии на Французские и американские земли."
  RUS_return_of_the_king:0 "왕의 귀환"
  RUS_return_of_the_king_desc:0 "В Британии происходит империалистический переворот. Британские коммунисты поднимут восстание в Ливерпуле."
  RUS_back_to_america:0 "다시 아메리카로"
- RUS_back_to_america_desc:0 "Пора вернуть колониальное Величие России. Вместе с нашими кровными союзниками, мы отвоюем Западное Побережье и Аляску."
+ RUS_back_to_america_desc:0 "알래스카를 파는 것은 실수였습니다. 양키들은 알래스카를 반환하거나 전쟁을 치러야 합니다."
  RUS_united_russia:0 "연합하여 나눌 수 없는"
- RUS_united_russia_desc:0 "Все отколовшиеся регионы во время попытки восстания должны вернуться в Россию."
+ RUS_united_russia_desc:0 "우리는 모두 세계를 더 큰 미래로 이끌 운명인 하나의 국민입니다!"
  
  SER_golden_age:0 "황금기"
  SER_golden_age_desc:0 "Сербская экономика в расцвете, страна быстрыми темпами догоняет в развитии промышленность Австро-Венгрии."
@@ -2548,10 +2740,381 @@
  TUR_asianindependencecommittee_desc:0 ""
  TUR_defendthesovereigntyarea:0 "협상국과 함께 서기"
  TUR_defendthesovereigntyarea_desc:0 ""
+ 
+FRA_ww1_army_effort:0 "프랑스 육군 주력"
+FRA_ww1_army_effort_desc:0 "독일의 군대는 우리 군대보다 더 크고, 더 경험도 더 많으며, 아직도 대부분 우리가 그들과 싸웠던 지난 전쟁의 참전용사들로 채워져 있습니다. 프랑스가 독일의 이익에 심각한 위협을 가하려면 이 시나리오를 뒤집고, 우리 군을 현대화해야 하며, 바라건대 우리의 지도부를 현대화해야 합니다!"
 
+FRA_ww1_trenchwarfare:0 "참호전 중점"
+FRA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_artillery_effort_1:0 "포병 주력"
+FRA_ww1_artillery_effort_1_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_artillery_effort_2:0 "포병 주력 II"
+
+FRA_ww1_artillery_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_artillery_effort_3:0 "포병 주력 III"
+FRA_ww1_artillery_effort_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_artillery_effort_4:0 "포병 주력 IV"
+FRA_ww1_artillery_effort_4_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_special_forces:0 "특수부대 중점"
+FRA_ww1_special_forces_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_army_motorization_focus:0 "차량화 중점"
+FRA_ww1_army_motorization_focus_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_doctrine_effort:0 "교리 주력"
+FRA_ww1_doctrine_effort_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_doctrine_effort_2:0 "교리 주력 II"
+FRA_ww1_doctrine_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_doctrine_effort_3:0 "교리 주력 III"
+FRA_ww1_doctrine_effort_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_equipment_effort:0 "장비 주력"
+FRA_ww1_equipment_effort_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_equipment_effort_2:0 "장비 주력 II"
+FRA_ww1_equipment_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_equipment_effort_3:0 "장비 주력 III"
+FRA_ww1_equipment_effort_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_equipment_effort_4:0 "장비 주력 IV"
+FRA_ww1_equipment_effort_4_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_armor_effort_1:0 "기갑 주력"
+FRA_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_armor_effort_2:0 "기갑 주력 II"
+FRA_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_gasmask_focus:0 "화학전 중점"
+FRA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airship_focus:0 "비행선 중점"
+ FRA_ww1_airship_focus_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_aviation_effort:0 "프랑스 전투항공대"
+ FRA_ww1_aviation_effort_desc:0 "우리 장군들 중 다수가 공중전이 어떤 의미가 있을 것이라는 의견은 아니지만, 그들은 전에도 틀린 적이 있습니다. 만약 우리가 오늘부터 프랑스 공군 설계자들을 모집하고 기반 시설을 개발하기 시작한다면, 그것들이 유용하다는 것이 입증된다면, 우리는 진정으로 공중전이 시작될 때 준비가 될 것입니다!"
+
+FRA_ww1_fighter_focus:0 "전투기 중점"
+FRA_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
+FRA_ww1_bomber_focus:0 "폭격기 중점"
+FRA_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_aviation_effort_2:0 "항공 주력"
+FRA_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
+FRA_ww1_aviation_effort_3:0 "항공 주력 II"
+FRA_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
+FRA_ww1_aviation_effort_4:0 "항공 주력 III"
+FRA_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
+FRA_ww1_aviation_effort_5:0 "항공 주력 IV"
+FRA_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_pilotformation_1:0 "비행사 양성"
+FRA_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_pilotformation_2:0 "비행사 양성 II"
+FRA_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_aircraftprod_1:0 "항공기 생산"
+FRA_ww1_aircraftprod_1_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_aircraftprod_2:0 "항공기 생산 II"
+FRA_ww1_aircraftprod_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_airbomb_1:0 "항공폭격 주력"
+FRA_ww1_airbomb_1_desc:0 "" #KAISER_ANONY
+FRA_ww1_airbomb_2:0 "항공폭격 주력 II"
+FRA_ww1_airbomb_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_air_innovation:0 "항공 혁신 중점"
+FRA_ww1_air_innovation_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_navalair:0 "뇌격 주력"
+FRA_ww1_navalair_desc:0 "" #KAISER_ANONY
+FRA_ww1_industrial_effort:0 "산업 주력"
+FRA_ww1_industrial_effort_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_construction_effort:0 "건설 주력"
+FRA_ww1_construction_effort_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_construction_effort_2:0 "건설 주력 II"
+FRA_ww1_construction_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_construction_effort_3:0 "건설 주력 III"
+FRA_ww1_construction_effort_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_production_effort:0 "군비 주력"
+FRA_ww1_production_effort_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_production_effort_2:0 "군비 주력 II"
+FRA_ww1_production_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_production_effort_3:0 "군비 주력 III"
+FRA_ww1_production_effort_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_dockyard_effort_1:0 "조선소 확장"
+FRA_ww1_dockyard_effort_1_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_dockyard_effort_2:0 "조선소 확장 II"
+FRA_ww1_dockyard_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_dockyard_effort_3:0 "조선소 확장 III"
+FRA_ww1_dockyard_effort_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_airfield_expansion_1:0 "비행장 확장"
+FRA_ww1_airfield_expansion_1_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_airfield_expansion_2:0 "비행장 확장 II"
+FRA_ww1_airfield_expansion_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_airfield_expansion_3:0 "비행장 확장 III"
+FRA_ww1_airfield_expansion_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_infrastructure_effort:0 "기반시설 주력"
+FRA_ww1_infrastructure_effort_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
+FRA_ww1_infrastructure_effort_2_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
+FRA_ww1_infrastructure_effort_3_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
+FRA_ww1_infrastructure_effort_4_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_extra_tech_slot:0 "추가 연구 슬롯"
+FRA_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
+
+FRA_ww1_extra_tech_slot_2:0 "추가 연구 슬롯 II"
+FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_naval_effort:0 "프랑스 해군 강화"
+ FRA_ww1_naval_effort_desc:0 "영국이 왕실 해군을 보유하는 것은 프랑스가 프랑스만의 함대를 가지고 부족하다고 변명할 거리가 되지 않는다. 우리 해군이 부분적으로 국가적 자부심의 원천이고, 부분적으로 이탈리아가 어느 방향으로 가더라도 지중해를 안전하게 지킬 수 있는 방법인 이상, 현대적이고 잘 정비된 함대는 독일이나 이탈리아, 또는 오스트리아에 뒤떨어지게 둘 수 없다." #KAISER_ANONY
+
+ FRA_ww1_newnavalcanons_1:0 "함포 주력"
+ FRA_ww1_newnavalcanons_1_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_newnavalcanons_2:0 "함포 주력 II"
+ FRA_ww1_newnavalcanons_2_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_newnavalcanons_3:0 "함포 주력 III"
+ FRA_ww1_newnavalcanons_3_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_dreadnought_effort:0 "드레드노트 주력"
+ FRA_ww1_dreadnought_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_flexible_navy:0 "유연한 해군"
+ FRA_ww1_flexible_navy_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_large_navy:0 "대규모 해군"
+ FRA_ww1_large_navy_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_navyreform:0 "해군 배치"
+ FRA_ww1_navyreform_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_submarine_effort:0 "잠수함 주력"
+ FRA_ww1_submarine_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_cruiser_effort:0 "순양함 주력"
+ FRA_ww1_cruiser_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_destroyer_effort:0 "구축함 주력"
+ FRA_ww1_destroyer_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_capital_ships_effort:0 "기함 주력"
+ FRA_ww1_capital_ships_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_carrier_focus:0 "항공모함 주력"
+ FRA_ww1_carrier_focus_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_antisubmarine:0 "대잠전"
+ FRA_ww1_antisubmarine_desc:0 "" #KAISER_ANONY
+ FRA_ww1_political_effort:0 "정치 주력"
+ FRA_ww1_political_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_sovereignist_ethos:0 "Sovereignist Ethos"
+ FRA_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_support_republic:0 "Reinforce the Republic's Authority"
+ FRA_ww1_support_republic_desc:0 "One of Napoleon's legacies was a strong, centralized Republic. In recent times, liberal views have given more checks and balances to weaken our glorious state. However, due to the rising tension, I'm sure the French public would understand if a few of those balances were rolled back. After all, anything for Alsase-Lorraine, right?" 
+
+ FRA_ww1_contest_republic:0 "Contest the Republic's Authority"
+ FRA_ww1_contest_republic_desc:0 "The Republic may be old, but our monarchy lasted even longer than that. France is not consigned to Republicanism- if we enable the opposition, perhaps we can even rid ourselves of such a system, before it's too late."
+
+ FRA_ww1_internationalism_focus:0 "국제주의 중점"
+ FRA_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_militarism:0 "군국주의"
+ FRA_ww1_militarism_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_indoctrination_focus:0 "세뇌"
+ FRA_ww1_indoctrination_focus_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_political_commissars:0 "정치지도원"
+ FRA_ww1_political_commissars_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_paramilitarism:0 "준군사주의"
+ FRA_ww1_paramilitarism_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_political_correctness:0 "정치적 올바름"
+ FRA_ww1_political_correctness_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_military_youth:0 "유소년 군사조직"
+ FRA_ww1_military_youth_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_student_movement_focus:0 "학생 운동"
+ FRA_ww1_student_movement_focus_desc:0 "The youth of our country are bright indeed, and that can help us for our research, particularly in the field of Land Doctrines." #KAISER_ANONY
+
+ FRA_ww1_monarchy:0 "권위주의 중점"
+ FRA_ww1_monarchy_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_democracy:0 "민주주의 중점"
+ FRA_ww1_democracy_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_centralizedpower:0 "관료주의"
+ FRA_ww1_centralizedpower_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_freespeech:0 "자유 연설"
+ FRA_ww1_freespeech_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_reorganization_act:0 "재편성법"
+ FRA_ww1_reorganization_act_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_limited_rearmament:0 "제한적인 재무장"
+ FRA_ww1_limited_rearmament_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_full_rearmament:0 "완전한 재무장"
+ FRA_ww1_full_rearmament_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_unitedpeople:0 "애국적 열정"
+ FRA_ww1_unitedpeople_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_massive_effort:0 "대규모 주력"
+ FRA_ww1_massive_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_fortify_city:0 "민간 요새"
+ FRA_ww1_fortify_city_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_fortify_coast:0 "해안 방어"
+ FRA_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_leave_triple_entente:0 "삼국 협상 탈퇴"
+  FRA_ww1_leave_triple_entente_desc:0 "Since the direction of the French government has changed so drastically, we no longer have any significant connection, or national appeal for, an alliance with the United Kingdom and Russia. In fact, many of our citizens are already supporting a return to a rivalry with the former. This seems to be the end of the Triple Entente."
+
+ FRA_ww1_install_communism:0 "프롤레타리아 혁명"
+ FRA_ww1_install_communism_desc:0 "Paris has always had a rebellious tendancy, and in today's enviornment, this is no different. Support for another Red rebellion is growing in the self-proclaimed ''Paris Commune''. If this time, the government forces drop their guns, France may become a Communist nation, among the first of its kind."
+
+ FRA_ww1_diplomatic_effort:0 "외교 주력"
+FRA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
+
+ FRA_ww1_triple_alliance:0 "협상국 강화"
+FRA_ww1_triple_alliance_desc:0 "협상국은 독일의 이익에 반대하기 위한 직접적 이유로 결성되었습니다. 우리는 러시아에 우리의 하찮은 불화에 대해, 그것이 우리가 진실하게 유지되어야 하는 목표라는 것을 상기시켜야 합니다. 그렇지 않으면 그들은 너무 강해져서 반대할 수 없을지도 모릅니다."
+
+ FRA_ww1_back_uk:0 "영국 지원"
+FRA_ww1_back_uk_desc:0 "The UK was France's worst enemy once, but that time has long gone. Supporting the UK further will perhaps sour our relations with the Russians just a bit, but solidly confirm to the UK that if they have the ships, we have the soldiers."
+
+ FRA_ww1_back_russia:0 "러시아 제국 지원"
+FRA_ww1_back_russia_desc:0 "The Russians are a distant ally, seperated from us by the entirety of our rivals, the Central Powers! Yet, they are still the largest land army in Europe, if with some major supply issues, and are second only in ''true power'' to Germany themselves. We must focus our relations on them, even if it's at a slight cost in relations with Britain." 
+
+ FRA_ww1_inviteBELGIUM:0 "Help Belgium"
+FRA_ww1_inviteBELGIUM_desc:0 "The Belgians need our help to face the Germans."
+
+ FRA_ww1_inviteUK:0 "삼국 협상"
+FRA_ww1_inviteUK_desc:0 "The Triple Entente constitute a powerful counterweight to the Central Powers."
+
+ FRA_ww1_send_diplomats:0 "프랑스 외교관 파견"
+FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our diplomats say! Funnily enough, they have a tendancy to be sent back home to France a while earlier than we expect. Either way, bolstering the Diplomat core will take some time (Most men aren't simply born snooty enough for the job), but likely lead to closer relations with our partners."
+
+ FRA_ww1_greece_friend:0 "그리스 베니젤로스 지원"
+ FRA_ww1_greece_friend_desc:0 "Though the Greek King supports the Central Powers, the Prime Minister and most popular man in the nation, Prime Minister Venizelos, is decidedly pro-Entente, mostly due to his single-minded desire to enact the Megali plan. If we officially support him- and perhaps in a few unofficial ways as well- we can bolster his power in the region." 
+ 
+ FRA_ww1_greece_puppet:0 "그리스 괴뢰국"
+ FRA_ww1_greece_puppet_desc:0 "If Greece won't see the light and join with the Entente, they clearly aren't to be trusted enough to run their nation with full independence. Establishing a puppet state would be beneficial to all in the region, clearly. Of course, they might try to fight back, but who cares? They're just Greeks."
+
+ FRA_ww1_allied_bases:0 "그리스의 연합군 기지"
+ FRA_ww1_allied_bases_desc:0 "Setting up shop in Thessalonika, now that we have support in the area, will be a help to our plans to attack the Ottoman Empire. All we have to do is ensure that they're in good shape, and the Bulgarians and Ottomans will be out in no time!"
+
+ FRA_ww1_armeeorient:0 "동방의 군대"
+ FRA_ww1_armeeorient_desc:0 "Now that Greece is on our side, we can send ''L'Armée d'Orient'', a volunteer group, to fight with the Serbians, and of course provide a model for the Serbs themselves to fight with. This will likely begin to tip the war in this region in our favor, at least to a degree."
+
+ FRA_ww1_assert_position_west:0 "중앙유럽에서의 프랑스 위치 강화"
+ FRA_ww1_assert_position_west_desc:0 "다섯 단어로 말하면: ''우리는 알자스 로렌을 탈환할 것이다.''"
+
+ FRA_ww1_anti_ger:0 "반독 정책"
+ FRA_ww1_anti_ger_desc:0 "The Germans are our natural rivals, which is a nearly undeniable fact. If we act on that judgement, we can begin to undermine them diplomatically far more easily."
+
+ FRA_ww1_anti_ah:0 "반-오스트리아-헝가리 정책"
+ FRA_ww1_anti_ah_desc:0 "Any friend of Germany's is no friend of France. If we are to start working actively against Austria-Hungaryi instead of try to bring them over, we can spoil their plans of expansionism."
+
+ FRA_ww1_italy_support:0 "이탈리아 요구 지원"
+  FRA_ww1_italy_support_desc:0 "If we support Italy's claims in Austria, though they will not be immediately won over, we can at the very least begin the process of leading them away from the Central Powers and into the Entente, so long as they judge that territory more valuable than our own Italian territory..."
+
+ FRA_ww1_italy_deny:0 "이탈리아 팽창주의 중단"
+ FRA_ww1_italy_deny_desc:0 "Italy's presence in North Africa is a threat to French interests in the region. The only way to ensure protection is with pressure. Hold the knife to Italy's throat, and Tunisia and Algeria will surely be safe."
+
+ FRA_ww1_assert_position_east:0 "Assert French Position in the East"
+ FRA_ww1_assert_position_east_desc:0 "The Russians seem to have lofty ambitions over the Ottoman Empire, which are echoed by British desire to establish control in the region. Perhaps we should invest, as well- maybe we can even score a colony!"
+
+ FRA_ww1_anti_ottoman:0 "반-오스만 정책"
+ FRA_ww1_anti_ottoman_desc:0 "Due to the hostility against the Turks by most of the Entente members, it only makes sense to officially denounce the Ottoman Empire. This will allow more interesting methods of dealing with them in the future."
+
+ FRA_ww1_support_romania:0 "루마니아 요구 지원"
+ FRA_ww1_support_romania_desc:0 "Austria-Hungary retains control over nearly half of the total Romanian claimed territory. If we are to encourage Romania to take what is theirs, they may just reward us by joiining the Entente." #KAISER_ANONY
+
+ FRA_ww1_help_serbia:0 "세르비아 민족 지원"
+ FRA_ww1_help_serbia_desc:0 "Serbia is in a desperate place. If someone doesn't help them out, and soon, they might just crumble to the Austrians. Luckily, France is in the perfect position to lend a hand- we just need to organize our assistance." 
+
+ FRA_ww1_vivani:0 "Revoke the Vivani Administration"
+ FRA_ww1_vivani_desc:0 "Prime minister René Viviani is likely not the man at fault for the issues the French military has faced at this point in the war. However, he makes an excellent scapegoat, and isn't exactly too important to lose. Ending his administration will please military officials, and likely give at least a minor boost to the satisfaction of the population."
+
+ FRA_ww1_agadir_crisis:0 "모로코 보호령"
+ FRA_ww1_agadir_crisis_desc:0 "반란군들이 우리의 꼭두각시인 모로코의 술탄에 대항하여 조직되기 시작하고 있습니다. 우리가 즉각 개입할 수는 있겠지만, 그에게 잠시나마 열기를 느끼게 하는 것은 합병의 완벽한 빌미가 될 뿐만 아니라, 지역 정부가 이에 응할 수 있도록 하는 좋은 방법이 될 것입니다. 독일놈들이 우리 일에 참견하려 할지도 모르지만, 만약 그렇다면 우리에겐 예비 계획이 있습니다."
+
+ FRA_ww1_ready_country:0 "전쟁 준비"
+ FRA_ww1_ready_country_desc:0 "세계의 긴장이 계속 고조되고 있는 가운데, 프랑스는 다가오는 침략에 저항하기 위해 힘을 모아야 합니다. 이러한 방어조치가 완료되면 이번에는 파리 포위전은 없을 것입니다."
+
+ FRA_ww1_alsaceloreaine_propaganda:0 "보복주의 선전"
+ FRA_ww1_alsaceloreaine_propaganda_desc:0 "So what if Alsace-Lorraine is German-speaking? It was once French, and as God himself has ordained, all land touched by the French is righfully our own. The only way to get it is with a military campaign against the Germans, which we will begin to start building up support for."
+
+ FRA_ww1_alsaceloreaine_war:0 "알자스-로렌 탈환"
+ FRA_ww1_alsaceloreaine_war_desc:0 "Alsace-Lorraine belongs to France! We must get it back, whatever the cost!"
+
+ FRA_ww1_defense_border:0 "국경 방어"
+ FRA_ww1_defense_border_desc:0 "Further expansion of prior defensive measures will make France a tough nut to crack, buying us time for our allies to pull their weight in the course of the war. If we can hold off from Germany while Russia hits them from the east, how would they ever resist?"
+
+ FRA_ww1_release_asia:0 "베트남 해방"
+ FRA_ww1_release_asia_desc:0 "Vietnam is no longer a valuable enough colony to keep, especially with all of the trouble caused by the natives making it increasingly not worth it. They'll be allowed to call themselves independent...for now." #KAISER_ANONY
+ FRA_ww1_bureau_colonies:0 "Ministère des Colonies"
+ FRA_ww1_bureau_colonies_desc:0 "The Ministère des Colonies is the government department responsible for administering most of the French colonies and for the implementation of colonial policies. Delegating this ministry additional power could allow us to pursue major projects in our colonial regions."
+ FRA_ww1_french_algeria_infra:0 "아프리카 기반시설 개발"
+ FRA_ww1_french_algeria_infra_desc:0 "Africa is a huge continent that we control much of, but the roads there haven't seen significant improvement in years. If we develop the area, we can introduce more complicated economic centers to the area."
+ FRA_ww1_french_algeria_civ:0 "북아프리카 식민지 민간공장"
+ FRA_ww1_french_algeria_civ_desc:0 "Basic Civilian Industries in Africa are a good introduction of modern manufacturies to the continent. The goods produced there can help France as a whole, let alone the locals in the colonies."
+ FRA_ww1_french_algeria_mil:0 "북아프리카 식민지 군수공장"
+ FRA_ww1_french_algeria_mil_desc:0 "Establishing military industries in Africa will be no simple task, but nothing is impossible to the French! So long as we can get a solid power grid connection up, and train the locals, we can start military production in the region."
+ FRA_ww1_french_algeria_mobilization:0 "아프리카 식민지 연대 동원"
+ FRA_ww1_french_algeria_mobilization_desc:0 "On top of being able to supply to France itself, having centers of industry in Africa means that we can straight up equip new troops there from the locally manufactured weapons. This will give us an advantage in defending our colonies, and perhaps taking places like Togo and Cameroon."
+ FRA_ww1_french_indochina_infra:0 "아시아 기반시설 개발"
+ FRA_ww1_french_indochina_infra_desc:0 "The roads in Indochina are poor, and in many places, you are forced to travel by boat. A few bridges and a bit of pavement in the area would go a long way to making it easier to station troops in as well as build up an economy in."
+ FRA_ww1_french_indochina_civ:0 "아시아 민간산업 개발"
+ FRA_ww1_french_indochina_civ_desc:0 "Civilian factories are simple, and not unknown in South East Asia. Developing some in Indochina now that we've improved the infrastructure should just prove a matter of investment and worker training, though it is quite a long way home from there..."
+ FRA_ww1_french_indochina_mil:0 "아시아 식민지 군수공장"
+ FRA_ww1_french_indochina_mil_desc:0 "With Indochina being well, well away from anywhere the Central Powers could feasably attack, any factories there would be safe to produce weapons for the whole of the war."
+ FRA_ww1_french_indochina_mobilization:0 "아시아 식민지 연대 동원"
+ FRA_ww1_french_indochina_mobilization_desc:0 "Due to the sheer distance between Indochina and France, our colonial ministers in the area have encouraged us to train and equip some troops with the locally made weapons, to defend the colony, and perhaps, if needed, defend other colonies or France herself. New troops is never a bad thing, right?"
+ FRA_ww1_algerie_france_desc:0 "French Africa is one of the world's most significant colonies. Bolstering its infrastructure will not only allow us to defend it much more easily, but also establish some basic industries there."
+ FRA_ww1_colonial_industry_desc:0 "While mainland France itself might be under fire, Africa is a mostly dormant front. Establishing civilian industry there could prove useful to the French war effort on the Mainland, while also giving the locals something of value to do."
+ FRA_ww1_military_factories_desc:0 "The threat of the German Empire is growing every day. France, her public, and her military must work together to overcome this giant! New military factories will help us in that regard."
+ FRA_ww1_colonial_military_factories:0 "식민지 군수공장"
+ FRA_ww1_colonial_military_factories_desc:0 "Establishing more factories in our colonial regions will ensure that no matter what happens, we still have at least a few factories outside of our rowdy neighbor's hands."
+ FRA_ww1_alone_or_peace_faction_tt:0 "[FRA.GetNameDef]가 세력에 있지 않거나, [FRA.GetNameDef]와 평화 중인 세력에 있는다."
  FRA_plan_VXII:0 "제17계획"
  FRA_plan_VXII_desc:0 "공격 계획을 준비합니다. 공격전을 벌여야 한다면 독일의 방어를 가능한 한 빨리 무력화시켜야 합니다."
- 
  FRA_fascist_focus:0 "파시스트 쿠데타"
  FRA_national_mobilization_2:0 "국민 동원"
  FRA_greece:0 "그리스 압박"
@@ -2566,7 +3129,24 @@
  FRA_agadir_desc:0 "해야함"
  FRA_alsace:0 "알자스-로렌 수복"
  FRA_alsace_desc:0 "해야함"
- 
+ FRA_interwar_allied_occupation_rhineland:0 "라인란트의 연합군 점령"
+FRA_interwar_allied_occupation_rhineland_desc:0 "베르사유 조약에 따라 프랑스는 라인란트 점령뿐만 아니라 이 지역의 경제력까지 완전하게 장악하고 있어 프랑스 경제에 큰 호재입니다. 여기서 우리의 거주권을 활용한다면 독일의 손실은 프랑스의 이득이라는 것을 확신할 수 있습니다."
+FRA_interwar_annees_folles:0 "미친 해"
+FRA_interwar_annees_folles_desc:0 "전쟁의 종식은 우리에게 어떤 이전과는 비교할 수 없는 엄청난 경제 호황을 가져왔습니다. 일부 경제학자들은 좋은 시기가 영원히 지속되지 않을 수도 있다고 경고하고 있지만, 그것들은 단지 진퇴양난에 빠져 신중할 뿐입니다. 프랑스와 프랑스 사람들은 시대가 좋은 동안 잘 살 것입니다!"
+
+FRA_interwar_occupation_ruhr:0 "루르의 점령"
+FRA_interwar_occupation_ruhr_desc:0 "독일인들은 전혀 터무니없는 빚을 우리에게 갚을 수 없고, 어쩌면 놀랍지도 않을지도 모르며, 이것은 프랑스에게는 아직 더 많은 기회입니다. 루르 지역은 자원과 제조업이 풍부하며, 우리는 단순히 지불되지 않은 납입에 대한 보상으로 라인란트의 점령을 그 지역으로 확대할 수 있습니다."
+
+FRA_interwar_great_depression:0 "통화 수축론자 계획"
+FRA_interwar_great_depression_desc:0 "프랑스 정부와 대중은 불경기의 주제에 대해 드물게 의견 일치를 보았습니다. 투기와 정부에 의해 구제된 과잉 유동 현금과 기업들을 그들의 머리 위로 밀어내는 것은 필요한 악입니다. 그러면 프랑스는 곧 회복될 것이기 때문에 불타게 놔둡시다! 프랑화의 디플레이션은 이 시대에 우리를 경쟁력 있게 할 것입니다."
+
+FRA_interwar_treaty_of_lausanne:0 "로잔 조약"
+FRA_interwar_treaty_of_lausanne_desc:0 ""
+
+FRA_interwar_invade_constantinople:0 "콘스탄티노폴리스 침공"
+FRA_interwar_invade_constantinople_desc:0 ""
+
+
  GRE_2_National_Association:0 "국민협회 계획"
  GRE_2_National_Association_desc:0 "플레이스 홀더"
  GRE_2_Loyalty_Patriarch_Sultan:0 "총대주교와 술탄에 대한 충성"
@@ -2824,6 +3404,382 @@
  ROM_entente_desc:0 "해야함"
  ROM_cp_desc:0 "해야함"
  ROM_greater_romania_desc:0 "해야함"
+
+ JAP_ww1_army_effort:0 "일본 제국군 재편성"
+JAP_ww1_army_effort_desc:0 ""  
+
+JAP_ww1_trenchwarfare:0 "참호전 중점"
+JAP_ww1_trenchwarfare_desc:0 ""  
+
+JAP_ww1_artillery_effort_1:0 "포병 주력"
+JAP_ww1_artillery_effort_1_desc:0 ""  
+
+JAP_ww1_artillery_effort_2:0 "포병 주력 II"
+
+JAP_ww1_artillery_effort_2_desc:0 ""  
+
+JAP_ww1_artillery_effort_3:0 "포병 주력 III"
+JAP_ww1_artillery_effort_3_desc:0 ""  
+
+JAP_ww1_artillery_effort_4:0 "포병 주력 IV"
+JAP_ww1_artillery_effort_4_desc:0 ""  
+
+JAP_ww1_special_forces:0 "특수부대 중점"
+JAP_ww1_special_forces_desc:0 ""  
+
+JAP_ww1_army_motorization_focus:0 "차량화 중점"
+JAP_ww1_army_motorization_focus_desc:0 ""  
+
+JAP_ww1_doctrine_effort:0 "교리 주력"
+JAP_ww1_doctrine_effort_desc:0 ""  
+
+JAP_ww1_doctrine_effort_2:0 "교리 주력 II"
+JAP_ww1_doctrine_effort_2_desc:0 ""  
+
+JAP_ww1_doctrine_effort_3:0 "교리 주력 III"
+JAP_ww1_doctrine_effort_3_desc:0 ""  
+
+JAP_ww1_equipment_effort:0 "장비 주력"
+JAP_ww1_equipment_effort_desc:0 ""  
+
+JAP_ww1_equipment_effort_2:0 "장비 주력 II"
+JAP_ww1_equipment_effort_2_desc:0 ""  
+
+JAP_ww1_equipment_effort_3:0 "장비 주력 III"
+JAP_ww1_equipment_effort_3_desc:0 ""  
+
+JAP_ww1_equipment_effort_4:0 "장비 주력 IV"
+JAP_ww1_equipment_effort_4_desc:0 ""  
+
+JAP_ww1_armor_effort_1:0 "기갑 주력"
+JAP_ww1_armor_effort_1_desc:0 ""  
+
+JAP_ww1_armor_effort_2:0 "기갑 주력 II"
+JAP_ww1_armor_effort_2_desc:0 ""  
+
+JAP_ww1_gasmask_focus:0 "화학전 중점"
+JAP_ww1_gasmask_focus_desc:0 ""  
+ JAP_ww1_fighter_focus:0 "전투기 중점"
+  JAP_ww1_fighter_focus_desc:0 ""  
+
+ JAP_ww1_bomber_focus:0 "폭격기 중점"
+ JAP_ww1_bomber_focus_desc:0 ""  
+
+ JAP_ww1_airship_focus:0 "비행선 중점"
+ JAP_ww1_airship_focus_desc:0 ""  
+
+ JAP_ww1_aviation_effort:0 "일본 제국 육군 항공대 창설"
+ JAP_ww1_aviation_effort_desc:0 ""  
+
+ JAP_ww1_aviation_effort_2:0 "항공 주력"
+ JAP_ww1_aviation_effort_2_desc:0 ""  
+
+ JAP_ww1_aviation_effort_3:0 "항공 주력 II"
+ JAP_ww1_aviation_effort_3_desc:0 ""  
+
+ JAP_ww1_aviation_effort_4:0 "항공 주력 III"
+ JAP_ww1_aviation_effort_4_desc:0 ""  
+
+ JAP_ww1_aviation_effort_5:0 "항공 주력 IV"
+ JAP_ww1_aviation_effort_5_desc:0 ""  
+
+ JAP_ww1_pilotformation_1:0 "비행사 양성"
+ JAP_ww1_pilotformation_1_desc:0 ""  
+
+ JAP_ww1_pilotformation_2:0 "비행사 양성 II"
+ JAP_ww1_pilotformation_2_desc:0 ""  
+
+ JAP_ww1_aircraftprod_1:0 "항공기 생산"
+ JAP_ww1_aircraftprod_1_desc:0 ""  
+
+ JAP_ww1_aircraftprod_2:0 "항공기 생산 II"
+ JAP_ww1_aircraftprod_2_desc:0 ""  
+
+ JAP_ww1_airbomb_1:0 "공중폭격 주력"
+ JAP_ww1_airbomb_1_desc:0 ""  
+
+ JAP_ww1_airbomb_2:0 "공중폭격 주력 II"
+ JAP_ww1_airbomb_2_desc:0 ""  
+
+ JAP_ww1_air_innovation:0 "항공 혁신 중점"
+ JAP_ww1_air_innovation_desc:0 ""  
+
+ JAP_ww1_navalair:0 "뇌격 주력"
+ JAP_ww1_navalair_desc:0 ""  
+JAP_ww1_industrial_effort:0 "산업 주력"
+JAP_ww1_industrial_effort_desc:0 ""  
+
+JAP_ww1_construction_effort:0 "건설 주력"
+JAP_ww1_construction_effort_desc:0 ""  
+
+JAP_ww1_construction_effort_2:0 "건설 주력 II"
+JAP_ww1_construction_effort_2_desc:0 ""  
+
+JAP_ww1_construction_effort_3:0 "건설 주력 III"
+JAP_ww1_construction_effort_3_desc:0 ""  
+
+JAP_ww1_production_effort:0 "군비 주력"
+JAP_ww1_production_effort_desc:0 ""  
+
+JAP_ww1_production_effort_2:0 "군비 주력 II"
+JAP_ww1_production_effort_2_desc:0 ""  
+
+JAP_ww1_production_effort_3:0 "군비 주력 III"
+JAP_ww1_production_effort_3_desc:0 ""  
+
+JAP_ww1_dockyard_effort_1:0 "조선소 확장"
+JAP_ww1_dockyard_effort_1_desc:0 ""  
+
+JAP_ww1_dockyard_effort_2:0 "조선소 확장 II"
+JAP_ww1_dockyard_effort_2_desc:0 ""  
+
+JAP_ww1_dockyard_effort_3:0 "조선소 확장 III"
+JAP_ww1_dockyard_effort_3_desc:0 ""  
+
+JAP_ww1_airfield_expansion_1:0 "비행장 확장"
+JAP_ww1_airfield_expansion_1_desc:0 ""  
+
+JAP_ww1_airfield_expansion_2:0 "비행장 확장 II"
+JAP_ww1_airfield_expansion_2_desc:0 ""  
+
+JAP_ww1_airfield_expansion_3:0 "비행장 확장 III"
+JAP_ww1_airfield_expansion_3_desc:0 ""  
+
+JAP_ww1_infrastructure_effort:0 "기반시설 주력"
+JAP_ww1_infrastructure_effort_desc:0 ""  
+
+JAP_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
+JAP_ww1_infrastructure_effort_2_desc:0 ""  
+
+JAP_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
+JAP_ww1_infrastructure_effort_3_desc:0 ""  
+
+JAP_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
+JAP_ww1_infrastructure_effort_4_desc:0 ""  
+
+JAP_ww1_extra_tech_slot:0 "추가 연구 슬롯"
+JAP_ww1_extra_tech_slot_desc:0 ""  
+
+JAP_ww1_extra_tech_slot_2:0 "추가 연구 슬롯 II"
+JAP_ww1_extra_tech_slot_2_desc:0 ""  
+ JAP_ww1_naval_effort:0 "러일 전쟁의 유산"
+ JAP_ww1_naval_effort_desc:0 "In 1904, Japan honorably defended the home islands from Russian aggression, and defeated their empire in one of the greatest upsets in the history of warfare. If we continue to expand and develop our navy, there is no doubt that we will achieve dominance in the Pacific."
+
+ JAP_ww1_newnavalcanons_1:0 "함포 주력"
+ JAP_ww1_newnavalcanons_1_desc:0 ""  
+
+ JAP_ww1_newnavalcanons_2:0 "함포 주력 II"
+ JAP_ww1_newnavalcanons_2_desc:0 ""  
+
+ JAP_ww1_newnavalcanons_3:0 "함포 주력 III"
+ JAP_ww1_newnavalcanons_3_desc:0 ""  
+
+ JAP_ww1_dreadnought_effort:0 "일본 제국 해군 강화"
+ JAP_ww1_dreadnought_effort_desc:0 ""  
+
+ JAP_ww1_flexible_navy:0 "유연한 해군"
+ JAP_ww1_flexible_navy_desc:0 ""  
+
+ JAP_ww1_large_navy:0 "대규모 해군"
+ JAP_ww1_large_navy_desc:0 ""  
+
+ JAP_ww1_navyreform:0 "해군 배치"
+ JAP_ww1_navyreform_desc:0 ""  
+
+ JAP_ww1_submarine_effort:0 "잠수함 주력"
+ JAP_ww1_submarine_effort_desc:0 ""  
+
+ JAP_ww1_cruiser_effort:0 "순양함 주력"
+ JAP_ww1_cruiser_effort_desc:0 ""  
+
+ JAP_ww1_destroyer_effort:0 "구축함 주력"
+ JAP_ww1_destroyer_effort_desc:0 ""  
+
+ JAP_ww1_capital_ships_effort:0 "기함 주력"
+ JAP_ww1_capital_ships_effort_desc:0 ""  
+
+ JAP_ww1_carrier_focus:0 "순양함 주력"
+ JAP_ww1_carrier_focus_desc:0 ""  
+
+ JAP_ww1_antisubmarine:0 "대잠전"
+ JAP_ww1_antisubmarine_desc:0 ""  
+ JAP_ww1_political_effort:0 "정치 주력"
+  JAP_ww1_political_effort_desc:0 ""
+
+ JAP_ww1_support_republic:0 "군대 강화"
+ JAP_ww1_support_republic_desc:0 "Emperor Meiji overthrew the Shogun and began to steer our empire in a new direction, away from isolationism and to exercizing its might as a world power. What sort of nation would we be to turn our back on this move now? By continuing in this direction, Japan's place in the world would be solidified."
+
+ JAP_ww1_contest_republic:0 "민주 개혁"
+ JAP_ww1_contest_republic_desc:0 "Japan is a monarchy, but it supports a wide base of people who need placating. By establishing a few democratic reforms, we can keep the people content without giving up a huge share of the power of the government."
+
+ JAP_ww1_internationalism_focus:0 "국제주의 중점"
+ JAP_ww1_internationalism_focus_desc:0 ""  
+
+ JAP_ww1_militarism:0 "군국주의"
+ JAP_ww1_militarism_desc:0 ""  
+
+ JAP_ww1_indoctrination_focus:0 "세뇌"
+ JAP_ww1_indoctrination_focus_desc:0 ""  
+
+ JAP_ww1_political_commissars:0 "정치지도원"
+ JAP_ww1_political_commissars_desc:0 ""  
+
+ JAP_ww1_paramilitarism:0 "준군사주의"
+ JAP_ww1_paramilitarism_desc:0 ""  
+
+ JAP_ww1_political_correctness:0 "정치적 올바름"
+ JAP_ww1_political_correctness_desc:0 ""  
+
+ JAP_ww1_military_youth:0 "유소년 군사조직"
+ JAP_ww1_military_youth_desc:0 ""  
+
+ JAP_ww1_student_movement_focus:0 "학생 운동"
+ JAP_ww1_student_movement_focus_desc:0 ""  
+
+ JAP_ww1_monarchy:0 "권위주의 중점"
+ JAP_ww1_monarchy_desc:0 ""  
+
+ JAP_ww1_democracy:0 "민주주의 중점"
+ JAP_ww1_democracy_desc:0 ""  
+
+ JAP_ww1_centralizedpower:0 "관료주의"
+ JAP_ww1_centralizedpower_desc:0 ""  
+
+ JAP_ww1_freespeech:0 "자유 연설"
+ JAP_ww1_freespeech_desc:0 ""  
+
+ JAP_ww1_reorganization_act:0 "재편성법"
+ JAP_ww1_reorganization_act_desc:0 ""  
+
+ JAP_ww1_free_Korea:0 "한국 자치권"
+ JAP_ww1_free_Korea_desc:0 "우리 통제하에 있는 한국인들은 끊임없이 우리에게 저항하고 있습니다. 그들에게 자치권을 허용하면 그들의 불만이 줄어들 것입니다."
+
+ JAP_ww1_limited_rearmament:0 "제한적인 재무장"
+ JAP_ww1_limited_rearmament_desc:0 ""  
+
+ JAP_ww1_full_rearmament:0 "완전한 재무장"
+ JAP_ww1_full_rearmament_desc:0 ""  
+
+ JAP_ww1_unitedpeople:0 "애국적 열정"
+ JAP_ww1_unitedpeople_desc:0 ""  
+
+ JAP_ww1_massive_effort:0 "대규모 주력"
+ JAP_ww1_massive_effort_desc:0 ""  
+
+ JAP_ww1_fortify_city:0 "민간 요새"
+ JAP_ww1_fortify_city_desc:0 ""  
+
+ JAP_ww1_fortify_coast:0 "해안 방어"
+ JAP_ww1_fortify_coast_desc:0 ""  
+
+ JAP_ww1_install_democracy:0 "자유 선거"
+ JAP_ww1_install_democracy_desc:0 ""  
+
+ JAP_ww1_fascist_coup:0 "군부에 권력 양도"
+ JAP_ww1_fascist_coup_desc:0 "일본군은 유럽의 파시즘에 촉각을 곤두세우고 있습니다. 그들은 적어도 공식적인 정도까지 파시즘을 채택하는 것은 우리 민족을 계속 유지시켜 줄 것이며, 더 중요한 것은 일본의 영광을 위해 일하게 될 것이라고 믿고 있습니다!"
+
+ JAP_ww1_oppression_minorities:0 "소수민족 탄압"
+ JAP_ww1_oppression_minorities_desc:0 "일본은 소수민족이 많은 나라입니다. 만약 그들 중 어느 누구도 우리 제국에 완전히 충성하는 사람들 외에 그들의 지역이나 정부 내에서 너무 앞서가지 못하게 하고, 일본인들 이외에 출판물을 금지한다면, 우리는 결코 민족주의적인 반란을 다룰 필요가 없다는 것을 확실히 할 수 있을 것입니다."
+JAP_ww1_diplomatic_effort:0 "외교 주력"
+JAP_ww1_diplomatic_effort_desc:0 ""  
+
+JAP_ww1_assert_position_pacific:0 "태평양에서의 지위 확고화"
+JAP_ww1_assert_position_pacific_desc:0 "While the Pacific is rightfully ordained Japanese territory, there are technically enough islands to share with our so-called friends, for now. Japan's first focus will be the islands of our regional rivals, which we must expand into, at any cost."
+
+JAP_ww1_Support_USA:0 "미국과의 관계 개선"
+JAP_ww1_Support_USA_desc:0 "The Americans are on-again off-again friends of Japan. Sometimes, we are mutual allies trying to keep peace and go against Europe, and sometimes we are bitter rivals fighting each other for pacific influence. Today, to ensure that Entente war plans don't fall apart, we shall be friends."
+
+JAP_ww1_Support_Filipinos_Separatists:0 "필리핀 분리주의 지원"
+JAP_ww1_Support_Filipinos_Separatists_desc:0 "The Yankees are no friend to us, and seem unlikely to play any real part in the war effort. If we help to arm and organize the Filipino rebels, a Filipino government may throw off American shackles- one that answers to Japan first and foremost, helping our presence in the region. Though, this may hurt our relationship with the United States."
+
+JAP_ww1_Diplomatic_Siam:0 "시암에 외교관 파견"
+JAP_ww1_Diplomatic_Siam_desc:0 "Siam is the only other independent, stable power in East or South-East Asia. They seem to be a natural ally, and it would be damned foolish for us not to try and make friends with them."
+
+JAP_ww1_ready_country:0 "전쟁 준비"
+JAP_ww1_ready_country_desc:0 "The tensions in Europe have reached a boiling point, to Japan's advantage. No matter who we face, we must first and foremost be ready to fight!"
+
+JAP_ww1_defense_border:0 "일본 요새"
+JAP_ww1_defense_border_desc:0 "Japan is an island nation, which carries benefits and risks. The most dire risk being anyone who lands too close to the capital could simply oust our government, and our low landmass means that a few divisions may secure giant portions of our territory quickly. Japan must be unassailable, or it will not survive."
+
+JAP_ww1_Japan_Korea_Treaty:0 "일한 병합 조약"
+JAP_ww1_Japan_Korea_Treaty_desc:0 "한국은 오랫동안 우리 제국의 괴뢰국이었지만 영토로서 더 나은 역할을 할 것입니다. 꼭두각시 황제를 강제 합병 협정으로 몰아붙인다면, 유럽과 미국인들을 우리 뒤에서 떼어놓을 수 있을 정도로 외교적으로 보이는 방식으로 지도에서 제외시킬 수 있을 것이며, 이로 인해 아시아 본토에 우리의 첫 영토가 세워질 것입니다."
+
+JAP_ww1_Japanese_Expansionism:0 "일본 팽창주의"
+JAP_ww1_Japanese_Expansionism_desc:0 "The most logical solution to Japan's issues of low amounts of natural resources and tenuous defensive position is simply to expand outwards. If we expand onto the Asian mainland and farther out into the Pacific, we will control the supplies we need, and the outposts we deserve."
+
+JAP_ww1_War_in_Europe_Opportunity:0 "유럽에서의 전쟁 기회"
+JAP_ww1_War_in_Europe_Opportunity_desc:0 "The war in Europe is a grand opportunity for Japan! Though we are a nominal British ally, we could choose to join either side. Logically, the best thing to do would be to join the winning side, and profit from the spoils."
+
+JAP_ww1_Pro_German:0 "친독 정책"
+JAP_ww1_Pro_German_desc:0 "The Germans are much like the Japanese, in both their world position and military might. Beginning a push towards their side will align Japan closer to the Central Powers."
+
+JAP_ww1_Pro_British:0 "친영 정책"
+JAP_ww1_Pro_British_desc:0 "The British are technically allied to us, and were one of the few European nations to invest heavily in Japan's navy. Siding with them will, if nothing else, ensure we never have to face the fearsome Royal Navy until we're prepared."
+
+JAP_ww1_Claims_on_Pacific_Islands:0 "태평양 섬 요구"
+JAP_ww1_Claims_on_Pacific_Islands_desc:0 "The Pacific Islands are the most logical place for Japan to expand. If we seize larger parts of the pacific, we can ensure anyone who seeks to attack Japan from the east has a long way to go. Laying down claim to these islands now could pay off at a future peace conference."
+
+JAP_ww1_Join_Central_Power:0 "동맹국 가입"
+JAP_ww1_Join_Central_Power_desc:0 "The weakness of the Entente, as well as easy and mostly defended targets in the east, have given Japan a grand opportunity to expand into the Pacific and Oceania. Joining the Central Powers will ensure a glorious Japanese empire for years to come!"
+
+JAP_ww1_Join_Entente:0 "협상국 가입"
+JAP_ww1_Join_Entente_desc:0 "The Central Powers are far too tied up in Europe to do anything about Japan's expansionism, luckily for us. By becoming a fully fledged member of the Entente, we can take control over the entire German Pacific, and quite easily to boot."
+
+JAP_ww1_Invade_Singapore:0 "싱가포르 침공"
+JAP_ww1_Invade_Singapore_desc:0 "Singapore is a major British port in Asia, in position to allow them to continue control over Hong Kong, help keep the Pacific secured, and other unfortunate benefits. If we simply oust them from the area- perhaps from the rest of Malaya as well- we can ensure that their ships will have no safe port so close to Japan."
+
+JAP_ww1_Siege_of_Tsingtao:0 "칭다오 포위"
+JAP_ww1_Siege_of_Tsingtao_desc:0 "Qingdao is one of Germany's most valuable, least protected colonies. Seizing the area now will ensure no Imperial ships raid our shores, and give Japan yet another solid territory on the Mainland of China."
+
+JAP_ww1_Xinhai_Revolution_Opportunity:0 "신해혁명 기회"
+JAP_ww1_Xinhai_Revolution_Opportunity_desc:0 "With the Chinese nation in a state of heavy civil war, Japan can easily profit off of their misery. Perhaps, if we're lucky enough, we could even force them into the status of a puppet state!" 
+
+JAP_ww1_Thirteen_Demands:0 "13개조 요구"
+JAP_ww1_Thirteen_Demands_desc:0 "Though China would be in no position to resist Japan, the rest of the European powers as well as the United States are unified in threatening us with an embargo in the case of going too far with China. If we simply demand an inheiritance to the German economic sphere, we can expand our influence in China without damaging our position." 
+
+JAP_ww1_Twenty_One_Demands:0 "21개조 요구"
+JAP_ww1_Twenty_One_Demands_desc:0 "Though the West may denounce us for it, China as a puppet state is a deal far too good to pass up. With their manpower and resources and our cunning and might, we would be an unstoppable force! Of course, if they reject our demands, we may have to either revise, or prepare for a war which would most certainly unify the dissenting powers..."
+
+JAP_ww1_Appeasement_China:0 "중국과의 유화 정책"
+JAP_ww1_Appeasement_China_desc:0 "China is in a position to give a little, but it would be better for us both to walk out saving face. If we seek the route of mutual appeasement, we will continue our influence growth in China, without necessarily putting ourselves in any sort of diplomatic danger."
+
+JAP_ww1_Pressure_China:0 "중국 압박"
+JAP_ww1_Pressure_China_desc:0 "It is only a matter of time until Japan dominates East Asia. China is a crucial step to our brilliant master plan! If they do not acede to Japanese influence, perhaps the threat of gunboat diplomacy will get them closer in line...though this will create a dreadful crisis with the European powers."
+
+JAP_ww1_South_Manchuria_Railway_Zone:0 "남만주 철도 구역"
+JAP_ww1_South_Manchuria_Railway_Zone_desc:0 "We have controlled the South Manchuria Railway since 1905. However, with China too tied up in its civil war to resist, we can easily expand precisely what it means to control the railways and what is southern Manchuria, until we have near full control of the region. And due to the war, it's unlikely they'd ever be able to resist."
+
+JAP_ww1_Claim_Manchuria:0 "만주 요구"
+JAP_ww1_Claim_Manchuria_desc:0 "Now that the Manchurian Qing dynasty no longer exercizes effective control in China, we could garner a bit of local support for a Manchu government. This will nearly inevitably lead to conflict in war-torn China, but what could they possibly to do resist?"
+
+JAP_ww1_siberian_intervention:0 "시베리아 개입"
+JAP_ww1_siberian_intervention_desc:0 "러시아 내전이 본격화되면서 일본은 시베리아에 개입해야 합니다. 백인 러시아인들은 우리의 친구는 아니지만 소련보다 훨씬 나은 이웃이 됩니다. 게다가, 우리가 원정에서 무엇을 얻을지 누가 알겠습니까?"
+
+JAP_ww1_Contest_Russian_Domination:0 "러시아 우세에 이의 제기"
+JAP_ww1_Contest_Russian_Domination_desc:0 "The Russians hold themselves to be the Emperor of the East, the foremost authority in Eastern Asia. Have these fools forgotten already our last encounter? By adopting an Anti-Russian stance in the area and working against their authority, we will, of course, increase ours."
+
+JAP_ww1_Celebrate_Tsushima:0 "쓰시마 기념"
+JAP_ww1_Celebrate_Tsushima_desc:0 "The battle of Tsushima was a devestating blow to the Russian fleet, and one of Japan's greatest moments. Ensuring we seal the legacy of the event forever will not only serve to inspire our own population, but will be yet another massive blow to Russia's prestige and morale."
+
+JAP_ww1_Russian_Revolution_Opportunity:0 "러시아 혁명 기회"
+JAP_ww1_Russian_Revolution_Opportunity_desc:0 "The Russian Revolution has opened up a nice chance for Japan to earn yet more mainland territory. The port of Vladivolstok and the region formerly known as Outer Manchuria could easily be occupied, under the justification of course that we need it to continue the Siberian intervention. The westerners, as usual, may frown upon this." 
+
+JAP_ww1_Leave_Entente:0 "협상국 탈퇴"
+JAP_ww1_Leave_Entente_desc:0 "The Entente has served its purpose to Japan, and it seems with recent events that it is no longer a group of friendly nations. It seems reasonable to assume, in fact, that Japan and the former Entente may one day be at odds with each other at war."
+
+JAP_ww1_war_sakhalin:0 "사할린은 가라후토다"
+JAP_ww1_war_sakhalin_desc:0 "Sakhalin is a very improper name for a Japanese possession. ''Karafuto'' seems much more proper!"
+
+JAP_ww1_expeditionary_force_france:0 "프랑스 원정군"
+JAP_ww1_expeditionary_force_france_desc:0 "Though the European war rages on far from Japanese shores, we would still be wise to assist our allies. By sending a small group to France, we can help make sure our friends actually win their part of the war."
+JAP_ww1_Fukoku_Kyohei:0 "부국강병"
+JAP_ww1_Fukoku_Kyohei_desc:0 ""
+
+JAP_ww1_Invasion_of_Manchuria:0 "만주 침공"
+JAP_ww1_Invasion_of_Manchuria_desc:0 ""
+
+JAP_ww1_Form_Manchukuo:0 "만주국 건국"
+JAP_ww1_Form_Manchukuo_desc:0 ""
  JAP_hentai_empire:0 "헨타이 제국 수립"
  JAP_hentai_empire_desc:0 "모스크바가 우리 손에 있습니다. 러시아인들은 패배했습니다! 새로운 시대의 시작을 축하합시다!"
  JAP_claim_islands:0 "태평양 섬 요구"
@@ -3900,7 +4856,7 @@ CAN_storm_troopers_desc:0 "새로운 병사가 전장에서 닳았습니다. 영
  KOR_artillery:0 "야포"
  KOR_artillery_desc:0 "최근의 신병기가 등장하기 전까지 대포는 현대전의 꽃이었습니다. 물론 지금도 매우 중요한 병기입니다."
  KOR_neoconfucian_order:0 "성리학 질서"
- KOR_neoconfucian_order_desc:0 "더러운 서양놈들이 모든 것을 망쳐놓고 있습니다. 우리는 중원과 사이(四夷)의 질서를 되찾아야 합니다."
+ KOR_neoconfucian_order_desc:0 "더러운 서양놈들이 모든 것을 망쳐놓고 있습니다. 우리는 중원과 사이의 질서를 되찾아야 합니다."
  KOR_volunteer_soldiers:0 "자원병"
  KOR_volunteer_soldiers_desc:0 "독립 전쟁의 소식을 듣고 귀국한 재외 조선인 자원병들을 무장시킨다면 훌륭한 전력이 될 것입니다."
  KOR_tradition_of_righteous_army:0 "의병의 전통"
@@ -3922,3 +4878,99 @@ CAN_storm_troopers_desc:0 "새로운 병사가 전장에서 닳았습니다. 영
  KOR_special_force_tt:0 "한국 광복군 특공여단 4여단이 편제될 것입니다."
  KOR_increase_grain_production:0 "산미증식계획"
  KOR_increase_grain_production_desc:0 "비료 사용과 같은 현대적인 농법을 도입함으로써 곡물 생산을 획기적으로 증가시킵니다."
+
+ #Polamd
+ POL_cult_of_the_marshal:0 "Cult of The Marshal"
+ POL_cult_of_the_marshal_desc:0 ""
+ POL_german_investment:0 "German Investment"
+ POL_german_investment_desc:0 ""
+ POL_claim_galicia:0 "Claim Galicia"
+ POL_claim_galicia_desc:0 ""
+ POL_claim_west:0 "Claim West"
+ POL_claim_west_desc:0 ""
+ POL_declare_a_republic:0 "Declare A Republic"
+ POL_declare_a_republic_desc:0 ""
+ POL_cooperation_with_germans:0 "Cooperation With Germans"
+ POL_cooperation_with_germans_desc:0 ""
+ POL_spirit_of_winged_hussars:0 "Spirit Of Winged Hussars"
+ POL_spirit_of_winged_hussars_desc:0 ""
+ POL_a_polish_tank:0 "A Polish Tank?"
+ POL_a_polish_tank_desc:0 ""
+ POL_establish_an_airport:0 "Establish An Airport"
+ POL_establish_an_airport_desc:0 ""
+ POL_five_year_plans:0 "Five Year Plans"
+ POL_five_year_plans_desc:0 ""
+ POL_crack_open_the_russian_arsenal:0 "Crack Open The Russian Arsenal"
+ POL_crack_open_the_russian_arsenal_desc:0 ""
+ POL_use_the_russian_industrial_remnants:0 "Use The Russian Industrial Remnants"
+ POL_use_the_russian_industrial_remnants_desc:0 ""
+ POL_liberalism:0 "Liberalism"
+ POL_liberalism_desc:0 ""
+ POL_build_heavy_industry:0 "Build Heavy Industry"
+ POL_build_heavy_industry_desc:0 ""
+ POL_state_capitalism:0 "State Capitalism"
+ POL_state_capitalism_desc:0 ""
+ POL_national_railroads:0 "National Railroads"
+ POL_national_railroads_desc:0 ""
+ POL_exercises_in_baltic:0 "Exercises in Baltic"
+ POL_exercises_in_baltic_desc:0 ""
+ POL_foreign_investments:0 "Foreign Investments"
+ POL_foreign_investments_desc:0 ""
+ POL_improve_life_qualities:0 "Improve Life Qualities"
+ POL_improve_life_qualities_desc:0 ""
+ POL_finance_warsaw_university:0 "Finance Warsaw University"
+ POL_finance_warsaw_university_desc:0 ""
+ POL_economic_boom:0 "Economic Boom"
+ POL_economic_boom_desc:0 ""
+ POL_economy_focus:0 "Economy Focus"
+ POL_economy_focus_desc:0 ""
+ POL_poland_is_free:0 "Poland Is Free!"
+ POL_poland_is_free_desc:0 ""
+ POL_defence_of_poland:0 "Defence Of Poland"
+ POL_defence_of_poland_desc:0 ""
+ POL_study_tactics:0 "Study Tactics"
+ POL_study_tactics_desc:0 ""
+ POL_develop_polish_shipbuilding:0 "Develop Polish Shipbuilding"
+ POL_develop_polish_shipbuilding_desc:0 ""
+ POL_import_battleship_technology:0 "Import Battleship Technology"
+ POL_import_battleship_technology_desc:0 ""
+ POL_a_crusier_navy:0 "A Crusier Navy"
+ POL_a_crusier_navy_desc:0 ""
+ POL_import_submarine_technology:0 "Import Submarine Technology"
+ POL_import_submarine_technology_desc:0 ""
+ POL_the_black_wolves:0 "The Black Wolves"
+ POL_the_black_wolves_desc:0 ""
+ POL_heavy_fighter_concept:0 "Heavy Fighter Concept"
+ POL_heavy_fighter_concept_desc:0 ""
+ POL_air_warfare:0 "Air Warfare"
+ POL_air_warfare_desc:0 ""
+ POL_study_german_aircraft:0 "Study German Aircraft"
+ POL_study_german_aircraft_desc:0 ""
+ POL_join_entente:0 "Join Entente"
+ POL_join_entente_desc:0 ""
+ POL_national_democrat_victory:0 "National Democrat Victory"
+ POL_national_democrat_victory_desc:0 ""
+ POL_alliance_with_bolsheviks:0 "Alliance with Bolsheviks"
+ POL_alliance_with_bolsheviks_desc:0 ""
+ POL_fund_the_landowners:0 "Fund The Landowners"
+ POL_fund_the_landowners_desc:0 ""
+ POL_reorganisation_of_state:0 "Reorganisation of State"
+ POL_reorganisation_of_state_desc:0 ""
+ POL_military_guided_democracy:0 "Military Guided Democracy"
+ POL_military_guided_democracy_desc:0 ""
+ POL_promote_free_elections:0 "Promote Free Elections"
+ POL_promote_free_elections_desc:0 ""
+ POL_socialist_victory:0 "Socialist Victory"
+ POL_socialist_victory_desc:0 ""
+ POL_denounce_the_germans:0 "Denounce The Germans"
+ POL_denounce_the_germans_desc:0 ""
+ POL_land_reform:0 "Land Reform"
+ POL_land_reform_desc:0 ""
+ POL_increase_army_funding:0 "Increase Army Funding"
+ POL_increase_army_funding_desc:0 ""
+ POL_peoples_party_victory:0 "People's Party Victory"
+ POL_peoples_party_victory_desc:0 ""
+ POL_support_from_the_marshall:0 "Support From The Marshall"
+ POL_support_from_the_marshall_desc:0 ""
+ POL_for_the_people:0 "For The People"
+ POL_for_the_people_desc:0 ""

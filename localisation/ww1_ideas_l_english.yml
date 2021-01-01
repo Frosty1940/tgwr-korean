@@ -888,6 +888,9 @@
  FRA_idea_moroccan_intervention:0 "식민 개입"
  FRA_idea_moroccan_intervention_desc:0 "프랑스가 모로코에 계속 개입하고 있습니다. 항구 도시들은 식민 세력의 지배를 받고 있습니다."
  FRA_idea_disunited_french_front:0 "분열된 프랑스 전선"
+ FRA_idea_colonial_conscription:0 "식민 징병"
+ FRA_idea_partisan_suppression:0 "게릴라 진압"
+ FRA_idea_the_white_terror:0 "백색 테러"
 
  #Indochina
  si_electric:0 "Société Indochinoise d'Électricité"
@@ -896,7 +899,7 @@
  vin_naval:0 "Direction des Travaux Maritimes - Arsenal de Saigon"
  ninh_binh:0 "Société des Charbonnages de Ninh-Binh"
  VIN_bleeding_us_dry:0 "우리를 쥐어짜다"
- VIN_bleeding_us_dry_desc:0 "프랑스 행정부는 인도차이나에서 가능한 한 많은 것을 추출하는데 잔인하게 효율적입니다. 비록 작은 개혁들이 여기저기서 이루어졌지만, 결국 우리가 본토 프랑스인들에게 주는 모든 것은 그들이 더럽고 탐욕스러운 발을 집어넣을 수 있는 엄청난 돈줄입니다."
+ VIN_bleeding_us_dry_desc:0 "식민 행정부는 인도차이나에서 가능한 한 많은 것을 추출하는데 잔인하게 효율적입니다. 비록 작은 개혁들이 여기저기서 이루어졌지만, 결국 우리가 본토인들에게 주는 모든 것은 그들이 더럽고 탐욕스러운 발을 집어넣을 수 있는 엄청난 돈줄입니다."
  VIN_dysfunctional_government:0 "제대로 기능하지 않는 정부"
  VIN_dysfunctional_government_desc:0 "인도차이나 정부는 자치적인 군사 행정과 방치된 민간 행정으로 믿을 수 없을 정도로 형편없이 운영되고 있습니다. 기업은 광란하고 부패가 만연합니다."
  

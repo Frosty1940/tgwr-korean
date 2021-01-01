@@ -891,6 +891,7 @@
  FRA_idea_colonial_conscription:0 "식민 징병"
  FRA_idea_partisan_suppression:0 "게릴라 진압"
  FRA_idea_the_white_terror:0 "백색 테러"
+ FRA_idea_expanded_citizenship:0 "확대된 시민권"
 
  #Indochina
  si_electric:0 "Société Indochinoise d'Électricité"

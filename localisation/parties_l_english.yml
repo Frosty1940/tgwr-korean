@@ -997,3 +997,10 @@
  BRI_democratic_party_long:0 "브르타뉴 국민당 (온건파)"
  BRI_communism_party:0 "브르타뉴 생디칼리슴당"
  BRI_communism_party_long:0 "브르타뉴 생디칼리슴당"
+
+ HKG_fascism_party:0 "영국군"
+ HKG_fascism_party_long:0 "주홍콩영국군"
+ HKG_neutrality_party:0 "총독부"
+ HKG_democratic_party:0 "동맹회"
+ HKG_communism_party:0 "중국 사회당"
+ HKG_communism_party_long:0 "중국 사회당"

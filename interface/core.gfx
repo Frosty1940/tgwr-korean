@@ -1719,7 +1719,7 @@ bitmapfonts = {
 		fontfiles = { 
 			"gfx/fonts/cg_16b"		
 			"gfx/fonts/cg_16b_kor"
-#			"gfx/fonts/hoi_16tooltip3"		
+			"gfx/fonts/hoi_16tooltip3"		
 		}
 		color = 0xffffffff
 	}

@@ -29,6 +29,8 @@
  anarchist_communism_desc:0 "국가 없는 사회를 지향하는 공산주의 사상을 아우르는 이념인 아나르코공산주의는 과도기적 사회주의 국가의 사상을 피하고 자발적 결사와 상호원조에 기초한 사회를 선호합니다."
  nazism:0 "나치즘"
  nazism_desc:0 "독일의 대전에서의 굴욕적인 패배 이후 굳어진 극도의 국가주의에 뿌리를 두는 국가사회주의는, 독일 우월주의 사상에 의해 주도됩니다. '총통'이라 불리는 절대권력을 보유한 지도자 아래에서 공격적인 팽창주의와 국민이 단결하는 전체주의 국가를 지향합니다."
+ gen_nazism:0 "나치즘"
+ gen_nazism_desc:0 "독일의 대전에서의 굴욕적인 패배 이후 굳어진 극도의 국가주의에 뿌리를 두는 국가사회주의는, 독일 우월주의 사상에 의해 주도됩니다. '총통'이라 불리는 절대권력을 보유한 지도자 아래에서 공격적인 팽창주의와 국민이 단결하는 전체주의 국가를 지향합니다."
  fascism_ideology:0 "파시즘"
  fascism_ideology_desc:0 "다양한 국수주의 운동을 아우르는 파시즘은 강력한 지도자 아래 국민을 단결케 하여 국가에 헌신하는 것을 숭배합니다. 파시즘은 대전의 불만으로 인해 상대적으로 새로운 운동으로 태어났고, 그 기원은 프로토파시즘 이념에 연결되어 있었습니다."
  falangism:0 "팔랑헤주의"
@@ -38,6 +40,7 @@
 
  #TGWR
  neutrality:0 "비동맹주의"
+ neutrality_noun:0 "비동맹주의"
  neutrality_desc:0 "권위주의 체제"
  autocracy:0 "독재정"
  autocracy_desc:0 "독재주의는 최고 권력이 한 사람의 손에 집중되는 정부의 형태이며, 한 사람의 결정은 외부의 법적 구속도 받지 않고 대중의 통제의 규칙화된 메커니즘도 따르지 않습니다."
@@ -1004,3 +1007,13 @@
  HKG_democratic_party:0 "동맹회"
  HKG_communism_party:0 "중국 사회당"
  HKG_communism_party_long:0 "중국 사회당"
+
+ TWN_fascism_party:0 "군국주의자"
+ TWN_neutrality_party:0 "독립론자"
+ TWN_democratic_party:0 "공화주의자"
+ TWN_communism_party:0 "혁명가"
+
+ AIN_fascism_party:0 "군국주의자"
+ AIN_neutrality_party:0 "독립론자"
+ AIN_democratic_party:0 "민주주의자"
+ AIN_communism_party:0 "볼셰비키"

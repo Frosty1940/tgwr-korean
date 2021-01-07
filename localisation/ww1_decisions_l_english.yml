@@ -57,6 +57,8 @@
  GER_unite_baltics:0 "발트 통일"
  GER_help_white_russia:0 "백러시아 지원"
  GER_help_nationalist_france:0 "국민주의 프랑스 지원"
+ GER_decision_mittelafrika:0 "미텔아프리카 수립 및 확장"
+ GER_decision_mittelafrika_desc:0 "대전 승리로 얻은 광대한 아프리카 식민지는 미텔아프리카라는 단일 식민 행정부 아래에 통합될 수 있습니다. 이는 우리 제국에 부와 영광을 가져다 줄 것입니다."
  
  FRA_capitulation:0" 프랑스가 항복하다 "
  FRA_great_war:0 "대전쟁"

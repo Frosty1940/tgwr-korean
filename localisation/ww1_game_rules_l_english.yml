@@ -5,7 +5,7 @@
  custom_diff_strong_tur:0 "오스만 강화"
  custom_diff_strong_ser:0 "세르비아 강화"
  custom_diff_strong_bul:0 "불가리아 강화"
- custom_diff_strong_sov:0 "소비에트 연방 강화"
+ custom_diff_strong_sov:0 "소비에트 러시아 강화"
 
 #GAME SETUP
  #The Burgundy Rule >:)
@@ -14,6 +14,13 @@
  rule_burgundy_activation_description:0 "독일의 대전 승리에 따라, 벨기에는 옛 벨기에의 정체성을 지우려는 독일인들의 시도로 '부르군트'로 이름이 바뀔 것입니다.\n\n당초 독일이 승리하는 한 무조건적으로 부르군트가 수립되는 것에 대한 여부를 놓고 내부 분쟁이 벌어져 이 설정이 추가된 것입니다."
  rule_burgundy_disabled:0 "독일 승리 시 벨기에 유지"
  rule_burgundy_disabled_description:0 "독일의 대전 승리에 따라 벨기에를 인정하던 국경은 크게 바뀌었지만 벨기에는 옛 명칭이 그대로 유지될 것입니다.\n\n당초 독일이 승리하는 한 무조건적으로 무조건적으로 부르군트가 수립되는 것에 대한 여부를 놓고 내부 분쟁이 벌어져 이 설정이 추가된 것입니다."
+
+ #Fragmentation
+ ITA_FRAGMENTATION_STATUS:0 "이탈리아 파편화 상태"
+ RULE_OPTION_ITA_FRAGMENTED:0 "이탈리아 파편화"
+ RULE_OPTION_ITA_FRAGMENTED_DESC:0 "이탈리아의 국경이 리소르지멘토 이전으로 다시 그려질 것입니다."
+ RULE_OPTION_ITA_KR:0 "세계대전의 유산"
+ RULE_OPTION_ITA_KR_DESC:0 "이탈리아의 국경이 친숙한 무언가로 다시 그려질 것입니다."
 
  #Fate of Franz Fedinand
  FATE_OF_FRANZ_FERDINAND:0 "프란츠 페르디난트의 운명"
@@ -38,6 +45,14 @@
  RULE_OPTION_ROOSEVELT_SURVIVES_DESC:0 "루즈벨트는 암살 시도에서 살아남을 것입니다."
  RULE_OPTION_ROOSEVELT_DIES:0 "루스벨트 사망"
  RULE_OPTION_ROOSEVELT_DIES_DESC:0 "루스벨트는 암살될 것입니다."
+
+ #Russian Flag
+ RULE_RUSSIAN_FLAG:0 "러시아 국기"
+ RULE_OPTION_DEFAULT_RUSSIAN_FLAG_DESC:0 "§Y"왕과 국민의 단결"§! 깃발이 사용될 것입니다."
+ RULE_OPTION_HISTORICAL_RUSSIAN_FLAG:0 "역사적 국기"
+ RULE_OPTION_HISTORICAL_RUSSIAN_FLAG_DESC:0 "§Y"역사적"§! 삼색기가 사용될 것입니다."
+ RULE_OPTION_IMPERIAL_RUSSIAN_FLAG:0 "황제기"
+ RULE_OPTION_IMPERIAL_RUSSIAN_FLAG_DESC:0 "§Y"황제"§! 깃발이 사용될 것입니다."
 
  #AI BEHAVIOR
  RULE_OPTION_PROTO_FASCIST:0 "프로토파시스트"

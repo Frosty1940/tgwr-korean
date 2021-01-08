@@ -2250,7 +2250,7 @@
  ww1_germany.74.b:0 "그들은 계속 점령당할 것이다."
  ww1_germany.75.t:0 "프랑스 내전 개입 종료?"
  ww1_germany.75.d:0 "프랑스 내전이 끝났습니다. 우리 군대는 성공적으로 서부 국경을 위협하던 사회주의자들을 격퇴하고 싹을 잘라냈습니다. \n그러나 우리는 이참에 프랑스인들이 더이상 우리에게 개기지 못하도록 작살낼 수도 있을 것입니다..."
- ww1_germany.75.a:0 "놈들이 복수할 기회를 주지 말자."
+ ww1_germany.75.a:0 "§R놈들이 복수할 기회를 주지 말자.§!"
  ww1_germany.75.b:0 "전쟁은 그만!"
 
  #Undead Unicorn's super duper Germany collapse event chain

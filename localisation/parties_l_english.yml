@@ -406,7 +406,8 @@
  SWE_neutrality_party:0 "베르나도테 가문"
 
  FIN_royal_house:0 "헤센 가문"
- FIN_neutrality_party:0 "국가섭정"
+ FIN_regency:0 "국가섭정"
+ FIN_neutrality_party:0 "핀란드 상원"
  FIN_democratic_party:0 "국민연합당"
  FIN_democratic_party_long:0 "국민연합당"
  FIN_democratic_liberal_party:0 "국민진보당"

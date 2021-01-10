@@ -1557,3 +1557,7 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
  #Denmark
  DEN_canadian_trade:0 "캐나다 교역로"
  DEN_canadian_trade_desc:0 "캐나다인들은 우리가 그들에게 그린란드를 주었기 때문에 우리에게 무역 우선권을 주었습니다."
+
+ #Azerbaijan POG
+ AZR_republic_founder:0 "공화국의 건국자"
+ AZR_republic_founder_desc:0 "매햄매드는 오늘날까지도 아제르바이잔 민주공화국의 가장 영향력 있는 건국자 중 한 명으로 여겨지고 있습니다. 이 때문에, 그는 러시아 내전의 혼란 속에 세워진 의회 민주주의에서 주목할 만한 권한을 가지고 있습니다."

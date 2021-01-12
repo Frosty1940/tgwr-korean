@@ -43,7 +43,7 @@
  neutrality_noun:0 "비동맹주의"
  neutrality_desc:0 "권위주의 체제"
  autocracy:0 "독재정"
- autocracy_desc:0 "독재주의는 최고 권력이 한 사람의 손에 집중되는 정부의 형태이며, 한 사람의 결정은 외부의 법적 구속도 받지 않고 대중의 통제의 규칙화된 메커니즘도 따르지 않습니다."
+ autocracy_desc:0 "독재주의는 최고권력이 한 사람의 손에 집중되는 정부의 형태이며, 한 사람의 결정은 외부의 법적 구속도 받지 않고 대중의 통제의 규칙화된 메커니즘도 따르지 않습니다."
  despotism:0 "전제정"
  despotism_desc:0 "전제주의는 막강한 권력을 가진 한 사람이 지배하는 정부를 구성합니다."
  oligarchism:0 "과두정"
@@ -54,8 +54,8 @@
  centrism:0 "중도주의"
  centrism_desc:0 "중도주의는 현재와 미래에 필요한 것들을 상식적인 것으로 적절히 연설을 통해 해결하기를 원하는 정부의 한 형태로, 대중의 믿음과 위험을 고려하는 중도선을 이러한 요구의 맥락에서 수용하는 것을 지지합니다."
  # Fascist dicatorship
- military_dictatorship:0 "군부 독재"
- military_dictatorship_desc:0 "군부 독재란 군부가 정치적 권위에 대해 완전하거나 실질적인 통제권을 행사하는 독재입니다. 군 지도자들은 종종 군정으로서 통치하고, 그들 중 한 명을 우두머리로 뽑습니다. 군부 독재 정권은 대개 일종의 정치적 혼란이나 중대한 사건의 결과로 형성됩니다."
+ military_dictatorship:0 "군부독재"
+ military_dictatorship_desc:0 "군부독재란 군부가 정치적 권위에 대해 완전하거나 실질적인 통제권을 행사하는 독재입니다. 군 지도자들은 종종 군정으로서 통치하고, 그들 중 한 명을 우두머리로 뽑습니다. 군부독재 정권은 대개 일종의 정치적 혼란이나 중대한 사건의 결과로 형성됩니다."
  fundamentalism:0 "근본주의"
  fundamentalism_desc:0 "근본주의는 종교 내의 어떤 종파나 운동을 말하는데, 종교의 근본원리로서 자신이 자임하고 있는 것을 경직되게 고수하는 것을 강조하여 대체적인 실천과 해석의 폄하를 초래합니다."
  #Syndicalism
@@ -65,7 +65,7 @@
  anarcho_syndicalism_desc:0 "혁명적 산별노조나 생디칼리슴을 자본주의 사회에 대한 노동자들의 경제 통제와 사회적 영향력의 확대 위한 방법으로 여기는 아나키즘 이론입니다."
  #Commies
  trotskyism:0 "트로츠키주의"
- trotskyism_desc:0 "트로츠키주의는 프롤레타리아, 프롤레타리아 국제주의, 그리고 노동계급의 자기 계발과 대중사회민주주의를 바탕으로 프롤레타리아 독재 등의 선봉 정당을 설립하는 것을 지지합니다. 권력 투쟁의 특징은 영구 혁명입니다."
+ trotskyism_desc:0 "트로츠키주의는 프롤레타리아, 프롤레타리아 국제주의, 그리고 노동계급의 자기 계발과 대중사회민주주의를 바탕으로 프롤레타리아 독재 등의 선봉 정당을 설립하는 것을 지지합니다. 권력투쟁의 특징은 영구혁명입니다."
  council_communism:0 "평의회주의"
  council_communism_desc:0 "평의회주의는 국가자본주의와 국가사회주의에 대한 반대와, 노동자평의회와 소비에트 민주주의를 옹호한 것이 특징입니다. 평의회 공산주의자들은 노동계급이 레닌주의의 선봉 정당에 의존하거나 사회주의를 가져오기 위한 자본주의 체제의 개혁을 희망해서는 안 된다고 주장합니다."
  religious_communism:0 "종교공산주의"
@@ -106,24 +106,24 @@
  AUH_fascism_party_long:0 "독일 노동자당"
  
  RUS_neutrality_party:0 "로마노프 가문"
- RUS_neutrality_party_URP:0 "러시아 인민 연합"
- RUS_neutrality_party_URP_long:0 "러시아 인민 연합"
+ RUS_neutrality_party_URP:0 "러시아 인민연합당"
+ RUS_neutrality_party_URP_long:0 "러시아 인민연합당"
  RUS_democratic_party:0 "10월당"
  RUS_democratic_party_long:0 "10월 17일 연합"
  RUS_democratic_party_SR:0 "사회혁명당"
  RUS_democratic_party_SR_long:0 "사회혁명당"
- RUS_democratic_party_CDP:0 "카데트"
+ RUS_democratic_party_CDP:0 "입헌민주당"
  RUS_democratic_party_CDP_long:0 "입헌민주당"
  RUS_democratic_party_UFA_long:0 "전러시아 정부"
  RUS_democratic_party_UFA:0 "집정부"
- RUS_communism_party:0 "사회민주당"
+ RUS_communism_party:0 "러시아 사회민주노동당"
  RUS_communism_party_long:0 "러시아 사회민주노동당 (볼셰비키)"
  RUS_fascism_party:0 "차르주의자"
  RUS_fascism_party_OMSK_long:0 "러시아국 정부"
- RUS_fascism_party_OMSK:0 "러시아 정부"
+ RUS_fascism_party_OMSK:0 "러시아국 정부"
  
- QIN_neutrality_party:0 "섭정 의회"
- QIN_neutrality_party_puyi:0 "청 왕조"
+ QIN_neutrality_party:0 "섭정의회"
+ QIN_neutrality_party_puyi:0 "아이신기오로 가문"
  QIN_fascism_party:0 "군국주의자"
  QIN_communism_party:0 "혁명가"
  QIN_communism_party_long:0 "혁명가"
@@ -134,7 +134,7 @@
  POL_communism_party_long:0 "폴란드 사회당"
  POL_democratic_party:0 "폴란드 인민당"
  POL_democratic_party_long:0 "폴란드 인민당"
- POL_neutrality_party:0 "섭정 의회"
+ POL_neutrality_party:0 "섭정의회"
  POL_pilsudski_party:0 "입법 하원"
  POL_fascism_party:0 "대중인민연합"
  POL_fascism_party_long:0 "대중인민연합"
@@ -187,8 +187,8 @@
 
  SCO_neutrality_party:0 "자코바이트"
  SCO_neutrality_party_long:0 "자코바이트"
- SCO_democratic_party:0 "스코틀랜드 국민 연맹"
- SCO_democratic_party_long:0 "스코틀랜드 국민 연맹"
+ SCO_democratic_party:0 "스코틀랜드 국민연맹"
+ SCO_democratic_party_long:0 "스코틀랜드 국민연맹"
  SCO_wittelsbach:0 "비텔스바흐 가문"
  SCO_wittelsbach_long:0 "비텔스바흐 가문"
  SCO_communism_party:0 "스코틀랜드 사회주의 연합"
@@ -198,10 +198,10 @@
  WLS_communism_party:0 "남웨일즈 사회주의회"
  WLS_communism_party_long:0 "남웨일즈 사회주의회"
 
- JAM_fascism_party:0 "만국흑인진보연합 및 아프리카공동체연맹"
- JAM_fascism_party_long:0 "만국흑인진보연합 및 아프리카공동체연맹"
+ JAM_fascism_party:0 "만국흑인진보연합 및 아프리카 공동체연맹"
+ JAM_fascism_party_long:0 "만국흑인진보연합 및 아프리카 공동체연맹"
  JAM_butler:0 "버틀러당"
- JAM_butler_long:0 "대영 제국 시민노동자고국통치당" #
+ JAM_butler_long:0 "대영제국 시민노동자고국통치당" #
  #Fictional
  JAM_communism_party:0 "신아프리카당"
  JAM_communism_party_long:0 "신아프리카당"
@@ -268,7 +268,7 @@
  JAP_communism_party:0 "일본 공산당"
  JAP_democratic_party:0 "입헌민정당"
  JAP_fascism_party:0 "대정익찬회"
- JAP_neutrality_party:0 "야마토 왕조"
+ JAP_neutrality_party:0 "야마토 가문"
 
  USA_communism_party:0 "미국 사회당"
  USA_communism_party_long:0 "미국 사회당"
@@ -316,11 +316,11 @@
  SOV_communism_party_postwar:0 "전연방 공산당"
  SOV_democratic_party_postwar:0 "트루도비크"
  SOV_fascism_party_postwar:0 "러시아 파시스트당"
- SOV_neutrality_party_postwar:0 "임시 정부"
+ SOV_neutrality_party_postwar:0 "임시정부"
  SOV_communism_party_postwar_long:0 "전연방 공산당"
  SOV_democratic_party_postwar_long:0 "트루도비크"
  SOV_fascism_party_postwar_long:0 "러시아 파시스트당"
- SOV_neutrality_party_postwar_long:0 "임시 정부"
+ SOV_neutrality_party_postwar_long:0 "임시정부"
  SOV_communism_party_antibolshevik:0 "러시아 공산당"
  SOV_communism_party_antibolshevik_long:0 "러시아 공산당"
  SOV_neutrality_party_antibolshevik:0 "러시아 전인민당"
@@ -330,8 +330,8 @@
  SOV_communism_party_dictatorship:0 "전러시아 공산당"
  SOV_communism_party_dictatorship_long:0 "전러시아 공산당"
  
- AUS_fascism_party:0 "독일국가사회주의 노동자당"
- AUS_fascism_party_long:0 "독일국가사회주의 노동자당"
+ AUS_fascism_party:0 "국가사회주의 독일 노동자당"
+ AUS_fascism_party_long:0 "국가사회주의 독일 노동자당"
  AUS_communism_party:0 "오스트리아 공산당"
  AUS_communism_party_long:0 "오스트리아 공산당"
  AUS_democratic_party:0 "오스트리아 사회민주당"
@@ -391,7 +391,7 @@
  EST_communism_party:0 "에스토니아 공산당"
  EST_communism_party_long:0 "에스토니아 공산당"
 
- UBD_neutrality_party:0 "섭정 의회"
+ UBD_neutrality_party:0 "섭정의회"
  
  IRQ_neutrality_party:0 "하심 가문"
  IRQ_fascism_party:0 "국민형제당"
@@ -428,8 +428,8 @@
  CAN_fascism_party:0 "매카시즘"
  CAN_communism_party:0 "캐나다 사회당"
  CAN_communism_party_long:0 "캐나다 사회당"
- CAN_neutrality_party:0 "군주제지지자연맹"
- CAN_neutrality_party_long:0 "캐나다군주제지지자연맹"
+ CAN_neutrality_party:0 "캐나다 군주주의 연맹"
+ CAN_neutrality_party_long:0 "캐나다 군주주의 연맹"
  CAN_neutrality_party_royal:0 "오타와 가문"
  CAN_neutrality_party_royal_long:0 "오타와 가문"
  
@@ -482,8 +482,8 @@
  BRA_neutrality_party_long:0 "브라질 군주주의 운동"
  BRA_house_of_orleans_braganza:0 "오를레앙-브라간사"
  BRA_house_of_orleans_braganza_long:0 "오를레앙-브라간사 가문"
- BRA_vargas_party:0 "임시 정부"
- BRA_vargas_party_long:0 "대통령제 공화국 임시 정부"
+ BRA_vargas_party:0 "임시정부"
+ BRA_vargas_party_long:0 "대통령제 공화국 임시정부"
  BRA_junta_party:0 "평화군사정부"
  BRA_democratic_party:0 "플루미넨 공화당"
  BRA_democratic_party_long:0 "플루미넨 공화당"
@@ -523,8 +523,8 @@
 
  MOL_democratic_party:0 "국가의회"
  MOL_communism_party:0 "볼셰비키"
- MOL_neutrality_party:0 "병사회의"
- MOL_neutrality_party_long:0 "몰도바병사회의"
+ MOL_neutrality_party:0 "몰도바 병사회의"
+ MOL_neutrality_party_long:0 "몰도바 병사회의"
  
  SER_communism_party:0 "세르비아 사회민주당"
  SER_communism_party_long:0 "세르비아 사회민주당"
@@ -535,7 +535,7 @@
  SER_neutrality_party:0 "카라조르제비치 가문"
  SER_neutrality_party_long:0 "카라조르제비치 가문"
 
- BUL_neutrality_party:0 "작센코부르크 가문"
+ BUL_neutrality_party:0 "작센코부르크고타코하리 가문"
  BUL_neutrality_party_long:0 "작센코부르크고타코하리 가문"
  BUL_communism_party:0 "협소사회주의자"
  BUL_communism_party_long:0 "불가리아 사회민주노동당"
@@ -579,13 +579,13 @@
  BEL_communism_party:0 "벨기에 노동당"
  BEL_communism_party_long:0 "벨기에 노동당"
  BEL_democratic_party:0 "가톨릭당"
- BEL_neutrality_party:0 "작센코부르크 가문"
+ BEL_neutrality_party:0 "작센코부르크고타 가문"
  BEL_neutrality_party_long:0 "작센코부르크고타 가문"
  BEL_resistance:0 "폐하의 가장 충실한 저항군"
  BEL_resistance_long:0 "폐하의 가장 충실한 저항군" #La Plus Loyale Résistance de Sa Majesté-Zijn Meest Loyale Verzet van Zijne Majesteit
  
- SWI_fascism_party:0 "스위스 애국 연맹"
- SWI_fascism_party_long:0 "스위스 애국 연맹" #Swiss Patriotic Federation
+ SWI_fascism_party:0 "스위스 애국연맹"
+ SWI_fascism_party_long:0 "스위스 애국연맹" #Swiss Patriotic Federation
  SWI_communism_party:0 "스위스 사회당"
  SWI_communism_party_long:0 "스위스 사회당"
  SWI_democratic_party:0 "연방평의회"
@@ -607,7 +607,7 @@
  
  PER_communism_party:0 "정의당"
  PER_democratic_party:0 "민주당"
- PER_neutrality_party:0 "카자르 왕조"
+ PER_neutrality_party:0 "카자르 가문"
  
  COL_communism_party:0 "콜롬비아 공산당"
  COL_communism_party_long:0 "콜롬비아 공산당"
@@ -684,11 +684,11 @@
  IRE_communism_party:0 "혁명노동자집단"
  IRE_communism_party_long:0 "혁명노동자집단"
  
- AFG_neutrality_party:0 "바라크자이 왕조"
+ AFG_neutrality_party:0 "바라크자이 가문"
  
  LUX_democratic_party:0 "우파당"
  LUX_communism_party:0 "사회당"
- LUX_neutrality_party:0 "나사우 가문"
+ LUX_neutrality_party:0 "나사우바일부르크 가문"
  LUX_neutrality_party_long:0 "나사우바일부르크 가문"
  
  BHU_neutrality_party:0 "왕축 가문"
@@ -706,7 +706,7 @@
  HON_communism_party_long:0 "온두라스 공산당"
  
  NEP_neutrality_party:0 "샤 가문"
- NEP_democratic_party:0 "라나 왕조"
+ NEP_democratic_party:0 "라나 가문"
  
  PAN_democratic_party:0 "자유당"
  PAN_communism_party:0 "노동당"
@@ -724,11 +724,11 @@
  
  TIB_neutrality_party:0 "레팅 린포체"
  
- YUN_neutrality_party:0 "당의 군벌"
+ YUN_neutrality_party:0 "당씨군벌"
  
  MON_communism_party:0 "몽골 인민혁명당"
  MON_communism_party_long:0 "몽골 인민혁명당"
- MON_neutrality_party:0 "제쮠담바 후툭투"
+ MON_neutrality_party:0 "젭춘담바 후툭투"
  MON_fascism_party:0 "운게른 충성파"
  
  TAN_communism_party:0 "투바 인민혁명당"
@@ -757,7 +757,7 @@
  KOR_democratic_party_long:0 "독립촉성중앙협의회"
  KOR_neutrality_party:0 "이씨 가문"
  KOR_neutrality_party_long:0 "이씨 가문"
- KOR_provisional_government:0 "임시정부"
+ KOR_provisional_government:0 "대한민국 임시정부"
  KOR_provisional_government_long:0 "대한민국 임시정부"
  KOR_newkorea:0 "신한혁명당"
  KOR_newkorea_long:0 "신한혁명당"
@@ -797,7 +797,7 @@
  EGY_communism_party_long:0 "이집트 사회당"
  EGY_democratic_party:0 "자유헌법당"
  EGY_democratic_party_long:0 "자유헌법당"
- EGY_neutrality_party:0 "알라위야 왕조"
+ EGY_neutrality_party:0 "알라위야 가문"
  
  PAL_fascism_party:0 "알무카다"
  PAL_communism_party:0 "국민해방동맹"
@@ -808,8 +808,8 @@
  
  MNT_democratic_party:0 "인민당"
  MNT_democratic_party_long:0 "인민당"
- MNT_neutrality_party:0 "페트로비치네고시 왕조"
- MNT_neutrality_party_long:0 "페트로비치네고시 왕조"
+ MNT_neutrality_party:0 "페트로비치네고시 가문"
+ MNT_neutrality_party_long:0 "페트로비치네고시 가문"
  
  UKR_democratic_party:0 "우크라이나 중앙평의회"
  UKR_democratic_party_long:0 "우크라이나 중앙평의회"
@@ -837,8 +837,8 @@
  AZR_neutrality_party:0 "무사바트당"
  AZR_fascism_party:0 "이티하드당"
  
- ARM_democratic_party:0 "아르메니아 혁명 연맹"
- ARM_democratic_party_long:0 "아르메니아 혁명 연맹"
+ ARM_democratic_party:0 "아르메니아 혁명연맹"
+ ARM_democratic_party_long:0 "아르메니아 혁명연맹"
  ARM_communism_party:0 "아르메니아 공산당"
  ARM_communism_party_long:0 "아르메니아 공산당"
  ARM_neutrality_party:0 "국회"
@@ -868,9 +868,9 @@
  DKB_communism_party:0 "볼셰비키"
  
  VIN_fascism_party:0 "대명국"
- VIN_democratic_party:0 "식민 행정부"
- VIN_VNQPH_party:0 "베트남 복국동맹회" 
- VIN_VNQPH_party_long:0 "베트남 복국동맹회" 
+ VIN_democratic_party:0 "식민행정부"
+ VIN_VNQPH_party:0 "베트남 유신회" 
+ VIN_VNQPH_party_long:0 "베트남 유신회" 
  VIN_neutrality_party:0 "주이떤 충성파"
  
  MOU_neutrality_party:0 "북카프카스 산악 공화국"
@@ -890,7 +890,7 @@
  
  QAT_neutrality_party:0 "알사니 가문"
  
- ASR_neutrality_party:0 "이드리시 왕조"
+ ASR_neutrality_party:0 "이드리시 가문"
  
  SIB_neutrality_party:0 "사회주의혁명당"
  SIB_communism_party:0 "볼셰비키"
@@ -900,7 +900,7 @@
  INS_communism_party_long:0 "인도네시아 공산당"
  INS_neutrality_party:0 "아즈마트칸 가문"
  
- MAL_democratic_party:0 "식민 행정부"
+ MAL_democratic_party:0 "식민행정부"
  MAL_communism_party:0 "남양공산당"
  MAL_communism_party_long:0 "남양공산당"
  MAL_neutrality_party:0 "말레이 청년동맹"
@@ -917,7 +917,7 @@
 
  ZIM_democratic_party:0 "책임정부협회"
  ZIM_democratic_party_long:0 "책임정부협회"
- ZIM_communism_party:0 "노동당"
+ ZIM_communism_party:0 "로디지아 노동당"
  ZIM_communism_party_long:0 "로디지아 노동당"
  ZIM_neutrality_party:0 "쿠말로 가문"
  ZIM_governorship_party:0 "총독부"
@@ -953,13 +953,13 @@
 
  ERI_neutrality_party:0 "바흐리 네가시"
 
- TAJ_neutrality_party:0 "콩기라트 왕조"
+ TAJ_neutrality_party:0 "콩기라트 가문"
  TAJ_communism_party:0 "화레즘 공산당"
  TAJ_communism_party_long:0 "화레즘 공산당"
  TAJ_democratic_party:0 "청년 히바당"  
  TAJ_fascism_party:0 "바스마시" 
 
- UZB_neutrality_party:0 "망구드 왕조"
+ UZB_neutrality_party:0 "망구드 가문"
  UZB_democratic_party:0 "청년 부하라당"  
  UZB_communism_party:0 "부하라 공산당"
  UZB_communism_party_long:0 "부하라 공산당"
@@ -967,7 +967,7 @@
 
  RYU_neutrality_party:0 "쇼씨왕통"
 
- TUN_neutrality_party:0 "후세인 왕조"
+ TUN_neutrality_party:0 "후세인 가문"
  
  KUR_democratic_party:0 "쿠르디스탄 진보회"
  KUR_democratic_party_long:0 "쿠르디스탄 진보회"
@@ -985,8 +985,8 @@
  TRA_democratic_party:0 "트란실바니아와 바나트의 루마니아 국민당"
  TRA_democratic_party_long:0 "트란실바니아와 바나트의 루마니아 국민당"
 
- RHN_french_military:0 "프랑스군정"
- RHN_french_military_long:0 "프랑스군정"
+ RHN_french_military:0 "프랑스 군정"
+ RHN_french_military_long:0 "프랑스 군정"
 
  BAY_neutrality_party:0 "비텔스바흐 가문"
 
@@ -1010,11 +1010,11 @@
  HKG_communism_party_long:0 "중국 사회당"
 
  TWN_fascism_party:0 "군국주의자"
- TWN_neutrality_party:0 "독립론자"
+ TWN_neutrality_party:0 "독립주의자"
  TWN_democratic_party:0 "공화주의자"
  TWN_communism_party:0 "혁명가"
 
  AIN_fascism_party:0 "군국주의자"
- AIN_neutrality_party:0 "독립론자"
+ AIN_neutrality_party:0 "독립주의자"
  AIN_democratic_party:0 "민주주의자"
  AIN_communism_party:0 "볼셰비키"

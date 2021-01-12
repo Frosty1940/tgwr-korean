@@ -68,6 +68,8 @@
  GER_advisors_SWE:0 "[SWE.GetName] 측에 고문 파견"
  GER_advisors_DEN:0 "[DEN.GetName] 측에 고문 파견"
  GER_advisors_MEX:0 "[MEX.GetName] 측에 고문 파견"
+ GER_advisors_RUS:0 "[RUS.GetName] 측에 고문 파견"
+ GER_advisors_NFA:0 "[NFA.GetName] 측에 고문 파견"
  
  FRA_capitulation:0" 프랑스가 항복하다 "
  FRA_great_war:0 "대전쟁"
@@ -114,6 +116,10 @@
  member_of_centre_armistice:0 "항복 거부\n"
  member_of_central_powers:0 "협상국의 적\n"
  refused_to_surrender:0 "항복 거부함\n"
+ compiegne_armistice:0 "콩피에뉴 휴전 협정\n"
+ compiegne_armistice_mission:0 "콩피에뉴 휴전 협정"
+ versallies_conference:0 "파리 강화회담"
+ versallies_treaty:0 " 베르사유 조약 "
  frankfurt_armistice:0 "프랑크푸르트 휴전 협정\n"
  frankfurt_armistice_mission:0 "프랑크푸르트 휴전 협정"
  frankfurt_armistice_tt:0 "대전쟁은 협상국의 패배로 끝났습니다."
@@ -602,6 +608,7 @@
  CAN_britain_seize_the_power:0 "왕당파로 정권 장악"
  CAN_britain_seize_the_power_desc:0 "이런 시기에 완전한 자유민주주의는 사치입니다. 생디칼리슴의 위협에 대비해 전쟁을 준비하고 국가를 재건할 필요가 있습니다. 그러기 위해서 권력은 국왕에게 향해야 합니다."
  canada_is_britain:0 "영국 왕실이 캐나다에 있음"
+ CAN_entente:0 "영불 협상 재확인"
 
  BRA_military_interventions_category:0 "구원 정책"
  BRA_military_interventions_category_desc:0 "구원의 정치는 과두정치를 약화시키기 위한 군사적 개입으로 구성되었습니다."

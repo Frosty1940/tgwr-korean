@@ -960,7 +960,6 @@
  GER_idea_militarize_youth:0 "청년의 군국주의 고취"
  GER_idea_wilhelm_ii:0 "카이저 빌헬름 2세"
  GER_idea_wilhelm_ii_desc:0 "하느님의 은총으로, 프로이센의 왕, 브란덴부르크의 변경백, 슐레지엔의 주권자이며 대공(Supreme Duke), 저지 라인과 포첸의 공(Grand Duke), 작센, 베스트팔렌, 포메른, 뤼네부르크, 브레멘, 홀슈타인, 슐레스비히, 라우엔부르크의 공작, 뉘른베르크의 성백, 헤센의 방백, 동프리슬란트, 오스나브뤼크, 힐데스하임, 나사우, 풀다의 제후, 호헨촐레른의 백작, 프랑크푸르트의 영주이신 우리 빌헬름."
-
  GER_idea_army_reform:0 "군대 개혁"
  GER_idea_army_reform2:0 "연방군"
  GER_idea_army_reform3:0 "정예 연방군단"
@@ -981,6 +980,10 @@
  GER_german_staff_planning_desc:0 "우리 본부는 동맹군의 위치로 몇 명의 고위 장성들을 파견했습니다."
  GER_state_in_blockade:0 "봉쇄 상태"
  GER_state_in_blockade_desc:0 "이 나라는 적의 봉쇄에 처해 있습니다. 그들은 완전한 경제적 고립이 기근을 유발할 것으로 예상합니다."
+ GER_quenched_militarism:0 "억눌린 군국주의"
+ GER_mitteleuropa:0 "미텔오이로파"
+ GER_reformed_economy:0 "개혁된 경제"
+ GER_representative_reform_idea:0 "대표 개혁"
  
  #AUSTRIA-HUNGARY
  AUH_ww1_House_Habsburg_Lorraine:0 "합스부르크-로트링겐 가문"

@@ -411,13 +411,13 @@
  AUH_infantry_equipment_3:0 "슈타이어 MP18"
  AUH_infantry_equipment_3_short:0 "슈타이어 MP18"
  
- ITA_infantry_equipment_0:0 "베테를리 M87"
- ITA_infantry_equipment_0_short:0 "베테를리 M87"
+ ITA_infantry_equipment_0:0 "베테를리 M1870"
+ ITA_infantry_equipment_0_short:0 "베테를리 M1870"
  ITA_infantry_equipment_1:0 "카르카노 M91"
  ITA_infantry_equipment_1_short:0 "카르카노 M91"
- ITA_infantry_equipment_2:0 "베테를리 M87/15"
+ ITA_infantry_equipment_2:0 "베테를리-비탈리 M1870/87/15"
  ITA_infantry_equipment_2_short:0 "베테를리 M87/15"
- ITA_infantry_equipment_3:0 "베레타 M1918"
+ ITA_infantry_equipment_3:0 "베레타 MAB 18"
  ITA_infantry_equipment_3_short:0 "베레타 M1918"
  
  BEL_infantry_equipment_0:0 "콩블랑 M1882"
@@ -579,7 +579,7 @@
  ARG_infantry_equipment_1_short:0 "마우저 M98"
  ARG_infantry_equipment_2:0 "마우저 M09"
  ARG_infantry_equipment_2_short:0 "마우저 M09"
- ARG_infantry_equipment_3:0 "베레타 M1918"
+ ARG_infantry_equipment_3:0 "베레타 MAB 18"
  ARG_infantry_equipment_3_short:0 "베레타 M1918"
  
  SPR_infantry_equipment_0:0 "오비에도 마우저 M1893"

@@ -310,6 +310,14 @@
 
  NFA_fascism_party:0 "임시군사정부"
  NFA_fascism_party_long:0 "임시군사정부"
+ NFA_petain_party:0 "페텡 정부"
+
+ FRC_communism_party:0 "프랑스 공산당"
+ FRC_communism_party_long:0 "프랑스 공산당"
+ FRC_socialism_party:0 "사회당"
+ FRC_socialism_party_long:0 "사회당"
+ FRC_syndicalism_party:0 "프랑스노동총동맹"
+ FRC_syndicalism_party_long:0 "프랑스노동총동맹"
 
  SOV_communism_party:0 "볼셰비키"
  SOV_democratic_party:0 "멘셰비키"

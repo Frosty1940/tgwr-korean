@@ -895,6 +895,8 @@
  FRA_idea_partisan_suppression:0 "게릴라 진압"
  FRA_idea_the_white_terror:0 "백색 테러"
  FRA_idea_expanded_citizenship:0 "확대된 시민권"
+ FRA_idea_french_women:0 "프랑스 여성"
+ FRA_womens_suffrage:0 "여성 참정권"
 
  #Indochina
  si_electric:0 "Société Indochinoise d'Électricité"

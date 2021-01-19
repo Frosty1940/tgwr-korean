@@ -835,6 +835,13 @@
  STATE_833:0 "에밀리아"
  STATE_834:0 "니스"
  STATE_835:0 "움브리아"
+ STATE_836:0 "푸에블라"
+ STATE_837:0 "미초아칸"
+ STATE_838:0 "누에보레온"
+ STATE_839:0 "바히오"
+ STATE_840:0 "두랑고"
+ STATE_841:0 "사카테카스"
+ STATE_842:0 "산루이스포토시"
 
  YODONG_STATE:0 "요동"
  SEOGANDO_STATE:0 "서간도"

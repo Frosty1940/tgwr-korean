@@ -2220,7 +2220,7 @@
  ITA_send_volunteers:0 "자원병 부대"
  ITA_protect_industrial_region:0 "산업 지역 보호"
  ITA_protect_mainports:0 "주요 항만 보호"
- ITA_spirit_of_risorgimento:0 "리소르기멘토의 정신"
+ ITA_spirit_of_risorgimento:0 "리소르지멘토의 정신"
  ITA_spirit_of_risorgimento_desc:0 "" #ITA_spirit_of_risorgimento_desc 자체가 아예 누락되어 있었음
  ITA_union_with_greece:0 "그리스와의 로마 조약"
  ITA_punish_ottoman:0 "오스만 처벌"

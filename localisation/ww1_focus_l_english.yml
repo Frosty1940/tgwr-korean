@@ -2742,158 +2742,158 @@
  TUR_defendthesovereigntyarea:0 "협상국과 함께 서기"
  TUR_defendthesovereigntyarea_desc:0 ""
  
-FRA_ww1_army_effort:0 "프랑스 육군 주력"
-FRA_ww1_army_effort_desc:0 "독일의 군대는 우리 군대보다 더 크고, 더 경험도 더 많으며, 아직도 대부분 우리가 그들과 싸웠던 지난 전쟁의 참전용사들로 채워져 있습니다. 프랑스가 독일의 이익에 심각한 위협을 가하려면 이 시나리오를 뒤집고, 우리 군을 현대화해야 하며, 바라건대 우리의 지도부를 현대화해야 합니다!"
+ FRA_ww1_army_effort:0 "프랑스 육군 주력"
+ FRA_ww1_army_effort_desc:0 "독일의 군대는 우리 군대보다 더 크고, 더 경험도 더 많으며, 아직도 대부분 우리가 그들과 싸웠던 지난 전쟁의 참전용사들로 채워져 있습니다. 프랑스가 독일의 이익에 심각한 위협을 가하려면 이 시나리오를 뒤집고, 우리 군을 현대화해야 하며, 바라건대 우리의 지도부를 현대화해야 합니다!"
 
-FRA_ww1_trenchwarfare:0 "참호전 중점"
-FRA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
+ FRA_ww1_trenchwarfare:0 "참호전 중점"
+ FRA_ww1_trenchwarfare_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_artillery_effort_1:0 "포병 주력"
-FRA_ww1_artillery_effort_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_1:0 "포병 주력"
+ FRA_ww1_artillery_effort_1_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_artillery_effort_2:0 "포병 주력 II"
+ FRA_ww1_artillery_effort_2:0 "포병 주력 II"
 
-FRA_ww1_artillery_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_artillery_effort_3:0 "포병 주력 III"
-FRA_ww1_artillery_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_3:0 "포병 주력 III"
+ FRA_ww1_artillery_effort_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_artillery_effort_4:0 "포병 주력 IV"
-FRA_ww1_artillery_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_artillery_effort_4:0 "포병 주력 IV"
+ FRA_ww1_artillery_effort_4_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_special_forces:0 "특수부대 중점"
-FRA_ww1_special_forces_desc:0 "" #KAISER_ANONY
+ FRA_ww1_special_forces:0 "특수부대 중점"
+ FRA_ww1_special_forces_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_army_motorization_focus:0 "차량화 중점"
-FRA_ww1_army_motorization_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_army_motorization_focus:0 "차량화 중점"
+ FRA_ww1_army_motorization_focus_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_doctrine_effort:0 "교리 주력"
-FRA_ww1_doctrine_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_doctrine_effort:0 "교리 주력"
+ FRA_ww1_doctrine_effort_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_doctrine_effort_2:0 "교리 주력 II"
-FRA_ww1_doctrine_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_doctrine_effort_2:0 "교리 주력 II"
+ FRA_ww1_doctrine_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_doctrine_effort_3:0 "교리 주력 III"
-FRA_ww1_doctrine_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_doctrine_effort_3:0 "교리 주력 III"
+ FRA_ww1_doctrine_effort_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_equipment_effort:0 "장비 주력"
-FRA_ww1_equipment_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort:0 "장비 주력"
+ FRA_ww1_equipment_effort_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_equipment_effort_2:0 "장비 주력 II"
-FRA_ww1_equipment_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort_2:0 "장비 주력 II"
+ FRA_ww1_equipment_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_equipment_effort_3:0 "장비 주력 III"
-FRA_ww1_equipment_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort_3:0 "장비 주력 III"
+ FRA_ww1_equipment_effort_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_equipment_effort_4:0 "장비 주력 IV"
-FRA_ww1_equipment_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_equipment_effort_4:0 "장비 주력 IV"
+ FRA_ww1_equipment_effort_4_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_armor_effort_1:0 "기갑 주력"
-FRA_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_armor_effort_1:0 "기갑 주력"
+ FRA_ww1_armor_effort_1_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_armor_effort_2:0 "기갑 주력 II"
-FRA_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_armor_effort_2:0 "기갑 주력 II"
+ FRA_ww1_armor_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_gasmask_focus:0 "화학전 중점"
-FRA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_gasmask_focus:0 "화학전 중점"
+ FRA_ww1_gasmask_focus_desc:0 "" #KAISER_ANONY
  FRA_ww1_airship_focus:0 "비행선 중점"
  FRA_ww1_airship_focus_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_aviation_effort:0 "프랑스 전투항공대"
  FRA_ww1_aviation_effort_desc:0 "우리 장군들 중 다수가 공중전이 어떤 의미가 있을 것이라는 의견은 아니지만, 그들은 전에도 틀린 적이 있습니다. 만약 우리가 오늘부터 프랑스 공군 설계자들을 모집하고 기반 시설을 개발하기 시작한다면, 그것들이 유용하다는 것이 입증된다면, 우리는 진정으로 공중전이 시작될 때 준비가 될 것입니다!"
 
-FRA_ww1_fighter_focus:0 "전투기 중점"
-FRA_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
-FRA_ww1_bomber_focus:0 "폭격기 중점"
-FRA_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_fighter_focus:0 "전투기 중점"
+ FRA_ww1_fighter_focus_desc:0 "" #KAISER_ANONY
+ FRA_ww1_bomber_focus:0 "폭격기 중점"
+ FRA_ww1_bomber_focus_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_aviation_effort_2:0 "항공 주력"
-FRA_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
-FRA_ww1_aviation_effort_3:0 "항공 주력 II"
-FRA_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
-FRA_ww1_aviation_effort_4:0 "항공 주력 III"
-FRA_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
-FRA_ww1_aviation_effort_5:0 "항공 주력 IV"
-FRA_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aviation_effort_2:0 "항공 주력"
+ FRA_ww1_aviation_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aviation_effort_3:0 "항공 주력 II"
+ FRA_ww1_aviation_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aviation_effort_4:0 "항공 주력 III"
+ FRA_ww1_aviation_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aviation_effort_5:0 "항공 주력 IV"
+ FRA_ww1_aviation_effort_5_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_pilotformation_1:0 "비행사 양성"
-FRA_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_pilotformation_1:0 "비행사 양성"
+ FRA_ww1_pilotformation_1_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_pilotformation_2:0 "비행사 양성 II"
-FRA_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_pilotformation_2:0 "비행사 양성 II"
+ FRA_ww1_pilotformation_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_aircraftprod_1:0 "항공기 생산"
-FRA_ww1_aircraftprod_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aircraftprod_1:0 "항공기 생산"
+ FRA_ww1_aircraftprod_1_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_aircraftprod_2:0 "항공기 생산 II"
-FRA_ww1_aircraftprod_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_aircraftprod_2:0 "항공기 생산 II"
+ FRA_ww1_aircraftprod_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_airbomb_1:0 "항공폭격 주력"
-FRA_ww1_airbomb_1_desc:0 "" #KAISER_ANONY
-FRA_ww1_airbomb_2:0 "항공폭격 주력 II"
-FRA_ww1_airbomb_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airbomb_1:0 "항공폭격 주력"
+ FRA_ww1_airbomb_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airbomb_2:0 "항공폭격 주력 II"
+ FRA_ww1_airbomb_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_air_innovation:0 "항공 혁신 중점"
-FRA_ww1_air_innovation_desc:0 "" #KAISER_ANONY
+ FRA_ww1_air_innovation:0 "항공 혁신 중점"
+ FRA_ww1_air_innovation_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_navalair:0 "뇌격 주력"
-FRA_ww1_navalair_desc:0 "" #KAISER_ANONY
-FRA_ww1_industrial_effort:0 "산업 주력"
-FRA_ww1_industrial_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_navalair:0 "뇌격 주력"
+ FRA_ww1_navalair_desc:0 "" #KAISER_ANONY
+ FRA_ww1_industrial_effort:0 "산업 주력"
+ FRA_ww1_industrial_effort_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_construction_effort:0 "건설 주력"
-FRA_ww1_construction_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_construction_effort:0 "건설 주력"
+ FRA_ww1_construction_effort_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_construction_effort_2:0 "건설 주력 II"
-FRA_ww1_construction_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_construction_effort_2:0 "건설 주력 II"
+ FRA_ww1_construction_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_construction_effort_3:0 "건설 주력 III"
-FRA_ww1_construction_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_construction_effort_3:0 "건설 주력 III"
+ FRA_ww1_construction_effort_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_production_effort:0 "군비 주력"
-FRA_ww1_production_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_production_effort:0 "군비 주력"
+ FRA_ww1_production_effort_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_production_effort_2:0 "군비 주력 II"
-FRA_ww1_production_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_production_effort_2:0 "군비 주력 II"
+ FRA_ww1_production_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_production_effort_3:0 "군비 주력 III"
-FRA_ww1_production_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_production_effort_3:0 "군비 주력 III"
+ FRA_ww1_production_effort_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_dockyard_effort_1:0 "조선소 확장"
-FRA_ww1_dockyard_effort_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_dockyard_effort_1:0 "조선소 확장"
+ FRA_ww1_dockyard_effort_1_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_dockyard_effort_2:0 "조선소 확장 II"
-FRA_ww1_dockyard_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_dockyard_effort_2:0 "조선소 확장 II"
+ FRA_ww1_dockyard_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_dockyard_effort_3:0 "조선소 확장 III"
-FRA_ww1_dockyard_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_dockyard_effort_3:0 "조선소 확장 III"
+ FRA_ww1_dockyard_effort_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_airfield_expansion_1:0 "비행장 확장"
-FRA_ww1_airfield_expansion_1_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airfield_expansion_1:0 "비행장 확장"
+ FRA_ww1_airfield_expansion_1_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_airfield_expansion_2:0 "비행장 확장 II"
-FRA_ww1_airfield_expansion_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airfield_expansion_2:0 "비행장 확장 II"
+ FRA_ww1_airfield_expansion_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_airfield_expansion_3:0 "비행장 확장 III"
-FRA_ww1_airfield_expansion_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_airfield_expansion_3:0 "비행장 확장 III"
+ FRA_ww1_airfield_expansion_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_infrastructure_effort:0 "기반시설 주력"
-FRA_ww1_infrastructure_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort:0 "기반시설 주력"
+ FRA_ww1_infrastructure_effort_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
-FRA_ww1_infrastructure_effort_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
+ FRA_ww1_infrastructure_effort_2_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
-FRA_ww1_infrastructure_effort_3_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
+ FRA_ww1_infrastructure_effort_3_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
-FRA_ww1_infrastructure_effort_4_desc:0 "" #KAISER_ANONY
+ FRA_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
+ FRA_ww1_infrastructure_effort_4_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_extra_tech_slot:0 "추가 연구 슬롯"
-FRA_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
+ FRA_ww1_extra_tech_slot:0 "추가 연구 슬롯"
+ FRA_ww1_extra_tech_slot_desc:0 "" #KAISER_ANONY
 
-FRA_ww1_extra_tech_slot_2:0 "추가 연구 슬롯 II"
-FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
+ FRA_ww1_extra_tech_slot_2:0 "추가 연구 슬롯 II"
+ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_naval_effort:0 "프랑스 해군 강화"
  FRA_ww1_naval_effort_desc:0 "영국이 왕실 해군을 보유하는 것은 프랑스가 프랑스만의 함대를 가지고 부족하다고 변명할 거리가 되지 않는다. 우리 해군이 부분적으로 국가적 자부심의 원천이고, 부분적으로 이탈리아가 어느 방향으로 가더라도 지중해를 안전하게 지킬 수 있는 방법인 이상, 현대적이고 잘 정비된 함대는 독일이나 이탈리아, 또는 오스트리아에 뒤떨어지게 둘 수 없다." #KAISER_ANONY
 
@@ -2938,14 +2938,14 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_political_effort:0 "정치 주력"
  FRA_ww1_political_effort_desc:0 "" #KAISER_ANONY
 
- FRA_ww1_sovereignist_ethos:0 "Sovereignist Ethos"
+ FRA_ww1_sovereignist_ethos:0 "주권주의 기풍"
  FRA_ww1_sovereignist_ethos_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_support_republic:0 "공화국 권위 강화"
- FRA_ww1_support_republic_desc:0 "One of Napoleon's legacies was a strong, centralized Republic. In recent times, liberal views have given more checks and balances to weaken our glorious state. However, due to the rising tension, I'm sure the French public would understand if a few of those balances were rolled back. After all, anything for Alsase-Lorraine, right?" 
+ FRA_ww1_support_republic_desc:0 "나폴레옹의 유산 중 하나는 강력하고 중앙집권적인 공화국입니다. 최근 자유주의적인 견해는 우리의 영광스러운 국가를 약화시키기 위해 더 많은 견제와 균형을 제공해 왔습니다. 하지만, 긴장이 고조되고 있기 때문에, 저는 프랑스 대중들이 그러한 균형들 중 몇 가지를 뒤로 미룬다고 해도 이해할 것이라고 확신합니다. 어쨌든, 알자스-로렌에 비할 만한 것은 없을 겁니다, 그렇지 않습니까?" 
 
  FRA_ww1_contest_republic:0 "공화국 권위에 도전"
- FRA_ww1_contest_republic_desc:0 "The Republic may be old, but our monarchy lasted even longer than that. France is not consigned to Republicanism- if we enable the opposition, perhaps we can even rid ourselves of such a system, before it's too late."
+ FRA_ww1_contest_republic_desc:0 "공화국은 오래되었지만, 우리의 군주정은 그보다 더 오래 지속되었습니다. 프랑스가 공화 정체에 완전히 놓인 것은 아닙니다. 우리가 야당을 허용한다면, 아마도 우리는 너무 늦기 전에 그러한 제도를 없앨 수 있을 것입니다."
 
  FRA_ww1_internationalism_focus:0 "국제주의 중점"
  FRA_ww1_internationalism_focus_desc:0 "" #KAISER_ANONY
@@ -2969,7 +2969,7 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_military_youth_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_student_movement_focus:0 "학생 운동"
- FRA_ww1_student_movement_focus_desc:0 "The youth of our country are bright indeed, and that can help us for our research, particularly in the field of Land Doctrines." #KAISER_ANONY
+ FRA_ww1_student_movement_focus_desc:0 "우리나라의 젊은이들은 실로 똑똑합니다. 그리고 그 점은 특히 육군 교리 분야에서의 우리 연구에 도움이 될 수 있습니다." #KAISER_ANONY
 
  FRA_ww1_monarchy:0 "권위주의 중점"
  FRA_ww1_monarchy_desc:0 "" #KAISER_ANONY
@@ -3005,73 +3005,73 @@ FRA_ww1_extra_tech_slot_2_desc:0 "" #KAISER_ANONY
  FRA_ww1_fortify_coast_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_leave_triple_entente:0 "삼국 협상 탈퇴"
-  FRA_ww1_leave_triple_entente_desc:0 "Since the direction of the French government has changed so drastically, we no longer have any significant connection, or national appeal for, an alliance with the United Kingdom and Russia. In fact, many of our citizens are already supporting a return to a rivalry with the former. This seems to be the end of the Triple Entente."
+  FRA_ww1_leave_triple_entente_desc:0 "프랑스 정부의 방향이 너무 급변했기 때문에, 우리는 더 이상 영국, 러시아와의 동맹에 대해 이렇다 할 관계나 국민적 호소가 있지 않습니다. 사실, 많은 우리 시민들은 이미 그들과 경쟁하는 관계로 돌아설 것을 지지하고 있습니다. 삼국 협상의 끝인 것 같습니다."
 
  FRA_ww1_install_communism:0 "프롤레타리아 혁명"
- FRA_ww1_install_communism_desc:0 "Paris has always had a rebellious tendancy, and in today's enviornment, this is no different. Support for another Red rebellion is growing in the self-proclaimed ''Paris Commune''. If this time, the government forces drop their guns, France may become a Communist nation, among the first of its kind."
+ FRA_ww1_install_communism_desc:0 "파리는 항상 반항적인 성향을 가지고 있었고, 오늘날과 같은 환경에서도 이는 다르지 않습니다. 자칭 "파리 코뮌"의 또 다른 붉은 반란에 대한 지지가 늘고 있습니다. 이번에 정부군이 총구를 내린다면 프랑스가 공산국가가 될 수도 있습니다."
 
  FRA_ww1_diplomatic_effort:0 "외교 주력"
-FRA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
+ FRA_ww1_diplomatic_effort_desc:0 "" #KAISER_ANONY
 
  FRA_ww1_triple_alliance:0 "협상국 강화"
-FRA_ww1_triple_alliance_desc:0 "협상국은 독일의 이익에 반대하기 위한 직접적 이유로 결성되었습니다. 우리는 러시아에 우리의 하찮은 불화에 대해, 그것이 우리가 진실하게 유지되어야 하는 목표라는 것을 상기시켜야 합니다. 그렇지 않으면 그들은 너무 강해져서 반대할 수 없을지도 모릅니다."
+ FRA_ww1_triple_alliance_desc:0 "협상국은 독일의 이익에 반대하기 위한 직접적 이유로 결성되었습니다. 우리는 러시아에 우리의 하찮은 불화에 대해, 그것이 우리가 진실하게 유지되어야 하는 목표라는 것을 상기시켜야 합니다. 그렇지 않으면 그들은 너무 강해져서 반대할 수 없을지도 모릅니다."
 
  FRA_ww1_back_uk:0 "영국 지원"
-FRA_ww1_back_uk_desc:0 "The UK was France's worst enemy once, but that time has long gone. Supporting the UK further will perhaps sour our relations with the Russians just a bit, but solidly confirm to the UK that if they have the ships, we have the soldiers."
+ FRA_ww1_back_uk_desc:0 "영국은 한때 프랑스의 최악의 적이었지만, 그런 때는 이미 지나간 지 오래입니다. 영국을 더 지원하게 되면 러시아와의 관계는 조금 더 악화될 수 있지만, 그들에게 함대가 있다면, 우리에겐 병사들이 있다는 것을 영국에게 확실하게 확인시켜 줄 것입니다."
 
  FRA_ww1_back_russia:0 "러시아 제국 지원"
-FRA_ww1_back_russia_desc:0 "The Russians are a distant ally, seperated from us by the entirety of our rivals, the Central Powers! Yet, they are still the largest land army in Europe, if with some major supply issues, and are second only in ''true power'' to Germany themselves. We must focus our relations on them, even if it's at a slight cost in relations with Britain." 
+ FRA_ww1_back_russia_desc:0 "러시아는 우리의 적수인 동맹국에 의해 우리와 떨어져 있는 먼 동맹입니다! 하지만, 그들의 군대는 여전히 유럽에서 가장 큰 육군이며, 비록 몇몇 주요한 보급 문제가 있지만, 독일인들 다음으로 두 번째로 강한 "진정한 힘"을 가졌습니다. 비록 영국과의 관계에서 약간의 비용이 들더라도, 우리는 그들에게 우리의 관계를 집중시켜야 합니다." 
 
  FRA_ww1_inviteBELGIUM:0 "벨기에 지원"
-FRA_ww1_inviteBELGIUM_desc:0 "The Belgians need our help to face the Germans."
+ FRA_ww1_inviteBELGIUM_desc:0 "벨기에인들은 독일과 맞서기 위해 우리의 도움이 필요합니다."
 
  FRA_ww1_inviteUK:0 "삼국 협상"
-FRA_ww1_inviteUK_desc:0 "The Triple Entente constitute a powerful counterweight to the Central Powers."
+ FRA_ww1_inviteUK_desc:0 "삼국 협상은 동맹국의 강력한 호적수입니다."
 
  FRA_ww1_send_diplomats:0 "프랑스 외교관 파견"
-FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our diplomats say! Funnily enough, they have a tendancy to be sent back home to France a while earlier than we expect. Either way, bolstering the Diplomat core will take some time (Most men aren't simply born snooty enough for the job), but likely lead to closer relations with our partners."
+ FRA_ww1_send_diplomats_desc:0 "유럽의 모든 사람들은 우리 외교관을 사랑합니다. 아니면 그저 우리 외교관들이 그렇게 말하는 것일지도 모릅니다! 재미있게도, 그들은 우리가 예상했던 것보다 조금 일찍 프랑스로 돌려보내지는 경향이 있습니다. 둘 중 어느 쪽이든, 외교의 핵심을 강화하는 데는 시간이 걸릴 것이지만, (대부분의 남자들은 단순히 그 일을 하기에 충분할 정도로 건방지게 태어나지는 않았지만) 우리의 동반자들과 긴밀한 관계로 이어질 가능성이 높습니다."
 
  FRA_ww1_greece_friend:0 "그리스 베니젤로스 지원"
  FRA_ww1_greece_friend_desc:0 "Though the Greek King supports the Central Powers, the Prime Minister and most popular man in the nation, Prime Minister Venizelos, is decidedly pro-Entente, mostly due to his single-minded desire to enact the Megali plan. If we officially support him- and perhaps in a few unofficial ways as well- we can bolster his power in the region." 
  
  FRA_ww1_greece_puppet:0 "그리스 괴뢰국"
- FRA_ww1_greece_puppet_desc:0 "If Greece won't see the light and join with the Entente, they clearly aren't to be trusted enough to run their nation with full independence. Establishing a puppet state would be beneficial to all in the region, clearly. Of course, they might try to fight back, but who cares? They're just Greeks."
+ FRA_ww1_greece_puppet_desc:0 "만약 그리스가 빛을 보지 못하고 협상국에 합류한다면, 그들은 완전히 독립해서 나라를 운영할 만큼 충분히 신뢰받지 못할 것이 분명합니다. 괴뢰국을 세우는 것은 이 지역의 모든 사람들에게 분명히 이로울 것입니다. 물론, 그들은 맞서 싸우려고 할 수도 있지만, 누가 신경 쓰겠습니까? 그들은 그저 그리스인일 뿐입니다."
 
  FRA_ww1_allied_bases:0 "그리스의 연합군 기지"
- FRA_ww1_allied_bases_desc:0 "Setting up shop in Thessalonika, now that we have support in the area, will be a help to our plans to attack the Ottoman Empire. All we have to do is ensure that they're in good shape, and the Bulgarians and Ottomans will be out in no time!"
+ FRA_ww1_allied_bases_desc:0 "테살로니카에 가게를 차리는 것은 이제 그 지역에 지원을 받고 있기 때문에 오스만 제국을 공격하려는 우리의 계획에 도움이 될 것입니다. 우리가 해야 할 일은 그들이 좋은 상태를 유지하고, 불가리아인들과 오스만인들이 곧 올 것이라는 것을 확인하는 것입니다."
 
  FRA_ww1_armeeorient:0 "동방의 군대"
- FRA_ww1_armeeorient_desc:0 "Now that Greece is on our side, we can send ''L'Armée d'Orient'', a volunteer group, to fight with the Serbians, and of course provide a model for the Serbs themselves to fight with. This will likely begin to tip the war in this region in our favor, at least to a degree."
+ FRA_ww1_armeeorient_desc:0 "이제 그리스가 우리 편이기 때문에, 우리는 세르비아인들과 같이 싸울 자원병 부대인 "동방의 군대"를 보낼 수 있습니다. 그리고 물론 세르비아인 스스로가 싸울 수 있는 본보기를 제공할 수 있습니다. 이것은 적어도 어느 정도는 이 지역의 전쟁을 유리하게 기울일 것 같습니다."
 
  FRA_ww1_assert_position_west:0 "중앙유럽에서의 프랑스 위치 강화"
  FRA_ww1_assert_position_west_desc:0 "다섯 어절로 말하면: ''우리는 알자스 로렌을 탈환할 것이다.''"
 
  FRA_ww1_anti_ger:0 "반독 정책"
- FRA_ww1_anti_ger_desc:0 "The Germans are our natural rivals, which is a nearly undeniable fact. If we act on that judgement, we can begin to undermine them diplomatically far more easily."
+ FRA_ww1_anti_ger_desc:0 "독일군은 우리의 타고난 적수입니다. 이는 거의 부인할 수 없는 사실입니다. 만약 우리가 그 판단에 따라 행동한다면, 우리는 외교적으로 그들을 훨씬 더 쉽게 깎아내리기 시작할 수 있습니다."
 
  FRA_ww1_anti_ah:0 "반-오스트리아-헝가리 정책"
- FRA_ww1_anti_ah_desc:0 "Any friend of Germany's is no friend of France. If we are to start working actively against Austria-Hungaryi instead of try to bring them over, we can spoil their plans of expansionism."
+ FRA_ww1_anti_ah_desc:0 "독일의 친구는 프랑스의 친구가 아닙니다. 만약 우리가 오스트리아-헝가리에 대항하여 그들을 끌어들이려 하지 않고 적극적으로 활동하기 시작한다면, 우리는 그들의 팽창주의 계획을 망칠 수 있습니다."
 
  FRA_ww1_italy_support:0 "이탈리아 요구 지원"
-  FRA_ww1_italy_support_desc:0 "If we support Italy's claims in Austria, though they will not be immediately won over, we can at the very least begin the process of leading them away from the Central Powers and into the Entente, so long as they judge that territory more valuable than our own Italian territory..."
+  FRA_ww1_italy_support_desc:0 "만약 우리가 오스트리아에서 이탈리아의 주장을 지지한다면, 비록 그들이 즉시 승리하지는 않겠지만, 우리는 적어도 그들을 동맹국으로부터 멀리 떠나 협상국으로 이끄는 과정을 시작할 수 있습니다. 그 영토가 우리의 이탈리아계 영토보다 더 가치 있는 영토라고 판단하기만 한다면..."
 
  FRA_ww1_italy_deny:0 "이탈리아 팽창주의 중단"
- FRA_ww1_italy_deny_desc:0 "Italy's presence in North Africa is a threat to French interests in the region. The only way to ensure protection is with pressure. Hold the knife to Italy's throat, and Tunisia and Algeria will surely be safe."
+ FRA_ww1_italy_deny_desc:0 "북아프리카에서 이탈리아의 존재는 그 지역에 대한 프랑스인들의 이익에 위협이 되고 있습니다. 보호를 보장하는 유일한 방법은 압력을 사용하는 것입니다. 이탈리아의 목에 칼을 겨눈다면, 튀니지와 알제리는 틀림없이 안전할 것입니다."
 
  FRA_ww1_assert_position_east:0 "동방의 프랑스 지위 주장"
- FRA_ww1_assert_position_east_desc:0 "The Russians seem to have lofty ambitions over the Ottoman Empire, which are echoed by British desire to establish control in the region. Perhaps we should invest, as well- maybe we can even score a colony!"
+ FRA_ww1_assert_position_east_desc:0 "러시아인들은 오스만 제국에 대한 거만한 야망을 갖고 있는 것 같습니다. 오스만 제국은 이 지역에서 지배권을 장악하려는 영국인들의 열망이 반영되어 있습니다. 어쩌면 우리도 투자해야 할지도 모릅니다. 어쩌면 식민지도 얻을 수 있을지도 모릅니다!"
 
  FRA_ww1_anti_ottoman:0 "반-오스만 정책"
- FRA_ww1_anti_ottoman_desc:0 "Due to the hostility against the Turks by most of the Entente members, it only makes sense to officially denounce the Ottoman Empire. This will allow more interesting methods of dealing with them in the future."
+ FRA_ww1_anti_ottoman_desc:0 "대부분의 협상국이 가진 튀르크에 대한 적대감 때문에, 오스만 제국을 공식적으로 비난하는 것은 이치에 맞습니다. 이것은 향후 그들을 다루는 더 흥미로운 방법들을 가능케 할 것입니다."
 
  FRA_ww1_support_romania:0 "루마니아 요구 지원"
- FRA_ww1_support_romania_desc:0 "Austria-Hungary retains control over nearly half of the total Romanian claimed territory. If we are to encourage Romania to take what is theirs, they may just reward us by joiining the Entente." #KAISER_ANONY
+ FRA_ww1_support_romania_desc:0 "오스트리아-헝가리는 루마니아가 주장하는 영토 전체의 거의 절반 이상을 장악하고 있습니다. 만약 우리가 루마니아가 그들의 것을 가져가도록 장려한다면, 그들은 협상국에 가입함으로써 우리에게 보답할 것입니다." #KAISER_ANONY
 
  FRA_ww1_help_serbia:0 "세르비아 민족 지원"
- FRA_ww1_help_serbia_desc:0 "Serbia is in a desperate place. If someone doesn't help them out, and soon, they might just crumble to the Austrians. Luckily, France is in the perfect position to lend a hand- we just need to organize our assistance." 
+ FRA_ww1_help_serbia_desc:0 "세르비아는 절박한 상황에 처해 있습니다. 만약 누군가가 그들을 돕지 않는다면, 곧 그들은 오스트리아인들에게 무너질지도 모릅니다. 다행히도, 프랑스는 도움을 줄 수 있는 완벽한 위치에 있습니다. 우리는 단지 우리의 지원을 조직할 필요가 있습니다." 
 
  FRA_ww1_vivani:0 "비비아니 행정부 폐지"
- FRA_ww1_vivani_desc:0 "Prime minister René Viviani is likely not the man at fault for the issues the French military has faced at this point in the war. However, he makes an excellent scapegoat, and isn't exactly too important to lose. Ending his administration will please military officials, and likely give at least a minor boost to the satisfaction of the population."
+ FRA_ww1_vivani_desc:0 "르네 비비아니 총리는 프랑스군이 전쟁 중 이 시점에서 직면했던 문제들에 대해 책임이 있는 사람은 아닐 것입니다. 하지만, 그는 훌륭한 희생양이 될 수 있으며, 잃어선 안될 만큼 그렇게 중요한 것은 아닙니다. 그의 정권을 끝내는 것은 군 관계자들을 기쁘게 할 것이고, 적어도 국민들을 약간이라도 흡족시켜 줄 것입니다."
 
  FRA_ww1_agadir_crisis:0 "모로코 보호령"
  FRA_ww1_agadir_crisis_desc:0 "반란군들이 우리의 꼭두각시인 모로코의 술탄에 대항하여 조직되기 시작하고 있습니다. 우리가 즉각 개입할 수는 있겠지만, 그에게 잠시나마 열기를 느끼게 하는 것은 합병의 완벽한 빌미가 될 뿐만 아니라, 지역 정부가 이에 응할 수 있도록 하는 좋은 방법이 될 것입니다. 독일놈들이 우리 일에 참견하려 할지도 모르지만, 만약 그렇다면 우리에겐 예비 계획이 있습니다."
@@ -3080,39 +3080,39 @@ FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our
  FRA_ww1_ready_country_desc:0 "세계의 긴장이 계속 고조되고 있는 가운데, 프랑스는 다가오는 침략에 저항하기 위해 힘을 모아야 합니다. 이러한 방어조치가 완료되면 이번에는 파리 포위전은 없을 것입니다."
 
  FRA_ww1_alsaceloreaine_propaganda:0 "보복주의 선전"
- FRA_ww1_alsaceloreaine_propaganda_desc:0 "So what if Alsace-Lorraine is German-speaking? It was once French, and as God himself has ordained, all land touched by the French is righfully our own. The only way to get it is with a military campaign against the Germans, which we will begin to start building up support for."
+ FRA_ww1_alsaceloreaine_propaganda_desc:0 "만약 알자스-로렌이 독일어를 쓴다면? 알자스-로렌은 한때 프랑스 땅이었고, 신께서 정해주신 대로 프랑스인이 손댄 땅은 모두 우리 땅입니다. 그곳을 되찾는 유일한 방법은 독일군을 상대로 한 군사작전을 벌이는 것입니다. 우리는 이에 대한 지원을 늘리기 시작할 것입니다."
 
  FRA_ww1_alsaceloreaine_war:0 "알자스-로렌 탈환"
  FRA_ww1_alsaceloreaine_war_desc:0 "알자스-로렌은 프랑스에 속합니다! 대가가 얼마가 따르던 간에 우리는 그곳을 되찾아야 합니다!"
 
  FRA_ww1_defense_border:0 "국경 방어"
- FRA_ww1_defense_border_desc:0 "Further expansion of prior defensive measures will make France a tough nut to crack, buying us time for our allies to pull their weight in the course of the war. If we can hold off from Germany while Russia hits them from the east, how would they ever resist?"
+ FRA_ww1_defense_border_desc:0 "사전적 방어 조치의 추가적인 확대는 프랑스가 전쟁 중에 동맹이 그들의 영향력을 행사할 수 있는 시간을 벌기 위해 강경한 태도를 취하도록 만들 것입니다. 만약 러시아가 동쪽에서 그들을 공격하는 동안 우리가 독일을 막을 수 있다면, 독일인들이 저항할 방도가 있겠습니까?"
 
  FRA_ww1_release_asia:0 "베트남 해방"
- FRA_ww1_release_asia_desc:0 "Vietnam is no longer a valuable enough colony to keep, especially with all of the trouble caused by the natives making it increasingly not worth it. They'll be allowed to call themselves independent...for now." #KAISER_ANONY
- FRA_ww1_bureau_colonies:0 "Ministère des Colonies"
- FRA_ww1_bureau_colonies_desc:0 "The Ministère des Colonies is the government department responsible for administering most of the French colonies and for the implementation of colonial policies. Delegating this ministry additional power could allow us to pursue major projects in our colonial regions."
+ FRA_ww1_release_asia_desc:0 "베트남은 더 이상 지켜야 할 만큼 가치 있는 식민지가 아니며, 특히 원주민들로 인해 야기된 모든 문제들로 인해 베트남의 가치가 점점 더 낮아지고 있습니다. 그들은 스스로 독립국이라고 여길 수 있게 될 것입니다... 일단은." #KAISER_ANONY
+ FRA_ww1_bureau_colonies:0 "식민부"
+ FRA_ww1_bureau_colonies_desc:0 "식민부는 프랑스 식민지의 대부분을 관리하고 식민지 정책을 시행하는 정부 부처입니다. 이 부처에 권한을 추가적으로 위임하면 식민지 지역의 주요 사업을 추진할 수 있습니다."
  FRA_ww1_french_algeria_infra:0 "아프리카 기반시설 개발"
- FRA_ww1_french_algeria_infra_desc:0 "Africa is a huge continent that we control much of, but the roads there haven't seen significant improvement in years. If we develop the area, we can introduce more complicated economic centers to the area."
+ FRA_ww1_french_algeria_infra_desc:0 "아프리카는 우리가 많은 부분을 장악하고 있는 거대한 대륙입니다. 하지만 그곳의 도로는 몇 년 동안 큰 발전을 이루지 못했습니다. 우리가 그 지역을 개발한다면, 우리는 그 지역에 더 복잡한 경제 중심을 도입할 수 있습니다."
  FRA_ww1_french_algeria_civ:0 "북아프리카 식민지 민간공장"
- FRA_ww1_french_algeria_civ_desc:0 "Basic Civilian Industries in Africa are a good introduction of modern manufacturies to the continent. The goods produced there can help France as a whole, let alone the locals in the colonies."
+ FRA_ww1_french_algeria_civ_desc:0 "아프리카의 기초 민간산업들은 아프리카에 현대 제조업의 좋은 도입거리입니다. 그곳에서 생산된 상품들은 식민지 주민들은 말할 것도 없고 프랑스 전체를 도울 수 있습니다."
  FRA_ww1_french_algeria_mil:0 "북아프리카 식민지 군수공장"
- FRA_ww1_french_algeria_mil_desc:0 "Establishing military industries in Africa will be no simple task, but nothing is impossible to the French! So long as we can get a solid power grid connection up, and train the locals, we can start military production in the region."
+ FRA_ww1_french_algeria_mil_desc:0 "아프리카에 군수산업을 이루는 것은 간단한 일이 아니지만, 프랑스인들에게 불가능한 것은 없습니다! 확실한 전력 연결망을 구축하고 현지인들을 훈련시킬 수만 있다면, 우리는 이 지역에서 군수품 생산을 시작할 수 있습니다."
  FRA_ww1_french_algeria_mobilization:0 "아프리카 식민지 연대 동원"
- FRA_ww1_french_algeria_mobilization_desc:0 "On top of being able to supply to France itself, having centers of industry in Africa means that we can straight up equip new troops there from the locally manufactured weapons. This will give us an advantage in defending our colonies, and perhaps taking places like Togo and Cameroon."
+ FRA_ww1_french_algeria_mobilization_desc:0 "프랑스에 공급할 수 있다는 것 말고도, 아프리카에 산업 중심이 있다는 것은 우리가 현지에서 제조된 무기로 새 군대를 편성할 수 있다는 것을 뜻합니다. 이는 우리에게 식민지를 방어하는 것과, 아마도 토고와 카메룬과 같은 곳을 차지하는 것에 이점이 될 것입니다."
  FRA_ww1_french_indochina_infra:0 "아시아 기반시설 개발"
- FRA_ww1_french_indochina_infra_desc:0 "The roads in Indochina are poor, and in many places, you are forced to travel by boat. A few bridges and a bit of pavement in the area would go a long way to making it easier to station troops in as well as build up an economy in."
+ FRA_ww1_french_indochina_infra_desc:0 "인도차이나의 도로는 형편 없고, 많은 곳에서 배를 타고 이동해야 합니다. 이 지역에 몇 개의 다리와 약간의 포장도로를 두는 것은 경제 건설뿐만 아니라 군대를 주둔시키는 것을 더 쉽게 만드는 데 큰 도움이 될 것입니다."
  FRA_ww1_french_indochina_civ:0 "아시아 민간산업 개발"
- FRA_ww1_french_indochina_civ_desc:0 "Civilian factories are simple, and not unknown in South East Asia. Developing some in Indochina now that we've improved the infrastructure should just prove a matter of investment and worker training, though it is quite a long way home from there..."
+ FRA_ww1_french_indochina_civ_desc:0 "민간공장은 간단하며, 동남아시아에 없는 것은 아닙니다. 현재 기반시설을 개선한 인도차이나에서 일부 체계를 개발하는 것은 투자 및 직원 교육 문제를 입증하는 데 불과합니다. 하지만 인도차이나는 본국으로부터 상당히 먼 거리에 있습니다..."
  FRA_ww1_french_indochina_mil:0 "아시아 식민지 군수공장"
- FRA_ww1_french_indochina_mil_desc:0 "With Indochina being well, well away from anywhere the Central Powers could feasably attack, any factories there would be safe to produce weapons for the whole of the war."
+ FRA_ww1_french_indochina_mil_desc:0 "인도차이나가 동맹국이 공격할 수 있는 곳으로부터 멀리 떨어져 있기 때문에, 그곳에 있는 공장은 전쟁병기를 생산하기에 안전할 것입니다."
  FRA_ww1_french_indochina_mobilization:0 "아시아 식민지 연대 동원"
- FRA_ww1_french_indochina_mobilization_desc:0 "Due to the sheer distance between Indochina and France, our colonial ministers in the area have encouraged us to train and equip some troops with the locally made weapons, to defend the colony, and perhaps, if needed, defend other colonies or France herself. New troops is never a bad thing, right?"
- FRA_ww1_algerie_france_desc:0 "French Africa is one of the world's most significant colonies. Bolstering its infrastructure will not only allow us to defend it much more easily, but also establish some basic industries there."
- FRA_ww1_colonial_industry_desc:0 "While mainland France itself might be under fire, Africa is a mostly dormant front. Establishing civilian industry there could prove useful to the French war effort on the Mainland, while also giving the locals something of value to do."
- FRA_ww1_military_factories_desc:0 "The threat of the German Empire is growing every day. France, her public, and her military must work together to overcome this giant! New military factories will help us in that regard."
+ FRA_ww1_french_indochina_mobilization_desc:0 "인도차이나와 프랑스 사이의 거리가 너무 멀기 때문에, 이 지역의 식민지 장관들은 우리에게 부대를 좀 훈련시키고 현지에서 만든 무기를 갖추는 것을 권장하였는데, 이를 통해 식민지를 방어하고, 필요하다면 다른 식민지나 프랑스를 방어할 수도 있을 것입니다. 새 부대는 결코 나쁜 것이 아닙니다, 그렇지 않습니까?"
+ FRA_ww1_algerie_france_desc:0 "프랑스령 아프리카는 세계에서 가장 중요한 식민지 중 하나입니다. 기반시설을 강화하면 훨씬 더 쉽게 방어할 수 있을 뿐만 아니라 일부 기초 산업도 구축할 수 있습니다."
+ FRA_ww1_colonial_industry_desc:0 "프랑스 본토 자체가 포화를 받고 있을 지는 모르지만, 아프리카 전선은 대부분 잠잠합니다. 그곳에 민간 산업을 구축하는 것은 프랑스 본토의 전쟁 주력에 유용하다는 것을 증명하는 동시에 현지인들에게 뭔가 가치 있는 일을 줄 수 있습니다."
+ FRA_ww1_military_factories_desc:0 "독일 제국의 위협은 날로 커지고 있습니다. 프랑스와 프랑스인들, 그리고 프랑스군은 거대한 위협을 극복하기 위해 협력해야 합니다! 그런 점에서 새로운 군수공장이 우리를 도울 것입니다."
  FRA_ww1_colonial_military_factories:0 "식민지 군수공장"
- FRA_ww1_colonial_military_factories_desc:0 "Establishing more factories in our colonial regions will ensure that no matter what happens, we still have at least a few factories outside of our rowdy neighbor's hands."
+ FRA_ww1_colonial_military_factories_desc:0 "식민지 지역에 공장을 더 짓는 것은 어떤 일이 발생하더라도, 여전히 우리의 시끄러운 이웃의 손아귀 밖에 적어도 몇 개의 공장을 가지고 있다는 것을 보장할 것입니다."
  FRA_ww1_alone_or_peace_faction_tt:0 "[FRA.GetNameDef]가 세력에 있지 않거나, [FRA.GetNameDef]와 평화 중인 세력에 있는다."
  FRA_plan_VXII:0 "제17계획"
  FRA_plan_VXII_desc:0 "공격 계획을 준비합니다. 공격전을 벌여야 한다면 독일의 방어를 가능한 한 빨리 무력화시켜야 합니다."
@@ -3131,21 +3131,21 @@ FRA_ww1_send_diplomats_desc:0 "Everyone in Europe loves our diplomats, or so our
  FRA_alsace:0 "알자스-로렌 수복"
  FRA_alsace_desc:0 "해야함"
  FRA_interwar_allied_occupation_rhineland:0 "라인란트의 연합군 점령"
-FRA_interwar_allied_occupation_rhineland_desc:0 "베르사유 조약에 따라 프랑스는 라인란트 점령뿐만 아니라 이 지역의 경제력까지 완전하게 장악하고 있어 프랑스 경제에 큰 호재입니다. 여기서 우리의 거주권을 활용한다면 독일의 손실은 프랑스의 이득이라는 것을 확신할 수 있습니다."
-FRA_interwar_annees_folles:0 "미친 해"
-FRA_interwar_annees_folles_desc:0 "전쟁의 종식은 우리에게 어떤 이전과는 비교할 수 없는 엄청난 경제 호황을 가져왔습니다. 일부 경제학자들은 좋은 시기가 영원히 지속되지 않을 수도 있다고 경고하고 있지만, 그것들은 단지 진퇴양난에 빠져 신중할 뿐입니다. 프랑스와 프랑스 사람들은 시대가 좋은 동안 잘 살 것입니다!"
+ FRA_interwar_allied_occupation_rhineland_desc:0 "베르사유 조약에 따라 프랑스는 라인란트 점령뿐만 아니라 이 지역의 경제력까지 완전하게 장악하고 있어 프랑스 경제에 큰 호재입니다. 여기서 우리의 거주권을 활용한다면 독일의 손실은 프랑스의 이득이라는 것을 확신할 수 있습니다."
+ FRA_interwar_annees_folles:0 "미친 해"
+ FRA_interwar_annees_folles_desc:0 "전쟁의 종식은 우리에게 어떤 이전과는 비교할 수 없는 엄청난 경제 호황을 가져왔습니다. 일부 경제학자들은 좋은 시기가 영원히 지속되지 않을 수도 있다고 경고하고 있지만, 그것들은 단지 진퇴양난에 빠져 신중할 뿐입니다. 프랑스와 프랑스인들은 시대가 좋은 동안 잘 살 것입니다!"
 
-FRA_interwar_occupation_ruhr:0 "루르의 점령"
-FRA_interwar_occupation_ruhr_desc:0 "독일인들은 전혀 터무니없는 빚을 우리에게 갚을 수 없고, 어쩌면 놀랍지도 않을지도 모르며, 이것은 프랑스에게는 아직 더 많은 기회입니다. 루르 지역은 자원과 제조업이 풍부하며, 우리는 단순히 지불되지 않은 납입에 대한 보상으로 라인란트의 점령을 그 지역으로 확대할 수 있습니다."
+ FRA_interwar_occupation_ruhr:0 "루르의 점령"
+ FRA_interwar_occupation_ruhr_desc:0 "독일인들은 전혀 터무니없는 빚을 우리에게 갚을 수 없고, 어쩌면 놀랍지도 않을지도 모르며, 이것은 프랑스에게는 아직 더 많은 기회입니다. 루르 지역은 자원과 제조업이 풍부하며, 우리는 단순히 지불되지 않은 납입에 대한 보상으로 라인란트의 점령을 그 지역으로 확대할 수 있습니다."
 
-FRA_interwar_great_depression:0 "통화 수축론자 계획"
-FRA_interwar_great_depression_desc:0 "프랑스 정부와 대중은 불경기의 주제에 대해 드물게 의견 일치를 보았습니다. 투기와 정부에 의해 구제된 과잉 유동 현금과 기업들을 그들의 머리 위로 밀어내는 것은 필요한 악입니다. 그러면 프랑스는 곧 회복될 것이기 때문에 불타게 놔둡시다! 프랑화의 디플레이션은 이 시대에 우리를 경쟁력 있게 할 것입니다."
+ FRA_interwar_great_depression:0 "통화 수축론자 계획"
+ FRA_interwar_great_depression_desc:0 "프랑스 정부와 대중은 불경기의 주제에 대해 드물게 의견 일치를 보았습니다. 투기와 정부에 의해 구제된 과잉 유동 현금과 기업들을 그들의 머리 위로 밀어내는 것은 필요한 악입니다. 그러면 프랑스는 곧 회복될 것이기 때문에 불타게 놔둡시다! 프랑화의 디플레이션은 이 시대에 우리를 경쟁력 있게 할 것입니다."
 
-FRA_interwar_treaty_of_lausanne:0 "로잔 조약"
-FRA_interwar_treaty_of_lausanne_desc:0 ""
+ FRA_interwar_treaty_of_lausanne:0 "로잔 조약"
+ FRA_interwar_treaty_of_lausanne_desc:0 ""
 
-FRA_interwar_invade_constantinople:0 "콘스탄티노폴리스 침공"
-FRA_interwar_invade_constantinople_desc:0 ""
+ FRA_interwar_invade_constantinople:0 "콘스탄티노폴리스 침공"
+ FRA_interwar_invade_constantinople_desc:0 ""
 
  NFA_expansion_of_the_alliance:0 "동맹의 확대"
  NFA_expansion_of_the_alliance_desc:0 "사자가 울부짖고 있습니다. 사자는 복수심에 불타고 있습니다. 우리도 그렇습니다."
@@ -3390,57 +3390,57 @@ FRA_interwar_invade_constantinople_desc:0 ""
  ROM_cp:0 "동맹국 가입"
  ROM_greater_romania:0 "대루마니아"
 
- GRE_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
- GRE_equipment_effort_desc:0 "The limits for what equipment can be carried by infantry are constantly being pushed. We will focus on giving our troops the best tools available."
- GRE_doctrine_effort_desc:0 "The military doctrines that defined ground combat in the Great War are outdated. We must put our greatest minds to the task of shaping the military thought of tomorrow."
- GRE_equipment_effort_2_desc:0 "We will continue our efforts to ensure our infantry and support troops are armed with the best possible equipment of our time."
- GRE_doctrine_effort_2_desc:0 "The battlefield has changed not just in the interbellum years, but over the course of recent conflicts. We must continuously reevaluate our doctrines to reflect this."
- GRE_equipment_effort_3_desc:0 "Instead of imitating or buying foreign equipment, we should aim to become world-leading in infantry weapons."
- GRE_armor_effort_desc:0 "Applying what we have learned from mechanizing our infantry, we can improve our armored vehicles as well."
- GRE_special_forces_desc:0 "We have need of elite forces; mountain troops and paratroopers should be our priority."
- GRE_aviation_effort_desc:0 "Nowhere is technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
- GRE_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
- GRE_bomber_focus_desc:0 "When people of the future speak of the horror to today's wars, fire raining from the skies will prominently feature. We will do our best to ensure those stories are told by our enemies."
- GRE_aviation_effort_2_desc:0 "Further advances in aviation will be necessary to integrate our air force well with other branches of the military."
- GRE_CAS_effort_desc:0 "A modern army needs support from vehicles not only on the ground, but also in the air."
- GRE_NAV_effort_desc:0 "Just as the new naval warfare takes place in part beneath the water's surface, part of it takes place in the air above the waters."
- GRE_naval_effort_desc:0 "The expansion of our navy should be our first priority. Assign all available resources to new Dockyards and research into light surface ships."
- GRE_flexible_navy_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
- GRE_large_navy_desc:0 "Adapting our naval doctrines to accommodate large ships and ensuring the safety of our trade convoys will teach us much about what sort of ships we need."
- GRE_submarine_effort_desc:0 "Submarine warfare is the most exciting naval development since the invention of the torpedo boat. We would do well to not just protect against submarines, but also use them against enemy shipping."
- GRE_cruiser_effort_desc:0 "Before making forays into advanced battleship research, the smaller cruisers are in need of replacement."
- GRE_destroyer_effort_desc:0 "Studying the design and strategic use of submarines, we have also learned how to counter those strategies. Destroyers will be crucial for this."
- GRE_capital_ships_effort_desc:0 "The nation with the most battleships will rule the oceans. Battleships and carriers represent the old and the new in naval superiority."
- GRE_industrial_effort_desc:0 "Focus all our political efforts on building up the civilian industry in a great leap forward."
- GRE_construction_effort_desc:0 "Civilian industrial capacity must not be underestimated even when war looms over the world."
- GRE_production_effort_desc:0 "If you can build tractors, you can build tanks! We must not allow our military production capacity to lag behind."
- GRE_construction_effort_2_desc:0 "Continuing to expand our factories will allow us to speed up production of goods for trade and further 건설 주력s."
- GRE_production_effort_2_desc:0 "Trying to adapt civilian factories to produce military equipment is inefficient. We should focus on preparing military production now."
- GRE_infrastructure_effort_desc:0 "A country without proper infrastructure cannot pursue advanced projects or constructions."
- GRE_production_effort_3_desc:0 "Continued efforts to expand our military factories are necessary to meet the demands for new equipment."
- GRE_infrastructure_effort_2_desc:0 "Extending our infrastructure further will enable the transports and communications necessary for high-tech clandestine projects."
- GRE_construction_effort_3_desc:0 "With our new infrastructural network, we have new opportunities for manufacturing."
- GRE_extra_tech_slot_desc:0 "Our industrial expansion and other recent advances might allow us to conduct more R&D in parallel."
- GRE_extra_tech_slot_2_desc:0 "The rapid industrialization of our nation has opened up new opportunities in R&D that we should pursue."
- GRE_political_effort_desc:0 "To bring about change in the world, we need to be able to bring about change in our own country. Strengthening our political position should come first."
- GRE_collectivist_ethos_desc:0 "Our enemies may divide and conquer lesser nations, but our people will stand united. All for one and one for all."
- GRE_nationalism_focus_desc:0 "Our nation is unique, and our political achievements could only have happened here. We must fight for it at any cost."
- GRE_internationalism_focus_desc:0 "Ideology knows no borders. Another nation may call itself sovereign, but our convictions are above such claims."
- GRE_liberty_ethos_desc:0 "In this time of ideological fanatics who seek to suffocate the human spirit, we will safeguard individual liberties and freedom."
- GRE_militarism_desc:0 "Those who view the military as a necessary evil are doomed to hesitate in the face of war. We will ingrain militarism into our culture to become a people of soldiers."
- GRE_political_correctness_desc:0 "People holding mildly controversial or otherwise embarrassing opinions appear to be concerned that there is a wide-reaching conspiracy against them. This seems like an excellent idea."
- GRE_neutrality_focus_desc:0 "While others may claim it takes bravery and wisdom to take sides in a global conflict, we know it takes more to refuse."
- GRE_interventionism_focus_desc:0 "We value the freedom of all people, not only our own citizens. If preventing tyranny means war, then so be it."
- GRE_military_youth_desc:0 "Organizations to promote discipline and political education of young people in our nation will foster loyalty and self-sacrifice early."
- GRE_deterrence_desc:0 "Standing alone, we rarely benefit from war. Fortunately, we know that the best defense is one so well-known you never have to put it to use."
- GRE_volunteer_corps_desc:0 "Forcing our people to die for ideals of freedom would be an exercise in irony, but establishing means for those who wish to aid people abroad is not."
- GRE_paramilitarism_desc:0 "Military principles have applications outside of the military. With the development of semi-militarized units to complement our armed forces, more people will have military training."
- GRE_indoctrination_focus_desc:0 "Having established our ideology as based on the truth, it may be taught as truth. Education and media must reflect this lesson."
- GRE_foreign_expeditions_desc:0 "With our enemies prepared to intervene in distant conflicts on behalf of their ideals, we must be ready to do the same for ours."
- GRE_why_we_fight_desc:0 "The world is growing increasingly unsafe. Our people need to see the atrocities being committed by those who crave power. It is time we rally the people to our cause and ensure everyone is ready to fight for our freedom."
- GRE_political_commissars_desc:0 "To ensure that our policies are followed in military practice, we will introduce politically appointed officials into military ranks."
- GRE_ideological_fanaticism_desc:0 "Our politically established values and goals are worth dying for as much as any ancient faith. Any follower should be prepared to face death, and those who stray better be prepared to face death."
- GRE_technology_sharing_desc:0 "By sharing technological advances with our allies, our whole faction will be able to conduct wartime R&D more efficiently."
+ GRE_army_effort_desc:0 "공중전과 해전의 가능성이 증가하고 있음에도 불구하고, 지상전은 미래의 전쟁에서 여전히 핵심입니다. 준비로, 우리는 지옥 같은 참호를 다시 겪는 것을 피할 수 있습니다."
+ GRE_equipment_effort_desc:0 "보병이 어떤 장비를 휴대할 수 있는지에 대한 제한은 끊임없이 추진되고 있습니다. 우리는 우리 부대가 이용할 수 있는 최고의 도구를 제공하는 데 주력할 것입니다."
+ GRE_doctrine_effort_desc:0 "대전에서 지상전을 규정했던 군사 교리는 시대에 뒤떨어진 것입니다. 우리는 미래의 군사 사상을 형성하는 일에 최선을 다해야 합니다."
+ GRE_equipment_effort_2_desc:0 "우리는 보병과 지원 병력이 우리 시대 최고의 장비를 갖추도록 계속 노력할 것입니다."
+ GRE_doctrine_effort_2_desc:0 "전장은 전간기 동안 변한 것뿐만 아니라 최근 분쟁의 과정에서 변했습니다. 우리는 이를 반영하기 위해 우리의 교리를 지속적으로 재평가해야 합니다."
+ GRE_equipment_effort_3_desc:0 "외국 장비를 모방하거나 구입하는 것이 아니라 보병 무기 분야에서 세계 최고가 되는 것을 목표로 해야 합니다."
+ GRE_armor_effort_desc:0 "보병 기계화에서 배운 것을 적용하면 장갑차도 개선할 수 있습니다."
+ GRE_special_forces_desc:0 "우리는 정예 부대가 필요합니다. 산악부대와 공수부대가 우리의 우선이 되어야 합니다."
+ GRE_aviation_effort_desc:0 "공중전만큼 기술의 발전이 빠른 분야는 없습니다. 항공은 모든 현대 국가가 정복해야 할 분야입니다."
+ GRE_fighter_focus_desc:0 "우리는 대전의 마지막 도그파이트를 본 적이 없습니다. 전투기 개발에서 앞서 나가는 것이 앞으로 우리에게 유리할 것입니다."
+ GRE_bomber_focus_desc:0 "미래의 사람들이 오늘날의 전쟁에 대한 공포에 대해 말할 때, 하늘에서 비처럼 내리는 불이 두드러지게 나타날 것입니다. 우리는 적들에게서 그 이야기가 전해내려질 수 있도록 최선을 다할 것입니다."
+ GRE_aviation_effort_2_desc:0 "우리 공군을 다른 군부대와 잘 통합하기 위해서는 항공의 추가적인 발전이 필요할 것입니다."
+ GRE_CAS_effort_desc:0 "현대 군대는 지상뿐만 아니라 공중에서도 차량 지원이 필요합니다."
+ GRE_NAV_effort_desc:0 "새로운 해전이 부분적으로 수면 아래서 벌어지는 것처럼, 그 중 일부는 수면 위 공중에서 일어납니다."
+ GRE_naval_effort_desc:0 "우리 해군의 증원이 최우선 과제입니다. 사용 가능한 모든 자원을 새로운 조선소에 할당하고 경함선에 대한 연구를 수행합니다."
+ GRE_flexible_navy_desc:0 "잠수함 기술의 진보를 도입하기 위해 해전을 재창조하는 것은 우리가 적의 수송선단을 효율적으로 공격할 수 있게 해 줄 것입니다."
+ GRE_large_navy_desc:0 "우리의 해군 교리를 대형 선박에 맞추 무역 수송선단의 안전을 보장하는 것은 우리에게 어떤 종류의 선박이 필요한지 많은 것을 가르쳐 줄 것입니다."
+ GRE_submarine_effort_desc:0 "잠수전은 어뢰정의 발명 이후 가장 흥미로운 해군 개발입니다. 우리는 잠수함 방어 뿐만 아니라 적의 해상 운송에 대해서도 잠수함을 사용할 것입니다."
+ GRE_cruiser_effort_desc:0 "진보한 전함 연구에 착수하기 전에, 소형 순양함들은 교체가 필요합니다."
+ GRE_destroyer_effort_desc:0 "잠수함 설계와 전략적 사용을 연구하면서, 우리는 또한 그러한 전략들에 대항하는 방법을 배웠습니다. 구축함은 이 일에 매우 중요합니다."
+ GRE_capital_ships_effort_desc:0 "가장 많은 전함을 보유한 나라는 바다를 지배할 것입니다. 전함과 항공모함은 해군력에서 옛 것과 새로운 것을 상징합니다."
+ GRE_industrial_effort_desc:0 "가장 많은 전함을 보유한 나라는 바다를 지배할 것입니다. 전함과 항공모함은 해군 우세의 옛 것과 새로운 것을 상징합니다."
+ GRE_construction_effort_desc:0 "세계 대전이 벌어져도 민간산업 역량을 과소평가해서는 안 됩니다."
+ GRE_production_effort_desc:0 "트랙터를 만들 수 있다면 전차를 만들 수 있습니다! 우리는 우리의 군수생산 능력이 뒤떨어지게 해서는 안 됩니다."
+ GRE_construction_effort_2_desc:0 "공장을 계속 확장하면 무역을 위한 상품 생산과 추가적인 건설 주력을 가속화할 수 있습니다."
+ GRE_production_effort_2_desc:0 "군수품을 생산하기 위해 민간공장을 개조하는 것은 비효율적입니다. 우리는 지금 군수생산 준비에 집중해야 합니다."
+ GRE_infrastructure_effort_desc:0 "적절한 기반시설이 없는 국가는 선진적인 계획이나 건설을 추구할 수 없습니다."
+ GRE_production_effort_3_desc:0 "새로운 장비에 대한 수요를 충족시키기 위해서는 우리의 군수공장 증설을 위한 지속적인 노력이 필요합니다."
+ GRE_infrastructure_effort_2_desc:0 "기반시설을 더 확장하면 첨단 비밀 계획에 필요한 운송 및 통신이 가능해집니다."
+ GRE_construction_effort_3_desc:0 "새로운 기반시설망을 통해 우리는 새로운 제조업 기회를 얻게 되었습니다."
+ GRE_extra_tech_slot_desc:0 "우리의 산업 확장과 다른 최근의 발전으로 인해 우리는 더 많은 연구개발을 병행할 수 있을 것입니다."
+ GRE_extra_tech_slot_2_desc:0 "우리나라의 급속한 산업화는 우리가 추구해야 할 연구개발의 새로운 기회를 열어 주었습니다."
+ GRE_political_effort_desc:0 "세계에 변화를 일으키려면, 우리는 우리나라에 변화를 일으킬 수 있어야 합니다. 우리의 정치적 입지를 강화하는 것이 우선되어야 합니다."
+ GRE_collectivist_ethos_desc:0 "우리의 적은 작은 나라를 분열시키고 정복할 수 있을 지 모르지만, 우리 국민은 단결할 것입니다. 모두는 하나를 위해, 하나는 모두를 위해."
+ GRE_nationalism_focus_desc:0 "우리나라는 독특하고, 우리의 정치적 업적은 여기서만 일어날 수 있었습니다. 우리는 어떤 대가를 치르더라도 그것을 위해 싸워야 합니다."
+ GRE_internationalism_focus_desc:0 "이념은 국경이 없습니다. 다른 나라는 스스로를 주권국이라고 부를지 모르지만, 우리의 신념은 그러한 주장보다 더 높습니다."
+ GRE_liberty_ethos_desc:0 "인간의 정신을 질식시키려는 이념 광신자들의 시기에, 우리는 개인의 자유를 보호할 것입니다."
+ GRE_militarism_desc:0 "군대를 필요악으로 보는 사람들은 전쟁 앞에서 망설일 수밖에 없습니다. 우리는 군국주의를 우리 문화에 주입하여 군인들의 국민이 될 것입니다."
+ GRE_political_correctness_desc:0 "약간 논란의 여지가 있거나 또는 당혹스러운 의견을 가진 사람들은 그들에 대한 광범위한 음모가 있다는 것을 걱정하는 것처럼 보입니다. 좋은 생각인 것 같습니다."
+ GRE_neutrality_focus_desc:0 "다른 사람들은 국제 분쟁에서 편을 드는 데는 용기와 지혜가 필요하다고 주장하지만, 우리는 거절하는 데에 더 많은 것이 필요하다는 것을 알고 있습니다."
+ GRE_interventionism_focus_desc:0 "우리는 우리 국민뿐만 아니라 모든 사람들의 자유를 소중하게 생각합니다. 폭정을 막는 것이 전쟁을 의미한다면, 전쟁도 불사해야 합니다."
+ GRE_military_youth_desc:0 "우리나라 젊은이들의 기강과 정치교육을 증진시키기 위한 단체들은 충성심과 자기 희생을 조기에 양성할 것입니다."
+ GRE_deterrence_desc:0 "홀로 서 있기 때문에, 우리는 전쟁의 혜택을 거의 받지 못합니다. 다행스럽게도, 우리는 가장 잘 알려진 방어는 갖출 필요가 없다는 것을 알고 있습니다."
+ GRE_volunteer_corps_desc:0 "우리 국민에게 자유의 이상을 위해 죽음을 강요하는 것은 역설적인 일이 될 수 있지만, 해외의 사람들을 돕기를 원하는 사람들을 위한 수단을 마련하는 것은 그렇지 않습니다."
+ GRE_paramilitarism_desc:0 "군사원칙은 군대 밖에도 적용되고 있습니다. 우리 군대를 보완하기 위한 준군사조직이 성장함에 따라 더 많은 사람들이 군사 훈련을 받게 될 것입니다."
+ GRE_indoctrination_focus_desc:0 "우리의 이념은 진리에 입각한 것이므로, 진리로써 가르쳐질지도 모릅니다. 교육 및 매체는 이 교훈을 반영해야 합니다."
+ GRE_foreign_expeditions_desc:0 "우리의 적들이 그들의 이상을 위해 멀리 떨어진 분쟁에 개입할 준비가 되어 있기 때문에, 우리는 우리의 것을 위해 같은 일을 할 준비가 되어 있어야 합니다."
+ GRE_why_we_fight_desc:0 "세계는 점점 더 불안정해지고 있습니다. 우리 국민은 권력을 갈망하는 자들에 의해 저질러지는 만행을 볼 필요가 있습니다. 이제 우리는 국민들을 우리의 대의로 규합하고 모든 사람들이 우리의 자유를 위해 싸울 준비가 되어 있는지 확인할 때입니다."
+ GRE_political_commissars_desc:0 "우리의 정책에 군사행위가 잘 따라오도록 하기 위해, 우리는 정치적으로 임명된 장교들을 군에 입대시킬 것입니다."
+ GRE_ideological_fanaticism_desc:0 "정치적으로 확립된 우리의 가치와 목표는 고대 신앙만큼이나 죽을 가치가 있습니다. 어떤 추종자도 죽음을 맞이할 준비가 되어 있어야 하며, 길을 떠난 사람들은 죽음을 맞이할 준비가 되어 있어야 합니다."
+ GRE_technology_sharing_desc:0 "우리의 동맹들과 기술 발전을 공유함으로써, 우리 세력 전체는 전시 연구개발을 보다 효율적으로 수행할 수 있을 것입니다."
  GRE_balkan_league_desc:0 "해야함"
  GRE_dreadnoughts_desc:0 "해야함"
  GRE_crete_desc:0 "해야함"
@@ -3449,118 +3449,118 @@ FRA_interwar_invade_constantinople_desc:0 ""
  GRE_east_thrace_desc:0 "해야함"
  GRE_smyrna_desc:0 "해야함"
 
- ROM_army_effort_desc:0 "Despite the increasing possibilities of aerial and naval warfare, ground combat is still key in tomorrow's wars. With preparation, we can avoid reliving the hell of the trenches."
- ROM_equipment_effort_desc:0 "The limits for what equipment can be carried by infantry are constantly being pushed. We will focus on giving our troops the best tools available."
- ROM_doctrine_effort_desc:0 "The military doctrines that defined ground combat in the Great War are outdated. We must put our greatest minds to the task of shaping the military thought of tomorrow."
- ROM_equipment_effort_2_desc:0 "We will continue our efforts to ensure our infantry and support troops are armed with the best possible equipment of our time."
- ROM_doctrine_effort_2_desc:0 "The battlefield has changed not just in the interbellum years, but over the course of recent conflicts. We must continuously reevaluate our doctrines to reflect this."
- ROM_equipment_effort_3_desc:0 "Instead of imitating or buying foreign equipment, we should aim to become world-leading in infantry weapons."
- ROM_armor_effort_desc:0 "Applying what we have learned from mechanizing our infantry, we can improve our armored vehicles as well."
- ROM_special_forces_desc:0 "We have need of elite forces; mountain troops and paratroopers should be our priority."
- ROM_aviation_effort_desc:0 "Nowhere is technological advances more rapid than in aerial warfare. Aviation is a field any modern nation must master."
- ROM_fighter_focus_desc:0 "We have not seen that last of dogfights in the Great War. Keeping ahead in the development of fighter planes will give us an edge in the future."
- ROM_bomber_focus_desc:0 "When people of the future speak of the horror to today's wars, fire raining from the skies will prominently feature. We will do our best to ensure those stories are told by our enemies."
- ROM_aviation_effort_2_desc:0 "Further advances in aviation will be necessary to integrate our air force well with other branches of the military."
- ROM_CAS_effort_desc:0 "A modern army needs support from vehicles not only on the ground, but also in the air."
- ROM_NAV_effort_desc:0 "Just as the new naval warfare takes place in part beneath the water's surface, part of it takes place in the air above the waters."
- ROM_naval_effort_desc:0 "The expansion of our navy should be our first priority. Assign all available resources to new Dockyards and research into light surface ships."
- ROM_flexible_navy_desc:0 "Reinventing naval warfare to account for the advances in submarine technology will allow us to strike efficiently against enemy convoys."
- ROM_large_navy_desc:0 "Adapting our naval doctrines to accommodate large ships and ensuring the safety of our trade convoys will teach us much about what sort of ships we need."
- ROM_submarine_effort_desc:0 "Submarine warfare is the most exciting naval development since the invention of the torpedo boat. We would do well to not just protect against submarines, but also use them against enemy shipping."
- ROM_cruiser_effort_desc:0 "Before making forays into advanced battleship research, the smaller cruisers are in need of replacement."
- ROM_destroyer_effort_desc:0 "Studying the design and strategic use of submarines, we have also learned how to counter those strategies. Destroyers will be crucial for this."
- ROM_capital_ships_effort_desc:0 "The nation with the most battleships will rule the oceans. Battleships and carriers represent the old and the new in naval superiority."
- ROM_industrial_effort_desc:0 "Focus all our political efforts on building up the civilian industry in a great leap forward."
- ROM_construction_effort_desc:0 "Civilian industrial capacity must not be underestimated even when war looms over the world."
- ROM_production_effort_desc:0 "If you can build tractors, you can build tanks! We must not allow our military production capacity to lag behind."
- ROM_construction_effort_2_desc:0 "Continuing to expand our factories will allow us to speed up production of goods for trade and further 건설 주력s."
- ROM_production_effort_2_desc:0 "Trying to adapt civilian factories to produce military equipment is inefficient. We should focus on preparing military production now."
- ROM_infrastructure_effort_desc:0 "A country without proper infrastructure cannot pursue advanced projects or constructions."
- ROM_production_effort_3_desc:0 "Continued efforts to expand our military factories are necessary to meet the demands for new equipment."
- ROM_infrastructure_effort_2_desc:0 "Extending our infrastructure further will enable the transports and communications necessary for high-tech clandestine projects."
- ROM_construction_effort_3_desc:0 "With our new infrastructural network, we have new opportunities for manufacturing."
- ROM_extra_tech_slot_desc:0 "Our industrial expansion and other recent advances might allow us to conduct more R&D in parallel."
- ROM_extra_tech_slot_2_desc:0 "The rapid industrialization of our nation has opened up new opportunities in R&D that we should pursue."
- ROM_political_effort_desc:0 "To bring about change in the world, we need to be able to bring about change in our own country. Strengthening our political position should come first."
- ROM_collectivist_ethos_desc:0 "Our enemies may divide and conquer lesser nations, but our people will stand united. All for one and one for all."
- ROM_nationalism_focus_desc:0 "Our nation is unique, and our political achievements could only have happened here. We must fight for it at any cost."
- ROM_internationalism_focus_desc:0 "Ideology knows no borders. Another nation may call itself sovereign, but our convictions are above such claims."
- ROM_liberty_ethos_desc:0 "In this time of ideological fanatics who seek to suffocate the human spirit, we will safeguard individual liberties and freedom."
- ROM_militarism_desc:0 "Those who view the military as a necessary evil are doomed to hesitate in the face of war. We will ingrain militarism into our culture to become a people of soldiers."
- ROM_political_correctness_desc:0 "People holding mildly controversial or otherwise embarrassing opinions appear to be concerned that there is a wide-reaching conspiracy against them. This seems like an excellent idea."
- ROM_neutrality_focus_desc:0 "While others may claim it takes bravery and wisdom to take sides in a global conflict, we know it takes more to refuse."
- ROM_interventionism_focus_desc:0 "We value the freedom of all people, not only our own citizens. If preventing tyranny means war, then so be it."
- ROM_military_youth_desc:0 "Organizations to promote discipline and political education of young people in our nation will foster loyalty and self-sacrifice early."
- ROM_deterrence_desc:0 "Standing alone, we rarely benefit from war. Fortunately, we know that the best defense is one so well-known you never have to put it to use."
- ROM_volunteer_corps_desc:0 "Forcing our people to die for ideals of freedom would be an exercise in irony, but establishing means for those who wish to aid people abroad is not."
- ROM_paramilitarism_desc:0 "Military principles have applications outside of the military. With the development of semi-militarized units to complement our armed forces, more people will have military training."
- ROM_indoctrination_focus_desc:0 "Having established our ideology as based on the truth, it may be taught as truth. Education and media must reflect this lesson."
- ROM_foreign_expeditions_desc:0 "With our enemies prepared to intervene in distant conflicts on behalf of their ideals, we must be ready to do the same for ours."
- ROM_why_we_fight_desc:0 "The world is growing increasingly unsafe. Our people need to see the atrocities being committed by those who crave power. It is time we rally the people to our cause and ensure everyone is ready to fight for our freedom."
- ROM_political_commissars_desc:0 "To ensure that our policies are followed in military practice, we will introduce politically appointed officials into military ranks."
- ROM_ideological_fanaticism_desc:0 "Our politically established values and goals are worth dying for as much as any ancient faith. Any follower should be prepared to face death, and those who stray better be prepared to face death."
- ROM_technology_sharing_desc:0 "By sharing technological advances with our allies, our whole faction will be able to conduct wartime R&D more efficiently."
+ ROM_army_effort_desc:0 "공중전과 해전의 가능성이 증가하고 있음에도 불구하고, 지상전은 미래의 전쟁에서 여전히 핵심입니다. 준비로, 우리는 지옥 같은 참호를 다시 겪는 것을 피할 수 있습니다."
+ ROM_equipment_effort_desc:0 "보병이 어떤 장비를 휴대할 수 있는지에 대한 제한은 끊임없이 추진되고 있습니다. 우리는 우리 부대가 이용할 수 있는 최고의 도구를 제공하는 데 주력할 것입니다."
+ ROM_doctrine_effort_desc:0 "대전에서 지상전을 규정했던 군사 교리는 시대에 뒤떨어진 것입니다. 우리는 미래의 군사 사상을 형성하는 일에 최선을 다해야 합니다."
+ ROM_equipment_effort_2_desc:0 "우리는 보병과 지원 병력이 우리 시대 최고의 장비를 갖추도록 계속 노력할 것입니다."
+ ROM_doctrine_effort_2_desc:0 "전장은 전간기 동안 변한 것뿐만 아니라 최근 분쟁의 과정에서 변했습니다. 우리는 이를 반영하기 위해 우리의 교리를 지속적으로 재평가해야 합니다."
+ ROM_equipment_effort_3_desc:0 "외국 장비를 모방하거나 구입하는 것이 아니라 보병 무기 분야에서 세계 최고가 되는 것을 목표로 해야 합니다."
+ ROM_armor_effort_desc:0 "보병 기계화에서 배운 것을 적용하면 장갑차도 개선할 수 있습니다."
+ ROM_special_forces_desc:0 "우리는 정예 부대가 필요합니다. 산악부대와 공수부대가 우리의 우선이 되어야 합니다."
+ ROM_aviation_effort_desc:0 "공중전만큼 기술의 발전이 빠른 분야는 없습니다. 항공은 모든 현대 국가가 정복해야 할 분야입니다."
+ ROM_fighter_focus_desc:0 "우리는 대전의 마지막 도그파이트를 본 적이 없습니다. 전투기 개발에서 앞서 나가는 것이 앞으로 우리에게 유리할 것입니다."
+ ROM_bomber_focus_desc:0 "미래의 사람들이 오늘날의 전쟁에 대한 공포에 대해 말할 때, 하늘에서 비처럼 내리는 불이 두드러지게 나타날 것입니다. 우리는 적들에게서 그 이야기가 전해내려질 수 있도록 최선을 다할 것입니다."
+ ROM_aviation_effort_2_desc:0 "우리 공군을 다른 군부대와 잘 통합하기 위해서는 항공의 추가적인 발전이 필요할 것입니다."
+ ROM_CAS_effort_desc:0 "현대 군대는 지상뿐만 아니라 공중에서도 차량 지원이 필요합니다."
+ ROM_NAV_effort_desc:0 "새로운 해전이 부분적으로 수면 아래서 벌어지는 것처럼, 그 중 일부는 수면 위 공중에서 일어납니다."
+ ROM_naval_effort_desc:0 "우리 해군의 증원이 최우선 과제입니다. 사용 가능한 모든 자원을 새로운 조선소에 할당하고 경함선에 대한 연구를 수행합니다."
+ ROM_flexible_navy_desc:0 "잠수함 기술의 진보를 도입하기 위해 해전을 재창조하는 것은 우리가 적의 수송선단을 효율적으로 공격할 수 있게 해 줄 것입니다."
+ ROM_large_navy_desc:0 "우리의 해군 교리를 대형 선박에 맞추 무역 수송선단의 안전을 보장하는 것은 우리에게 어떤 종류의 선박이 필요한지 많은 것을 가르쳐 줄 것입니다."
+ ROM_submarine_effort_desc:0 "잠수전은 어뢰정의 발명 이후 가장 흥미로운 해군 개발입니다. 우리는 잠수함 방어 뿐만 아니라 적의 해상 운송에 대해서도 잠수함을 사용할 것입니다."
+ ROM_cruiser_effort_desc:0 "진보한 전함 연구에 착수하기 전에, 소형 순양함들은 교체가 필요합니다."
+ ROM_destroyer_effort_desc:0 "잠수함 설계와 전략적 사용을 연구하면서, 우리는 또한 그러한 전략들에 대항하는 방법을 배웠습니다. 구축함은 이 일에 매우 중요합니다."
+ ROM_capital_ships_effort_desc:0 "가장 많은 전함을 보유한 나라는 바다를 지배할 것입니다. 전함과 항공모함은 해군력에서 옛 것과 새로운 것을 상징합니다."
+ ROM_industrial_effort_desc:0 "가장 많은 전함을 보유한 나라는 바다를 지배할 것입니다. 전함과 항공모함은 해군 우세의 옛 것과 새로운 것을 상징합니다."
+ ROM_construction_effort_desc:0 "세계 대전이 벌어져도 민간산업 역량을 과소평가해서는 안 됩니다."
+ ROM_production_effort_desc:0 "트랙터를 만들 수 있다면 전차를 만들 수 있습니다! 우리는 우리의 군수생산 능력이 뒤떨어지게 해서는 안 됩니다."
+ ROM_construction_effort_2_desc:0 "공장을 계속 확장하면 무역을 위한 상품 생산과 추가적인 건설 주력을 가속화할 수 있습니다."
+ ROM_production_effort_2_desc:0 "군수품을 생산하기 위해 민간공장을 개조하는 것은 비효율적입니다. 우리는 지금 군수생산 준비에 집중해야 합니다."
+ ROM_infrastructure_effort_desc:0 "적절한 기반시설이 없는 국가는 선진적인 계획이나 건설을 추구할 수 없습니다."
+ ROM_production_effort_3_desc:0 "새로운 장비에 대한 수요를 충족시키기 위해서는 우리의 군수공장 증설을 위한 지속적인 노력이 필요합니다."
+ ROM_infrastructure_effort_2_desc:0 "기반시설을 더 확장하면 첨단 비밀 계획에 필요한 운송 및 통신이 가능해집니다."
+ ROM_construction_effort_3_desc:0 "새로운 기반시설망을 통해 우리는 새로운 제조업 기회를 얻게 되었습니다."
+ ROM_extra_tech_slot_desc:0 "우리의 산업 확장과 다른 최근의 발전으로 인해 우리는 더 많은 연구개발을 병행할 수 있을 것입니다."
+ ROM_extra_tech_slot_2_desc:0 "우리나라의 급속한 산업화는 우리가 추구해야 할 연구개발의 새로운 기회를 열어 주었습니다."
+ ROM_political_effort_desc:0 "세계에 변화를 일으키려면, 우리는 우리나라에 변화를 일으킬 수 있어야 합니다. 우리의 정치적 입지를 강화하는 것이 우선되어야 합니다."
+ ROM_collectivist_ethos_desc:0 "우리의 적은 작은 나라를 분열시키고 정복할 수 있을 지 모르지만, 우리 국민은 단결할 것입니다. 모두는 하나를 위해, 하나는 모두를 위해."
+ ROM_nationalism_focus_desc:0 "우리나라는 독특하고, 우리의 정치적 업적은 여기서만 일어날 수 있었습니다. 우리는 어떤 대가를 치르더라도 그것을 위해 싸워야 합니다."
+ ROM_internationalism_focus_desc:0 "이념은 국경이 없습니다. 다른 나라는 스스로를 주권국이라고 부를지 모르지만, 우리의 신념은 그러한 주장보다 더 높습니다."
+ ROM_liberty_ethos_desc:0 "인간의 정신을 질식시키려는 이념 광신자들의 시기에, 우리는 개인의 자유를 보호할 것입니다."
+ ROM_militarism_desc:0 "군대를 필요악으로 보는 사람들은 전쟁 앞에서 망설일 수밖에 없습니다. 우리는 군국주의를 우리 문화에 주입하여 군인들의 국민이 될 것입니다."
+ ROM_political_correctness_desc:0 "약간 논란의 여지가 있거나 또는 당혹스러운 의견을 가진 사람들은 그들에 대한 광범위한 음모가 있다는 것을 걱정하는 것처럼 보입니다. 좋은 생각인 것 같습니다."
+ ROM_neutrality_focus_desc:0 "다른 사람들은 국제 분쟁에서 편을 드는 데는 용기와 지혜가 필요하다고 주장하지만, 우리는 거절하는 데에 더 많은 것이 필요하다는 것을 알고 있습니다."
+ ROM_interventionism_focus_desc:0 "우리는 우리 국민뿐만 아니라 모든 사람들의 자유를 소중하게 생각합니다. 폭정을 막는 것이 전쟁을 의미한다면, 전쟁도 불사해야 합니다."
+ ROM_military_youth_desc:0 "우리나라 젊은이들의 기강과 정치교육을 증진시키기 위한 단체들은 충성심과 자기 희생을 조기에 양성할 것입니다."
+ ROM_deterrence_desc:0 "홀로 서 있기 때문에, 우리는 전쟁의 혜택을 거의 받지 못합니다. 다행스럽게도, 우리는 가장 잘 알려진 방어는 갖출 필요가 없다는 것을 알고 있습니다."
+ ROM_volunteer_corps_desc:0 "우리 국민에게 자유의 이상을 위해 죽음을 강요하는 것은 역설적인 일이 될 수 있지만, 해외의 사람들을 돕기를 원하는 사람들을 위한 수단을 마련하는 것은 그렇지 않습니다."
+ ROM_paramilitarism_desc:0 "군사원칙은 군대 밖에도 적용되고 있습니다. 우리 군대를 보완하기 위한 준군사조직이 성장함에 따라 더 많은 사람들이 군사 훈련을 받게 될 것입니다."
+ ROM_indoctrination_focus_desc:0 "우리의 이념은 진리에 입각한 것이므로, 진리로써 가르쳐질지도 모릅니다. 교육 및 매체는 이 교훈을 반영해야 합니다."
+ ROM_foreign_expeditions_desc:0 "우리의 적들이 그들의 이상을 위해 멀리 떨어진 분쟁에 개입할 준비가 되어 있기 때문에, 우리는 우리의 것을 위해 같은 일을 할 준비가 되어 있어야 합니다."
+ ROM_why_we_fight_desc:0 "세계는 점점 더 불안정해지고 있습니다. 우리 국민은 권력을 갈망하는 자들에 의해 저질러지는 만행을 볼 필요가 있습니다. 이제 우리는 국민들을 우리의 대의로 규합하고 모든 사람들이 우리의 자유를 위해 싸울 준비가 되어 있는지 확인할 때입니다."
+ ROM_political_commissars_desc:0 "우리의 정책에 군사행위가 잘 따라오도록 하기 위해, 우리는 정치적으로 임명된 장교들을 군에 입대시킬 것입니다."
+ ROM_ideological_fanaticism_desc:0 "정치적으로 확립된 우리의 가치와 목표는 고대 신앙만큼이나 죽을 가치가 있습니다. 어떤 추종자도 죽음을 맞이할 준비가 되어 있어야 하며, 길을 떠난 사람들은 죽음을 맞이할 준비가 되어 있어야 합니다."
+ ROM_technology_sharing_desc:0 "우리의 동맹들과 기술 발전을 공유함으로써, 우리 세력 전체는 전시 연구개발을 보다 효율적으로 수행할 수 있을 것입니다."
  ROM_dobruja_desc:0 "해야함"
  ROM_entente_desc:0 "해야함"
  ROM_cp_desc:0 "해야함"
  ROM_greater_romania_desc:0 "해야함"
 
  JAP_ww1_army_effort:0 "일본 제국군 재편성"
-JAP_ww1_army_effort_desc:0 ""  
+ JAP_ww1_army_effort_desc:0 ""  
 
-JAP_ww1_trenchwarfare:0 "참호전 중점"
-JAP_ww1_trenchwarfare_desc:0 ""  
+ JAP_ww1_trenchwarfare:0 "참호전 중점"
+ JAP_ww1_trenchwarfare_desc:0 ""  
 
-JAP_ww1_artillery_effort_1:0 "포병 주력"
-JAP_ww1_artillery_effort_1_desc:0 ""  
+ JAP_ww1_artillery_effort_1:0 "포병 주력"
+ JAP_ww1_artillery_effort_1_desc:0 ""  
 
-JAP_ww1_artillery_effort_2:0 "포병 주력 II"
+ JAP_ww1_artillery_effort_2:0 "포병 주력 II"
 
-JAP_ww1_artillery_effort_2_desc:0 ""  
+ JAP_ww1_artillery_effort_2_desc:0 ""  
 
-JAP_ww1_artillery_effort_3:0 "포병 주력 III"
-JAP_ww1_artillery_effort_3_desc:0 ""  
+ JAP_ww1_artillery_effort_3:0 "포병 주력 III"
+ JAP_ww1_artillery_effort_3_desc:0 ""  
 
-JAP_ww1_artillery_effort_4:0 "포병 주력 IV"
-JAP_ww1_artillery_effort_4_desc:0 ""  
+ JAP_ww1_artillery_effort_4:0 "포병 주력 IV"
+ JAP_ww1_artillery_effort_4_desc:0 ""  
 
-JAP_ww1_special_forces:0 "특수부대 중점"
-JAP_ww1_special_forces_desc:0 ""  
+ JAP_ww1_special_forces:0 "특수부대 중점"
+ JAP_ww1_special_forces_desc:0 ""  
 
-JAP_ww1_army_motorization_focus:0 "차량화 중점"
-JAP_ww1_army_motorization_focus_desc:0 ""  
+ JAP_ww1_army_motorization_focus:0 "차량화 중점"
+ JAP_ww1_army_motorization_focus_desc:0 ""  
 
-JAP_ww1_doctrine_effort:0 "교리 주력"
-JAP_ww1_doctrine_effort_desc:0 ""  
+ JAP_ww1_doctrine_effort:0 "교리 주력"
+ JAP_ww1_doctrine_effort_desc:0 ""  
 
-JAP_ww1_doctrine_effort_2:0 "교리 주력 II"
-JAP_ww1_doctrine_effort_2_desc:0 ""  
+ JAP_ww1_doctrine_effort_2:0 "교리 주력 II"
+ JAP_ww1_doctrine_effort_2_desc:0 ""  
 
-JAP_ww1_doctrine_effort_3:0 "교리 주력 III"
-JAP_ww1_doctrine_effort_3_desc:0 ""  
+ JAP_ww1_doctrine_effort_3:0 "교리 주력 III"
+ JAP_ww1_doctrine_effort_3_desc:0 ""  
 
-JAP_ww1_equipment_effort:0 "장비 주력"
-JAP_ww1_equipment_effort_desc:0 ""  
+ JAP_ww1_equipment_effort:0 "장비 주력"
+ JAP_ww1_equipment_effort_desc:0 ""  
 
-JAP_ww1_equipment_effort_2:0 "장비 주력 II"
-JAP_ww1_equipment_effort_2_desc:0 ""  
+ JAP_ww1_equipment_effort_2:0 "장비 주력 II"
+ JAP_ww1_equipment_effort_2_desc:0 ""  
 
-JAP_ww1_equipment_effort_3:0 "장비 주력 III"
-JAP_ww1_equipment_effort_3_desc:0 ""  
+ JAP_ww1_equipment_effort_3:0 "장비 주력 III"
+ JAP_ww1_equipment_effort_3_desc:0 ""  
 
-JAP_ww1_equipment_effort_4:0 "장비 주력 IV"
-JAP_ww1_equipment_effort_4_desc:0 ""  
+ JAP_ww1_equipment_effort_4:0 "장비 주력 IV"
+ JAP_ww1_equipment_effort_4_desc:0 ""  
 
-JAP_ww1_armor_effort_1:0 "기갑 주력"
-JAP_ww1_armor_effort_1_desc:0 ""  
+ JAP_ww1_armor_effort_1:0 "기갑 주력"
+ JAP_ww1_armor_effort_1_desc:0 ""  
 
-JAP_ww1_armor_effort_2:0 "기갑 주력 II"
-JAP_ww1_armor_effort_2_desc:0 ""  
+ JAP_ww1_armor_effort_2:0 "기갑 주력 II"
+ JAP_ww1_armor_effort_2_desc:0 ""  
 
-JAP_ww1_gasmask_focus:0 "화학전 중점"
-JAP_ww1_gasmask_focus_desc:0 ""  
+ JAP_ww1_gasmask_focus:0 "화학전 중점"
+ JAP_ww1_gasmask_focus_desc:0 ""  
  JAP_ww1_fighter_focus:0 "전투기 중점"
-  JAP_ww1_fighter_focus_desc:0 ""  
+ JAP_ww1_fighter_focus_desc:0 ""  
 
  JAP_ww1_bomber_focus:0 "폭격기 중점"
  JAP_ww1_bomber_focus_desc:0 ""  
@@ -3606,64 +3606,64 @@ JAP_ww1_gasmask_focus_desc:0 ""
 
  JAP_ww1_navalair:0 "뇌격 주력"
  JAP_ww1_navalair_desc:0 ""  
-JAP_ww1_industrial_effort:0 "산업 주력"
-JAP_ww1_industrial_effort_desc:0 ""  
+ JAP_ww1_industrial_effort:0 "산업 주력"
+ JAP_ww1_industrial_effort_desc:0 ""  
 
-JAP_ww1_construction_effort:0 "건설 주력"
-JAP_ww1_construction_effort_desc:0 ""  
+ JAP_ww1_construction_effort:0 "건설 주력"
+ JAP_ww1_construction_effort_desc:0 ""  
 
-JAP_ww1_construction_effort_2:0 "건설 주력 II"
-JAP_ww1_construction_effort_2_desc:0 ""  
+ JAP_ww1_construction_effort_2:0 "건설 주력 II"
+ JAP_ww1_construction_effort_2_desc:0 ""  
 
-JAP_ww1_construction_effort_3:0 "건설 주력 III"
-JAP_ww1_construction_effort_3_desc:0 ""  
+ JAP_ww1_construction_effort_3:0 "건설 주력 III"
+ JAP_ww1_construction_effort_3_desc:0 ""  
 
-JAP_ww1_production_effort:0 "군비 주력"
-JAP_ww1_production_effort_desc:0 ""  
+ JAP_ww1_production_effort:0 "군비 주력"
+ JAP_ww1_production_effort_desc:0 ""  
 
-JAP_ww1_production_effort_2:0 "군비 주력 II"
-JAP_ww1_production_effort_2_desc:0 ""  
+ JAP_ww1_production_effort_2:0 "군비 주력 II"
+ JAP_ww1_production_effort_2_desc:0 ""  
 
-JAP_ww1_production_effort_3:0 "군비 주력 III"
-JAP_ww1_production_effort_3_desc:0 ""  
+ JAP_ww1_production_effort_3:0 "군비 주력 III"
+ JAP_ww1_production_effort_3_desc:0 ""  
 
-JAP_ww1_dockyard_effort_1:0 "조선소 확장"
-JAP_ww1_dockyard_effort_1_desc:0 ""  
+ JAP_ww1_dockyard_effort_1:0 "조선소 확장"
+ JAP_ww1_dockyard_effort_1_desc:0 ""  
 
-JAP_ww1_dockyard_effort_2:0 "조선소 확장 II"
-JAP_ww1_dockyard_effort_2_desc:0 ""  
+ JAP_ww1_dockyard_effort_2:0 "조선소 확장 II"
+ JAP_ww1_dockyard_effort_2_desc:0 ""  
 
-JAP_ww1_dockyard_effort_3:0 "조선소 확장 III"
-JAP_ww1_dockyard_effort_3_desc:0 ""  
+ JAP_ww1_dockyard_effort_3:0 "조선소 확장 III"
+ JAP_ww1_dockyard_effort_3_desc:0 ""  
 
-JAP_ww1_airfield_expansion_1:0 "비행장 확장"
-JAP_ww1_airfield_expansion_1_desc:0 ""  
+ JAP_ww1_airfield_expansion_1:0 "비행장 확장"
+ JAP_ww1_airfield_expansion_1_desc:0 ""  
 
-JAP_ww1_airfield_expansion_2:0 "비행장 확장 II"
-JAP_ww1_airfield_expansion_2_desc:0 ""  
+ JAP_ww1_airfield_expansion_2:0 "비행장 확장 II"
+ JAP_ww1_airfield_expansion_2_desc:0 ""  
 
-JAP_ww1_airfield_expansion_3:0 "비행장 확장 III"
-JAP_ww1_airfield_expansion_3_desc:0 ""  
+ JAP_ww1_airfield_expansion_3:0 "비행장 확장 III"
+ JAP_ww1_airfield_expansion_3_desc:0 ""  
 
-JAP_ww1_infrastructure_effort:0 "기반시설 주력"
-JAP_ww1_infrastructure_effort_desc:0 ""  
+ JAP_ww1_infrastructure_effort:0 "기반시설 주력"
+ JAP_ww1_infrastructure_effort_desc:0 ""  
 
-JAP_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
-JAP_ww1_infrastructure_effort_2_desc:0 ""  
+ JAP_ww1_infrastructure_effort_2:0 "기반시설 주력 II"
+ JAP_ww1_infrastructure_effort_2_desc:0 ""  
 
-JAP_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
-JAP_ww1_infrastructure_effort_3_desc:0 ""  
+ JAP_ww1_infrastructure_effort_3:0 "기반시설 주력 III"
+ JAP_ww1_infrastructure_effort_3_desc:0 ""  
 
-JAP_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
-JAP_ww1_infrastructure_effort_4_desc:0 ""  
+ JAP_ww1_infrastructure_effort_4:0 "기반시설 주력 IV"
+ JAP_ww1_infrastructure_effort_4_desc:0 ""  
 
-JAP_ww1_extra_tech_slot:0 "추가 연구 슬롯"
-JAP_ww1_extra_tech_slot_desc:0 ""  
+ JAP_ww1_extra_tech_slot:0 "추가 연구 슬롯"
+ JAP_ww1_extra_tech_slot_desc:0 ""  
 
-JAP_ww1_extra_tech_slot_2:0 "추가 연구 슬롯 II"
-JAP_ww1_extra_tech_slot_2_desc:0 ""  
+ JAP_ww1_extra_tech_slot_2:0 "추가 연구 슬롯 II"
+ JAP_ww1_extra_tech_slot_2_desc:0 ""  
  JAP_ww1_naval_effort:0 "러일 전쟁의 유산"
- JAP_ww1_naval_effort_desc:0 "In 1904, Japan honorably defended the home islands from Russian aggression, and defeated their empire in one of the greatest upsets in the history of warfare. If we continue to expand and develop our navy, there is no doubt that we will achieve dominance in the Pacific."
+ JAP_ww1_naval_effort_desc:0 "1904년, 일본은 러시아의 침략으로부터 고향 섬을 명예롭게 지켰고, 전쟁 역사상 가장 큰 혼란 중 하나에서 그들의 제국을 물리쳤습니다. 우리가 해군을 계속 확장하고 발전시킨다면 태평양에서 우리가 우위를 점할 것이라는 데는 의심의 여지가 없습니다."
 
  JAP_ww1_newnavalcanons_1:0 "함포 주력"
  JAP_ww1_newnavalcanons_1_desc:0 ""  
@@ -3707,10 +3707,10 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
   JAP_ww1_political_effort_desc:0 ""
 
  JAP_ww1_support_republic:0 "군대 강화"
- JAP_ww1_support_republic_desc:0 "Emperor Meiji overthrew the Shogun and began to steer our empire in a new direction, away from isolationism and to exercizing its might as a world power. What sort of nation would we be to turn our back on this move now? By continuing in this direction, Japan's place in the world would be solidified."
+ JAP_ww1_support_republic_desc:0 "메이지 천황은 쇼군을 타도하고 우리 제국을 고립주의에서 벗어나 세계적인 강대국으로서 힘을 발휘하는 새로운 방향으로 이끌기 시작했습니다. 지금 우리가 이런 움직임에 등을 돌리면 어떤 나라가 될 수 있겠습니까? 이런 방향으로 계속 가면 세계에서 일본의 위치를 굳히게 됩니다."
 
  JAP_ww1_contest_republic:0 "민주 개혁"
- JAP_ww1_contest_republic_desc:0 "Japan is a monarchy, but it supports a wide base of people who need placating. By establishing a few democratic reforms, we can keep the people content without giving up a huge share of the power of the government."
+ JAP_ww1_contest_republic_desc:0 "일본은 군주국이지만, 달랠 필요가 있는 사람들의 넓은 기반을 지원합니다. 몇 가지 민주적 개혁을 수립함으로써, 우리는 정부 권력의 큰 부분을 포기하지 않고 국민들이 만족할 수 있도록 할 수 있습니다."
 
  JAP_ww1_internationalism_focus:0 "국제주의 중점"
  JAP_ww1_internationalism_focus_desc:0 ""  
@@ -3780,106 +3780,106 @@ JAP_ww1_extra_tech_slot_2_desc:0 ""
 
  JAP_ww1_oppression_minorities:0 "소수민족 탄압"
  JAP_ww1_oppression_minorities_desc:0 "일본은 소수민족이 많은 나라입니다. 만약 그들 중 어느 누구도 우리 제국에 완전히 충성하는 사람들 외에 그들의 지역이나 정부 내에서 너무 앞서가지 못하게 하고, 일본인들 이외에 출판물을 금지한다면, 우리는 결코 민족주의적인 반란을 다룰 필요가 없다는 것을 확실히 할 수 있을 것입니다."
-JAP_ww1_diplomatic_effort:0 "외교 주력"
-JAP_ww1_diplomatic_effort_desc:0 ""  
+ JAP_ww1_diplomatic_effort:0 "외교 주력"
+ JAP_ww1_diplomatic_effort_desc:0 ""  
 
-JAP_ww1_assert_position_pacific:0 "태평양에서의 지위 확고화"
-JAP_ww1_assert_position_pacific_desc:0 "While the Pacific is rightfully ordained Japanese territory, there are technically enough islands to share with our so-called friends, for now. Japan's first focus will be the islands of our regional rivals, which we must expand into, at any cost."
+ JAP_ww1_assert_position_pacific:0 "태평양에서의 지위 확고화"
+ JAP_ww1_assert_position_pacific_desc:0 "태평양은 일본 영토로 지정되었지만, 지금은 기술적으로 우리의 소위 친구들과 공유할 수 있는 섬들이 충분히 있습니다. 일본의 첫 번째 초점은 우리가 어떤 대가를 치르더라도 확장해야 할 역내 경쟁국들의 섬들이 될 것입니다."
 
-JAP_ww1_Support_USA:0 "미국과의 관계 개선"
-JAP_ww1_Support_USA_desc:0 "The Americans are on-again off-again friends of Japan. Sometimes, we are mutual allies trying to keep peace and go against Europe, and sometimes we are bitter rivals fighting each other for pacific influence. Today, to ensure that Entente war plans don't fall apart, we shall be friends."
+ JAP_ww1_Support_USA:0 "미국과의 관계 개선"
+ JAP_ww1_Support_USA_desc:0 "미국인들은 다시금 일본의 벗이 되었습니다. 때로는 평화를 지키고 유럽에 맞서기 위해 노력하는 상호 동맹이고, 때로는 태평양의 영향력을 위해 서로 싸우는 쓰라린 경쟁자이기도 합니다. 오늘, 협상국의 전쟁 계획이 무너지지 않도록 하기 위해, 우리는 친구가 될 것입니다."
 
-JAP_ww1_Support_Filipinos_Separatists:0 "필리핀 분리주의 지원"
-JAP_ww1_Support_Filipinos_Separatists_desc:0 "The Yankees are no friend to us, and seem unlikely to play any real part in the war effort. If we help to arm and organize the Filipino rebels, a Filipino government may throw off American shackles- one that answers to Japan first and foremost, helping our presence in the region. Though, this may hurt our relationship with the United States."
+ JAP_ww1_Support_Filipinos_Separatists:0 "필리핀 분리주의 지원"
+ JAP_ww1_Support_Filipinos_Separatists_desc:0 "양키들은 우리의 친구가 아니며, 전쟁 주력에 실질적인 역할을 할 것 같지 않습니다. 만약 우리가 필리핀 반군을 무장하고 조직하는 것을 도와준다면, 필리핀 정부는 일본에 가장 먼저 대응하는 미국의 족쇄를 벗어 던지고, 그 지역에 우리의 주둔을 도울 것입니다. 하지만, 이것은 미국과의 관계를 해칠 수도 있습니다."
 
-JAP_ww1_Diplomatic_Siam:0 "시암에 외교관 파견"
-JAP_ww1_Diplomatic_Siam_desc:0 "Siam is the only other independent, stable power in East or South-East Asia. They seem to be a natural ally, and it would be damned foolish for us not to try and make friends with them."
+ JAP_ww1_Diplomatic_Siam:0 "시암에 외교관 파견"
+ JAP_ww1_Diplomatic_Siam_desc:0 "시암은 동아시아나 동남아시아에서 유일하게 독립적이고 안정적인 강국입니다. 그들은 타고난 동맹인 것 같고, 우리가 그들과 친구가 되려고 하지 않는 것은 정말 어리석은 일일 것입니다."
 
-JAP_ww1_ready_country:0 "전쟁 준비"
-JAP_ww1_ready_country_desc:0 "The tensions in Europe have reached a boiling point, to Japan's advantage. No matter who we face, we must first and foremost be ready to fight!"
+ JAP_ww1_ready_country:0 "전쟁 준비"
+ JAP_ww1_ready_country_desc:0 "유럽의 긴장은 일본에 유리하게 폭발 일보 직전 상황에 도달했습니다. 우리가 누구와 맞서든, 우리는 무엇보다도 싸울 준비가 되어 있어야 합니다!"
 
-JAP_ww1_defense_border:0 "일본 요새"
-JAP_ww1_defense_border_desc:0 "Japan is an island nation, which carries benefits and risks. The most dire risk being anyone who lands too close to the capital could simply oust our government, and our low landmass means that a few divisions may secure giant portions of our territory quickly. Japan must be unassailable, or it will not survive."
+ JAP_ww1_defense_border:0 "일본 요새"
+ JAP_ww1_defense_border_desc:0 "일본은 이익과 위험을 안고 있는 섬나라입니다. 가장 심각한 위험은 수도에 너무 가까이 상륙하는 이는 누구나 우리 정부를 축출할 수 있다는 것입니다. 그리고 우리의 낮은 땅덩어리들은 적은 사단으로도 우리 영토의 거대한 부분을 빠르게 확보할 수 있다는 것을 의미합니다. 일본은 난공불락이 되어야 합니다. 그렇지 않으면 살아남지 못할 것입니다."
 
-JAP_ww1_Japan_Korea_Treaty:0 "일한 병합 조약"
-JAP_ww1_Japan_Korea_Treaty_desc:0 "한국은 오랫동안 우리 제국의 괴뢰국이었지만 영토로서 더 나은 역할을 할 것입니다. 꼭두각시 황제를 강제 합병 협정으로 몰아붙인다면, 유럽과 미국인들을 우리 뒤에서 떼어놓을 수 있을 정도로 외교적으로 보이는 방식으로 지도에서 제외시킬 수 있을 것이며, 이로 인해 아시아 본토에 우리의 첫 영토가 세워질 것입니다."
+ JAP_ww1_Japan_Korea_Treaty:0 "일한 병합 조약"
+ JAP_ww1_Japan_Korea_Treaty_desc:0 "한국은 오랫동안 우리 제국의 괴뢰국이었지만 영토로서 더 나은 역할을 할 것입니다. 꼭두각시 황제를 강제 합병 협정으로 몰아붙인다면, 유럽과 미국인들을 우리 뒤에서 떼어놓을 수 있을 정도로 외교적으로 보이는 방식으로 지도에서 제외시킬 수 있을 것이며, 이로 인해 아시아 내륙에 우리의 첫 영토가 세워질 것입니다."
 
-JAP_ww1_Japanese_Expansionism:0 "일본 팽창주의"
-JAP_ww1_Japanese_Expansionism_desc:0 "The most logical solution to Japan's issues of low amounts of natural resources and tenuous defensive position is simply to expand outwards. If we expand onto the Asian mainland and farther out into the Pacific, we will control the supplies we need, and the outposts we deserve."
+ JAP_ww1_Japanese_Expansionism:0 "일본 팽창주의"
+ JAP_ww1_Japanese_Expansionism_desc:0 "적은 양의 천연자원과 방어에 취약한 위치라는 일본의 문제에 대한 가장 이상적인 해결책은 단순히 밖으로 확장하는 것입니다. 아시아 내륙으로, 태평양으로 더 멀리 뻗어나간다면 필요한 물자와 우리가 마땅히 받아야 할 전초기지를 통제하게 될 것입니다."
 
-JAP_ww1_War_in_Europe_Opportunity:0 "유럽에서의 전쟁 기회"
-JAP_ww1_War_in_Europe_Opportunity_desc:0 "The war in Europe is a grand opportunity for Japan! Though we are a nominal British ally, we could choose to join either side. Logically, the best thing to do would be to join the winning side, and profit from the spoils."
+ JAP_ww1_War_in_Europe_Opportunity:0 "유럽에서의 전쟁 기회"
+ JAP_ww1_War_in_Europe_Opportunity_desc:0 "유럽에서의 전쟁은 일본에게 절호의 기회입니다! 우리가 비록 명목상으로 영국의 동맹이지만, 우리는 어느 한쪽에 가입하는 것을 선택할 수 있습니다. 논리적으로, 가장 좋은 일은 이기는 쪽에 합류해서 전리품을 얻는 것입니다."
 
-JAP_ww1_Pro_German:0 "친독 정책"
-JAP_ww1_Pro_German_desc:0 "The Germans are much like the Japanese, in both their world position and military might. Beginning a push towards their side will align Japan closer to the Central Powers."
+ JAP_ww1_Pro_German:0 "친독 정책"
+ JAP_ww1_Pro_German_desc:0 "독일은 그들의 세계적 지위와 군사력 면에서 일본과 매우 비슷합니다. 그들의 편에 서서 나아가는 것은 일본을 동맹국에 더 가깝게 만들 것입니다."
 
-JAP_ww1_Pro_British:0 "친영 정책"
-JAP_ww1_Pro_British_desc:0 "The British are technically allied to us, and were one of the few European nations to invest heavily in Japan's navy. Siding with them will, if nothing else, ensure we never have to face the fearsome Royal Navy until we're prepared."
+ JAP_ww1_Pro_British:0 "친영 정책"
+ JAP_ww1_Pro_British_desc:0 "영국은 엄밀히 말해 우리와 동맹을 맺고 있으며, 일본 해군에 대규모 투자를 한 몇 안 되는 유럽 국가 중 하나였습니다. 다른 건 몰라도 우리가 준비가 될 때까지 왕립 해군을 상대할 필요가 없다는 걸 보장해 줄 것입니다."
 
-JAP_ww1_Claims_on_Pacific_Islands:0 "태평양 섬 요구"
-JAP_ww1_Claims_on_Pacific_Islands_desc:0 "The Pacific Islands are the most logical place for Japan to expand. If we seize larger parts of the pacific, we can ensure anyone who seeks to attack Japan from the east has a long way to go. Laying down claim to these islands now could pay off at a future peace conference."
+ JAP_ww1_Claims_on_Pacific_Islands:0 "태평양 섬 요구"
+ JAP_ww1_Claims_on_Pacific_Islands_desc:0 "태평양 섬들은 일본이 팽창하기 가장 이상적인 곳입니다. 태평양의 넓은 지역을 점령한다면, 우리는 동쪽에서 일본을 공격하려는 자는 갈 길이 멀다는 것을 보장할 수 있습니다. 이 섬에 대한 영유권을 주장하는 것은 향후의 강화회담에서 성과를 거둘 수 있습니다."
 
-JAP_ww1_Join_Central_Power:0 "동맹국 가입"
-JAP_ww1_Join_Central_Power_desc:0 "The weakness of the Entente, as well as easy and mostly defended targets in the east, have given Japan a grand opportunity to expand into the Pacific and Oceania. Joining the Central Powers will ensure a glorious Japanese empire for years to come!"
+ JAP_ww1_Join_Central_Power:0 "동맹국 가입"
+ JAP_ww1_Join_Central_Power_desc:0 "협상국의 약점뿐만 아니라 동쪽의 쉽고 대부분 방어적인 목표물도 일본에게 태평양과 오세아니아로 확장할 수 있는 절호의 기회를 주었습니다. 동맹국에 합류하면 앞으로 몇 년 동안 영광스러운 일본 제국이 될 것입니다!"
 
-JAP_ww1_Join_Entente:0 "협상국 가입"
-JAP_ww1_Join_Entente_desc:0 "The Central Powers are far too tied up in Europe to do anything about Japan's expansionism, luckily for us. By becoming a fully fledged member of the Entente, we can take control over the entire German Pacific, and quite easily to boot."
+ JAP_ww1_Join_Entente:0 "협상국 가입"
+ JAP_ww1_Join_Entente_desc:0 "동맹국은 운 좋게도 일본의 팽창주의에 대해 뭐라도 하기에는 유럽에 너무 얽매여 있습니다. 협상국의 정식 회원이 됨으로써, 우리는 독일령 태평양 전체를 지배할 수 있고, 쉽게 찰 수 있습니다."
 
-JAP_ww1_Invade_Singapore:0 "싱가포르 침공"
-JAP_ww1_Invade_Singapore_desc:0 "Singapore is a major British port in Asia, in position to allow them to continue control over Hong Kong, help keep the Pacific secured, and other unfortunate benefits. If we simply oust them from the area- perhaps from the rest of Malaya as well- we can ensure that their ships will have no safe port so close to Japan."
+ JAP_ww1_Invade_Singapore:0 "싱가포르 침공"
+ JAP_ww1_Invade_Singapore_desc:0 "싱가포르는 홍콩에 대한 지속적인 통제와 태평양의 안전 유지, 그리고 다른 불쾌한 혜택을 제공할 수 있는 위치에 있는, 아시아의 주요 영국 항구입니다. 만약 우리가 그들을 이 지역에서 쫓아낸다면 - 아마 말레이와 다른 지역에서도 - 우리는 그들의 배가 일본과 그렇게 가까운 안전한 항구를 갖지 못하게 할 수 있습니다."
 
-JAP_ww1_Siege_of_Tsingtao:0 "칭다오 포위"
-JAP_ww1_Siege_of_Tsingtao_desc:0 "Qingdao is one of Germany's most valuable, least protected colonies. Seizing the area now will ensure no Imperial ships raid our shores, and give Japan yet another solid territory on the Mainland of China."
+ JAP_ww1_Siege_of_Tsingtao:0 "칭다오 포위"
+ JAP_ww1_Siege_of_Tsingtao_desc:0 "칭다오는 독일에서 가장 값지고 보호받지 못하는 식민지 중 하나입니다. 이 지역을 점령하면 독일 제국 함선이 우리 해안을 습격하지 않을 것이며, 일본에게 중국 본토에 또 다른 견고한 영토를 제공할 것입니다."
 
-JAP_ww1_Xinhai_Revolution_Opportunity:0 "신해혁명 기회"
-JAP_ww1_Xinhai_Revolution_Opportunity_desc:0 "With the Chinese nation in a state of heavy civil war, Japan can easily profit off of their misery. Perhaps, if we're lucky enough, we could even force them into the status of a puppet state!" 
+ JAP_ww1_Xinhai_Revolution_Opportunity:0 "신해혁명 기회"
+ JAP_ww1_Xinhai_Revolution_Opportunity_desc:0 "중국이 내전 상태에 빠졌기 때문에, 일본은 그들의 고통으로부터 쉽게 이익을 얻을 수 있습니다. 아마도, 우리가 운이 좋다면, 우리는 그들을 괴뢰국으로 만들 수도 있을 것입니다!" 
 
-JAP_ww1_Thirteen_Demands:0 "13개조 요구"
-JAP_ww1_Thirteen_Demands_desc:0 "Though China would be in no position to resist Japan, the rest of the European powers as well as the United States are unified in threatening us with an embargo in the case of going too far with China. If we simply demand an inheiritance to the German economic sphere, we can expand our influence in China without damaging our position." 
+ JAP_ww1_Thirteen_Demands:0 "13개조 요구"
+ JAP_ww1_Thirteen_Demands_desc:0 "비록 중국이 일본에 저항할 처지가 되지는 않겠지만, 중국과의 도를 넘는 경우 미국은 물론 나머지 유럽 강대국들은 우리를 금수조치하겠다고 위협하는데 하나같이 동의하고 있습니다. 단순히 독일의 경제권에 대한 상속을 요구하면 중국에 대한 영향력을 우리의 입지를 손상시키지 않고 확대할 수 있습니다." 
 
-JAP_ww1_Twenty_One_Demands:0 "21개조 요구"
-JAP_ww1_Twenty_One_Demands_desc:0 "Though the West may denounce us for it, China as a puppet state is a deal far too good to pass up. With their manpower and resources and our cunning and might, we would be an unstoppable force! Of course, if they reject our demands, we may have to either revise, or prepare for a war which would most certainly unify the dissenting powers..."
+ JAP_ww1_Twenty_One_Demands:0 "21개조 요구"
+ JAP_ww1_Twenty_One_Demands_desc:0 "서방이 우리를 비난할지 모르지만, 괴뢰국으서의 중국은 너무 좋은 거래입니다. 그들의 인력과 자원, 그리고 우리의 간계와 힘만 있다면, 우리는 막을 수 없는 힘이 될 것입니다! 물론, 만약 그들이 우리의 요구를 거부한다면, 우리는 반대자들을 통합시킬 수 있는 전쟁을 검토하거나 준비해야 할 수도 있습니다..."
 
-JAP_ww1_Appeasement_China:0 "중국과의 유화 정책"
-JAP_ww1_Appeasement_China_desc:0 "China is in a position to give a little, but it would be better for us both to walk out saving face. If we seek the route of mutual appeasement, we will continue our influence growth in China, without necessarily putting ourselves in any sort of diplomatic danger."
+ JAP_ww1_Appeasement_China:0 "중국과의 유화 정책"
+ JAP_ww1_Appeasement_China_desc:0 "중국은 조금 양보해야 할 입장이지만, 우리 둘 다 체면 차리고 나가는 게 좋을 것 같습니다. 우리가 상호 유화 노선을 모색한다면, 우리는 반드시 외교적 위험에 처하지 않고 중국에서 영향력 성장을 계속할 것입니다."
 
-JAP_ww1_Pressure_China:0 "중국 압박"
-JAP_ww1_Pressure_China_desc:0 "It is only a matter of time until Japan dominates East Asia. China is a crucial step to our brilliant master plan! If they do not acede to Japanese influence, perhaps the threat of gunboat diplomacy will get them closer in line...though this will create a dreadful crisis with the European powers."
+ JAP_ww1_Pressure_China:0 "중국 압박"
+ JAP_ww1_Pressure_China_desc:0 "일본이 동아시아를 지배하는 것은 시간문제입니다. 중국은 우리의 훌륭한 대계획을 위한 중요한 단계입니다! 만약 그들이 일본의 영향을 받지 않는다면, 아마도 포함 외교의 위협은 그들을 더 가깝게 만들 것입니다... 비록 이것이 유럽 강대국들과의 끔찍한 위기를 만들지라도."
 
-JAP_ww1_South_Manchuria_Railway_Zone:0 "남만주 철도 구역"
-JAP_ww1_South_Manchuria_Railway_Zone_desc:0 "We have controlled the South Manchuria Railway since 1905. However, with China too tied up in its civil war to resist, we can easily expand precisely what it means to control the railways and what is southern Manchuria, until we have near full control of the region. And due to the war, it's unlikely they'd ever be able to resist."
+ JAP_ww1_South_Manchuria_Railway_Zone:0 "남만주 철도 구역"
+ JAP_ww1_South_Manchuria_Railway_Zone_desc:0 "우리는 1905년부터 남만주 철도를 통제해 왔습니다. 그러나 중국이 내전에 너무 얽매여 저항할 수 없는 상황에서, 우리는 이 지역을 거의 완전히 장악할 때까지 철도와 남만주 지역을 통제하는 것이 무엇을 의미하는지를 쉽게 확대할 수 있습니다. 그리고 전쟁 때문에 그들이 저항할 수 있을 것 같지는 않습니다."
 
-JAP_ww1_Claim_Manchuria:0 "만주 요구"
-JAP_ww1_Claim_Manchuria_desc:0 "Now that the Manchurian Qing dynasty no longer exercizes effective control in China, we could garner a bit of local support for a Manchu government. This will nearly inevitably lead to conflict in war-torn China, but what could they possibly to do resist?"
+ JAP_ww1_Claim_Manchuria:0 "만주 요구"
+ JAP_ww1_Claim_Manchuria_desc:0 "이제 만주족의 청 왕조가 중국을 더 이상 실효 지배를 하지 않기 때문에, 우리는 만주 정부를 위해 약간의 지역적인 지지를 얻을 수 있습니다. 이는 전쟁으로 폐허가 된 중국 내 분쟁으로 이어질 수밖에 없지만, 그들이 어떻게 저항할 수 있겠습니까?"
 
-JAP_ww1_siberian_intervention:0 "시베리아 개입"
-JAP_ww1_siberian_intervention_desc:0 "러시아 내전이 본격화되면서 일본은 시베리아에 개입해야 합니다. 백인 러시아인들은 우리의 친구는 아니지만 소련보다 훨씬 나은 이웃이 됩니다. 게다가, 우리가 원정에서 무엇을 얻을지 누가 알겠습니까?"
+ JAP_ww1_siberian_intervention:0 "시베리아 개입"
+ JAP_ww1_siberian_intervention_desc:0 "러시아 내전이 본격화되었으니 일본은 시베리아에 개입해야 합니다. 백러시아는 우리의 친구는 아니지만 소련보다 훨씬 나은 이웃이 됩니다. 게다가, 우리가 원정에서 무엇을 얻을지 누가 알겠습니까?"
 
-JAP_ww1_Contest_Russian_Domination:0 "러시아 우세에 이의 제기"
-JAP_ww1_Contest_Russian_Domination_desc:0 "The Russians hold themselves to be the Emperor of the East, the foremost authority in Eastern Asia. Have these fools forgotten already our last encounter? By adopting an Anti-Russian stance in the area and working against their authority, we will, of course, increase ours."
+ JAP_ww1_Contest_Russian_Domination:0 "러시아 우세에 이의 제기"
+ JAP_ww1_Contest_Russian_Domination_desc:0 "러시아인들은 자신들이 동아시아의 최고 권위인 동방의 황제라고 자처하고 있습니다. 이 바보들이 우리의 마지막 만남을 벌써 잊어버린 거겠지요? 이 지역에서 반러적인 입장을 취하고 그들의 권위에 대항함으로써, 우리는 당연히 우리의 입장을 증대시킬 것입니다."
 
-JAP_ww1_Celebrate_Tsushima:0 "쓰시마 기념"
-JAP_ww1_Celebrate_Tsushima_desc:0 "The battle of Tsushima was a devestating blow to the Russian fleet, and one of Japan's greatest moments. Ensuring we seal the legacy of the event forever will not only serve to inspire our own population, but will be yet another massive blow to Russia's prestige and morale."
+ JAP_ww1_Celebrate_Tsushima:0 "쓰시마 기념"
+ JAP_ww1_Celebrate_Tsushima_desc:0 "쓰시마 해전은 러시아 함대에 치명적인 타격을 주었고, 일본의 가장 위대한 순간 중 하나였습니다. 우리가 이 일의 유산을 영원히 지키는 것은 우리 국민에게 영감을 줄 뿐만 아니라 러시아의 위신과 사기에 또 다른 커다란 타격을 줄 것입니다."
 
-JAP_ww1_Russian_Revolution_Opportunity:0 "러시아 혁명 기회"
-JAP_ww1_Russian_Revolution_Opportunity_desc:0 "The Russian Revolution has opened up a nice chance for Japan to earn yet more mainland territory. The port of Vladivolstok and the region formerly known as Outer Manchuria could easily be occupied, under the justification of course that we need it to continue the Siberian intervention. The westerners, as usual, may frown upon this." 
+ JAP_ww1_Russian_Revolution_Opportunity:0 "러시아 혁명 기회"
+ JAP_ww1_Russian_Revolution_Opportunity_desc:0 "러시아 혁명은 일본이 더 많은 내륙 영토를 얻을 수 있는 좋은 기회를 열어 주었습니다. 블라디보스토크 항과 이전에 외만주로 알려졌던 지역이 쉽게 점령될 수 있었던 것은 물론 시베리아의 개입을 지속하기 위해 필요한 이유였습니다. 늘 그렇듯이 서양인들은 이것에 눈살을 찌푸릴지도 모릅니다." 
 
-JAP_ww1_Leave_Entente:0 "협상국 탈퇴"
-JAP_ww1_Leave_Entente_desc:0 "The Entente has served its purpose to Japan, and it seems with recent events that it is no longer a group of friendly nations. It seems reasonable to assume, in fact, that Japan and the former Entente may one day be at odds with each other at war."
+ JAP_ww1_Leave_Entente:0 "협상국 탈퇴"
+ JAP_ww1_Leave_Entente_desc:0 "협상국은 일본에게 그 목적을 제공했고, 최근의 사건들과 함께 더 이상 우호적인 나라들의 집단이 아닌 것처럼 보입니다. 사실 일본과 전 협상국이 언젠가 전쟁에서 서로 대립할 수도 있다고 생각하는 것은 타당해 보입니다."
 
-JAP_ww1_war_sakhalin:0 "사할린은 가라후토다"
-JAP_ww1_war_sakhalin_desc:0 "Sakhalin is a very improper name for a Japanese possession. ''Karafuto'' seems much more proper!"
+ JAP_ww1_war_sakhalin:0 "사할린은 가라후토다"
+ JAP_ww1_war_sakhalin_desc:0 "사할린은 일본 영지로는 매우 부적절한 이름입니다. ''가라후토''가 훨씬 더 적절한 것 같습니다!"
 
-JAP_ww1_expeditionary_force_france:0 "프랑스 원정군"
-JAP_ww1_expeditionary_force_france_desc:0 "Though the European war rages on far from Japanese shores, we would still be wise to assist our allies. By sending a small group to France, we can help make sure our friends actually win their part of the war."
-JAP_ww1_Fukoku_Kyohei:0 "부국강병"
-JAP_ww1_Fukoku_Kyohei_desc:0 ""
+ JAP_ww1_expeditionary_force_france:0 "프랑스 원정군"
+ JAP_ww1_expeditionary_force_france_desc:0 "비록 유럽이 일본 해안에서 멀리 떨어져 있지만, 우리는 여전히 우리의 동맹들을 돕는 것이 현명할 것입니다. 작은 부대를 프랑스에 파견함으로써, 우리는 우리의 친구들이 전쟁에서 실제로 승리할 수 있도록 도울 수 있습니다."
+ JAP_ww1_Fukoku_Kyohei:0 "부국강병"
+ JAP_ww1_Fukoku_Kyohei_desc:0 ""
 
-JAP_ww1_Invasion_of_Manchuria:0 "만주 침공"
-JAP_ww1_Invasion_of_Manchuria_desc:0 ""
+ JAP_ww1_Invasion_of_Manchuria:0 "만주 침공"
+ JAP_ww1_Invasion_of_Manchuria_desc:0 ""
 
-JAP_ww1_Form_Manchukuo:0 "만주국 건국"
-JAP_ww1_Form_Manchukuo_desc:0 ""
+ JAP_ww1_Form_Manchukuo:0 "만주국 건국"
+ JAP_ww1_Form_Manchukuo_desc:0 ""
  JAP_hentai_empire:0 "헨타이 제국 수립"
  JAP_hentai_empire_desc:0 "모스크바가 우리 손에 있습니다. 러시아인들은 패배했습니다! 새로운 시대의 시작을 축하합시다!"
  JAP_claim_islands:0 "태평양 섬 요구"
@@ -3904,7 +3904,7 @@ JAP_ww1_Form_Manchukuo_desc:0 ""
  HOL_gateway_to_europe:0 "유럽으로 가는 관문"
  HOL_christian_democracy:0 "기독교 민주주의"
  HOL_conservative_nation:0 "보수적인 국민"
- HOL_empower_of_monarchs:0 "HOL_empower_of_monarchs"
+ HOL_empower_of_monarchs:0 ""
  HOL_empower_monarchs:0 "군주에게 권한 부여"
  HOL_liberal_cabinet:0 "자유당 내각"
  HOL_sympathy_for_germany:0 "독일에 대한 동조"
@@ -3929,7 +3929,7 @@ JAP_ww1_Form_Manchukuo_desc:0 ""
  HOL_unite_benelux:0 "베네룩스 통합"
  HOL_home_defense:0 "고국 방위"
  HOL_army_of_expansionism:0 "팽창주의 군대"
- HOL_army_of_expansionism_desc:0 "Нужно реформировать армию."
+ HOL_army_of_expansionism_desc:0 "군대를 개혁해야 합니다."
  HOL_imperial_spirit:0 "제국의 정신"
  HOL_imperial_spirit_desc:0 "옛 식민지를 요구합니다."
  HOL_interventionism:0 "간섭주의"
@@ -3970,7 +3970,7 @@ JAP_ww1_Form_Manchukuo_desc:0 ""
  HOL_eradicate_neutralism_desc:0 "평화주의자들을 억압하기 위해 모든 수단을 동원합니다."
  HOL_war_for_colonies:0 "식민지를 위한 전쟁"
  HOL_war_for_colonies_desc:0 "시암은 우리 식민지 주민들을 위한 무료 부동산입니다."
- HOL_christian_democracy_Copy_Copy:0 "HOL_christian_democracy_Copy_Copy"
+ HOL_christian_democracy_Copy_Copy:0 ""
  HOL_volksmilitie:0 "국민민병대"
  HOL_prepare_for_inevitable:0 "피할 수 없는 상황 대비"
  HOL_prepare_for_inevitable_desc:0 "거대한 요새를 건설합니다."
@@ -4006,7 +4006,7 @@ JAP_ww1_Form_Manchukuo_desc:0 ""
  HOL_legacy_of_old_navy:0 "옛 해군의 유산"
  HOL_legacy_of_old_navy_desc:0 "강력한 함대가 필요합니다. 그리고 우리는 그것을 재현할 수 있습니다."
  HOL_submarines_fleet:0 "잠수함대"
- HOL_submarines_fleet_desc:0 "HOL_submarines_fleet_desc"
+ HOL_submarines_fleet_desc:0 ""
  HOL_nation_of_shipyards:0 "조선소 국가"
  HOL_sea_blockade:0 "해상봉쇄"
  HOL_sea_blockade_desc:0 "우리의 현대 함대는 공포를 불러일으킵니다. 크지는 않지만, 적의 수송 선단에게는 극도로 위험합니다."
@@ -4024,7 +4024,7 @@ JAP_ww1_Form_Manchukuo_desc:0 ""
  HOL_reorganization_of_production:0 "생산 재편성"
  HOL_rearmament_subsidies:0 "재무장 투자"
  HOL_expand_royal_shell:0 "더치 쉘 확장"
- HOL_expand_royal_shell_desc:0 "HOL_expand_royal_shell_desc"
+ HOL_expand_royal_shell_desc:0 ""
  HOL_patent_program:0 "특허 프로그램"
  HOL_patent_program_desc:0 "많은 네덜란드 기술자들이 해외에 삽니다. 그들에게 보조금을 지급하고 발명의 특허화를 촉진할 필요가 있습니다."
  HOL_import_techs:0 "기술 수입"
@@ -4042,7 +4042,7 @@ JAP_ww1_Form_Manchukuo_desc:0 ""
  HOL_gateway_to_europe_desc:0 "유럽으로 가는 관문"
  HOL_christian_democracy_desc:0 "기독교 민주주의"
  HOL_conservative_nation_desc:0 "보수적인 국민"
- HOL_empower_of_monarchs_desc:0 "HOL_empower_of_monarchs"
+ HOL_empower_of_monarchs_desc:0 ""
  HOL_empower_monarchs_desc:0 "군주에게 권한 부여"
  HOL_liberal_cabinet_desc:0 "자유당 내각"
  HOL_sympathy_for_germany_desc:0 "독일에 대한 동조"
@@ -4334,19 +4334,19 @@ JAP_ww1_Form_Manchukuo_desc:0 ""
  USA_arms_tax_desc:0 "군대는 실제 전쟁에 대비하여 편성과 준비를 시작합니다."
  USA_military_training_corps:0 "군사훈련단"
  USA_military_training_corps_desc:0 "우드 장군은 이 시대의 군대를 위한 장교 양성을 목표로 해야 할 훈련 제도의 재편을 후원합니다."
- USA_lafayette_escadrille:0 "Lafayette Escadrille"
- US2_condemn_unrestricted_sub:0 "US2_condemn_unrestricted_sub"
- USA_condemn_unrestricted_sub_warfare:0 "Resist Submarine Warfare"
- USA_doctrine_of_armored_raids:0 "Doctrine of Armored Raids"
- USA_prepare_for_trench_warfare:0 "Prepare for Trench Warfare"
- USA_occupy_villas_lair:0 "Occupy Pancho Villa's Lair"
- USA_occupy_villas_lair_desc:0 "After the death of Pancho Villa, General Pershing proposed not to stop there and establish military control over the rebellious region in order to completely suppress the Mexican raiders."
+ USA_lafayette_escadrille:0 "라파예트 비행대"
+ US2_condemn_unrestricted_sub:0 ""
+ USA_condemn_unrestricted_sub_warfare:0 "잠수전 저항"
+ USA_doctrine_of_armored_raids:0 "기갑 습격 교리"
+ USA_prepare_for_trench_warfare:0 "참호전 준비"
+ USA_occupy_villas_lair:0 "판초 비야의 은신처 점령"
+ USA_occupy_villas_lair_desc:0 "판초 비야의 죽음 이후, 퍼싱 장군은 더 나아가서 멕시코의 도적 떼를 완전히 진압하기 위해 그 반항적인 지역에 군사 통제를 수립하는 것을 제안했습니다."
  USA_shotgun:0 "트렌치 샷건"
- USA_shotgun_desc:0 "That's a lot of damage!"
- USA_maneveur_divison:0 "The Maneveur_divison"
- USA_maneuver_divison:0 "The Maneuver Divison"
- USA_reorganize_army_corps:0 "Reorganize Army Corps"
- USA_reorganize_army_corps_desc:0 "In the United States there is no active army, only housed corps and the national guard. Our generals insist on expanding the composition of the corps, as well as on the formation of divisions."
+ USA_shotgun_desc:0 "엄청난 피해입니다!"
+ USA_maneveur_divison:0 "기동 사단"
+ USA_maneuver_divison:0 "기동 사단"
+ USA_reorganize_army_corps:0 "육군 부대 재조직"
+ USA_reorganize_army_corps_desc:0 "미국에는 활동 중인 군대가 없고 단지 국내 부대와 주방위군만 있습니다. 우리 장군들은 부대의 구성과 사단 창설을 확대해야 한다고 주장합니다."
  USA_regular_divisions:0 "정규 사단"
  USA_stimson_doctrine:0 "스팀슨 독트린"
  USA_puppet_warlords:0 "괴뢰 군벌"

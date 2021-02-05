@@ -163,7 +163,7 @@
  ww1_albania.9.a:0 "알바니아는 실수를 했다."
  ww1_albania.9.b:0 "지금은 안돼."
  
- # ARGENTINA
+ #ARGENTINA
  ww1_argentina.1.t:0 "[GetYear]년 아르헨티나 대통령 선거"
  ww1_argentina.1.d:0 "로케 사엔스 페냐가 실제적인 야당 없이 대통령으로 당선되었습니다."
  ww1_argentina.1.a:0 "아무래도 우린 야당이 있어야 할 것 같다."
@@ -176,7 +176,7 @@
  ww1_argentina.3.b:0 "야당은 필요 없다."
  ww1_argentina.3.c:0 "우린 이런 야당을 바란 게 아니다."
 
- # AUSTRIA
+ #AUSTRIA
  ww1_austria.1.t:0 "프란츠 요제프 1세의 사망"
  ww1_austria.1.d:0 "오스트리아에서 온 슬픈 소식입니다. 사랑하는 카이저 프란츠 요제프는 오랜 재임과 생애 끝에 폐렴에 굴복했습니다. 정부의 많은 사람들은 그들의 제국이 그를 오래 살지 못할까 봐 두려워합니다. 이 불확실한 왕좌에 오르는 이는 [AUH.GetLeader]입니다."
  ww1_austria.1.a:0 "하느님 보존하소서, 하느님 보호하소서..."
@@ -303,7 +303,7 @@
  ww1_france.15.a:0 "그리스에 동방의 군대를 파병하라!"
  ww1_france.15.d:0 "동방의 군대를 동원합니다."
  ww1_france.15.t:0 "프랑스가 동방의 군대를 파병하다"
- ww1_france.17.t:0 "[?global.year|0]년 대선"
+ ww1_france.17.t:0 "[GetYear]년 대선"
  ww1_france.17.d:0 "선거는 성공적이었습니다. 새 대통령은 레몽 푸앵카레 프랑스 총리를 발표했습니다. 이 암울한 시기에 새 정부는 적들의 위협에 맞서 국가를 강화해야 할 책임을 지게 되었습니다."
  ww1_france.17.a:0 "음."
  ww1_france.18.t:0 "베르됭 전투"
@@ -1210,7 +1210,7 @@
  ww1_usa.4.t:0 "은행 위기"
  ww1_usa.4.d:0 "증권거래소는 지수가 폭락하고, 은행들이 파산 위기에 처해 있다는 슬픈 소식과 함께 문을 열었습니다. 현재의 은행 체계는 위기 상황에서 예금을 안전하게 보관할 수 없어 [USA.GetName]의 경제 위기로 이어집니다."
  ww1_usa.4.a:0 "이거 곤란하군."
- ww1_usa.5.t:0 "[?global.year|0]년 은행 공황"
+ ww1_usa.5.t:0 "[GetYear]년 은행 공황"
  ww1_usa.5.d:0 "증권거래소는 지수가 폭락하고, 은행들이 파산 위기에 처해 있다는 슬픈 소식과 함께 문을 열었습니다. 현재의 은행 체계는 위기 상황에서 예금을 안전하게 보관할 수 없어 [USA.GetName]의 경제 위기로 이어집니다."
  ww1_usa.5.a:0 "이는 미국 경제를 약화시킬 것이다."
  ww1_usa.5.b:0 "빌어먹을 날. 빌어먹을 언론."
@@ -1885,7 +1885,7 @@
  ww1_russia.51.d:0 "러시아가 길란을 침공했다. 페르시아는 후퇴할 생각이 없으며, 끝까지 독립을 지킬 것입니다."
  ww1_russia.51.a:0 "러시아인들이 오고 있다."
  
- ww1_russia.53.t:0 "[?global.year|0]년 대통령 선거"
+ ww1_russia.53.t:0 "[GetYear]년 대통령 선거"
  ww1_russia.53.d:0 "내전이 끝난 후 국가는 국민을 단결시킬 필요가 있습니다. 신생 공화국은 국가 원수 즉 대통령이 필요합니다. 후보자 명단에는 38명이 있는데, 이 가운데 내전의 영웅들이 많습니다. 2차 선거가 끝날 때까지 기다려야 합니다."
  ww1_russia.53.a:0 "혁명의 지도자 - 케렌스키!"
  ww1_russia.53.b:0 "조국의 애국자 - 코르닐로프!"
@@ -2005,7 +2005,11 @@
  ww1_russia.90.t:0 "제2차 브레스트-리토프스크 조약"
  ww1_russia.90.d:0 "[GER.GetName] 측과 [RUS.GetName] 측은 다시 한번 브레스트-리토프스크의 협상 테이블에서 조약을 체결했습니다. 그러나 이번에는 볼셰비키가 아닌 [RUS.GetNameDef]의 쓰라린 굴욕의 자리였습니다. [GER.GetAdjective]의 지원으로 [RUS.GetNameDef] 측은 내전에서는 승리했지만 그에 따른 대가를 내줄 수밖에 없었습니다."
  ww1_russia.90.a:0 "유럽의 패권은 이제 [GER.GetName]의 손에 있구나."
- 
+ ww1_russia.91.t:0 "알렉산드르 알렉산드로비치 폰 빌데를링의 죽음"
+ ww1_russia.91.d:0 "장군, 예술가, 기념비 설계자인 알렉산드르 알렉산드로비치 폰 빌데를링 남작은 그의 다차에서 66세의 나이로 사망했습니다. \n\n그의 군 경력의 정점은 러일 전쟁에서 군대의 간단한 지휘였습니다. 그는 많은 주목할 만한 기념물들을 공동 제작했고, 최초의 레르몬토프 박물관을 설립했습니다."
+ ww1_russia.91.a:0 "예술가이자 장군의 죽음이다."
+
+
 
  # ROMANIA
  ww1_romania.1.t:0 "국왕 카롤 1세의 사망"
@@ -2497,6 +2501,16 @@
  ww1_bulgaria.37.t:0 "독일이 우리에게 잠수함을 보내다"
  ww1_bulgaria.37.d:0 "독일은 구형 잠수함 중 하나를 우리 해군에 넘겼습니다!"
  ww1_bulgaria.37.a:0 "훌륭해."
+ ww1_bulgaria.38.t:0 "Radko Dimitriev Defects to [RUS.GetNameDef]" 
+ ww1_bulgaria.38.d:0 "He was on envoy in St. Petersburg. And with the German threat to Russia, R. Dimitriev resigned from the post and military service, explaining in a statement: "As a Bulgarian, I cannot stand aside at this historic moment, and consider it my sacred duty to give my strength to Russia, to which Bulgaria owes its independence." and for the third time in his career joined the Russian army." 
+ ww1_bulgaria.38.a:0 "그의 선택이다." 
+ ww1_bulgaria.39.t:0 "우리와 함께하기로 한 라트코 디미트리에프" 
+ ww1_bulgaria.39.d:0 "그는 상트페테르부르크의 불가리아 사절단에 있었습니다. 그리고 러시아에 대한 독일의 위협과 함께, 라트코 디미트리에프는 그의 직책을 사임하고 군 복무를 그만두었으며, 러시아 언론에 의해 곧이어 전파된 성명서를 통해 설명했습니다: "불가리아인으로서 저는 이 역사적인 순간을 그냥 두고 있을 수 없습니다. 불가리아가 독립의 빚을 진 러시아에 제 힘을 보태는 것이 제 신성한 의무라고 생각합니다." 그리고 그의 경력에서 세 번째로 러시아군에 입대했습니다."
+ ww1_bulgaria.39.a:0 "낯선 이들의 고국에서." 
+ ww1_bulgaria.40.t:0 "라트코 디미트리에프의 사임" 
+ ww1_bulgaria.40.d:0 "우리와 [RUS.GetNameDef] 측과의 계속되는 분쟁으로 인해, 라트코 디미트리에프는 불가리아가 독립을 빚진 러시아와의 전쟁에 차마 나설 수 없다며 군에서 퇴역하였습니다."
+ ww1_bulgaria.40.a:0 "그에게 강요할 수는 없다." 
+ ww1_bulgaria.40.b:0 "반역자들은 체포되어야 한다." 
 
  # ENGLAND
  ww1_england.1.t:0 "타이타닉의 침몰"

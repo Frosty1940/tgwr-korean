@@ -210,7 +210,7 @@
  PRECALC_NAVAL_DIST:0 "고릴라를 돌리는 중"
  EXITING_TO_FRONTEND:0 "케냐에서 비명을 지르는 중"
  LOAD_INIT:0 "상륙 작전을 준비하는 중"
- LOAD_FLAGS:0 "베트남 코딩 중"
+ LOAD_FLAGS:0 "시암 코딩 중"
  PROC_FLAGS:0 "국민당을 지휘하는 중"
  INIT_MAP_LOGIC:0 "캐나다로 달아나는 중"
  INIT_GAMESTATE:0 "병자를 치료하는 중"

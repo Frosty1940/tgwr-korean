@@ -1228,6 +1228,14 @@
  ENG_imperial_refuge_desc:0 "대영제국은 무너졌습니다. 런던은 공산주의자들의 손에 넘어갔습니다. 왕실과 백군 세력, 그리고 지지자들만이 간신히 이곳으로 도망칠 수 있었습니다. 영국인들은 복수의 칼을 갈며 이곳에서 그들의 때를 숨죽여 기다릴 것입니다."
  ENG_imperial_refuge_neutrality:0 "제국의 피난처"
  ENG_imperial_refuge_neutrality_desc:0 "대영제국은 무너졌습니다. 런던은 공산주의자들의 손에 넘어갔습니다. 왕실과 백군 세력, 그리고 지지자들만이 간신히 이곳으로 도망칠 수 있었습니다. 영국인들은 복수의 칼을 갈며 이곳에서 그들의 때를 숨죽여 기다릴 것입니다."
+ ENG_communist_guy:0 "존 맥클린"
+ ENG_communist_smooth_talking_con_man:0 "어니스트 백스"
+ ENG_communist_lieutenant_of_industry:0 "A. A. 와츠"
+ ENG_communist_war_profiteer:0 "알버트 잉크핀"
+ ENG_communist_theorist:0 "루이스 퓨 에반스"
+ ENG_communist_air_theorist:0 "오스왈드 모슬리"
+ ENG_army_chief_maneuver:0 "윌리엄 히키 "
+ ENG_communism_army_infantry:0 "토머스 스노우"
 
  #CANADA
  CAN_idea_quebec_tension:0 "퀘벡 긴장"

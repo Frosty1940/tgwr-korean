@@ -1234,9 +1234,11 @@
  ENG_communist_war_profiteer:0 "알버트 잉크핀"
  ENG_communist_theorist:0 "루이스 퓨 에반스"
  ENG_communist_air_theorist:0 "오스왈드 모슬리"
- ENG_army_chief_maneuver:0 "윌리엄 히키 "
+ ENG_army_chief_maneuver:0 "윌리엄 히키"
  ENG_communism_army_infantry:0 "토머스 스노우"
  ENG_two_power_standard:0 "2강국 기준"
+ ENG_lords_opposition:0 "귀족의 반대"
+ ENG_lords_opposition_desc:0 "귀족원은 우리 정부에 대해 답답할 정도로 반대하고 있습니다. 그들은 지속적으로 법안과 법률을 막고 있으며, 입법을 사실상 중단케 했습니다. 그들이 태도를 바꾸고 빨리 바꾸지 않는 한, 갈수록 더 그들을 통제하기 위해 과격한 조치가 취해져야 할 것이라고 여겨지고 있습니다."
 
  #CANADA
  CAN_idea_quebec_tension:0 "퀘벡 긴장"

@@ -512,7 +512,7 @@
  TUR_fascism_party:0 "엔베르주의자"
  TUR_communism_party:0 "오스만 사회당"
  TUR_communism_party_long:0 "오스만 사회당"
- TUR_democratic_party:0 "자유와 합의"
+ TUR_democratic_party:0 "구원자 장교단"
  TUR_neutrality_party:0 "통일진보위원회"
  TUR_neutrality_party_long:0 "통일진보위원회"
 
@@ -1030,3 +1030,7 @@
  AIN_neutrality_party:0 "독립주의자"
  AIN_democratic_party:0 "민주주의자"
  AIN_communism_party:0 "볼셰비키"
+
+ PON_democratic_party:0 "Orgánosi Pontiako"
+ PON_neutrality_party:0 "Metropolis of Trebizond"
+ PON_fascism_party:0 "제4의 길"

@@ -1577,3 +1577,8 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
  #Azerbaijan POG
  AZR_republic_founder:0 "공화국의 건국자"
  AZR_republic_founder_desc:0 "매햄매드는 오늘날까지도 아제르바이잔 민주공화국의 가장 영향력 있는 건국자 중 한 명으로 여겨지고 있습니다. 이 때문에, 그는 러시아 내전의 혼란 속에 세워진 의회 민주주의에서 주목할 만한 권한을 가지고 있습니다."
+ 
+ #Greece
+ GRE_idea_national_schism:0 "국론 분열"
+ GRE_idea_national_schism_desc:0 "국론 분열은 제1차 세계 대전의 가장 중요한 사건들 중 하나입니다. 그리스는 외국 정치 위기가 나라를 뒤덮으며 둘로 분열되었습니다. 총리는 그리스를 협상국 중의 하나로 보지만, 국왕은 그리스가 동맹국과 함께하는 것이 더 좋다고 봅니다."
+ GRE_idea_dual_power:0 "이중 권력"

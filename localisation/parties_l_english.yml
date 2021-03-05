@@ -267,7 +267,7 @@
  TUS_neutrality_party:0 "합스부르크 가문"
  TUS_neutrality_party_long:0 "합스부르크로트링겐 가문"
 
- JAP_communism_party:0 "일본 공산당"
+ JAP_communism_party:0 "일본사회당"
  JAP_democratic_party:0 "입헌민정당"
  JAP_fascism_party:0 "대정익찬회"
  JAP_neutrality_party:0 "야마토 가문"
@@ -938,11 +938,10 @@
  ISR_democratic_party_long:0 "세계시온주의기구"
  ISR_neutrality_party:0 "유대영토주의협회"
  ISR_neutrality_party_long:0 "유대영토주의협회"
- ISR_communism_party:0 "유대국민기금"
- ISR_communism_party_long:0 "유대국민기금"
- #Fascist party is 100% fictional.
- ISR_fascism_party:0 "다윗주의자"
- ISR_fascism_party_long:0 "다윗의 영광스러운 기사단과 골리앗과의 전투"
+ ISR_communism_party:0 "시오니즘 사회주의"
+ ISR_communism_party_long:0 "시오니즘 사회주의 노동자당"
+ #Fascist party is 0% fictional.
+ ISR_fascism_party:0 "베타르"
 
  SOM_neutrality_party:0 "소말리아 다라위시 운동"
 

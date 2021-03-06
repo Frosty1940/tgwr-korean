@@ -993,8 +993,8 @@
  PHI_neutrality_party:0 "독립 필리핀 교회"
  PHI_neutrality_party_long:0 "독립 필리핀 교회"
 
- TRA_democratic_party:0 "트란실바니아와 바나트의 루마니아 국민당"
- TRA_democratic_party_long:0 "트란실바니아와 바나트의 루마니아 국민당"
+ TRA_democratic_party:0 "트란실바니아 바나트 루마니아 국민당"
+ TRA_democratic_party_long:0 "트란실바니아 바나트 루마니아 국민당"
 
  RHN_french_military:0 "프랑스 군정"
  RHN_french_military_long:0 "프랑스 군정"
@@ -1031,5 +1031,14 @@
  AIN_communism_party:0 "볼셰비키"
 
  PON_democratic_party:0 "Orgánosi Pontiako"
- PON_neutrality_party:0 "Metropolis of Trebizond"
+ PON_neutrality_party:0 "트레비존드 관구"
  PON_fascism_party:0 "제4의 길"
+
+ SLV_democratic_party:0 "슬로베니아 인민당"
+ SLV_democratic_party_long:0 "슬로베니아 인민당"
+ SLV_neutrality_party:0 "구 슬로베니아인"
+ 
+ TRA_neutrality_party:0 "루마니아 국민당 - 트란실바니아"
+ TRA_neutrality_party_long:0 "트란실바니아 바나트 루마니아 국민당"
+ TRA_democratic_party:0 "트란실바니아 루마니아 농민당"
+ TRA_democratic_party_long:0 "트란실바니아 루마니아 농민당"

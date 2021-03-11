@@ -930,3 +930,6 @@
  FRP_fascism_DEF:0 "프랑스"
  FRP_neutrality:0 "프랑스 왕국"
  FRP_neutrality_DEF:0 "프랑스 왕국"
+ NPA:0 "호국군"
+ NPA_DEF:0 "중화민국 호국군"
+ NPA_ADJ:0 "중국"

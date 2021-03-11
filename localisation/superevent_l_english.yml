@@ -12,7 +12,7 @@
   SE_ENG_REPUBLIC_A:0 "하느님, 백성들을 지켜 주소서"
 
   SE_eng_kitchener_T:0 "질서를 회복한 키치너"
-  SE_eng_kitchener_D:0 "\n\n"모든 사람들은 모두 자리를 지켜야 한다. 은퇴는 없어야 한다. 벽을 등지고, 우리 대의의 정의를 믿고, 우리 각자가 끝까지 싸워야 한다."\n- 더글러스 헤이그"
+  SE_eng_kitchener_D:0 "\n"모든 사람들은 모두 자리를 지켜야 한다. 은퇴는 없어야 한다. 벽을 등지고, 우리 대의의 정의를 믿고, 우리 각자가 끝까지 싸워야 한다."\n- 더글러스 헤이그"
   SE_eng_kitchener_A:0 "왕과 조국이 당신을 필요로 한다"
   
   #Russia
@@ -23,3 +23,7 @@
   SE_OCTOBER_REVOLUTION_T:0 "볼셰비키 쿠데타"
   SE_OCTOBER_REVOLUTION_D:0 "\n"혁명을 일으켰다고 자부하던 사람들은 항상 다음날 자신들이 무엇을 하고 있는지 전혀 몰랐고, 만들어 낸 혁명은 만들고 싶어했던 혁명과 조금도 닮지 않았다는 것을 보아왔다."\n- 프리드리히 엥겔스"
   SE_OCTOBER_REVOLUTION_A:0 "모든 권력을 소비에트로"
+
+  SE_rus_civil_war_winner_white_T:0 "백군의 승리"
+  SE_rus_civil_war_winner_white_D:0 "\n\n"정직한 러시아 사람들의 마음 속에서는, 조국의 행복은 조국을 해체하는 것으로 얻어지는 것이 아니다."\n- 안톤 데니킨"
+  SE_rus_civil_war_winner_white_A:0 "연합하여 나눌 수 없는"

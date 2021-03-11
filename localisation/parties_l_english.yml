@@ -121,7 +121,7 @@
  RUS_fascism_party_OMSK:0 "러시아국 정부"
  
  QIN_neutrality_party:0 "섭정의회"
- QIN_neutrality_party_puyi:0 "아이신기오로 가문"
+ QIN_neutrality_party_puyi:0 "청 왕조"
  QIN_fascism_party:0 "군국주의자"
  QIN_communism_party:0 "혁명가"
  QIN_communism_party_long:0 "혁명가"
@@ -270,7 +270,7 @@
  JAP_communism_party:0 "일본사회당"
  JAP_democratic_party:0 "입헌민정당"
  JAP_fascism_party:0 "대정익찬회"
- JAP_neutrality_party:0 "야마토 가문"
+ JAP_neutrality_party:0 "야마토 왕조"
 
  USA_communism_party:0 "미국 사회당"
  USA_communism_party_long:0 "미국 사회당"
@@ -515,6 +515,18 @@
  TUR_democratic_party:0 "구원자 장교단"
  TUR_neutrality_party:0 "통일진보위원회"
  TUR_neutrality_party_long:0 "통일진보위원회"
+ TUR_kemalist_party:0 "공화인민당"
+ TUR_kemalist_party_long:0 "공화인민당"
+ TUR_mustakil_grup_party:0 "독립당"
+ TUR_mustakil_grup_party_long:0 "독립당"
+ TUR_fascist_konsey_party:0 "파시스트 의회"
+ TUR_fascist_konsey_party_long:0 "파시스트 의회"
+ TUR_turkish_communist_party:0 "터키 공산당"
+ TUR_turkish_communist_party_long:0 "터키 공산당"
+ TUR_sultanate_party:0 "불멸의 제국"
+ TUR_sultanate_party_long:0 "불멸의 제국"
+ TUR_sultanate_precursor_party:0 "임시정부"
+ TUR_ottoman_dynasty_party:0 "오스만 왕조"
 
  HUN_democratic_party:0 "독립당과 48"
  HUN_democratic_party_long:0 "독립당과 48"
@@ -618,7 +630,7 @@
  
  PER_communism_party:0 "정의당"
  PER_democratic_party:0 "민주당"
- PER_neutrality_party:0 "카자르 가문"
+ PER_neutrality_party:0 "카자르 왕조"
  
  COL_communism_party:0 "콜롬비아 공산당"
  COL_communism_party_long:0 "콜롬비아 공산당"
@@ -695,7 +707,7 @@
  IRE_communism_party:0 "혁명노동자집단"
  IRE_communism_party_long:0 "혁명노동자집단"
  
- AFG_neutrality_party:0 "바라크자이 가문"
+ AFG_neutrality_party:0 "바라크자이 왕조"
  
  LUX_democratic_party:0 "우파당"
  LUX_communism_party:0 "사회당"
@@ -716,8 +728,8 @@
  HON_communism_party:0 "온두라스 공산당"
  HON_communism_party_long:0 "온두라스 공산당"
  
- NEP_neutrality_party:0 "샤 가문"
- NEP_democratic_party:0 "라나 가문"
+ NEP_neutrality_party:0 "라나 왕조"
+ NEP_neutrality_party_shah:0 "샤 왕조"
  
  PAN_democratic_party:0 "자유당"
  PAN_communism_party:0 "노동당"
@@ -808,7 +820,7 @@
  EGY_communism_party_long:0 "이집트 사회당"
  EGY_democratic_party:0 "자유헌법당"
  EGY_democratic_party_long:0 "자유헌법당"
- EGY_neutrality_party:0 "알라위야 가문"
+ EGY_neutrality_party:0 "알라위야 왕조"
  
  PAL_fascism_party:0 "알무카다"
  PAL_communism_party:0 "국민해방동맹"
@@ -819,8 +831,8 @@
  
  MNT_democratic_party:0 "인민당"
  MNT_democratic_party_long:0 "인민당"
- MNT_neutrality_party:0 "페트로비치네고시 가문"
- MNT_neutrality_party_long:0 "페트로비치네고시 가문"
+ MNT_neutrality_party:0 "페트로비치네고시 왕조"
+ MNT_neutrality_party_long:0 "페트로비치네고시 왕조"
  
  UKR_democratic_party:0 "우크라이나 중앙평의회"
  UKR_democratic_party_long:0 "우크라이나 중앙평의회"
@@ -902,7 +914,7 @@
  
  QAT_neutrality_party:0 "알사니 가문"
  
- ASR_neutrality_party:0 "이드리시 가문"
+ ASR_neutrality_party:0 "이드리시 왕조"
  
  SIB_neutrality_party:0 "사회주의혁명당"
  SIB_communism_party:0 "볼셰비키"
@@ -964,13 +976,13 @@
 
  ERI_neutrality_party:0 "바흐리 네가시"
 
- TAJ_neutrality_party:0 "콩기라트 가문"
+ TAJ_neutrality_party:0 "콩기라트 왕조"
  TAJ_communism_party:0 "화레즘 공산당"
  TAJ_communism_party_long:0 "화레즘 공산당"
  TAJ_democratic_party:0 "청년 히바당"  
  TAJ_fascism_party:0 "바스마시" 
 
- UZB_neutrality_party:0 "망구드 가문"
+ UZB_neutrality_party:0 "망구드 왕조"
  UZB_democratic_party:0 "청년 부하라당"  
  UZB_communism_party:0 "부하라 공산당"
  UZB_communism_party_long:0 "부하라 공산당"
@@ -978,7 +990,7 @@
 
  RYU_neutrality_party:0 "쇼씨왕통"
 
- TUN_neutrality_party:0 "후세인 가문"
+ TUN_neutrality_party:0 "후세인 왕조"
  
  KUR_democratic_party:0 "쿠르디스탄 진보회"
  KUR_democratic_party_long:0 "쿠르디스탄 진보회"
@@ -1042,3 +1054,6 @@
  TRA_neutrality_party_long:0 "트란실바니아 바나트 루마니아 국민당"
  TRA_democratic_party:0 "트란실바니아 루마니아 농민당"
  TRA_democratic_party_long:0 "트란실바니아 루마니아 농민당"
+
+ DAR_neutrality_party:0 "케이라 왕조"
+ DAR_fascism_party:0 "케이라"

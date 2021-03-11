@@ -8,6 +8,13 @@
  custom_diff_strong_sov:0 "소비에트 러시아 강화"
 
 #GAME SETUP
+ #Superevent
+ RULE_SUPEREVENT:0 "슈퍼 이벤트"
+ RULE_OPTION_DEFAULT_SUPEREVENT_DESC:0 "슈퍼 이벤트가 활성화됩니다."
+ RULE_OPTION_SUPEREVENT_DISABLED:0 "슈퍼 이벤트 비활성화"
+ RULE_OPTION_SUPEREVENT_DISABLED_DESC:0 "슈퍼 이벤트가 비활성화됩니다."
+
+
  #The Burgundy Rule >:)
  RULE_BURGUNDY_TGWR:0 "부르군트 통치"
  rule_burgundy_activated:0 "독일 승리 시 부르군트 수립"

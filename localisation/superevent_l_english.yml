@@ -1,29 +1,39 @@
 ﻿l_english:
-  SE_TEST_T:0 "))))"
-  SE_TEST_D:0 "\nBruh.\n- Ahmet Samet"
-  SE_TEST_A:0 "((((("
-  SE_WAR_OF_THE_WORLDS_T:0 "우주전쟁"
-  SE_WAR_OF_THE_WORLDS_D:0 "\n\n"이건 전쟁이 아닙니다. 전쟁인 적이 없었습니다. 인간과 개미 사이의 전쟁이나 마찬가지입니다."\n- 포병"
-  SE_WAR_OF_THE_WORLDS_A:0 "가능성은 극히 없었다..."
+	SE_TEST_T:0 "))))"
+	SE_TEST_D:0 "\nBruh.\n- Ahmet Samet"
+	SE_TEST_A:0 "((((("
 
-  #Britain
-  SE_ENG_REPUBLIC_T:0 "브리튼 공화국"
-  SE_ENG_REPUBLIC_D:0 ""몇 세기 전, 어느 날 서민들과 맞서 싸웠던 한 왕은 정말 머리가 잘렸습니다. 나중에, 그의 후손 중 한 명은 가능한 한 빨리 나가라는 말을 들었습니다. 그날 이후로 왕과 여왕은 그들이 되어야 할 존재였습니다. 그들은 결코 일상적인 정치에 간섭하지 않았고, 조지 5세는 지금 곤경에 빠지지 않도록 하는 것이 좋을 것입니다."\n- 조지 랜스버리"
-  SE_ENG_REPUBLIC_A:0 "하느님, 백성들을 지켜 주소서"
+	SE_WAR_OF_THE_WORLDS_T:0 "우주전쟁"
+	SE_WAR_OF_THE_WORLDS_D:0 "\n\n"이건 전쟁이 아닙니다. 전쟁인 적이 없었습니다. 인간과 개미 사이의 전쟁이나 마찬가지입니다."\n- 포병"
+	SE_WAR_OF_THE_WORLDS_A:0 "가능성은 극히 없었다..."
 
-  SE_eng_kitchener_T:0 "질서를 회복한 키치너"
-  SE_eng_kitchener_D:0 "\n"모든 사람들은 모두 자리를 지켜야 한다. 은퇴는 없어야 한다. 벽을 등지고, 우리 대의의 정의를 믿고, 우리 각자가 끝까지 싸워야 한다."\n- 더글러스 헤이그"
-  SE_eng_kitchener_A:0 "왕과 조국이 당신을 필요로 한다"
-  
-  #Russia
-  SE_FEBRUARY_REVOLUTION_T:0 "[GetMonth] 혁명"
-  SE_FEBRUARY_REVOLUTION_D:0 "\n\n"내 주위에는 배반, 비겁, 기만밖에 없다..."\n- 니콜라이 2세"
-  SE_FEBRUARY_REVOLUTION_A:0 "토지와 자유"
-  
-  SE_OCTOBER_REVOLUTION_T:0 "볼셰비키 쿠데타"
-  SE_OCTOBER_REVOLUTION_D:0 "\n"혁명을 일으켰다고 자부하던 사람들은 항상 다음날 자신들이 무엇을 하고 있는지 전혀 몰랐고, 만들어 낸 혁명은 만들고 싶어했던 혁명과 조금도 닮지 않았다는 것을 보아왔다."\n- 프리드리히 엥겔스"
-  SE_OCTOBER_REVOLUTION_A:0 "모든 권력을 소비에트로"
+	SE_great_war_T:0 "대전쟁"
+	SE_great_war_D:0 "경이로운 나팔소리가,\n만방의 무덤 사이로 울려퍼지며,\n모든 이들을 옥좌 곁으로 불러모은다.\n\n죽음이 실색하고 대자연 또한 그러하리,\n모든 피조물이 다시 일어나,\n심판에 응답할 때."
+	SE_great_war_A:0 "모든 전쟁을 끝내기 위한 전쟁"
 
-  SE_rus_civil_war_winner_white_T:0 "백군의 승리"
-  SE_rus_civil_war_winner_white_D:0 "\n\n"정직한 러시아 사람들의 마음 속에서는, 조국의 행복은 조국을 해체하는 것으로 얻어지는 것이 아니다."\n- 안톤 데니킨"
-  SE_rus_civil_war_winner_white_A:0 "연합하여 나눌 수 없는"
+	#Britain
+	SE_ENG_REPUBLIC_T:0 "브리튼 공화국"
+	SE_ENG_REPUBLIC_D:0 ""몇 세기 전, 어느 날 서민들과 맞서 싸웠던 한 왕은 정말 머리가 잘렸습니다. 나중에, 그의 후손 중 한 명은 가능한 한 빨리 나가라는 말을 들었습니다. 그날 이후로 왕과 여왕은 그들이 되어야 할 존재였습니다. 그들은 결코 일상적인 정치에 간섭하지 않았고, 조지 5세는 지금 곤경에 빠지지 않도록 하는 것이 좋을 것입니다."\n- 조지 랜스버리"
+	SE_ENG_REPUBLIC_A:0 "하느님, 백성들을 지켜 주소서"
+
+	SE_eng_kitchener_T:0 "질서를 회복한 키치너"
+	SE_eng_kitchener_D:0 "\n"모든 사람들은 모두 자리를 지켜야 한다. 은퇴는 없어야 한다. 벽을 등지고, 우리 대의의 정의를 믿고, 우리 각자가 끝까지 싸워야 한다."\n- 더글러스 헤이그"
+	SE_eng_kitchener_A:0 "왕과 조국이 당신을 필요로 한다"
+	
+	#Russia
+	SE_FEBRUARY_REVOLUTION_T:0 "[GetMonth] 혁명"
+	SE_FEBRUARY_REVOLUTION_D:0 "\n\n"내 주위에는 배반, 비겁, 기만밖에 없다..."\n- 니콜라이 2세"
+	SE_FEBRUARY_REVOLUTION_A:0 "토지와 자유"
+	
+	SE_OCTOBER_REVOLUTION_T:0 "볼셰비키 쿠데타"
+	SE_OCTOBER_REVOLUTION_D:0 "\n"혁명을 일으켰다고 자부하던 사람들은 항상 다음날 자신들이 무엇을 하고 있는지 전혀 몰랐고, 만들어 낸 혁명은 만들고 싶어했던 혁명과 조금도 닮지 않았다는 것을 보아왔다."\n- 프리드리히 엥겔스"
+	SE_OCTOBER_REVOLUTION_A:0 "모든 권력을 소비에트로"
+
+	SE_rus_civil_war_winner_white_T:0 "백군의 승리"
+	SE_rus_civil_war_winner_white_D:0 "\n\n"정직한 러시아 사람들의 마음 속에서는, 조국의 행복은 조국을 해체하는 것으로 얻어지는 것이 아니다."\n- 안톤 데니킨"
+	SE_rus_civil_war_winner_white_A:0 "연합하여 나눌 수 없는"
+	
+	######
+	SE_mex_revolution_T:0 "멕시코 혁명"
+	SE_mex_revolution_D:0 "\n\n"국가는 국민과 부와 발전을 공유하며 국토를 진정으로 사랑하는 사람에 의해 통치되어야 한다. 나는 그 모든 것을 갖추고 있다. 단지 내가 무식할 뿐이다."\n- 프란시스코 비야"
+	SE_mex_revolution_A:0 "땅과 자유"

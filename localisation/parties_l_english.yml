@@ -1059,3 +1059,6 @@
 
  DAR_neutrality_party:0 "케이라 왕조"
  DAR_fascism_party:0 "케이라"
+
+ NMB_neutrality_party:0 "식민지"
+ NMB_democratic_party:0 "헤레로인"

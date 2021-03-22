@@ -226,7 +226,7 @@
  RUS_civil_war:0 "러시아 내전"
  
  basmach_released:0 "바스마시 해방됨"
- alash_released:0 "카자흐 해방됨"
+ alash_released:0 "카자크 해방됨"
  finland_released:0 "핀란드 해방됨"
  poland_released:0 "폴란드 해방됨"
  estonia_released:0 "에스토니아 해방됨"
@@ -375,8 +375,6 @@
  CHI_GXC_attack_GDC:0 "광동-광서 전쟁"
  CHI_GDC_kuomintang_government:0 "국민당 기지 설립"
  CHI_zhili_annex_jiangsu:0 "강소 합병"
- CHI_FNG_form_guominjun:0 "국민군 형성"
- CHI_GMJ_leave_FNG:0 "봉천 동맹 탈퇴"
  CHI_XSM_take_ningxia:0 "영하 합병"
  CHI_ANC_conquer_mongolia:0 "몽골 합병"
  CHI_unite_china_XSM:0 "[XSM.GetName]의 운명"

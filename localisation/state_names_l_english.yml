@@ -638,7 +638,7 @@
  STATE_637:0 "캄차카"
  STATE_638:0 "괌"
  STATE_639:0 "길버트 제도"
- STATE_640:0 "만달레이"
+ STATE_640:0 "샨"
  STATE_641:0 "타히티"
  STATE_642:0 "피닉스 섬"
  STATE_643:0 "엘리스 제도"
@@ -842,6 +842,7 @@
  STATE_840:0 "두랑고"
  STATE_841:0 "사카테카스"
  STATE_842:0 "산루이스포토시"
+ STATE_843:0 "타닌타이"
 
  YODONG_STATE:0 "요동"
  SEOGANDO_STATE:0 "서간도"

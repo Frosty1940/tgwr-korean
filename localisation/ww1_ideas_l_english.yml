@@ -1584,3 +1584,11 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
  GRE_idea_national_schism:0 "국론 분열"
  GRE_idea_national_schism_desc:0 "국론 분열은 제1차 세계 대전의 가장 중요한 사건들 중 하나입니다. 그리스는 외국 정치 위기가 나라를 뒤덮으며 둘로 분열되었습니다. 총리는 그리스를 협상국 중의 하나로 보지만, 국왕은 그리스가 동맹국과 함께하는 것이 더 좋다고 봅니다."
  GRE_idea_dual_power:0 "이중 권력"
+
+ #Sennusi
+ LBA_Senussi_Order:0 "세누시 체제"
+ LBA_traders_of_east_sahara:0 "동사하라의 상인"
+ 
+ #Wadai
+ CHA_elite_cavalry:0 "정예 기병"
+ CHA_elite_cavalry_desc:0 "와다이에는 기동전과 그 지역에서 전통적인 전쟁으로 간주되는 끊임없는 습격에 능통한 능력 있고 경험이 풍부한 군대가 있습니다. 이 군대의 핵심은 정예 기병대로, 그들 중 많은 수가 전사 귀족에 속합니다."

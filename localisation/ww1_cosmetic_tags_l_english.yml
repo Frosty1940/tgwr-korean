@@ -933,3 +933,7 @@
  NPA:0 "호국군"
  NPA_DEF:0 "중화민국 호국군"
  NPA_ADJ:0 "중국"
+ NPA_fascism:0 "북양정부"
+ NPA_fascism_DEF:0 "중화민국 북양정부"
+ NPA_democratic:0 "남경군벌"
+ NPA_democratic_DEF:0 "남경군벌"

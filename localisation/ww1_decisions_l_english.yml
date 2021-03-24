@@ -428,6 +428,8 @@
  yung_feng_incident:0 "영풍함 사건"
  SDC_sue_for_peace_FNG:0 "강화 제의"
  second_zhili_fengtian_war:0 "2차 직봉전쟁"
+ CHI_sue_for_peace_QIN:0 "혁명 포기"
+ CHI_sue_for_peace_QIN_desc:0 "혁명은 실패했습니다. 청군이 공화주의자들을 완전히 압도했습니다. 지금이라도 흩어져 훗날을 도모해야 합니다."
  
  TUR_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
  TUR_sue_for_peace_ITA:0 "이탈리아에게 항복 조건 제시"

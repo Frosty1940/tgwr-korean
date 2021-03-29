@@ -41,3 +41,14 @@
 	SE_mex_revolution_T:0 "멕시코 혁명"
 	SE_mex_revolution_D:0 "\n\n"국가는 국민과 부와 발전을 공유하며 국토를 진정으로 사랑하는 사람에 의해 통치되어야 한다. 나는 그 모든 것을 갖추고 있다. 단지 내가 무식할 뿐이다."\n- 프란시스코 비야"
 	SE_mex_revolution_A:0 "땅과 자유"
+
+	######## Songs
+ SE_mex_revolution:0 "총과 심장"
+ SE_eng_republic:0 "적기가"
+ SE_war_of_the_worlds:0 "데드 런던"
+ SE_great_war:0 "진노의 날"
+ SE_eng_kitchener:0 "옛 깃발이 내려가지 않게 하리라"
+ SE_rus_february_revolution:0 "노동자 마르세예즈"
+ SE_rus_october_revolution:0 "용감하게, 동지들, 행진하자!"
+ SE_rus_civil_war_winner_white:0 "슬라브스야"
+ SE_rus_civil_war_winner_red:0 "작은 사과"

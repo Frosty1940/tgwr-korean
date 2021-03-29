@@ -1,16 +1,17 @@
 ﻿l_english:
 
  # TGW Soundtracks
- ottoman_theme:0 "정복자 국가 (Fetih Marşı)"
- russian_empire_theme:0 "슬라브 여인의 작별 (Farewell of Slavianka)"
- russian_empire_theme_gachi:0 "슬라브 여인의 작별 (Farewell of Slaveianka)" #take it boy
- british_theme:0 "길이 멀구나 (It's Long Way)"
- italian_theme:0 "이손초 전투 (Battle of Isonzo)"
- battle_of_marne:0 "마른강 전투 (Battle of Marne)"
- red_baron:0 "붉은 남작 (Red Baron)"
- flanders_field:0 "개양귀비 들판에서 (In Flanders Field)"
- main_theme_allies:0 "하츠 오브 아이언 테마 (Hearts of Iron Theme)"
- motherland:0 "조국 (Motherland)" #Bi-2
- its_a_long_way_to_mukumbura:0 "무쿰부라까지는 길이 멀구나 (It's a Long Way to Mukumbura)"
+ maintheme:0 "메인 테마"
+ ottoman_theme:0 "정복자 국가"
+ russian_empire_theme:0 "슬라브 여인의 작별"
+ russian_empire_theme_gachi:0 "슬레이브 여인의 작별 (옳게 된 버전)" #take it boy
+ british_theme:0 "길이 멀구나"
+ italian_theme:0 "이손초 전투"
+ battle_of_marne:0 "마른강 전투"
+ red_baron:0 "붉은 남작"
+ flanders_field:0 "개양귀비 들판에서"
+ main_theme_allies:0 "하츠 오브 아이언 테마"
+ motherland:0 "조국" #Bi-2
+ its_a_long_way_to_mukumbura:0 "무쿰부라까지는 길이 멀구나"
 
  # The Great war music submod

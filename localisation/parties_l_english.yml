@@ -46,8 +46,8 @@
  centrism:0 "중도주의"
  centrism_desc:0 "중도주의는 현재와 미래에 필요한 것들을 상식적인 것으로 적절히 연설을 통해 해결하기를 원하는 정부의 한 형태로, 대중의 믿음과 위험을 고려하는 중도선을 이러한 요구의 맥락에서 수용하는 것을 지지합니다."
  #Proto-Fascism
- military_dictatorship:0 "군부독재"
- military_dictatorship_desc:0 "군부독재란 군부가 정치적 권위에 대해 완전하거나 실질적인 통제권을 행사하는 독재입니다. 군 지도자들은 종종 군정으로서 통치하고, 그들 중 한 명을 우두머리로 뽑습니다. 군부독재 정권은 대개 일종의 정치적 혼란이나 중대한 사건의 결과로 형성됩니다."
+ military_dictatorship:0 "군인정치"
+ military_dictatorship_desc:0 "군인정치는 군부가 사회의 측면과 국가의 정치에 실질적인 통제권을 행사하는 통치체계입니다. 종종 질서를 회복하기 위해 군부가 지휘를 하는 비상 정부이지만, 강한 국민과 국가를 믿는 사람들을 위한 지도적 원칙으로도 간혹 나타납니다."
  fundamentalism:0 "근본주의"
  fundamentalism_desc:0 "근본주의는 종교 내의 어떤 종파나 운동을 말하는데, 종교의 근본원리로서 자신이 자임하고 있는 것을 경직되게 고수하는 것을 강조하여 대체적인 실천과 해석의 폄하를 초래합니다."
  national_syndicalism:0 "국민생디칼리슴"
@@ -130,6 +130,7 @@
  QIN_communism_party_long:0 "혁명가"
  QIN_democratic_party:0 "동맹회"
  QIN_democratic_party_long:0 "동맹회"
+ QIN_progressive_party:0 "진보당"
 
  POL_communism_party:0 "폴란드 사회당"
  POL_communism_party_long:0 "폴란드 사회당"
@@ -1050,8 +1051,6 @@
 
  AIN_fascism_party:0 "군국주의자"
  AIN_neutrality_party:0 "독립주의자"
- AIN_democratic_party:0 "민주주의자"
- AIN_communism_party:0 "볼셰비키"
 
  PON_democratic_party:0 "Orgánosi Pontiako"
  PON_neutrality_party:0 "트레비존드 관구"

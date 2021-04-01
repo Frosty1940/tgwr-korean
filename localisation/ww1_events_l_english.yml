@@ -1316,6 +1316,14 @@
  ww1_china.55.a:0 "[QIN.GetNameDef] 측은 아직 죽지 않았다!"
  ww1_china.55.b:0 "[JNC.GetNameDef] 측은 신해혁명의 후계이다."
  ww1_china.55.c:0 "[FNG.GetNameDef] 측이 기회를 엿본다."
+
+ ww1_xinjiang.1.t:0 "양쩡신의 암살"
+ ww1_xinjiang.1.d:0 "양쩡신이 암살당했습니다. 진수런이 군사총독으로 그를 대신합니다."
+ ww1_xinjiang.1.a:0 "아 이런."
+ ww1_xinjiang.2.t:0 "막수드 샤의 죽음"
+ ww1_xinjiang.2.d:0 "[KUM.GetName]의 막수드 샤가 사망했습니다."
+ ww1_xinjiang.2.a:0 "아 이런."
+ ww1_xinjiang.2.b:0 "흠."
  
  ww1_siam.1.a:0 "라마 6세가 왕이다."
  ww1_siam.1.d:0 "10월 23일 – 와치라웃 (라마 6세)는 그의 아버지인 쭐랄롱꼰 왕 (라마 5세)이 죽은 후 시암왕으로 즉위합니다."

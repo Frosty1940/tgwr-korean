@@ -33,16 +33,22 @@
 	SE_rus_civil_war_winner_white_D:0 "\n\n"정직한 러시아 사람들의 마음 속에서는, 조국의 행복은 조국을 해체하는 것으로 얻어지는 것이 아니다."\n- 안톤 데니킨"
 	SE_rus_civil_war_winner_white_A:0 "연합하여 나눌 수 없는"
 
-  SE_rus_civil_war_winner_red_T:0 "적군의 승리"
-  SE_rus_civil_war_winner_red_D:0 "\n\n"만일 우리가 파괴 공작원과 백군을 쏠 준비가 되지 않았다면, 그게 대체 어디가 혁명이란 말인가? 그건 그저 수다와 곤죽 한 그릇일 뿐이다."\n- 블라디미르 레닌"
-  SE_rus_civil_war_winner_red_A:0 "만국의 노동자여, 단결하라!"
+	SE_rus_civil_war_winner_red_T:0 "적군의 승리"
+	SE_rus_civil_war_winner_red_D:0 "\n\n"만일 우리가 파괴 공작원과 백군을 쏠 준비가 되지 않았다면, 그게 대체 어디가 혁명이란 말인가? 그건 그저 수다와 곤죽 한 그릇일 뿐이다."\n- 블라디미르 레닌"
+	SE_rus_civil_war_winner_red_A:0 "만국의 노동자여, 단결하라!"
 	
 	######
 	SE_mex_revolution_T:0 "멕시코 혁명"
 	SE_mex_revolution_D:0 "\n\n"국가는 국민과 부와 발전을 공유하며 국토를 진정으로 사랑하는 사람에 의해 통치되어야 한다. 나는 그 모든 것을 갖추고 있다. 단지 내가 무식할 뿐이다."\n- 프란시스코 비야"
 	SE_mex_revolution_A:0 "땅과 자유"
 
+	#####
+	SE_chi_xinhai_revolution_T:0 "신해혁명"
+	SE_chi_xinhai_revolution_D:0 "\n\n"혁명의 사상이 승리하려면 정치적 계몽을 통한 것이어야 한다. 무력으로 이를 강요하려 해도 소용없다."\n- 쑨원"
+	SE_chi_xinhai_revolution_A:0 "민주! 민권! 민생!"
+
 	######## Songs
+ SE_chi_xinhai_revolution:0 "불굴의 정신"
  SE_mex_revolution:0 "총과 심장"
  SE_eng_republic:0 "적기가"
  SE_war_of_the_worlds:0 "데드 런던"

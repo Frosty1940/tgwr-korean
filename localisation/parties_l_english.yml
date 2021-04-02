@@ -664,9 +664,10 @@
  SLO_democratic_party_long:0 "슬로바키아 국민당"
  SLO_neutrality_party:0 "체코슬로바키아 군단"
 
- CHL_democratic_party:0 "국민당"
+ CHL_democratic_party:0 "자유당"
  CHL_communism_party:0 "사회노동당"
  CHL_communism_party_long:0 "사회노동당"
+ CHL_neutrality_party:0 "보수당"
 
  ETH_neutrality_party:0 "솔로몬 가문"
  

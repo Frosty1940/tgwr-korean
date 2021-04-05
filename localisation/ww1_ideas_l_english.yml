@@ -1591,6 +1591,7 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
 
  #Sennusi
  LBA_Senussi_Order:0 "세누시 체제"
+ LBA_Senussi_Order_desc:0 "이기거나 죽으리라."
  LBA_traders_of_east_sahara:0 "동사하라의 상인"
  
  #Wadai

@@ -100,6 +100,10 @@
  FRA_suppress_army_rebellion:0 "군사반란 진압!"
  FRA_rebellious_army:0 "반란군"
  FRA_rebellious_army_desc:0 "반란은 프랑스군의 전면적인 봉기로 확대되었습니다."
+ FRA_wadai_war:0 "와다이 전쟁"
+ FRA_wadai_war_timer:0 "와다이 침공"
+ FRA_pull_out_from_wadai:0 "와다이에서 철수"
+ wadai_war_end:0 "와다이 전쟁이 끝났습니다."
 
  NFA_occupy_malta:0 "몰타 점령"
  NFA_sue_for_peace_FRC:0 "프랑스 본토에서 철수"

@@ -702,6 +702,8 @@
  EGY_sultanate_neutrality_DEF:0 "이집트 술탄국"
  EGY_kingdom_neutrality:0 "이집트 왕국"
  EGY_kingdom_neutrality_DEF:0 "이집트 왕국"
+ TUR_junta_neutrality:0 "오스만 군사정부"
+ TUR_junta_neutrality_DEF:0 "오스만 제국 군사정부"
  TUR_TRN_neutrality:0 "범투란"
  TUR_TRN_neutrality_DEF:0 "범투란"
  TUR_TRN_neutrality_ADJ:0 "튀르크"

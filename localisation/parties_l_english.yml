@@ -239,7 +239,9 @@
  
  ITA_communism_party:0 "이탈리아 사회당"
  ITA_communism_party_long:0 "이탈리아 사회당"
- ITA_democratic_party:0 "자유연합"
+ ITA_democratic_party:0 "우파"
+ ITA_democratic_left_party:0 "좌파"
+ ITA_democratic_liberal_union_party:0 "자유연합"
  ITA_democratic_republican_party:0 "이탈리아 급진당"
  ITA_democratic_republican_party_long:0 "이탈리아 급진당"
  ITA_democratic_reformist_party:0 "이탈리아 개혁사회당"

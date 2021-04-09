@@ -72,6 +72,7 @@
  GER_advisors_RUS:0 "[RUS.GetName] 측에 고문 파견"
  GER_afghan_expeditions:0 "아프가니스탄 원정"
  GER_niedermayerhentig_recruit:0 "니더마이어와 폰 헨티히 고용"
+ GER_niedermayer_hentig_recruited:0 "니더마이어와 폰 헨티히 고용됨"
  GER_ottoman_allow_afg:0 "오스만군의 원정 참여 허용"
  GER_begin_afghan_expedition:0 "아프가니스탄 원정 시작"
  GER_tribal_approval_AFG:0 "아프간 부족들의 승인 받기"

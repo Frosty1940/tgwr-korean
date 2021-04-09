@@ -2453,9 +2453,12 @@
  ww1_germany.77.t:0 "슐리펜의 죽음!"
  ww1_germany.77.d:0 "1913년 1월 4일, 전 총참모장 알프레트 폰 슐리펜이 고령으로 사망했습니다. 그는 유사시 프랑스-러시아 협상국과 전쟁이 벌어질 경우의 대응 전략을 구상한 것으로 유명했습니다."
  ww1_germany.77.a:0 "메멘토 모리."
- ww1_germmany.78.t:0 "원정길"
- ww1_germmany.78.d:0 "원정 계획을 짜는 데 있어, 아프가니스탄으로 갈 경로를 선택해야 합니다."
+ ww1_germany.78.t:0 "카불에 도착한 원정대"
+ ww1_germany.78.d:0 "카불의 에미르를 만나기 위해 출발한 아프가니스탄 원정대가 마침내 도착했습니다."
+ ww1_germany.78.a:0 "훌륭히 해냈다!"
+ ww1_germany.79.t:0 "동맹국에 가입한 아프가니스탄"
  ww1_germany.79.d:0 "인도와 아프가니스탄에 아프간 병사들과 독일 장교들이 북인도를 침공하였으며, 인도와 아프간군 간에 일부 접전이 벌어졌다는 소식이 왔습니다. 그것은"
+ ww1_germany.79.a:0 "전쟁이 확대된다."
 
 
  #Undead Unicorn's super duper Germany collapse event chain
@@ -4609,8 +4612,6 @@
  #Lithuania
  ww1_lithuania.2.t:0 "자신들의 땅을 요구하는 폴란드와 벨라루스 민족주의자들"
  ww1_lithuania.2.d:0 "폴란드와 벨라루스의 민족주의자들은 폴란드와 벨라루스의 영토에 대한 리투아니아 왕국의 점유에 대해 불평해왔습니다. 이제 그들은 우리에게 민족을 기준으로 국경을 조정할 것을 요구하고 있습니다."
- ww1_lithuania.2.a:0 "우리가 왜 그렇게 국경을 정했지?"
- ww1_lithuania.2.b:0 "집으로 돌아가라, 머저리들아."
 
 #Hungary
 ww1_hungary.1.t:0 "혁명!"
@@ -5177,5 +5178,13 @@ ww1_hungary.2.a:0 "그에게 기회를 줘라."
  ww1_siam.7.a:0 "협상국."
  ww1_siam.7.b:0 "동맹국!"
  #Afghanistan
+ ww1_afghanistan.1.t:0 "동맹국으로부터의 제안"
+ ww1_afghanistan.1.d:0 "독일 제국의 니더마이어-헨티히 원정이 시작되었고 오스만 제국이 에미르를 만나기 위해 카불에 도착했습니다. 그들은 아프가니스탄과 독일 제국 간의 조약을 제안하였는데, 그 내용은 우리가 협상국과 전쟁을 벌인다면 무기, 독립, 인력, 영토를 보장해 주겠다는 것입니다."
  ww1_afghanistan.1.a:0 "중립을 계속 지킬 것이다."
  ww1_afghanistan.1.b:0 "동맹국에 가입할 것이다!"
+ ww1_afghanistan.2.t:0 "PLACEHOLDER"
+ ww1_afghanistan.2.d:0 "PLACEHOLDER"
+ ww1_afghanistan.2.a:0 "PLACEHOLDER"
+ ww1_afghanistan.3.t:0 "카불에 도착한 독일 고문단"
+ ww1_afghanistan.3.d:0 "독일 군사고문이 우리 군대를 훈련하고 현대화하기 위해 오늘 카불에 도착했습니다. 이는 포병 훈련, 현대적인 전술, 몇 명의 장교가 포함됩니다."
+ ww1_afghanistan.3.a:0 "현대적인 군대를 갖게 될 것이다."

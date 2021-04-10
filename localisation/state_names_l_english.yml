@@ -845,6 +845,10 @@
  STATE_843:0 "타닌타이"
  STATE_844:0 "모렐로스"
  STATE_845:0 "타크나"
+ STATE_846:0 "만갈리아"
+ STATE_847:0 "코소보"
+ STATE_848:0 "페야"
+
 
  YODONG_STATE:0 "요동"
  SEOGANDO_STATE:0 "서간도"

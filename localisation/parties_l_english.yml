@@ -13,6 +13,10 @@
  conservatism_desc:0 "급격한 변화란 사회에 잠재적인 해로움이 된다고 생각하는 보수주의자들은 전통과 온건한 개혁,  때때로 오래된 도덕적 가치관으로 돌아가는 것을 지지합니다."
  liberalism:0 "자유주의"
  liberalism_desc:0 "개인의 자유를 존중하는 오랜 철학적 전통을 통해, 자유주의는 이러한 권리를 보장하는 것을 국가의 주요 기능으로 간주합니다."
+ classical_liberalism:0 "고전적 자유주의"
+ classical_liberalism_desc:0 "자유, 권리, 개인주의, 이성, 관용의 이념인 고전적 자유주의는 투표권이 있는 제한된 이원집정부제를 선호합니다."
+ social_liberalism:0 "사회자유주의"
+ social_liberalism_desc:0 "집단적 주요와 권리의 이념인 사회자유주의는 사회 복지와 정의를 선호합니다. 국가 문제에 대해서는 자유를 선호하는 고전적 자유주의와 달리, 사회자유주의는 세금, 개인, 단체, 기업에 대한 규제, 정부를 통한 사회 정의와 사회 복지를 보장하기 위한 노력 등 고전적으로 보수적인 요소가 혼합되어 있습니다."
  socialism:0 "사회민주주의"
  socialism_desc:0 "개혁의 수단이 될 사회주의 국가와 평등에 대한 갈망을 통해, 사회민주주의는 국민의 위임을 통한 자본주의적 영향의 완화 혹은 폐지를 추구합니다."
  agrarianism:0 "농본주의"
@@ -625,8 +629,8 @@
  SWI_fascism_party_long:0 "스위스 애국연맹" #Swiss Patriotic Federation
  SWI_communism_party:0 "스위스 사회당"
  SWI_communism_party_long:0 "스위스 사회당"
- SWI_democratic_party:0 "연방평의회"
- SWI_democratic_party_long:0 "연방평의회"
+ SWI_democratic_party:0 "자유민주당"
+ SWI_democratic_party_long:0 "자유민주당"
  SWI_neutrality_party:0 "스위스군"
  
  RAJ_neutrality_party:0 "인도 총독부"

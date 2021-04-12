@@ -42,13 +42,18 @@
 	SE_mex_revolution_D:0 "\n\n"국가는 국민과 부와 발전을 공유하며 국토를 진정으로 사랑하는 사람에 의해 통치되어야 한다. 나는 그 모든 것을 갖추고 있다. 단지 내가 무식할 뿐이다."\n- 프란시스코 비야"
 	SE_mex_revolution_A:0 "땅과 자유"
 
-	#####
+	#China
 	SE_chi_xinhai_revolution_T:0 "신해혁명"
 	SE_chi_xinhai_revolution_D:0 "\n\n"혁명의 사상이 승리하려면 정치적 계몽을 통한 것이어야 한다. 무력으로 이를 강요하려 해도 소용없다."\n- 쑨원"
 	SE_chi_xinhai_revolution_A:0 "민주! 민권! 민생!"
 
+	SE_chi_warlord_era_T:0 "군벌시대"
+  SE_chi_warlord_era_D:0 "\n\n"나라는 가난과 나약을 걱정할 필요는 없다. 그러나 나라에 덕이 없다면 나라가 반드시 무너지고 고칠 수 없을 것이다."\n- 위안스카이"
+  SE_chi_warlord_era_A:0 "부진장강곤곤래."
+
 	######## Songs
  SE_chi_xinhai_revolution:0 "불굴의 정신"
+ SE_chi_warlord_era:0 "견고하게 빛나는 상배"
  SE_mex_revolution:0 "총과 심장"
  SE_eng_republic:0 "적기가"
  SE_war_of_the_worlds:0 "데드 런던"

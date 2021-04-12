@@ -1353,6 +1353,10 @@
  ww1_china.55.a:0 "[QIN.GetNameDef] 측은 아직 죽지 않았다!"
  ww1_china.55.b:0 "[JNC.GetNameDef] 측은 신해혁명의 후계이다."
  ww1_china.55.c:0 "[FNG.GetNameDef] 측이 기회를 엿본다."
+ ww1_china.56.t:0 "군벌시대"
+ ww1_china.56.d:0 "여러 차례의 내전과 군벌 봉기에 이어 형체만을 갖추고 있던 통일 중국은 완전히 무너졌습니다."
+ ww1_china.56.a:0 "누가 중원을 통일할 것인가?"
+ ww1_china.56.b:0 "큰 변동이다."
 
  ww1_xinjiang.1.t:0 "양쩡신의 암살"
  ww1_xinjiang.1.d:0 "양쩡신이 암살당했습니다. 진수런이 군사총독으로 그를 대신합니다."

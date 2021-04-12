@@ -922,6 +922,7 @@
  GER_idea_nazism:0 "나치즘의 대두"
  GER_idea_nazism2:0 "나치 소요"
  GER_idea_nazi_purge:0 "장검의 밤"
+ GER_idea_nazi_purge_desc:0 "아돌프 히틀러는 정권을 잡은 뒤, 나치당의 준군사조직이었던 돌격대와 독일 국방군 내의 반항 세력, 그 밖의 반 나치 세력을 숙청하였습니다. 이제 누구도 독일 안에서는 그의 권위에 도전할 수 없습니다."
  GER_idea_reparations:0 "배상금"
  GER_idea_german_factories:0 "독일 투자"
  GER_idea_german_techs:0 "독일 기술"
@@ -990,6 +991,10 @@
  GER_mitteleuropa:0 "미텔오이로파"
  GER_reformed_economy:0 "개혁된 경제"
  GER_representative_reform_idea:0 "대표 개혁"
+ GER_idea_hitler_arrested:0 "맥주홀 폭동 실패"
+ GER_idea_hitler_arrested_desc:0 "뮌헨 맥주홀 폭동의 실패로 아돌프 히틀러가 체포되었습니다. 그러나 그의 지지자들은 여전히 있으며 그는 법정에서마저 애국자로 비춰졌습니다."
+ GER_ss_idea:0 "친위대"
+ GER_ss_idea_desc:0 "친위대(Schutzstaffel; SS)는 아돌프 히틀러와 나치 독일의 나치당 산하의 주요 준군사조직입니다."
  
  #AUSTRIA-HUNGARY
  AUH_ww1_House_Habsburg_Lorraine:0 "합스부르크-로트링겐 가문"

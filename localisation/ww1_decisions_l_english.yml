@@ -131,6 +131,8 @@ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을
  AUH_HRE:0 "신성 로마 제국의 부활"
  AUH_HRE_desc:0 "우리 제국은 한때 모든 독일 국민들을 지배했습니다. 그리고 사람들은 우리를 로마라고 불렀습니다. 그리고 다시, 우리는 그 영광을 되찾을 것입니다."
  AUH_austrian_east_asia:0 "동아시아 식민지에 주 이양"
+ AUH_decision_mittelafrika:0 "미텔아프리카 수립 및 확장"
+ AUH_decision_mittelafrika_desc:0 "대전 승리로 얻은 광대한 아프리카 식민지는 미텔아프리카라는 단일 식민 행정부 아래에 통합될 수 있습니다. 이는 우리 제국에 부와 영광을 가져다 줄 것입니다."
  
  member_of_entente_armistice:0 "항복 거부\n"
  member_of_entente:0 "동맹국의 적\n"

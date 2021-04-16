@@ -2185,8 +2185,7 @@
  SER_creating_balkan_league:0 "발칸 동맹 통합"
  odbili_albaniju:0 "알바니아 포기 거부"
  
- ITA_early_industrialization:0 "초기 산업화"
- ITA_moderate_protectionism:0 "온건한 보호주의"
+
  ITA_moderate_protectionism_desc:0 "경제정책을 주의 깊게 계획하는 것은 중요합니다."
  ITA_istituto_nazionale_delle_assicurazioni:0 "국립보험공사"
  ITA_istituto_nazionale_delle_assicurazioni_desc:0 "농산상업부 장관인 프란체스코 사베리오 니티는 국유화를 위한 국립보험공사의 설립을 제안했습니다. 사장은 젊은 사회주의자인 알베르토 베네두체가 맡을 것입니다."
@@ -4975,7 +4974,6 @@ CAN_storm_troopers_desc:0 "새로운 병사가 전장에서 닳았습니다. 영
 
  1_CAN_tt: "§Y카리브 보호령§!을 설립합니다"
  2_CAN_tt: "§Y북아메리카와 남아메리카§!를 독립보장합니다"
- 1111_CAN_tt: "§C함선은 아직 작업 중이니, 해군 재작업을 기다려주세요.§!"
 
  NOR_norske_haeren: "노르웨이 육군"
  NOR_forsvaret:0 "노르웨이군"

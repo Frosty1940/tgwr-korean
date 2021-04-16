@@ -1,4 +1,33 @@
 ﻿l_english:
+#ideology tratits
+ trait_conservatism:0 "보수주의자"
+ trait_social_liberalism:0 "사회자유주의자"
+ trait_classical_liberalism:0 "자유주의자"
+ trait_socialism:0 "사회민주주의자"
+ trait_agrarianism:0 "농본주의자"
+ trait_libertarianism:0 ""
+ trait_marxism:0 "마르크스주의자"
+ trait_vanguardism:0 "전위주의자"
+ trait_reformist_socialism:0 "개혁적 사회주의자"
+ trait_anarchist_communism:0 "아나르코공산주의자"
+ trait_council_communism:0 "평의회 공산주의자"
+ trait_syndicalism:0 "생디칼리스트"
+ trait_anarcho_syndicalism:0 "아나르코생디칼리스트"
+ trait_religious_communism:0 "종교사회주의자"
+ trait_nazism:0 "나치"
+ trait_gen_nazism:0 "국가사회주의자"
+ trait_national_syndicalism:0 "국민생디칼리스트"
+ trait_stratocracy:0 "군인정치가"
+ trait_despotism:0 "독재자"
+ trait_oligarchism:0 "과두주의자"
+ trait_centrism:0 "중도주의자"
+ trait_autocracy:0 "전제자"
+ trait_moderatism:0 "온건주의자"
+ trait_theocracy:0 "신정주의자"
+ trait_anarcho_primitivism:0 ""
+##########################  
+
+
  eltsin_trait:0 "E.B.N."
  eltsin_trait_desc:0 "만약 바다가 보드카였다면, 그는 잠수함이 되었을 것입니다."
  foxy_ferdinand:0 "교활한 페르디난드"

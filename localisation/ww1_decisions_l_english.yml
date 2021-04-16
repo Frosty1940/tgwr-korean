@@ -14,6 +14,7 @@
  GER_armitice_flag:0 "프랑스에 조건부 항복 제시"
  GER_german_offensive_mission:0 "러시아에 대한 공세"
  GER_german_offensive_mission_desc:0 "내전이 러시아에서 시작되었습니다. 볼셰비키 정부가 우리 조건에 평화협정을 체결하지 않으면 공세를 계속할 것입니다."
+ GER_german_offensive_mission_tt:0 "독일이 볼셰비키를 공격할 것입니다"
  GER_capitulation:0" 독일이 항복하다 "
  GER_decision_central_powers_conference:0 "동맹국 회담"
  GER_misison_central_powers_conference:0 "회담 진행 중"
@@ -796,5 +797,9 @@ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을
  AFG_entente_war:0 "협상국과의 전쟁"
  AFG_border_invasion_ind:0 "펀자브 영토 점령"
  AFG_seize_Samarkand:0 "부하라 침공"
+
+ POL_form_redania:0 "레다니아 형성"
+ POL_consctruct_gdynia:0 "그디니아 건설"
+ gdynia_constructed:0 "그디니아 건설됨"
 
  debug_decisions:0 "디버그" #hate this _ line

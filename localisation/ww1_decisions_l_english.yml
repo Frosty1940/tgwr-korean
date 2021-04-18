@@ -334,6 +334,8 @@ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을
  2000_infantry_equipment_1_blocked:0 "£rifle_texticon §R2000§!"
  2000_infantry_equipment_1_tooltip:0 "총을 보내려면 충분한 수량이 있어야 합니다"
  ITA_sue_for_peace_AUH:0 "오스트리아에 조건부 항복 제시"
+ ITA_seize_fiume:0 "피우메 점령"
+ ITA_seize_fiume_desc:0 "라팔로 조약은 실패였습니다. 피우메를 점령하여 통합해야 합니다."
  
 
  GRE_sue_for_peace_TUR:0 "터키에 조건부 항복 제시"
@@ -482,6 +484,13 @@ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을
  CHI_JNC_attack_GXC:0 "남광전쟁"
  CHI_JNC_attack_HNC:0 "남호전쟁"
  CHI_SIK_annex_KUM:0 "[KUM.GetNameDef] 합병"
+ CHI_KUM_call_support_from_XSM:0 "[XSM.GetName]에 요청"
+ CHI_KUM_call_support_from_XSM_desc:0 "봉기가 진행 중입니다. 그러나 성공을 위해서는 도움이 더 필요합니다. 아무래도 [XSM.GetName]의 도움을 빌릴 수도 있을 것입니다."
+ CHI_SIK_call_sheng_shicai:0 "성스차이 호출"
+ CHI_SIK_call_sheng_shicai_desc:0 "이거 어렵습니다. 위구르를 격퇴하기 위해 좋은 인물이 필요합니다."
+ CHI_SIK_call_sheng_shicai_tt:0 "만일 우리가 상당히 지고 있다면, [SIK.GetLeader] 제거를 위한 쿠데타가 벌어질 것입니다."
+ CHI_XSM_sue_for_peace_SIK:0 "강화 제의"
+ CHI_XSM_sue_for_peace_SIK_desc:0 "성스차이가 권력을 잡는 것은 예상치 못했으며, 위구르는 그들을 처형하는 마중잉의 이상한 행동에 이제 우호적이지 않습니다."
  
  TUR_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
  TUR_sue_for_peace_ITA:0 "이탈리아에게 조건부 항복 제시"
@@ -801,5 +810,8 @@ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을
  POL_form_redania:0 "레다니아 형성"
  POL_consctruct_gdynia:0 "그디니아 건설"
  gdynia_constructed:0 "그디니아 건설됨"
+
+ WUK_join_ukraine:0 "우크라이나 가입"
+ WUK_join_ukraine_desc:0 "우린 이제 독립했습니다. 동쪽의 형제들과 통합합시다."
 
  debug_decisions:0 "디버그" #hate this _ line

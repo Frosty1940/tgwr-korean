@@ -5,7 +5,7 @@
  trait_classical_liberalism:0 "자유주의자"
  trait_socialism:0 "사회민주주의자"
  trait_agrarianism:0 "농본주의자"
- trait_libertarianism:0 ""
+ trait_libertarianism:0 "자유지상주의자"
  trait_marxism:0 "마르크스주의자"
  trait_vanguardism:0 "전위주의자"
  trait_reformist_socialism:0 "개혁적 사회주의자"
@@ -18,13 +18,14 @@
  trait_gen_nazism:0 "국가사회주의자"
  trait_national_syndicalism:0 "국민생디칼리스트"
  trait_stratocracy:0 "군인정치가"
+ trait_fundamentalism:0 "근본주의자"
  trait_despotism:0 "독재자"
  trait_oligarchism:0 "과두주의자"
  trait_centrism:0 "중도주의자"
  trait_autocracy:0 "전제자"
  trait_moderatism:0 "온건주의자"
  trait_theocracy:0 "신정주의자"
- trait_anarcho_primitivism:0 ""
+ trait_anarcho_primitivism:0 "아나코원시주의자"
 ##########################  
 
 
@@ -138,3 +139,4 @@
  dud_murra_desc:0 "무라의 사자"
  tgwr_caliph:0 "칼리프"
  abdulhamid:0 "폐위된 술탄"
+ eternal_kaiser:0 "마지막 구식 군주"

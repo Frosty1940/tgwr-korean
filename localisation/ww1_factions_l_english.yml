@@ -28,7 +28,7 @@
  italian_federation:0 "이탈리아 연방"
  sadakat_pact:0 "Sadakatı-Cihan Front"
  balkan_pact:0 "발칸 조약"
- ottoman_caliphate:0 "[TUR.GetAdjective] 칼리파국"
+ ottoman_caliphate:0 "$LEADER_COUNTRY_ADJ$ 칼리파국"
  istanbul_pact:0 "이스탄불 조약"
  mare_nostrum_pact:0 "마레 노스트룸 연합"
  congress_of_people_of_the_east:0 "동방민족대회"

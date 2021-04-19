@@ -491,6 +491,12 @@ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을
  CHI_SIK_call_sheng_shicai_tt:0 "만일 우리가 상당히 지고 있다면, [SIK.GetLeader] 제거를 위한 쿠데타가 벌어질 것입니다."
  CHI_XSM_sue_for_peace_SIK:0 "강화 제의"
  CHI_XSM_sue_for_peace_SIK_desc:0 "성스차이가 권력을 잡는 것은 예상치 못했으며, 위구르는 그들을 처형하는 마중잉의 이상한 행동에 이제 우호적이지 않습니다."
+ CHI_long_march_decision:0 "대장정 시작"
+ CHI_long_march_decision_desc:0 "국민당이 우릴 박살내려 합니다! 여기서 빠져나가야 합니다!"
+ CHI_long_march_timer:0 "대장정"
+ CHI_long_march_timer_desc:0 "공산주의자들이 국민당의 진압을 피해 탈출하려고 시도하고 있습니다. 그들은 이곳에 정착할 것입니다, 그러니 준비해야 합니다."
+ long_march_start:0 "대장정 시작함"
+ long_march_end:0 "대장정 끝남"
  
  TUR_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
  TUR_sue_for_peace_ITA:0 "이탈리아에게 조건부 항복 제시"

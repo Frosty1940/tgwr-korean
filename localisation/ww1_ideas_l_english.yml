@@ -567,6 +567,15 @@
  moscow_automotive_society:0 "모스크바 자동차협회"
  dux_plant:0 "듀크스 항공기 공장"
  amtorg_trading:0 "Amtorg Trading Corporation"
+ CHI_jiangnan_shipyard_group:0 "장난 조선소"
+ CHI_dagu_shipyard:0 "다구 조선소"
+ CHI_hanyang_arsenal:0 "한양 조병창"
+ CHI_mauser:0 "마우저"
+ CHI_chang_an_factory:0 "창안 공장"
+ CHI_guangzhou_factory:0 "광저우 공장"
+ CHI_aioc:0 "AIOC"
+ CHI_hong_kong_electric_co_ltd:0 "홍콩전력 유한책임회사"
+ CHI_shanghai_international_tram_authority:0 "상하이 국제전차청"
 
  #MEXICO
  idea_mexico_1910:0 "멕시코 혁명"
@@ -1384,6 +1393,8 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
  CHI_idea_inflation2:0 "인플레이션"
  CHI_idea_inflation:0 "저인플레이션"
  CHI_idea_beiyang_government:0 "북양정부"
+ CHI_communist_movement:0 "공산주의 운동"
+ CHI_communist_movement:0 "중국 공산당 창당 이후, 공산주의자들은 우리와 협력하고 있습니다. 그러나 그들은 기회만 있다면 그들만의 공산주의 국가를 수립하려 할 것입니다."
  
  #USA
  USA_idea_volunteer_corps:0 "자원부대"

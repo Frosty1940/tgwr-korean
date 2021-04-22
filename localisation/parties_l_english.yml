@@ -44,10 +44,6 @@
  despotism_desc:0 "독재주의는 막강한 권력을 가진 한 사람이 지배하는 정부를 구성합니다."
  oligarchism:0 "과두정"
  oligarchism_desc:0 "과두주의는 과두정으로 알려진 소수의 선택받은 과두 정치가들이 국가와 국민을 절대적으로 지배하는 정부의 한 형태입니다."
- moderatism:0 "온건주의"
- moderatism_desc:0 "온건주의는 온건한 자세나 방침을 취함으로 급진적인 우파나 좌파를 피하는 정부의 형태입니다."
- centrism:0 "중도주의"
- centrism_desc:0 "중도주의는 현재와 미래에 필요한 것들을 상식적인 것으로 적절히 연설을 통해 해결하기를 원하는 정부의 한 형태로, 대중의 믿음과 위험을 고려하는 중도선을 이러한 요구의 맥락에서 수용하는 것을 지지합니다."
  authoritarian_democracy:0 "권위민주주의"
  authoritarian_democracy_desc:0 "권위민주주의는 지역 민주주의를 어느 정도는 유지하거나 순전히 자문 역할만 하는 선거를 유지하면서도 극도로 강력한 행정부를 수반하는 정부의 형태입니다. 권위민주주의자들은 모든 권한을 갖지는 않지만 많은 권한을 유지하는 강력한 통합 정부를 요구합니다."
  #Proto-Fascism
@@ -1086,9 +1082,13 @@
  NMB_democratic_party:0 "헤레로인"
 
  CHA_neutrality_party:0 "콜라크"
+ CHA_fascism_party:0 "콜라크"
 
  KUM_neutrality_party:0 "자사그"
 
  WUK_democratic_party:0 "우크라이나 국민민주동맹"
  WUK_democratic_party_long:0 "우크라이나 국민민주동맹"
  WUK_fascism_party:0 "시크 소총대"
+ WUK_communism_party:0 "우크라이나 급진당"
+ WUK_communism_party_long:0 "우크라이나 급진당"
+ WUK_neutrality_party:0 "우크라이나당"

@@ -1393,8 +1393,9 @@ CAN_the_prairies_desc:0 "캐나다는 농업에 활용할 수 있는 엄청난 �
  CHI_idea_inflation2:0 "인플레이션"
  CHI_idea_inflation:0 "저인플레이션"
  CHI_idea_beiyang_government:0 "북양정부"
- CHI_communist_movement:0 "공산주의 운동"
- CHI_communist_movement:0 "중국 공산당 창당 이후, 공산주의자들은 우리와 협력하고 있습니다. 그러나 그들은 기회만 있다면 그들만의 공산주의 국가를 수립하려 할 것입니다."
+ CHI_idea_communist_movement:0 "공산주의 운동"
+ CHI_idea_communist_movement:0 "중국 공산당 창당 이후, 공산주의자들은 우리와 협력하고 있습니다. 그러나 그들은 기회만 있다면 그들만의 공산주의 국가를 수립하려 할 것입니다."
+ CHI_idea_warlord_neutrality:0 "군벌 중립성"
  
  #USA
  USA_idea_volunteer_corps:0 "자원부대"

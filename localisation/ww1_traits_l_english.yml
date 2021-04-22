@@ -23,6 +23,7 @@
  trait_despotism:0 "독재자"
  trait_oligarchism:0 "과두주의자"
  trait_centrism:0 "중도주의자"
+ trait_authoritarian_democracy:0 "권위민주주의자"
  trait_autocracy:0 "전제자"
  trait_moderatism:0 "온건주의자"
  trait_theocracy:0 "신정주의자"

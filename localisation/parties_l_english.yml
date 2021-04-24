@@ -279,7 +279,7 @@
 
  JAP_communism_party:0 "일본사회당"
  JAP_democratic_party:0 "입헌민정당"
- JAP_fascism_party:0 "대정익찬회"
+ JAP_fascism_party:0 "대본영"
  JAP_neutrality_party:0 "야마토 왕조"
 
  USA_communism_party:0 "미국 사회당"
@@ -430,8 +430,8 @@
  IRQ_communism_party:0 "이라크 공산당"
  IRQ_communism_party_long:0 "이라크 공산당"
  
- SWE_communism_party:0 "스웨덴 공산당"
- SWE_communism_party_long:0 "스웨덴 공산당"
+ SWE_communism_party:0 "스웨덴 사회민주좌파당"
+ SWE_communism_party_long:0 "스웨덴 사회민주좌파당"
  SWE_democratic_party:0 "온건연합당"
  SWE_democratic_party_long:0 "온건연합당"
  SWE_neutrality_party:0 "베르나도테 가문"

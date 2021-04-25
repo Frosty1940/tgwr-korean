@@ -122,7 +122,8 @@
  RUS_democratic_party_UFA:0 "집정부"
  RUS_communism_party:0 "사회혁명당 (중도파)"
  RUS_communism_party_long:0 "사회혁명당 (중도파)"
- RUS_fascism_party:0 "차르주의자"
+ RUS_fascism_party:0 "참모본부"
+ RUS_fascism_party_long:0 "최고참모본부"
  RUS_fascism_party_OMSK_long:0 "러시아국 정부"
  RUS_fascism_party_OMSK:0 "러시아국 정부"
  

@@ -69,8 +69,11 @@
  GER_sue_for_peace_NFA:0 "패배를 선언하고 운명을 받아들이기"
  GER_sue_for_peace_NFA_desc:0 "우리 제국에 심판의 때가 왔습니다. 이렇게 빨리 올 줄은 몰랐습니다. 주께서 우리와 함께 하시지 않는 것일 지도 모릅니다...!"
  GER_third_franco_german_war_tt:0 "§R독일은 완전히 무너질 것입니다!§!"
+ NFA_sue_for_peace_GER:0 "패배를 선언하고 운명을 받아들이기"
+ NFA_sue_for_peace_GER_desc:0 "프랑스는 완전히 패배했습니다. 더이상 미래가 없습니다."
+ NFA_third_franco_german_war_tt:0 "§R독일계 군주가 다스리는 프랑스 왕국이 수립될 것입니다...§!"
  GER_anti_war_revolt:0 "전국적인 반전 시위"
-GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을 벌이는 것은 나쁜 선택으로 보입니다. 시민과 병사들은 계속되는 전쟁에 염증을 느꼈습니다. 모든 대도시에서 대규모 시위가 벌어지고 있습니다."
+ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을 벌이는 것은 나쁜 선택으로 보입니다. 시민과 병사들은 계속되는 전쟁에 염증을 느꼈습니다. 모든 대도시에서 대규모 시위가 벌어지고 있습니다."
  GER_anti_war_revolt_tt:0 "§R반전 시위가 유래없이 거대한 규모의 봉기로 바뀔 것입니다!§!"
  GER_advisors_AUH:0 "[AUH.GetName] 측에 고문 파견"
  GER_advisors_BUL:0 "[BUL.GetName] 측에 고문 파견"
@@ -112,10 +115,12 @@ GER_anti_war_revolt_desc:0 "피비린내 나는 대전쟁에 곧이어 전쟁을
  FRA_wadai_war_timer:0 "와다이 침공"
  FRA_pull_out_from_wadai:0 "와다이에서 철수"
  wadai_war_end:0 "와다이 전쟁이 끝났습니다."
-
+ 
+ FRA_nationalist_france_flag:0 "국민파 프랑스"
  NFA_occupy_malta:0 "몰타 점령"
  NFA_sue_for_peace_FRC:0 "프랑스 본토에서 철수"
 
+ FRA_socialist_france_flag:0 "사회주의 프랑스"
  FRC_internationale:0 "인터내셔널 설립"
  FRC_valois_seize_the_power:0 "권력 장악"
  FRC_valois_seize_the_power_desc:0 "조르주 발루아는 생디칼리스트이지만, 그는 또한 군주정을 긍정하고 프랑스가 지나치게 좌파 사상에 물드는 것을 원치 않습니다. 그는 여지껏 아나르코생디칼리스트처럼 행동하고 있었지만, 충분한 지지 기반을 얻게 된 지금 그는 국가생디칼리슴을 이 나라에 바로 세우고자 합니다."

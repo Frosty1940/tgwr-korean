@@ -121,6 +121,8 @@
  soldier_king:0 "군인왕"
  soldier_king_desc:0 ""군인 왕"은 이탈리아인들에게 최근 대전에서 거둔 승리를 상기시켜줍니다. 그의 존재와 그에 대한 사람들의 충성심은 단합의 큰 근원입니다."
  weak_ruler:0 "약한 통치자"
+ undistinguished_suit:0 "특출나지 않은 유력자"
+ mafioso:0 "마피아"
  POLITICS_LUIGI_LUZZATTI_DESC:0 "그는 졸리티의 호의에 의해서만 취임합니다."
  two_faced:0 "두 얼굴"
  ENG_father_of_republic_pease:0 "공화국의 아버지"

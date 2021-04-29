@@ -15,6 +15,8 @@
  trait_syndicalism:0 "생디칼리스트"
  trait_anarcho_syndicalism:0 "아나르코생디칼리스트"
  trait_religious_communism:0 "종교사회주의자"
+ trait_proto_fascism:0 "프로토파시스트"
+ trait_fascism:0 "파시스트"
  trait_nazism:0 "나치"
  trait_gen_nazism:0 "국가사회주의자"
  trait_national_syndicalism:0 "국민생디칼리스트"

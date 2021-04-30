@@ -1595,7 +1595,6 @@
  PRC_communist:0 "중국 공산당"
  PRC_communist_DEF:0 "중국 공산당"
  PRC_communist_ADJ:0 "중국"
-
  CHL_autonomy_dominion:0 "칠레 자치령"
  CHL_autonomy_dominion_DEF:0 "칠레 자치령"
  CHL_autonomy_colony:0 "$OVERLORDADJ$ 칠레"
@@ -1604,7 +1603,6 @@
  CHL_autonomy_puppet_DEF:0 "$OVERLORDADJ$ 칠레"
  CHL_autonomy_integrated_puppet:0 "$OVERLORDADJ$ 칠레 자치주"
  CHL_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ 칠레 자치주"
-
  ARG_ENG_autonomy_dominion:0 "울라더흐바 검레이그 자치령"
  ARG_ENG_autonomy_dominion_DEF:0 "울라더흐바 검레이그 자치령"
  ARG_ENG_autonomy_dominion_ADJ:0 "파타고니아 웨일스"
@@ -1617,10 +1615,11 @@
  ARG_ENG_autonomy_integrated_puppet:0 "$OVERLORDADJ$ 서포클랜드"
  ARG_ENG_autonomy_integrated_puppet_DEF:0 "$OVERLORDADJ$ 서포클랜드"
  ARG_ENG_autonomy_integrated_puppet_ADJ:0 "서포클랜드"
-
  FRA_ENG_autonomy_puppet:0 "소프랑스"
  FRA_ENG_autonomy_puppet_DEF:0 "가장 불쾌한 소프랑스주"
  FRA_ENG_autonomy_puppet_ADJ:0 "프랑스"
  FRA_ENG_autonomy_integrated_puppet:0 "프랑스 정복지"
  FRA_ENG_autonomy_integrated_puppet_DEF:0 "한때 프랑스였던 잔재"
  FRA_ENG_autonomy_integrated_puppet_ADJ:0 "프랑스"
+ QIN_government:0 "청 정부"
+ QIN_government_DEF:0 "청 정부"

@@ -517,6 +517,8 @@
  warlord_era_end:0 "군벌 시대의 끝"
  CHI_FNG_sue_for_peace_JAP:0 "일본에 항복"
  manchurian_incident:0 "만주사변"
+ CHI_reunite_china:0 "중국 재통일"
+ CHI_reunite_china_dec:0 "이제 더이상 군벌 시대는 없습니다. 중국이 재통일되었습니다!"
  
  TUR_balkan_war_intervention_decision:0 "발칸 전쟁 개입"
  TUR_sue_for_peace_ITA:0 "이탈리아에게 조건부 항복 제시"

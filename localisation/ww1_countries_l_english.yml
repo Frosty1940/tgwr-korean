@@ -386,3 +386,10 @@
  WUK_communism_DEF:0 "서우크라이나 사회주의 공화국"
  WUK_democratic:0 "서우크라이나 인민공화국"
  WUK_democratic_DEF:0 "서우크라이나 인민공화국"
+
+ MAF:0 "독일령 중앙아프리카"
+ MAF_DEF:0 "독일령 중앙아프리카"
+ MAF_ADJ:0 "중앙아프리카"
+ MAF_communism:0 "아프리카 연합"
+ MAF_communism_DEF:0 "아프리카 연합"
+ MAF_communism_ADJ:0 "아프리카"

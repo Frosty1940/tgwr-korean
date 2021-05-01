@@ -1095,3 +1095,9 @@
  WUK_communism_party:0 "우크라이나 급진당"
  WUK_communism_party_long:0 "우크라이나 급진당"
  WUK_neutrality_party:0 "우크라이나당"
+
+ MAF_democratic_party:0 "개혁파"
+ MAF_fascism_party:0 "주권주의자"
+ MAF_communism_party:0 "해방협회"
+ MAF_neutrality_party:0 "독일 식민회사"
+ MAF_neutrality_party_long:0 "독일 식민회사"

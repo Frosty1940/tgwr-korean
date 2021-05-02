@@ -746,7 +746,10 @@
  ottomans_hold_cairo_and_alexandria:0 "§Y이것은 평화가 도래할 때 우리의 지위를 크게 향상시킬 것입니다!§!"
  idea_turkey_bad_navy:0 "정비되지 않는 해군"
  idea_turkey_bad_navy_desc:0 "우리 해군은 근대식 전함 여러 척이 있으며 꽤 쓸만합니다. 그러나, 잘 정비되지도 조직되지도 않아 실제 전투에서 잘 싸울 수 있을지는 모르겠습니다."
- 
+ TUR_idea_army_of_allah_1:0 "알라의 병사들"
+ TUR_idea_army_of_allah_2:0 "알라의 병사들"
+ TUR_idea_army_of_allah_3:0 "알라의 병사들"
+ TUR_idea_army_of_allah_4:0 "알라의 병사들"
  
  #RUSSIA
  nicholas_ii:0 "니콜라이 2세"

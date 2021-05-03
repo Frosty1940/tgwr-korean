@@ -46,7 +46,7 @@
  PEACE_CONFERENCE_SEND:0 "취한 행동 보내기"
  PEACE_CONFERENCE_SEND_NO_ACTIONS:0 "§R보낼 수 있는 취한 행동이 없습니다§!"
  PEACE_CONFERENCE_SEND_DESC:0 "취한 행동 요구 전송에 들어가는 비용은 §Y$VALUE$§! 입니다."
- PEACE_CONFERENCE_COST:0 "비용/사용가능"
+ PEACE_CONFERENCE_COST:0 "비용/사용 가능"
  PEACE_CONFERENCE_COST_NO_ACTIONS:0 "선택된 행동이 없습니다"
  PEACE_CONFERENCE_COST_DESC:0 "이 행동은 비용이 $COST$로 사용 가능한 $AVAILABLE$를 초과합니다"
  PEACE_CONFERENCE_COST_TOO_HIGH:0 "§R당신은 해당조약을 요구하기에 불충분한 승점을 가지고 있습니다§!"

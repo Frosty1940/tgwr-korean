@@ -44,6 +44,10 @@
 	SE_rus_civil_war_winner_red_T:0 "적군의 승리"
 	SE_rus_civil_war_winner_red_D:0 "\n\n"만일 우리가 파괴 공작원과 백군을 쏠 준비가 되지 않았다면, 그게 대체 어디가 혁명이란 말인가? 그건 그저 수다와 곤죽 한 그릇일 뿐이다."\n- 블라디미르 레닌"
 	SE_rus_civil_war_winner_red_A:0 "만국의 노동자여, 단결하라!"
+
+	SE_rus_savinkov_revolution_T:0 "제2차 러시아 혁명"
+  SE_rus_savinkov_revolution_D:0 ""넷째 인을 떼실 때에 내가 넷째 생물의 음성을 들으니 말하되 오라 하기로 내가 보매 청황색 말이 나오는데 그 탄 자의 이름은 사망이니 음부가 그 뒤를 따르더라 그들이 땅 사분의 일의 권세를 얻어 검과 흉년과 사망과 땅의 짐승들로써 죽이더라"\n- 요한계시록 6:7-8"
+  SE_rus_savinkov_revolution_A:0 "자유냐 죽음이냐!"
 	
 	######
 	SE_mex_revolution_T:0 "멕시코 혁명"
@@ -84,3 +88,4 @@
  SE_rus_civil_war_winner_white:0 "슬라브스야"
  SE_rus_civil_war_winner_red:0 "작은 사과"
  SE_bul_bw2_winner:0 "슬라브 여인의 작별"
+ SE_rus_savinkov_revolution:0 "분노로 신음하는 바다"

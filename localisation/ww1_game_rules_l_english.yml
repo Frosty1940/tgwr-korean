@@ -14,7 +14,6 @@
  RULE_OPTION_SUPEREVENT_DISABLED:0 "슈퍼 이벤트 비활성화"
  RULE_OPTION_SUPEREVENT_DISABLED_DESC:0 "슈퍼 이벤트가 비활성화됩니다."
 
-
  #The Burgundy Rule >:)
  RULE_BURGUNDY_TGWR:0 "부르군트 통치"
  rule_burgundy_activated:0 "독일 승리 시 부르군트 수립"
@@ -66,6 +65,9 @@
  RULE_OPTION_JUNTA:0 "군사 정부"
  RULE_OPTION_SOCIALIST:0 "사회주의자"
  RULE_OPTION_SYNDICALIST:0 "생디칼리스트"
+ RULE_OPTION_CP:0 "동맹국"
+ RULE_OPTION_AUTOCRATIC:0 "전제정"
+ RULE_OPTION_ISLAMIST:0 "이슬람주의자"
  
  #Austria-Hungary
  AUH_AI_BEHAVIOR:0 "@AUH 오스트리아-헝가리"
@@ -124,12 +126,33 @@
  RULE_OPTION_BACKSTAB:0 "배후중상"
  RULE_OPTION_BACKSTAB_GER_AI_DESC:0 "독일 AI는 오스트리아-헝가리와의 동맹을 파기하고 아시아로 향하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
 
+ #Italy
+ RULE_OPTION_HISTORICAL_ITA_AI_DESC:0 "이탈리아 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
+ RULE_OPTION_CP_ITA_AI_DESC:0 "이탈리아 AI는 동맹국에 가입하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+
  #Netherlands
  RULE_OPTION_HISTORICAL_HOL_AI_DESC:0 "네덜란드 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
  RULE_OPTION_BATAVIAN_REPUBLIC:0 "바타비아 공화국"
  RULE_OPTION_BATAVIAN_REPUBLIC_HOL_AI_DESC:0 "네덜란드 AI는 바타비아 공화국 수립 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_SYNDICALIST_HOL_AI_DESC:0 "네덜란드 AI는 생디칼리스트들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_NEUTRALITY_MONARCHIST_HOL_AI_DESC:0 "네덜란드 AI는 군주에게 권한을 부여하고 베네룩스를 통일하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+
+ #Ottoman
+ OTO_AI_BEHAVIOR:0 "@TUR 오스만"
+ RULE_OPTION_HISTORICAL_TRIUMVIRATE:0 "역사적 삼두정"
+ RULE_OPTION_HISTORICAL_TRIUMVIRATE_TUR_DESC:0 "오스만 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
+ RULE_OPTION_UNITED_AND_READY:0 "단합하여 준비된"
+ RULE_OPTION_UNITED_AND_READY_TUR_DESC:0 "오스만 AI는 정치화된 장교들을 숙청하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_AUTOCRATIC_TUR_DESC:0 "오스만 AI는 전제정을 수립하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_DEMOCRATIC_TUR_SEVKET_DESC:0 "오스만 AI는 제국을 개혁하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ITTIHADIST_RANDOM_TUR:0 "통합파 - 무작위"
+ RULE_OPTION_ITTIHADIST_RANDOM_TUR_AI_DESC:0 "오스만 AI는 대재상부를 습격하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ANTI_IMPERIALIST_TUR:0 "반제국주의자"
+ RULE_OPTION_ANTI_IMPERIALIST_TUR_DESC:0 "오스만 AI는 유럽 제국주의 열강에 대항하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_TURAN_ENVERIST:0 "투란주의자"
+ RULE_OPTION_TURAN_ENVERIST_DESC:0 "오스만 AI는 투란을 형성하려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_ISLAMIST_TUR_DESC:0 "오스만 AI는 이슬람주의자들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_SOCIALIST_TUR_DESC:0 "오스만 AI는 사회주의자들을 집권시키려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
 
  #Russia
  RUS_AI_BEHAVIOR:0 "@RUS 러시아"

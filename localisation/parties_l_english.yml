@@ -873,6 +873,8 @@
  GEO_democratic_party_long:0 "조지아 사회민주당"
  GEO_communism_party:0 "볼셰비키"
  GEO_neutrality_party:0 "제헌의회"
+ GEO_TSCN_commissariat_party:0 "자캅카스 인민위원회"
+ GEO_TSCN_neutrality_party:0 "자캅카스 하원"
  
  KAZ_fascism_party:0 "부족연합"
  KAZ_democratic_party:0 "알라시당"

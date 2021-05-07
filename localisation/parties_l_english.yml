@@ -872,7 +872,9 @@
  GEO_democratic_party:0 "조지아 사회민주당"
  GEO_democratic_party_long:0 "조지아 사회민주당"
  GEO_communism_party:0 "볼셰비키"
- GEO_neutrality_party:0 "제헌의회"
+ GEO_neutrality_party:0 "조지아 국립의회"
+ GEO_neutrality_party_long:0 "조지아 국립의회"
+
  GEO_TSCN_commissariat_party:0 "자캅카스 인민위원회"
  GEO_TSCN_neutrality_party:0 "자캅카스 하원"
  
@@ -1103,3 +1105,8 @@
  MAF_communism_party:0 "해방협회"
  MAF_neutrality_party:0 "독일 식민회사"
  MAF_neutrality_party_long:0 "독일 식민회사"
+
+ CAT_democratic_party:0 "카탈루냐 공화좌파당"
+ CAT_democratic_party_long:0 "카탈루냐 공화좌파당"
+ CAT_communism_party:0 "전국노동자연합"
+ CAT_communism_party_long:0 "전국노동자연합"

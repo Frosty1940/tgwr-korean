@@ -374,6 +374,9 @@
  SER_rebel_recruitment:0 "반군 징병"
  SER_nationalistic_agitation:0 "민족주의 소요"
  SER_sue_for_peace_BUL:0 "불가리아에 조건부 항복 제시"
+ SER_sue_for_peace_TUR:0 "오스만에 조건부 항복 제시"
+ SER_rename_yugoslavia:0 "유고슬라비아로 국호 변경"
+ SER_rename_yugoslavia_desc:0 ""[SER.GetName]"은 너무 긴 이름입니다, 대신 "유고슬라비아"라는 이름으로 바꿀 수 있습니다."
  
  #Australian Decisions
  AST_lessons_of_war:0 "전쟁의 교훈"

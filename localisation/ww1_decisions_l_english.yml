@@ -1,4 +1,5 @@
 ﻿l_english:
+ peace_deals:0 "평화 협정"
  leave_faction:0 "세력 탈퇴"
  GER_great_war:0 "대전쟁"
  GER_great_war_desc:0 "대전쟁은 전세계 국가들의 운명을 바꿀 것입니다. 만약 세력 주도국이 항복한다면, 승자들은 그들이 평화를 만들 준비가 된 조건을 결정해야 합니다.\n\n§G승리한 세력은 화담 이후 영유권 주장 주와 핵심 주를 차지하게 될 것입니다.§!"
@@ -864,7 +865,8 @@
  JAP_rename_chuncheon:0 "춘천을 슌센으로 개명"
  JAP_rename_daejeon:0 "대전을 타이덴으로 개명"
  JAP_rename_markus_island:0 "마커스 섬을 미나미토리시마로 개명"
- JAP_sue_for_peace_KOR:0 "한국에 조건부 평화 조건 제시"
+ JAP_sue_for_peace_KOR:0 "한국에 조건부 평화 제안"
+ JAP_sue_for_peace_FNG:0 "중국에 조건부 평화 제안"
 
  HUN_sue_for_peace_ROM:0 "루마니아에 조건부 항복 제시"
 

@@ -165,3 +165,13 @@
  RULE_OPTION_DEMOCRATIC_RUS_AI_DESC:0 "러시아 AI는 혁명가들을 두마에 넣고 러시아 공화국을 세우려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
  RULE_OPTION_SOVIET_EMPIRE:0 "소비에트 제국"
  RULE_OPTION_SOVIET_EMPIRE_AI_DESC:0 "러시아 AI는 혁명가들을 두마에 넣고 소비에트 제국을 세우려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ #Canada
+ CAN_ai_behavior:0 "@CAN 캐나다"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL:0 "역사적"
+ RULE_OPTION_DEMOCRATIC_HISTORICAL_CANADA_DESC:0 "캐나다 AI는 최대한 많은 역사적 사건을 발생시킬 것입니다."
+ RULE_OPTION_BRITISH_COMPROMISE:0 "영국과의 타협"
+ RULE_OPTION_BRITISH_COMPROMISE_DESC:0 "캐나다 AI는 영국과 친선을 유지하면서 자유로워지려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_REPUBLICAN:0 "공화파"
+ RULE_OPTION_REPUBLICAN_DESC:0 "캐나다 AI는 미국과의 우호 정책을 추구하면서 자유로워지려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_MONARCHIST:0 "왕당파"
+ RULE_OPTION_MONARCHIST_CAN_DESC:0 "캐나다 AI는 왕정을 수립하면서 자유로워지려는 시도와 관련있는 국가적 중점 계통도를 따라 내려갈 것입니다."

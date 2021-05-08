@@ -251,3 +251,6 @@
  anti_tank_equipment_2_desc:0 "경사 장갑을 가진 중전차와 싸우기 위한 대구경포."
  anti_tank_equipment_3:0 "발전된 대전차포"
  anti_tank_equipment_3_desc:0 "신형 탄약기술과 높은 포구탄속 각각을 조합한 대전차포는 우리 적들이 개발할 신형 전차에 준비를 할수 있게 해줍니다"
+
+ heavy_tank_equipment:0 "중전차"
+ heavy_tank_equipment_desc:0 "중전차는 적의 전차와 요새를 파괴하도록 설계된 거대한 장갑 괴물입니다."

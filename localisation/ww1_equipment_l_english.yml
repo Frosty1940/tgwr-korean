@@ -1,5 +1,4 @@
 ﻿l_english:
- 
  airship_bomber_equipment_1:0 "비행선 폭격기 I"
  airship_bomber_equipment_1_desc:0 "비행선은 동력 비행을 통제할 수 있는 최초의 항공기였지만, 그 능력이 항공기에 의해 추월되면서 비행선의 용도는 시간이 지남에 따라 줄어들었습니다."
  airship_bomber_equipment_2:0 "비행선 폭격기 II"
@@ -15,8 +14,6 @@
  armored_car:0 "장갑차"
  armored_car_desc:0 "기병대처럼 빠른 차량화부대입니다. 그러나 더 강합니다."
  howitzer_equipment:0 "곡사포"
- 
- #artillery
  ENG_artillery_equipment_1:0 "QF 18-파운드 포"
  FRA_artillery_equipment_1:0 "1897년형 75 mm 야포"
  ITA_artillery_equipment_1:0 "75/25 모델 6"
@@ -97,7 +94,6 @@
  AUH_howitzer_equipment_1_short:0 "15 cm 중곡사포 M 94"
  RUS_howitzer_equipment_2_short:0 "152mm 곡사포 1909/30"
  GER_howitzer_equipment_2_short:0 "210mm 곡사포"
- TUR_howitzer_equipment_2_short:0 "크루프 120mm 곡사포 모델 1905"
  AUH_howitzer_equipment_2_short:0 "15 cm 중곡사포 M 14"
  TUR_howitzer_equipment_2_short:0 "크루프 150mm 곡사포 모델 1913"
  JAP_howitzer_equipment_2_short:0 "150mm 곡사포 1915"
@@ -108,12 +104,8 @@
  GER_anti_air_equipment_2_short:0 "80mm 견인 대공포"
  USA_anti_air_equipment_2_short:0 "3인치 M1917"
  GER_anti_tank_equipment_1_short:0 "3.7 cm TaK 라인메탈"
- 
- #air
  BRA_scout_plane_equipment_1:0 "모랑-보렐 단엽기"
  BRA_scout_plane_equipment_1_short:0 "모랑-솔니에 A"
-
- #armor
  light_tank_equipment_1_short:0 "초기 경전차 I"
  light_tank_equipment_1:0 "초기 경전차 I"
  light_tank_equipment_1b_short:0 "초기 경구축전차"
@@ -244,8 +236,8 @@
  RUS_armored_car_equipment_3:0 "므게브로프-르노"
  RUS_armored_car_equipment_4:0 "오스틴-푸틸로프"
  RUS_armored_car_equipment_5:0 "BA-3"
- RUS_light_tank_equipment_1_short:0 "Vezdekhod"
- RUS_light_tank_equipment_1:0 "Vezdekhod"
+ RUS_light_tank_equipment_1_short:0 "베즈데호트"
+ RUS_light_tank_equipment_1:0 "베즈데호트"
  RUS_light_tank_equipment_1b_short:0 "Vezdekhod (포)"
  RUS_light_tank_equipment_1b:0 "Vezdekhod (포)"
  RUS_light_tank_equipment_2_short:0 "T-16"
@@ -260,7 +252,7 @@
  RUS_super_heavy_tank_equipment:0 "멘델레예프 전차"
  AUH_armored_car_equipment_1_short:0 "오스트로-다임러"
  AUH_armored_car_equipment_1:0 "오스트로-다임러 장갑차"
- AUH_armored_car_equipment_2:0 "Junovicz P.A.1"
+ AUH_armored_car_equipment_2:0 "유노비치 P.A.1"
  AUH_armored_car_equipment_3:0 "롬펠 P.A.2"
  AUH_light_tank_equipment_1_short:0 "이동포"
  AUH_light_tank_equipment_1:0 "이동포"
@@ -270,8 +262,6 @@
  TUR_armored_car_equipment_1:0 "호치키스"
  TUR_armored_car_equipment_2:0 "파나르-장티"
  armored_car_equipment_desc:0 "장갑차 I"
- 
- #infantry equipment
  USA_infantry_equipment_0:0 "M1892 스프링필드"
  USA_infantry_equipment_0_short:0 "M1892 스프링필드"
  USA_infantry_equipment_1:0 "M1903 스프링필드"
@@ -280,20 +270,18 @@
  USA_infantry_equipment_2_short:0 "M1917 엔필드"
  USA_infantry_equipment_3:0 "브라우닝 M1918"
  USA_infantry_equipment_3_short:0 "M1918 BAR"
- 
  ENG_infantry_equipment_0:0 "리-메트포드 MkI"
  ENG_infantry_equipment_0_short:0 "MLM"
  ENG_infantry_equipment_0_desc:0 "19세기에 개발된 기초 보병 장비"
  ENG_infantry_equipment_1:0 "쇼트 매거진 리-엔필드 MkI"
- ENG_infantry_equipment_1_desc:0 "A shorter and lighter version of the original MLE—the Rifle, Short, Magazine, Lee–Enfield or SMLE (sometimes spoken as "Smelly", rather than S, M, L, E)—was introduced on 1 January 1904. The barrel was now halfway in length between the original long rifle and the carbine, at 25.2 inches (640 mm). The SMLE's visual trademark was its blunt nose, with only the bayonet boss protruding a small fraction of an inch beyond the nosecap, being modelled on the Swedish Model 1894 Cavalry Carbine."
+ ENG_infantry_equipment_1_desc:0 "MLE의 더 짧고 가벼운 버전인 리-엔필드 또는 SMLE (S, M, L, E 대신, 때때로 \"스멜리\"라고 불려지는)는 1904년 1월 1일에 도입되었습니다. 총열은 이제 원래의 긴 소총과 기병총 사이의 중간 길이 정도인 25.2인치 (640 mm)가 되었습니다. SMLE의 시각적 특징은 뭉툭한 코로, 총검 돌기만이 노즈캡을 1인치 정도 넘어 돌출되었는데, 이는 스웨덴 모델 1894 기병총과 기반한 것입니다."
  ENG_infantry_equipment_1_short:0 "SMLE MkI"
  ENG_infantry_equipment_2:0 "쇼트 매거진 리-엔필드 MkIII"
  ENG_infantry_equipment_2_short:0 "SMLE MkIII"
- ENG_infantry_equipment_2_desc:0 "The SMLE MkIII featured a simplified rear sight arrangement and a fixed, rather than a bolt-head-mounted sliding, charger guide. The design of the handguards and the magazine were also improved and the chamber was adapted to fire the new Mk VII High Velocity spitzer .303 ammunition. Many early models, Magazine Lee–Enfield (MLE), Magazine Lee–Metford (MLM) and SMLE, were rebuilt to the Mk III standard. These are called Mk IV Cond., with various asterisks denoting subtypes."
+ ENG_infantry_equipment_2_desc:0 "SMLE MkIII는 볼트에 장착된 미끄러져 움직이는 대신 고정된 급탄기와 단순한 후방 조준기라는 배치를 특징으로 합니다. 또한 총열덮개와 탄창의 설계도 개선되었고, 새로운 Mk VII 고속 스피처 .303 탄약을 발사하기 위해 약실이 개조되었습니다. 많은 초기 모델인 매거진 리–엔필드 (MLE), 매거진 리–메트포드 (MLM) 및 SMLE는 Mk III 표준에 맞추어 재구성되었습니다. 이것들은 Mk IV Cond.라고 불리며, 다양한 별표가 하위 유형을 나타냅니다."
  ENG_infantry_equipment_3:0 "소총 No. 1 Mk V"
  ENG_infantry_equipment_3_short:0 "SMLE MkV"
- ENG_infantry_equipment_3_desc:0 "The SMLE design was a relatively expensive long arm to manufacture, because of the many forging and machining operations required. In the 1920s, a series of experiments resulting in design changes were carried out to help with these problems, reducing the number of complex parts and refining manufacturing processes. The SMLE Mk V (later Rifle No. 1 Mk V), adopted a new receiver-mounted aperture sighting system, which moved the rear sight from its former position on the barrel."
- 
+ ENG_infantry_equipment_3_desc:0 "SMLE 설계는 많은 단조 및 가공 작업이 필요했기 때문에 제조 비용이 상대적으로 많이 드는 긴 무장이었습니다. 1920년대에는 이러한 문제를 해결하기 위해 설계를 변경하는 일련의 실험이 수행되어 복잡한 부품의 수를 줄이고 제조 공정을 다듬었습니다. SMLE Mk V(추후 소총 No.1 Mk V)는 새로운 총몸 장착 조리개 조준 체계를 채택했으며, 이는 후방 조준기를 이전 위치인 총열에서 이동시켰습니다."
  CAN_infantry_equipment_0:0 "리-메트포드 MkI"
  CAN_infantry_equipment_0_short:0 "MLM"
  CAN_infantry_equipment_1:0 "로스 MkI"
@@ -302,7 +290,6 @@
  CAN_infantry_equipment_2_short:0 "로스 MkIII"
  CAN_infantry_equipment_3:0 "휴오트 자동소총"
  CAN_infantry_equipment_3_short:0 "휴오트"
- 
  AST_infantry_equipment_0:0 "리-메트포드 MkI"
  AST_infantry_equipment_0_short:0 "MLM"
  AST_infantry_equipment_1:0 "쇼트 매거진 리-엔필드 MkI"
@@ -311,7 +298,6 @@
  AST_infantry_equipment_2_short:0 "엔필드 P14"
  AST_infantry_equipment_3:0 "쇼트 매거진 리-엔필드 MkIII"
  AST_infantry_equipment_3_short:0 "SMLE MkIII"
- 
  NZL_infantry_equipment_0:0 "리-메트포드 MkI"
  NZL_infantry_equipment_0_short:0 "MLM"
  NZL_infantry_equipment_1:0 "쇼트 매거진 리-엔필드 MkI"
@@ -320,7 +306,6 @@
  NZL_infantry_equipment_2_short:0 "엔필드 P14"
  NZL_infantry_equipment_3:0 "쇼트 매거진 리-엔필드 MkIII"
  NZL_infantry_equipment_3_short:0 "SMLE MkIII"
- 
  RAJ_infantry_equipment_0:0 "리-메트포드 MkI"
  RAJ_infantry_equipment_0_short:0 "MLM"
  RAJ_infantry_equipment_1:0 "쇼트 매거진 리-엔필드 MkI"
@@ -329,7 +314,6 @@
  RAJ_infantry_equipment_2_short:0 "엔필드 P14"
  RAJ_infantry_equipment_3:0 "쇼트 매거진 리-엔필드 MkIII"
  RAJ_infantry_equipment_3_short:0 "SMLE MkIII"
- 
  SAF_infantry_equipment_0:0 "리-메트포드 MkI"
  SAF_infantry_equipment_0_short:0 "MLM"
  SAF_infantry_equipment_1:0 "쇼트 매거진 리-엔필드 MkI"
@@ -338,7 +322,6 @@
  SAF_infantry_equipment_2_short:0 "엔필드 P14"
  SAF_infantry_equipment_3:0 "쇼트 매거진 리-엔필드 MkIII"
  SAF_infantry_equipment_3_short:0 "SMLE MkIII"
- 
  FRA_infantry_equipment_0:0 "르벨 Mle 1886 M93"
  FRA_infantry_equipment_0_short:0 "Mle 1886 M93"
  FRA_infantry_equipment_1:0 "베르티에 Mle 1892"
@@ -347,7 +330,6 @@
  FRA_infantry_equipment_2_short:0 "Mle 1892 M16"
  FRA_infantry_equipment_3:0 "RSC M1917"
  FRA_infantry_equipment_3_short:0 "RSC M1917"
- 
  SOV_infantry_equipment_0:0 "베르단 M1870"
  SOV_infantry_equipment_0_short:0 "베르단 M1870"
  SOV_infantry_equipment_1:0 "모신-나강 M1891"
@@ -356,7 +338,6 @@
  SOV_infantry_equipment_2_short:0 "M-N M1907"
  SOV_infantry_equipment_3:0 "페도로프 자동소총 M1916"
  SOV_infantry_equipment_3_short:0 "페도로프 자동소총"
- 
  RUS_infantry_equipment_0:0 "베르단 M1870"
  RUS_infantry_equipment_0_short:0 "베르단 M1870"
  RUS_infantry_equipment_1:0 "모신-나강 M1891"
@@ -365,7 +346,6 @@
  RUS_infantry_equipment_2_short:0 "M-N M1907"
  RUS_infantry_equipment_3:0 "페도로프 자동소총 M1916"
  RUS_infantry_equipment_3_short:0 "페도로프 자동소총"
- 
  SER_infantry_equipment_0:0 "마우저 M80"
  SER_infantry_equipment_0_short:0 "마우저 M80"
  SER_infantry_equipment_1:0 "마우저 M99"
@@ -374,7 +354,6 @@
  SER_infantry_equipment_2_short:0 "마우저 M10"
  SER_infantry_equipment_3:0 "푸슈카 M24"
  SER_infantry_equipment_3_short:0 "푸슈카 M24"
- 
  GER_infantry_equipment_0:0 "게베어 88"
  GER_infantry_equipment_0_short:0 "게베어 88"
  GER_infantry_equipment_1:0 "게베어 98"
@@ -383,16 +362,6 @@
  GER_infantry_equipment_2_short:0 "카라비너 98AZ"
  GER_infantry_equipment_3:0 "베르그만 MP18"
  GER_infantry_equipment_3_short:0 "MP18"
- 
- BAY_infantry_equipment_0:0 "게베어 88"
- BAY_infantry_equipment_0_short:0 "게베어 88"
- BAY_infantry_equipment_1:0 "게베어 98"
- BAY_infantry_equipment_1_short:0 "게베어 98"
- BAY_infantry_equipment_2:0 "카라비너 98a/b"
- BAY_infantry_equipment_2_short:0 "카라비너 98a/b"
- BAY_infantry_equipment_3:0 "베르그만 MP18"
- BAY_infantry_equipment_3_short:0 "MP18"
- 
  AUS_infantry_equipment_0:0 "만리허 M88"
  AUS_infantry_equipment_0_short:0 "만리허 M88"
  AUS_infantry_equipment_1:0 "만리허 M95"
@@ -401,7 +370,6 @@
  AUS_infantry_equipment_2_short:0 "만리허 슈투첸 M95"
  AUS_infantry_equipment_3:0 "슈타이어 MP18"
  AUS_infantry_equipment_3_short:0 "슈타이어 MP18"
- 
  AUH_infantry_equipment_0:0 "만리허 M88"
  AUH_infantry_equipment_0_short:0 "만리허 M88"
  AUH_infantry_equipment_1:0 "만리허 M95"
@@ -410,7 +378,6 @@
  AUH_infantry_equipment_2_short:0 "만리허 슈투첸 M95"
  AUH_infantry_equipment_3:0 "슈타이어 MP18"
  AUH_infantry_equipment_3_short:0 "슈타이어 MP18"
- 
  ITA_infantry_equipment_0:0 "베테를리 M1870"
  ITA_infantry_equipment_0_short:0 "베테를리 M1870"
  ITA_infantry_equipment_1:0 "카르카노 M91"
@@ -419,7 +386,6 @@
  ITA_infantry_equipment_2_short:0 "베테를리 M87/15"
  ITA_infantry_equipment_3:0 "베레타 MAB 18"
  ITA_infantry_equipment_3_short:0 "베레타 M1918"
- 
  BEL_infantry_equipment_0:0 "콩블랑 M1882"
  BEL_infantry_equipment_0_short:0 "콩블랑 M1882"
  BEL_infantry_equipment_1:0 "마우저 M1889"
@@ -428,7 +394,6 @@
  BEL_infantry_equipment_2_short:0 "Mle 1892 M16"
  BEL_infantry_equipment_3:0 "RSC M1917"
  BEL_infantry_equipment_3_short:0 "RSC M1917"
- 
  LUX_infantry_equipment_0:0 "콩블랑 M1882"
  LUX_infantry_equipment_0_short:0 "콩블랑 M1882"
  LUX_infantry_equipment_1:0 "마우저 M1889"
@@ -437,7 +402,6 @@
  LUX_infantry_equipment_2_short:0 "Mle 1892 M16"
  LUX_infantry_equipment_3:0 "RSC M1917"
  LUX_infantry_equipment_3_short:0 "RSC M1917"
- 
  JAP_infantry_equipment_0:0 "22식 소총"
  JAP_infantry_equipment_0_short:0 "22식"
  JAP_infantry_equipment_1:0 "38식 소총"
@@ -446,7 +410,6 @@
  JAP_infantry_equipment_2_short:0 "44식"
  JAP_infantry_equipment_3:0 "베르그만 MP18"
  JAP_infantry_equipment_3_short:0 "MP18"
- 
  TUR_infantry_equipment_0:0 "마우저 M1887"
  TUR_infantry_equipment_0_short:0 "마우저 M1887"
  TUR_infantry_equipment_1:0 "마우저 M1903"
@@ -455,7 +418,6 @@
  TUR_infantry_equipment_2_short:0 "마우저 M1905"
  TUR_infantry_equipment_3:0 "베르그만 MP18"
  TUR_infantry_equipment_3_short:0 "MP18"
- 
  CHI_infantry_equipment_0:0 "88식 소총"
  CHI_infantry_equipment_0_short:0 "88식"
  CHI_infantry_equipment_1:0 "마우저 1식"
@@ -464,7 +426,6 @@
  CHI_infantry_equipment_2_short:0 "마우저 4식"
  CHI_infantry_equipment_3:0 "베르그만 MP18"
  CHI_infantry_equipment_3_short:0 "MP18"
- 
  QIN_infantry_equipment_0:0 "88식 소총"
  QIN_infantry_equipment_0_short:0 "88식"
  QIN_infantry_equipment_1:0 "마우저 M1904/07"
@@ -473,7 +434,6 @@
  QIN_infantry_equipment_2_short:0 "마우저 M1907"
  QIN_infantry_equipment_3:0 "베르그만 MP18"
  QIN_infantry_equipment_3_short:0 "MP18"
- 
  SWE_infantry_equipment_0:0 "야르만 m/84"
  SWE_infantry_equipment_0_short:0 "야르만 m/84"
  SWE_infantry_equipment_1:0 "마우저 m/96"
@@ -482,7 +442,6 @@
  SWE_infantry_equipment_2_short:0 "마우저 m/98a"
  SWE_infantry_equipment_3:0 "베르그만 MP18"
  SWE_infantry_equipment_3_short:0 "MP18"
-
  NOR_infantry_equipment_0:0 "야르만 m/84"
  NOR_infantry_equipment_0_short:0 "야르만 m/84"
  NOR_infantry_equipment_1:0 "크라그-에르겐센 m/96"
@@ -491,7 +450,6 @@
  NOR_infantry_equipment_2_short:0 "크라그 m/12"
  NOR_infantry_equipment_3:0 "베르그만 MP18"
  NOR_infantry_equipment_3_short:0 "MP18"
- 
  DEN_infantry_equipment_0:0 "게베어 m/89"
  DEN_infantry_equipment_0_short:0 "게베어 m/89"
  DEN_infantry_equipment_1:0 "게베어 m/96"
@@ -500,7 +458,6 @@
  DEN_infantry_equipment_2_short:0 "게베어 m/98a"
  DEN_infantry_equipment_3:0 "베르그만 MP18"
  DEN_infantry_equipment_3_short:0 "MP18"
- 
  MEX_infantry_equipment_0:0 "몬드라곤 M87"
  MEX_infantry_equipment_0_short:0 "몬드라곤 M87"
  MEX_infantry_equipment_1:0 "몬드라곤 M93"
@@ -509,16 +466,13 @@
  MEX_infantry_equipment_2_short:0 "몬드라곤 M08"
  MEX_infantry_equipment_3:0 "멘도자 RM2"
  MEX_infantry_equipment_3_short:0 "멘도자 RM2"
- 
  CZE_infantry_equipment_0:0 "만리허 vz.88"
- CZE_infantry_equipment_0_short:0 "만리허 vz.88"
  CZE_infantry_equipment_1:0 "만리허 vz.95"
  CZE_infantry_equipment_1_short:0 "만리허 vz.95"
  CZE_infantry_equipment_2:0 "즈브로요프카 브르노 vz.24"
  CZE_infantry_equipment_2_short:0 "vz.24"
  CZE_infantry_equipment_3:0 "베르그만 MP18"
  CZE_infantry_equipment_3_short:0 "MP18"
-
  POL_infantry_equipment_0:0 "카라빈 wz.88"
  POL_infantry_equipment_0_short:0 "Kb wz.88"
  POL_infantry_equipment_1:0 "카라빈 wz.98"
@@ -527,7 +481,6 @@
  POL_infantry_equipment_2_short:0 "Kb 마우저 wz.98a"
  POL_infantry_equipment_3:0 "베르그만 MP18"
  POL_infantry_equipment_3_short:0 "MP18"
-
  HOL_infantry_equipment_0:0 "게베어 M71/88"
  HOL_infantry_equipment_0_short:0 "게베어 M71/88"
  HOL_infantry_equipment_1:0 "만리허 M95"
@@ -536,7 +489,6 @@
  HOL_infantry_equipment_2_short:0 "엔필드 P14"
  HOL_infantry_equipment_3:0 "베르그만 MP18"
  HOL_infantry_equipment_3_short:0 "MP18"
- 
  ROM_infantry_equipment_0:0 "만리허 M88"
  ROM_infantry_equipment_0_short:0 "만리허 M88"
  ROM_infantry_equipment_1:0 "모신-나강 M1891"
@@ -545,7 +497,6 @@
  ROM_infantry_equipment_2_short:0 "Mle 1892 M16"
  ROM_infantry_equipment_3:0 "즈브로요프카 vz.26"
  ROM_infantry_equipment_3_short:0 "vz.26"
- 
  GRE_infantry_equipment_0:0 "르벨 Mle 1886 M93"
  GRE_infantry_equipment_0_short:0 "Mle 1886 M93"
  GRE_infantry_equipment_1:0 "만리허 M03"
@@ -554,7 +505,6 @@
  GRE_infantry_equipment_2_short:0 "Mle 1892 M16"
  GRE_infantry_equipment_3:0 "RSC M1917"
  GRE_infantry_equipment_3_short:0 "RSC M1917"
- 
  BUL_infantry_equipment_0:0 "베르단 M1870"
  BUL_infantry_equipment_0_short:0 "베르단 M1870"
  BUL_infantry_equipment_1:0 "만리허 M95"
@@ -563,16 +513,14 @@
  BUL_infantry_equipment_2_short:0 "만리허 슈투첸 M95"
  BUL_infantry_equipment_3:0 "베르그만 MP18"
  BUL_infantry_equipment_3_short:0 "MP18"
- 
  BRA_infantry_equipment_0:0 "이타주바 마우저 모델 1894"
  BRA_infantry_equipment_0_short:0 "마우저 M1894"
  BRA_infantry_equipment_1:0 "이타주바 마우저 모델 1908"
  BRA_infantry_equipment_1_short:0 "마우저 M1908"
  BRA_infantry_equipment_2:0 "이타주바 마우저 모델 1912"
  BRA_infantry_equipment_2_short:0 "마우저 M1912"
- BRA_infantry_equipment_3:0 "마드셍 모델 1918"
+ BRA_infantry_equipment_3:0 "마드센 모델 1918"
  BRA_infantry_equipment_3_short:0 "마드셍 M1918"
- 
  ARG_infantry_equipment_0:0 "마우저 M91"
  ARG_infantry_equipment_0_short:0 "마우저 M91"
  ARG_infantry_equipment_1:0 "마우저 M98"
@@ -581,7 +529,6 @@
  ARG_infantry_equipment_2_short:0 "마우저 M09"
  ARG_infantry_equipment_3:0 "베레타 MAB 18"
  ARG_infantry_equipment_3_short:0 "베레타 M1918"
- 
  SPR_infantry_equipment_0:0 "오비에도 마우저 M1893"
  SPR_infantry_equipment_0_short:0 "마우저 M1893"
  SPR_infantry_equipment_1:0 "오비에도 마우저 M1893"
@@ -590,7 +537,6 @@
  SPR_infantry_equipment_2_short:0 "Mle 1909"
  SPR_infantry_equipment_3:0 "브라우닝 M1918"
  SPR_infantry_equipment_3_short:0 "M1918 BAR"
- 
  POR_infantry_equipment_0:0 "크로파체크 m/1886"
  POR_infantry_equipment_0_short:0 "크로파체크 m/1886"
  POR_infantry_equipment_1:0 "만리허 m/96"
@@ -599,7 +545,6 @@
  POR_infantry_equipment_2_short:0 "에스핀가르다 m/04"
  POR_infantry_equipment_3:0 "쇼트 매거진 리-엔필드 MkIII"
  POR_infantry_equipment_3_short:0 "SMLE MkIII"
- 
  SWI_infantry_equipment_0:0 "베테를리 M69"
  SWI_infantry_equipment_0_short:0 "베테를리 M69"
  SWI_infantry_equipment_1:0 "슈미트-루빈 M1911"
@@ -608,7 +553,6 @@
  SWI_infantry_equipment_2_short:0 "몬드라곤 M08"
  SWI_infantry_equipment_3:0 "SIG MP18"
  SWI_infantry_equipment_3_short:0 "SIG MP18"
-
  PER_infantry_equipment_0:0 "마우저 M1887"
  PER_infantry_equipment_0_short:0 "마우저 M1887"
  PER_infantry_equipment_1:0 "모신-나강 M1891"
@@ -617,7 +561,15 @@
  PER_infantry_equipment_2_short:0 "마우저 98"
  PER_infantry_equipment_3:0 "베르그만 MP18"
  PER_infantry_equipment_3_short:0 "MP18"
-
+ BAY_infantry_equipment_0:0 "게베어 88"
+ BAY_infantry_equipment_0_short:0 "게베어 88"
+ BAY_infantry_equipment_1:0 "게베어 98"
+ BAY_infantry_equipment_1_short:0 "게베어 98"
+ BAY_infantry_equipment_2:0 "카라비너 98a/b"
+ BAY_infantry_equipment_2_short:0 "카라비너 98a/b"
+ BAY_infantry_equipment_3:0 "베르그만 MP18"
+ BAY_infantry_equipment_3_short:0 "MP18"
+ CZE_infantry_equipment_0_short:0 "만리허 vz.88"
  KOR_infantry_equipment_0:0 "22식 소총"
  KOR_infantry_equipment_0_short:0 "22식"
  KOR_infantry_equipment_1:0 "마우저 1식"
@@ -626,4 +578,3 @@
  KOR_infantry_equipment_2_short:0 "마우저 4식"
  KOR_infantry_equipment_3:0 "베르그만 MP18"
  KOR_infantry_equipment_3_short:0 "MP18"
- 

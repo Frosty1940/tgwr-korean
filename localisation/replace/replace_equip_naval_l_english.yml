@@ -53,7 +53,7 @@
  battle_cruiser_4:0 "순양전함 IV"
  battle_cruiser_1_desc:0 "전후 순양전함들의 군비 경쟁은 전함과 비교했을때 장갑을 희생하고 속도를 얻은 중무장 함선들의 몇가지 설계의 결과물입니다."
  battle_cruiser_2_desc:0 "순양전함들의 재건과 개장은 현대 전함보다 빠르지만 적은 장갑을 가진 설계입니다. 하지만 사격통제장치와 공중탐지에서 더 좋은 체제를 개발하였습니다."
- battleship_1:0 "드레드노트" #В MTG есть пре-дредноуты у некоторых стран. Дредноут - корабль, несущий только крупнокалиберные орудия.
+ battleship_1:0 "드레드노트"
  battleship_2:0 "전함 I"
  battleship_3:0 "전함 II"
  battleship_4:0 "전함 III"
@@ -123,8 +123,6 @@
  ship_hull_torpedo_cruiser:0 "어뢰 순양함"
  ship_hull_super_heavy_1:0 "초중전함 함체"
  ship_hull_cruiser_submarine:0 "순양 잠수함"
- 
-  ### GER - GERMANY ###
  GER_submarine_1:0 "U 2형"
  GER_submarine_1_desc:0 ""
  GER_submarine_2:0 "U 3형"
@@ -153,9 +151,9 @@
  GER_heavy_cruiser_1_desc:0 ""
  GER_heavy_cruiser_2:0 "블뤼허급"
  GER_heavy_cruiser_2_desc:0 ""
- GER_heavy_cruiser_3:0 "뤼초급" #fictional
+ GER_heavy_cruiser_3:0 "뤼초급"
  GER_heavy_cruiser_3_desc:0 ""
- GER_heavy_cruiser_4:0 "아트미랄 히퍼급" #fictional
+ GER_heavy_cruiser_4:0 "아트미랄 히퍼급"
  GER_heavy_cruiser_4_desc:0 ""
  GER_battle_cruiser_1:0 "폰 데어 탄급"
  GER_battle_cruiser_1_desc:0 ""
@@ -171,18 +169,16 @@
  GER_battleship_4_desc:0 ""
  GER_carrier_1:0 "I급"
  GER_carrier_1_desc:0 ""
- GER_carrier_2:0 "II급" #fictional
+ GER_carrier_2:0 "II급"
  GER_carrier_2_desc:0 ""
- GER_carrier_3:0 "III급" #fictional
+ GER_carrier_3:0 "III급"
  GER_carrier_3_desc:0 ""
- GER_carrier_4:0 "IV급" #fictional
+ GER_carrier_4:0 "IV급"
  GER_carrier_4_desc:0 ""
- GER_SH_battleship_1:0 "힌덴부르크급" #fictional
+ GER_SH_battleship_1:0 "힌덴부르크급"
  GER_SH_battleship_1_desc:0 ""
- GER_SH_battleship_2:0 "프리드리히 데어 그로세급" #fictional
+ GER_SH_battleship_2:0 "프리드리히 데어 그로세급"
  GER_SH_battleship_2_desc:0 ""
-
- ### AUH - AUSTRO-HUNGARY ###
  AUH_submarine_1:0 "U-3급"
  AUH_submarine_1_desc:0 ""
  AUH_submarine_2:0 "U-5급"
@@ -203,45 +199,13 @@
  AUH_light_cruiser_1_desc:0 ""
  AUH_light_cruiser_2:0 "에르자츠 첸타급"
  AUH_light_cruiser_2_desc:0 ""
- #AUH_light_cruiser_3:0 ""
- #AUH_light_cruiser_3_desc:0 ""
- #AUH_light_cruiser_4:0 ""
- #AUH_light_cruiser_4_desc:0 ""
  AUH_heavy_cruiser_1:0 "장크트 게오르크"
  AUH_heavy_cruiser_1_desc:0 ""
- #AUH_heavy_cruiser_2:0 ""
- #AUH_heavy_cruiser_2_desc:0 ""
- #AUH_heavy_cruiser_3:0 ""
- #AUH_heavy_cruiser_3_desc:0 ""
- #AUH_heavy_cruiser_4:0 ""
- #AUH_heavy_cruiser_4_desc:0 ""
- #AUH_battle_cruiser_1:0 ""
- #AUH_battle_cruiser_1_desc:0 ""
- #AUH_battle_cruiser_2:0 ""
- #AUH_battle_cruiser_2_desc:0 ""
  AUH_battleship_1:0 "라데츠키급"
  AUH_battleship_1_desc:0 ""
  AUH_battleship_2:0 "테게토프급"
  AUH_battleship_2_desc:0 ""
  AUH_battleship_3:0 "에르자츠 모나르히급"
- AUH_battleship_3_desc:0 ""
- #AUH_battleship_3_desc:0 ""
- #AUH_battleship_4:0 ""
- #AUH_battleship_4_desc:0 ""
- #AUH_carrier_1:0 "I Class"
- #AUH_carrier_1_desc:0 ""
- #AUH_carrier_2:0 "II Class"
- #AUH_carrier_2_desc:0 ""
- #AUH_carrier_3:0 "III Class"
- #AUH_carrier_3_desc:0 ""
- #AUH_carrier_4:0 "IV Class"
- #AUH_carrier_4_desc:0 ""
- #AUH_SH_battleship_1:0 ""
- #AUH_SH_battleship_1_desc:0 ""
- #AUH_SH_battleship_2:0 ""
- #AUH_SH_battleship_2_desc:0 ""
-
- ### ENG - ENGLAND ###
  ENG_submarine_1:0 "A/B/C/D급"
  ENG_submarine_1_desc:0 ""
  ENG_submarine_2:0 "E/F/G/H급"
@@ -268,11 +232,11 @@
  ENG_light_cruiser_4_desc:0 ""
  ENG_heavy_cruiser_1:0 "미노타우르급"
  ENG_heavy_cruiser_1_desc:0 ""
- ENG_heavy_cruiser_2:0 "장갑순양함 II" #need fictional name
+ ENG_heavy_cruiser_2:0 "장갑순양함 II"
  ENG_heavy_cruiser_2_desc:0 ""
- ENG_heavy_cruiser_3:0 "장갑순양함 III" #need fictional name
+ ENG_heavy_cruiser_3:0 "장갑순양함 III"
  ENG_heavy_cruiser_3_desc:0 ""
- ENG_heavy_cruiser_4:0 "장갑순양함 IV" #need fictional name
+ ENG_heavy_cruiser_4:0 "장갑순양함 IV"
  ENG_heavy_cruiser_4_desc:0 ""
  ENG_battle_cruiser_1:0 "인빈시블급"
  ENG_battle_cruiser_1_desc:0 ""
@@ -298,8 +262,6 @@
  ENG_carrier_3_desc:0 ""
  ENG_carrier_4:0 "헤르메스급"
  ENG_carrier_4_desc:0 ""
-
- ### FRA - FRANCE ###
  FRA_submarine_1:0 "플루비오스급"
  FRA_submarine_1_desc:0 ""
  FRA_submarine_2:0 "잠수함 II"
@@ -352,11 +314,10 @@
  FRA_carrier_3_desc:0 ""
  FRA_carrier_4:0 "항공모함 IV"
  FRA_carrier_4_desc:0 ""
- FRA_SH_battleship_1:0 "리옹급" #fictional
+ FRA_SH_battleship_1:0 "리옹급"
  FRA_SH_battleship_1_desc:0 ""
- FRA_SH_battleship_2:0 "됭케르크급" #fictional
+ FRA_SH_battleship_2:0 "됭케르크급"
  FRA_SH_battleship_2_desc:0 ""
-
  USA_submarine_1:0 "잠수함 I"
  USA_submarine_1_desc:0 "잠수함 I"
  USA_submarine_2:0 "잠수함 II"
@@ -413,7 +374,6 @@
  USA_SH_battleship_1_desc:0 "초중전함 I"
  USA_SH_battleship_2:0 "초중전함 II"
  USA_SH_battleship_2_desc:0 "초중전함 II"
-
  ITA_submarine_1:0 "잠수함 I"
  ITA_submarine_1_desc:0 "잠수함 I"
  ITA_submarine_2:0 "잠수함 II"
@@ -470,7 +430,6 @@
  ITA_SH_battleship_1_desc:0 "초중전함 I"
  ITA_SH_battleship_2:0 "초중전함 II"
  ITA_SH_battleship_2_desc:0 "초중전함 II"
-
  JAP_submarine_1:0 "잠수함 I"
  JAP_submarine_1_desc:0 "잠수함 I"
  JAP_submarine_2:0 "잠수함 II"
@@ -527,7 +486,6 @@
  JAP_SH_battleship_1_desc:0 "초중전함 I"
  JAP_SH_battleship_2:0 "초중전함 II"
  JAP_SH_battleship_2_desc:0 "초중전함 II"
-
  TUR_submarine_1:0 "잠수함 I"
  TUR_submarine_1_desc:0 "잠수함 I"
  TUR_submarine_2:0 "잠수함 II"
@@ -584,7 +542,6 @@
  TUR_SH_battleship_1_desc:0 "초중전함 I"
  TUR_SH_battleship_2:0 "초중전함 II"
  TUR_SH_battleship_2_desc:0 "초중전함 II"
-
  RUS_submarine_1:0 "잠수함 I"
  RUS_submarine_1_desc:0 "잠수함 I"
  RUS_submarine_2:0 "잠수함 II"
@@ -641,7 +598,6 @@
  RUS_SH_battleship_1_desc:0 "초중전함 I"
  RUS_SH_battleship_2:0 "초중전함 II"
  RUS_SH_battleship_2_desc:0 "초중전함 II"
-
  SOV_submarine_1:0 "잠수함 I"
  SOV_submarine_1_desc:0 "잠수함 I"
  SOV_submarine_2:0 "잠수함 II"
@@ -698,7 +654,6 @@
  SOV_SH_battleship_1_desc:0 "초중전함 I"
  SOV_SH_battleship_2:0 "초중전함 II"
  SOV_SH_battleship_2_desc:0 "초중전함 II"
-
  GRE_submarine_1:0 "잠수함 I"
  GRE_submarine_1_desc:0 "잠수함 I"
  GRE_submarine_2:0 "잠수함 II"
@@ -755,7 +710,6 @@
  GRE_SH_battleship_1_desc:0 "초중전함 I"
  GRE_SH_battleship_2:0 "초중전함 II"
  GRE_SH_battleship_2_desc:0 "초중전함 II"
-
  BRA_submarine_1:0 "잠수함 I"
  BRA_submarine_1_desc:0 "잠수함 I"
  BRA_submarine_2:0 "잠수함 II"
@@ -812,7 +766,6 @@
  BRA_SH_battleship_1_desc:0 "초중전함 I"
  BRA_SH_battleship_2:0 "초중전함 II"
  BRA_SH_battleship_2_desc:0 "초중전함 II"
-
  CAN_submarine_1:0 "잠수함 I"
  CAN_submarine_1_desc:0 "잠수함 I"
  CAN_submarine_2:0 "잠수함 II"
@@ -869,7 +822,6 @@
  CAN_SH_battleship_1_desc:0 "초중전함 I"
  CAN_SH_battleship_2:0 "초중전함 II"
  CAN_SH_battleship_2_desc:0 "초중전함 II"
-
  MEX_submarine_1:0 "잠수함 I"
  MEX_submarine_1_desc:0 "잠수함 I"
  MEX_submarine_2:0 "잠수함 II"
@@ -926,7 +878,6 @@
  MEX_SH_battleship_1_desc:0 "초중전함 I"
  MEX_SH_battleship_2:0 "초중전함 II"
  MEX_SH_battleship_2_desc:0 "초중전함 II"
-
  SAF_submarine_1:0 "잠수함 I"
  SAF_submarine_1_desc:0 "잠수함 I"
  SAF_submarine_2:0 "잠수함 II"
@@ -983,7 +934,6 @@
  SAF_SH_battleship_1_desc:0 "초중전함 I"
  SAF_SH_battleship_2:0 "초중전함 II"
  SAF_SH_battleship_2_desc:0 "초중전함 II"
-
  RAJ_submarine_1:0 "잠수함 I"
  RAJ_submarine_1_desc:0 "잠수함 I"
  RAJ_submarine_2:0 "잠수함 II"
@@ -1040,7 +990,6 @@
  RAJ_SH_battleship_1_desc:0 "초중전함 I"
  RAJ_SH_battleship_2:0 "초중전함 II"
  RAJ_SH_battleship_2_desc:0 "초중전함 II"
-
  AST_submarine_1:0 "잠수함 I"
  AST_submarine_1_desc:0 "잠수함 I"
  AST_submarine_2:0 "잠수함 II"
@@ -1097,7 +1046,6 @@
  AST_SH_battleship_1_desc:0 "초중전함 I"
  AST_SH_battleship_2:0 "초중전함 II"
  AST_SH_battleship_2_desc:0 "초중전함 II"
-
  NZL_submarine_1:0 "잠수함 I"
  NZL_submarine_1_desc:0 "잠수함 I"
  NZL_submarine_2:0 "잠수함 II"
@@ -1154,7 +1102,6 @@
  NZL_SH_battleship_1_desc:0 "초중전함 I"
  NZL_SH_battleship_2:0 "초중전함 II"
  NZL_SH_battleship_2_desc:0 "초중전함 II"
-
  CHI_submarine_1:0 "잠수함 I"
  CHI_submarine_1_desc:0 "잠수함 I"
  CHI_submarine_2:0 "잠수함 II"
@@ -1211,7 +1158,6 @@
  CHI_SH_battleship_1_desc:0 "초중전함 I"
  CHI_SH_battleship_2:0 "초중전함 II"
  CHI_SH_battleship_2_desc:0 "초중전함 II"
-
  QIN_submarine_1:0 "잠수함 I"
  QIN_submarine_1_desc:0 "잠수함 I"
  QIN_submarine_2:0 "잠수함 II"

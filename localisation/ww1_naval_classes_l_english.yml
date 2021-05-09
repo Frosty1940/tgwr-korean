@@ -17,7 +17,7 @@
  AUH_coastal_submarine_1914:0 "U14급"
  AUH_coastal_submarine_1918:0 "U20급"
  AUH_battleship_1910:0 "테게토프급"
- AUH_battleship_1914:0 "에르자츠 모나르히급" 
+ AUH_battleship_1914:0 "에르자츠 모나르히급"
  AUH_destroyer_1890:0 "메테오어급"
  AUH_destroyer_1906:0 "후사르급"
  AUH_destroyer_1910:0 "타트라급"
@@ -166,7 +166,7 @@
  HOL_coastal_submarine_1914:0 "O6급"
  HOL_destroyer_1906:0 "Fret Class"
  HOL_battleship_1890:0 "Reinier Claeszen Class"
- HOL_battleship_1900:0 "코닝인 레헨터스급" #Koningin Regentes Class
+ HOL_battleship_1900:0 "코닝인 레헨터스급"
  HOL_light_cruiser_1890:0 "수마트라급"
  HOL_submarine_1906:0 "급"
  HOL_submarine_1914:0 "K2급"
@@ -319,7 +319,7 @@
  USA_destroyer_1890:0 "베인브리지급"
  USA_destroyer_1900:0 "트럭스턴급"
  USA_destroyer_1906:0 "폴딩급"
- USA_destroyer_1910:0 "캐신급" #Cassin Class
+ USA_destroyer_1910:0 "캐신급"
  USA_destroyer_1914:0 "터커급"
  USA_destroyer_1918:0 "콜드웰급"
  USA_battleship_1890:0 "텍사스급"
@@ -495,7 +495,7 @@
  HOL_coastal_submarine_1914_desc:0 "O6급"
  HOL_destroyer_1906_desc:0 "Fret Class"
  HOL_battleship_1890_desc:0 "Reinier Claeszen Class"
- HOL_battleship_1900_desc:0 "코닝인 레헨터스급" #Koningin Regentes Class
+ HOL_battleship_1900_desc:0 "코닝인 레헨터스급"
  HOL_light_cruiser_1890_desc:0 "수마트라급"
  HOL_submarine_1906_desc:0 "급"
  HOL_submarine_1914_desc:0 "K2급"
@@ -648,7 +648,7 @@
  USA_destroyer_1890_desc:0 "베인브리지급"
  USA_destroyer_1900_desc:0 "트럭스턴급"
  USA_destroyer_1906_desc:0 "폴딩급"
- USA_destroyer_1910_desc:0 "캐신급" #Cassin Class
+ USA_destroyer_1910_desc:0 "캐신급"
  USA_destroyer_1914_desc:0 "터커급"
  USA_destroyer_1918_desc:0 "콜드웰급"
  USA_battleship_1890_desc:0 "텍사스급"

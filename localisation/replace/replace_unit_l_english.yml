@@ -25,7 +25,7 @@
  ATTRITION_TOTAL:0 "총 소모: $TOT|=-1%2$"
  ATTRITION_UPKEEP:0 "\n - 부대 유지비: $VALUE|=-1%0$"
  ATTRITION_UPKEEP_MODIFIERS:0 "\n - 부대 유지비 변동치:"
- ATTRITION_TERRAIN:0 "\n - $TERR|H$: $ATT|=-1%0$"
+ ATTRITION_TERRAIN:0 ""
  ATTRITION_EQUIPMENT:0 "\n - 장비: $ATT|=-1$"
  ATTRITION_STATE_MODIFIERS:0 "\n - 주 변동치:"
  ATTRITION_WEATHER_MODIFIERS:0 "\n - 날씨 변동치:"
@@ -114,7 +114,6 @@
  TASK_FORCE_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION:0 "£mapicon_unit_invalid_orders  다음 선박 등급은 이 임무에 대해 연료 효울이 좋지 않습니다 $MISSION|H$"
  SPECIFIC_NAVY_CONTAINS_PRIDE_OF_FLEET:0 "$NAVY_NAME|H$에는 §H함대의 자랑§! §H($NAME$)§!(이)가 있음"
  DISBAND_PRIDE_OF_THE_FLEET_COST:1 "§H함대의 자랑§! §H($NAME$)§!(을)를 해산하는데 $COST|R$ £pol_power의 비용이 들 것입니다"
- 
  SET_SHIP_PRIDE_OF_FLEET:0 "$NAME|H$(을)를 §H함대의 자랑§!으로 §H임명§!"
  REPLACE_SHIP_PRIDE_OF_FLEET:0 "현재 §H함대의 자랑§!인 $NAME|H$(을)를 §R재임명§!"
  SET_SHIP_PRIDE_OF_FLEET_DESC:0 "받게 될 혜택:\n$BONUS$\n"
@@ -122,20 +121,15 @@
  SET_SHIP_PRIDE_OF_FLEET_DESC_2_WITH_EXISTING:0 "현재 §H함대의 자랑§!인 §H($OLD_NAME$)§!(을)를 대체하려면 $COST|R$ £pol_power의 비용이 듭니다."
  UNSET_SHIP_PRIDE_OF_FLEET:0 "$NAME|H$(을)를 §H함대의 자랑§!에서 §R해임§!"
  UNSET_SHIP_PRIDE_OF_FLEET_DESC:0 "다음과 같은 보너스를 §R잃게될§! 것입니다:\n$BONUS$\n\n비할당시키는데 $COST|R$ £pol_power  비용이 듭니다."
- 
  PRIDE_OF_THE_FLEET_COUNTRY_BONUS:0 "\n§H나라 혜택:§!\n$BONUS$"
  PRIDE_OF_THE_FLEET_SHIP_BONUS:0 "\n§H함정 혜택:§!\n$BONUS$"
  PRIDE_OF_THE_FLEET_TEMP_BONUS:0 "\n§R침몰시 불이익 ($NUM$일간):§!\n$BONUS$"
- 
  SET_SHIP_PRIDE_OF_FLEET_POPUP:0 "§H함대의 자랑으로 임명§!"
  SET_SHIP_PRIDE_OF_FLEET_POPUP_DESC:0 "정말 $NAME|H$(을)를 §H함대의 자랑§!으로 §H임명§!하시겠습니까?\n\n한번 임명되면, §H함대의 자랑§!의 해임이나 대체에 $COST|R$ £pol_power의 비용이 듭니다. 다음과 같은 혜택을 받습니다:\n$BONUS$\n"
-  
  REPLACE_SHIP_PRIDE_OF_FLEET_POPUP:0 "§H함대의 자랑으로 대체§!"
  REPLACE_SHIP_PRIDE_OF_FLEET_POPUP_DESC:0 "정말 $NAME|H$(을)를 §H함대의 자랑§!으로 §H임명§!해 $OLD_NAME|H$의 자리를 §R대체§!하시겠습니까?\n\n§H함대의 자랑§!을 대체하려면 $COST|R$ £pol_power의 비용이 듭니다. 다음과 같은 혜택을 받습니다:\n$BONUS$\n"
-
  UNSET_SHIP_PRIDE_OF_FLEET_POPUP:0 "§H함대의 자랑에서 해임§!"
  UNSET_SHIP_PRIDE_OF_FLEET_POPUP_DESC:0 "정말 $NAME|H$(을)를 §H함대의 자랑§!에서 §R해임§!하시겠습니까?\n\n해임에는 $COST|R$ £pol_power의 비용이 들고 다음 혜택을 §R잃습니다§!:\n$BONUS$"
- 
  NOT_ENOUGH_PP_TO_UNASSIGN:0 "\n\n§R정치력이 충분하지 않음§!"
  NOT_ENOUGH_PP_TO_DISBAND_POTF:0 "\n\n§H함대의 자랑§!에서 해임할 §R정치력이 부족합니다 §!"
  SELECT_HOME_BASE:0 "선택된 함대의 모항을 설정"
@@ -472,7 +466,7 @@
  CHOOSE_INSIGNIA:0 "휘장 선택"
  CLICK_TO_ASSIGN_TRAITS:0 "§H클릭§!으로 이 §H유닛 지휘관§!에게 새 §H특성§!을 부여합니다."
  CLICK_TO_ASSIGN_TRAITS_DETAIL:0 "$LEADER|H$(은)는 $NUM|H$개의 할당 가능한 특성 슬롯이 남아있습니다."
- category_special_forces:0 "특수 부대"
+ category_special_forces:0 "특수부대"
  LEADER_GAIN_TRAIT_LEVEL:0 "리더는 새로운 특성을 할당할 수 있습니다. 매 $NUM|.0H$ 레벨마다.\n"
  FM_GAIN_TRAIT_LEVEL:0 "원수는 진급할 때 새로운 특성을 지정할 수 있습니다.\n"
  DELETE_ARMY:0 "§R군대 제거§!"

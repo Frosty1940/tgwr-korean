@@ -148,7 +148,7 @@
  STATE_147:0 "부르겐란트"
  STATE_148:0 "울레오보리"
  STATE_149:0 "니콜라이스타드"
- STATE_150:0 "미켈" #Mikhel
+ STATE_150:0 "미켈"
  STATE_151:0 "동스위스"
  STATE_152:0 "상오스트리아"
  STATE_153:0 "티롤"
@@ -849,8 +849,8 @@
  STATE_847:0 "코소보"
  STATE_848:0 "페야"
  STATE_849:0 "바질리 코이"
-
-
+ STATE_850:0 "루가노"
+ STATE_851:0 "제네바"
  YODONG_STATE:0 "요동"
  SEOGANDO_STATE:0 "서간도"
  BUKGANDO_STATE:0 "북간도"

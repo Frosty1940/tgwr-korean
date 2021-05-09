@@ -1,5 +1,4 @@
 ﻿l_english:
- ### EQUIPMENT MODULE CATEGORIES ###
  EQ_MOD_CAT_ship_light_battery_TITLE:0 "속사포"
  EQ_MOD_CAT_ship_sub_snorkel_TITLE:0 "스노클"
  EQ_MOD_CAT_ship_torpedo_TITLE:0 "어뢰 발사기"
@@ -29,7 +28,6 @@
  EQ_MOD_CAT_ship_deck_space_TITLE:0 "격납고 공간"
  EQ_MOD_CAT_ship_extra_fuel_tank_TITLE:0 "연료 탱크"
  EQ_MOD_CAT_ship_mine_layer_TITLE:1 "기뢰부설 장비"
- ### EQUIPMENT MODULE SLOTS ###
  EQ_MOD_SLOT_fixed_ship_battery_slot_TITLE:0 "주포"
  EQ_MOD_SLOT_fixed_ship_secondaries_slot_TITLE:0 "부포"
  EQ_MOD_SLOT_fixed_ship_anti_air_slot_TITLE:0 "대공"
@@ -47,7 +45,6 @@
  EQ_MOD_SLOT_mid_3_custom_slot_TITLE:0 "커스텀 중앙 3"
  EQ_MOD_SLOT_rear_1_custom_slot_TITLE:0 "커스텀 후면 1"
  EQ_MOD_SLOT_rear_2_custom_slot_TITLE:0 "커스텀 후면 2"
- ### EQUIPMENT MODULES ###
  ship_light_battery_1:0 "85 mm 속사포"
  ship_light_battery_1_short:0 "경함포 I"
  ship_light_battery_1_desc:0 "구측함과 소형함에 사용하기 위한 비교적 작은 포입니다."
@@ -302,7 +299,6 @@
  ship_armor_carrier_deck_short:0 "비행갑판 장갑"
  ship_armor_carrier_deck_desc:0 "무거운 장갑판은 적은 작업공간을 희생시키면서 적 폭격기의 타격으로부터 격납고 공간을 보호합니다."
  SHIP_DESIGNER_MODULE_SELECTION:0 "모듈 선택"
- ### Nation Specific Modules
  GER_ship_light_battery_1:0 "10.5cm/45 함포"
  GER_ship_light_battery_2:0 "12.7cm/45 함포"
  GER_ship_light_battery_3:0 "12.7cm/45 함포"
@@ -333,5 +329,4 @@
  GER_ship_armor_cruiser_2:0 "80mm 수선부/60mm 갑판"
  GER_ship_armor_cruiser_3:0 "100mm 수선부/88mm 갑판"
  GER_ship_armor_cruiser_4:0 "150mm 수선부/90mm 갑판"
- 
  RUS_ship_light_battery_1:0 "10.5sm Pizdec Pushka"

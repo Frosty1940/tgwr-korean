@@ -26,7 +26,7 @@
  reichspakt:0 "라이히스팍트"
  italian_popular_front:0 "이탈리아 인민전선"
  italian_federation:0 "이탈리아 연방"
- sadakat_pact:0 "Sadakatı-Cihan Front"
+ sadakat_pact:0 "사다카트-지한 전선"
  balkan_pact:0 "발칸 조약"
  ottoman_caliphate:0 "$LEADER_COUNTRY_ADJ$ 칼리파국"
  istanbul_pact:0 "이스탄불 조약"
@@ -41,3 +41,4 @@
  qing_empire:0 "대청국"
  nanjing_government:0 "남경정부"
  beiping_government:0 "북평정부"
+ nationalist_government:0 "국민정부"

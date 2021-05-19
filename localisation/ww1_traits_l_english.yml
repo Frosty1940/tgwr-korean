@@ -112,7 +112,7 @@
  rus_great_reformer:0 "대개혁가"
  rider_named_death:0 "죽음의 기수"
  lion_of_judah:0 "유다의 사자"
- assassination_survivor:0 "암살 생존자"
+ assassination_survivor:0 "암살시도 생존자"
  pope:0 "교황"
  little_saber:0 "짧은 사브르"
  little_saber_desc:0 "153cm의 짧은 키로 \"짧은 사브르\"라는 별명이 지어졌습니다."
@@ -150,3 +150,4 @@
  diplomatic_minister:0 "외교장관"
  puppet_grand_vizier:0 "꼭두각시 재상"
  catalanist_lerrouxist:0 "카탈루냐 레루주의자"
+ ataturk:0 "대개혁가"

@@ -154,7 +154,7 @@
  ITA_nav_bomber_equipment_1:0 "마키 M.3"
  fighter_equipment_0:0 "초기형 전투기"
  fighter_equipment_0_short:0 "전투기"
- fighter_equipment_0_desc:0 "제1차 세계대전 동안 전투기는 많은 변화를 겪었고, 이후에, 복엽기 설계는 구식이 되었습니다. 우리는 민간 기술의 진보를 군사적 응용으로 변환하기 시작해야 합니다."
+ fighter_equipment_0_desc:0 "전투기가 대전쟁을 통하여 많은 변화를 겪는 동안, 복엽기는 더는 쓸모가 없어지고 있습니다. 우리는 발달한 민간 기술을 군사적 응용으로 전환하기 시작하여야 합니다."
  fighter_equipment_1:0 "전투기 I"
  fighter_equipment_1_short:0 "전투기 I"
  fighter_equipment_1_desc:0 "가벼운 항공기체는 방사형태의 엔진 도입과 단엽기 설계, 완전 금속제 외피 구조를 포함해 대변혁을 일으켰습니다. 이 설계는 우리의 첫번째 현대적인 전투기를 만드는 첫번째 도전입니다."

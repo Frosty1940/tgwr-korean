@@ -1162,3 +1162,6 @@
  AUS_vaterland_fascism_DEF:0 "오스트리아 연방국"
  CAN_republic_democratic:0 "캐나다 공화국"
  CAN_republic_democratic_DEF:0 "캐나다 공화국"
+ OST_subject:0 "$OVERLORDADJ$령 동아시아"
+ FNG_government:0 "봉천정부"
+ FNG_government_DEF:0 "중화민국 봉천정부"

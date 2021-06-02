@@ -35,7 +35,6 @@
  continental_system:0 "대륙봉쇄령"
  beiyang_government:0 "북양정부"
  constitutional_protection_government:0 "호법정부"
- riot_suppressing_troops:0 "정국군"
  eight_provinces:0 "팔성동맹"
  anti_zhili_alliance:0 "반직동맹"
  qing_empire:0 "대청국"
@@ -43,3 +42,4 @@
  beiping_government:0 "북평정부"
  nationalist_government:0 "국민정부"
  abc_powers:0 "ABC 3국"
+ green_movement:0 "녹군"

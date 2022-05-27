@@ -1,0 +1,10 @@
+﻿l_english:
+ communism_drift:0 "일일 사회주의 지지"
+ fascism_drift:0 "일일 프로토파시즘 지지"
+ communism_acceptance:0 "사회주의 외교의 수용"
+ fascism_acceptance:0 "프로토파시스트 외교의 수용"
+ neutrality_drift:0 "일일 권위주의 지지"
+ neutrality_acceptance:0 "권위주의 외교의 수용"
+ cat_mobile_warfare_cost_factor:0 "기동 우세 교리 비용"
+ cat_mass_assault_cost_factor:0 "공세 추종 교리 비용"
+ tank_manufacturer_cost_factor:1 "기갑 설계사 비용"

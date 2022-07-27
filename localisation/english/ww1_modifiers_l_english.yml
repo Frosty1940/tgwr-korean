@@ -1,5 +1,4 @@
 ﻿l_english:
- DIPLOMACY_MILACC:0 "군사 통행권"
  HOI4TGW_Opinion_alliance_bonus_boost:0 "동맹"
  HOI4TGW_Opinion_give_weapons:0 "무기 밀매"
  HOI4TGW_Opinion_improved_diplomatic_relations:0 "개선된 외교 관계"
@@ -10,7 +9,7 @@
  HOI4TGW_Opinion_anti_uk_policy_malus:0 "반영 감정"
  HOI4TGW_Opinion_anti_ru_policy_malus:0 "반러 감정"
  HOI4TGW_Opinion_anti_serb_policy_malus:0 "반세르비아 감정"
- HOI4TGW_Opinion_anti_ottoman_policy_malus:0 "반터키 감정"
+ HOI4TGW_Opinion_anti_ottoman_policy_malus:0 "반튀르크 감정"
  HOI4TGW_Opinion_hostile_relations_post_balkan_war:0 "발칸 전쟁의 결과"
  HOI4TGW_Opinion_JAP_contest_russian_domination:0 "러시아의 우세에 이의 제기"
  HOI4TGW_Opinion_JAP_celebrate_tsushima:0 "쓰시마 기념"
@@ -62,3 +61,4 @@
  great_war_enemy:0 "대전쟁의 적수"
  tgwr_opinion_german_polish_customs_war:0 "독일-폴란드 무역 전쟁"
  tgwr_opinion_embargo:0 "금수조치"
+ airship_bomber_equipment_design_cost_factor:0 "비행선 폭격기 설계 비용"

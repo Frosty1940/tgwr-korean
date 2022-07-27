@@ -8,3 +8,4 @@
  cat_mobile_warfare_cost_factor:0 "기동 우세 교리 비용"
  cat_mass_assault_cost_factor:0 "공세 추종 교리 비용"
  tank_manufacturer_cost_factor:1 "기갑 설계사 비용"
+ scout_plane_design_cost_factor:0 "정찰기 설계 비용"

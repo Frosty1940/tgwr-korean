@@ -84,7 +84,7 @@
  little_saber_2:0 "짧은 사브르"
  little_saber_2_desc:0 "153cm의 짧은 키로 \"짧은 사브르\"라는 별명이 지어졌습니다."
  soldier_king:0 "군인왕"
- soldier_king_desc:0 "\"군인왕\"은 이탈리아인들에게 최근 대전에서 거둔 승리를 상기시켜줍니다. 그의 존재와 그에 대한 사람들의 충성심은 단합의 큰 근원입니다."
+ soldier_king_desc:0 "통칭 \"군인왕\"은 이탈리아인들로 하여금 대전쟁에서 일궈낸 승리를 상기시켰습니다. 그의 존재와 그에 대한 충성심은 사람들을 통합시키는 거대한 원천이 되었습니다."
  weak_ruler:0 "약한 통치자"
  POLITICS_LUIGI_LUZZATTI_DESC:0 "그는 졸리티의 호의에 의해서만 취임합니다."
  undistinguished_suit:0 "특출나지 않은 유력자"
@@ -229,3 +229,4 @@
  father_of_the_republic:0 "민국의 아버지"
  model_workers_leader:0 "모범적인 노동 지도자"
  revisionist_socialist:0 "수정주의적 사회주의자"
+ architect_of_japanese_militarism:0 "일본 군국주의의 설계자"

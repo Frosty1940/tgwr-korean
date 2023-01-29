@@ -232,7 +232,7 @@
  NOT_ENOUGH_MANPOWER_TO_REINFORCE:0 "충원을 하기엔 인력이 충분하지 않습니다."
  MANPOWER_REINFORCEMENT_NOT_POSSIBLE:0 "§R현재 위치에선 인력 충원이 불가능합니다.§!"
  ARCHETYPE_DESC_ENTRY:0 "    - $COUNT|0$ $NAME|H$"
- OUTDATED_EQ:0 "구식장비 표시"
+ OUTDATED_EQ:0 "구형 장비 표시"
  artillery_equipment_2:0 "개선된 포"
  artillery_equipment_2_desc:0 "새로운 유압식 반동 장치와 긴 총열의 이점을 살린 새로운 곡사포 설계입니다."
  artillery_equipment_3:0 "발전된 포"

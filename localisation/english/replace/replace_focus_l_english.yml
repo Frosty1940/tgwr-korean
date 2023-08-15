@@ -1,2 +1,10 @@
 ﻿l_english:
  RAJ_jungle_training_effect:0 "§H정글 훈련§! 활성화\n§H해병\n    정글§!\n      공격: §G+5%§!\n      이동: §G+10%§!\n§H산악병\n    정글§!\n      공격: §G+5%§!\n      이동: §G+10%§!\n"
+ ITA_war_with_france:0 "우리 것을 되찾으리!"
+ ITA_war_with_france_desc:0 ""
+ CHI_land_reform:0 "토지개혁"
+ CHI_land_reform_desc:0 "일부 농민은 직업에서 비효율적이고 후진적인 기술을 계속 사용합니다. 게다가 일부 지주들은 자신의 재산을 충분히 활용하지 않습니다. 포괄적인 일련의 개혁으로 이 문제를 해결할 수 있습니다."
+ TUR_invoke_the_methods_of_mehmed_ii:0 "메흐메트 2세의 방법"
+ TUR_invoke_the_methods_of_mehmed_ii_desc:0 "메흐메트 2세는 장약을 충분히 넣고 포를 배치한다면 적을 하나하나 모두 쓸어버릴 것이라는 막대한 사실을 보여줍니다. 이 얼마나 올바르고 대단한 방법인지!"
+ CAN_Patriation:0 "당면한 결별"
+ CAN_Patriation_desc:0 "우린 영국의 멍에에서 벗어난 자유를 요구합니다. 우린 외국 관료들에게 붙들리지 않을 것입니다."

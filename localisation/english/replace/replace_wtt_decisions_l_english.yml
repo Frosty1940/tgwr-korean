@@ -1,6 +1,6 @@
 ﻿l_english:
- develop_leningrad_aluminium_deposits:0 "페트로그라드 알루미늄 공장 확충"
- develop_stalingrad_aluminium_deposits:0 "차리친 알루미늄 공장 확충"
+ develop_leningrad_aluminium_deposits:0 "페트로그라드 알루미늄 공장 확장"
+ develop_stalingrad_aluminium_deposits:0 "차리친 알루미늄 공장 확장"
  ban_fascist_party:0 "극우 정당 금지"
  ban_fascist_party_desc:0 "현 상황에서, 극우 정당이 계속 조직되도록 두는 것은 효율적인 통치를 하려는 우리의 능력을 약화시킬 뿐입니다. 과감한 대책이 필요합니다."
  ban_fascist_party_tt:1 "프로토파시즘 인기도 변화: §G-§![?.Root.party_popularity@fascism|%0G].\n"

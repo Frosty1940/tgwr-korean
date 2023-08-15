@@ -1,5 +1,11 @@
 ﻿l_english:
  autonomy_tgwr_protectorate:0 "보호령"
  autonomy_tgwr_protectorate_desc:0 "국가는 다른 주권 국가에 의해 통제되고 보호됩니다. 국가는 대부분의 내정에 대한 자치권을 부여받으면서 여전히 종주권을 인정받고 있습니다."
- autonomy_tgwr_informal_protectorate:0 "비공식 보호령"
+ autonomy_tgwr_informal_protectorate:0 "보호국"
  autonomy_tgwr_crownland:0 "왕관령"
+ autonomy_tgwr_informal_protectorate_desc:0 "보호국은 \"국제적 성격\"을 계속 유지하고 외교 정책을 수행함에 있어 합의된 정도의 독립성을 누리는 형태의 보호를 받습니다."
+ autonomy_tgwr_unilateral_union:0 "일방적 연합"
+ autonomy_tgwr_unilateral_union_desc:0 "크레타 대의원들은 그리스와의 일방적인 연합을 선언했습니다. 크레타국의 국기는 그리스 국기로 대체되었고, 모든 공무원은 그리스의 요르요스 1세 국왕에게 충성을 맹세했으며, 그리스 헌법과 법률이 제정되었습니다. 이 법은 그리스를 포함하여 국제적으로 인정받지 못했습니다."
+ autonomy_tgwr_ottoman_emirate:0 "오스만 토후국"
+ autonomy_tgwr_regional_government:0 "지역 정부"
+ autonomy_tgwr_regional_government_desc:0 "중앙 정부는 이 지역에 대한 완전한 통제권이 없습니다. 지역 유력자가 사실상 이 지역을 책임지고 있으며, 현재 중앙 정부에 충성하고 있지만 자신의 이익만 챙기고 있습니다. 이는 이 지역이 언제든지 독립을 선언할 수 있다는 것을 뜻합니다."

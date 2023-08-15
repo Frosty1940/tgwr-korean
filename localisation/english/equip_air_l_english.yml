@@ -258,3 +258,6 @@
  scout_plane_equipment_1_desc:0 "적의 병력 이동에 대한 정보 수집과 적 해군의 배치 보고 등은 대전쟁에 처음 배치된 이래 비행기의 임무였으며, 여전히 중요한 임무입니다."
  scout_plane_equipment_2:0 "정찰기 II"
  scout_plane_equipment_2_desc:0 "항공 감시와 장거리 정찰 전용기를 개발함으로써, 우리는 상대의 의도와 전력을 정확히 파악하는 능력을 유지할 수 있음을 확신합니다."
+ early_bomber:0 "초기 수송기"
+ early_bomber_desc:0 "이런 날으는 기계는 동체를 들어올리기 위해 더 무겁고 강한 엔진을 탑재한다면 더 많은 화물을 실을 수 있습니다."
+ GRE_scout_plane_equipment_1:0 "파르망 MF.VII"

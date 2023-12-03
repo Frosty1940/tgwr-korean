@@ -1,2 +1,8 @@
 ﻿l_english:
  is_balkan_state_tt:0 "발칸 국가임"
+ is_greece_a_monarchy_tt:0 "그리스는 §Y군주국§!임."
+ is_greece_a_monarchy_tt_NOT:0 "그리스는 §Y공화국§!임."
+ GRE_has_venizelist_government_tt:0 "베니젤로스 정부임"
+ GRE_has_venizelist_government_tt_NOT:0 "베니젤로스 정부가 아님"
+ GRE_has_royalist_government_tt:0 "왕당파 정부임"
+ GRE_has_royalist_government_tt_NOT:0 "왕당파 정부가 아님"

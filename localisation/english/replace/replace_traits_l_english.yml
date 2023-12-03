@@ -13,3 +13,5 @@
  heavy_tank_manufacturer:0 "중장갑차량 설계사"
  panzer_expert:0 "기갑 전문가"
  panzer_expert_desc:1 "§L경험과 훈련이 이 지도자를 기갑 지휘 전문가로 만듭니다.§!"
+ dive_bomber:0 "해상 정찰병"
+ dive_bomber_desc:0 "§L해상 초계기 활용의 전문가입니다.§!"

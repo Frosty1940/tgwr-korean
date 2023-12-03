@@ -3,3 +3,5 @@
  NAME_THEME_HISTORICAL_PROTECTED_CRUISERS:0 "역사적 방호순양함"
  NAME_THEME_HISTORICAL_COASTAL_SUBMARINES:0 "역사적 해방잠수함"
  NAME_THEME_HISTORICAL_MINELAYING_SUBMARINES:0 "역사적 기뢰부설 잠수함"
+ tank_designer_signal:1 "통신 (지원중대)"
+ tank_designer_signal_role_disallowed:0 "§H통신§! 역할로 전환할 수 있는 모듈 추가."

@@ -1104,7 +1104,7 @@
  AIR_TITLE_SCOUT_PLANE:0 "정찰기"
  basic_ship_hull_carrier:0 "1916년형 모함 함체"
  TITLE_WW1_LANDDOCTRINE:0 "대전쟁 시기 교리"
- WW1_LANDDOCTRINE_DESC:0 "보불전쟁은 현대 전쟁의 총체를 정의했으며 러일전쟁은 요새화의 중요성을 보여주었습니다. 대규모 전쟁은 많은 전술을 시험대에 올려놓습니다..."
+ WW1_LANDDOCTRINE_DESC:0 "보불전쟁은 현대 전쟁의 총체를 정의했으며 러일전쟁은 요새화의 중요성을 보여주었습니다.\n대규모 전쟁은 많은 전술을 시험대에 올려놓습니다..."
  BITE_AND_HOLD_LABEL:0 "물고 버티기"
  DEFENSE_IN_DEPTH_LABEL:0 "종심 방어"
  ARMORED_SUPPORT_LABEL:0 "기갑 지원"

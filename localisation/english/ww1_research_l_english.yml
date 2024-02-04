@@ -134,3 +134,6 @@
  tank_design_short:0 "전차 시제픔"
  motorised_infantry2_desc:0 "야전에서 보병 수송에 차량 이용을 확대하는 것은 속도가 느린 병력의 기동력을 비약적으로 상승시키고 새로운 전략과 빠른 대응을 가능하게 합니다."
  fortification_tech:0 "요새화 기술"
+ howitzer2:0 "곡사포 업그레이드 I"
+ howitzer3:0 "곡사포 업그레이드 II"
+ howitzer4:0 "개선된 곡사포"

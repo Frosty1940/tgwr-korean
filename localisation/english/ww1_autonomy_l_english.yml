@@ -9,4 +9,6 @@
  autonomy_tgwr_ottoman_emirate:0 "오스만 토후국"
  autonomy_tgwr_concession:0 "조계"
  autonomy_tgwr_balkan_federal_subject: "발칸 연방 종속국"
+ protectorate_call_ally_rule_tt: "§R이 유형의 종속국은 전쟁에 호출할 수 없습니다!§!"
+ protectorate_join_ally_rule_tt: "§R이 유형의 종속국은 전쟁에 참전할 수 없습니다!§!"
  autonomy_tgwr_regional_government:0 "지역정부"

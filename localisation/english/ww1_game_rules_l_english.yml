@@ -311,3 +311,8 @@
  RULE_OPTION_DEMOB_AI_ONLY_DESC:0 "평시에 AI는 경제법과 징병법 중 최소한 하나를 완화할 것입니다. 성능 유지를 위해 AI에 대대 한계가 적용되어 있다면 부대의 수 또한 줄이려고 할 것입니다. 그러나 플레이어는 경제법이나 징병법을 바꿀 필요가 없습니다."
  RULE_OPTION_DEMOB_OFF:0 "끄기"
  RULE_OPTION_DEMOB_OFF_DESC:0 "플레이어나 AI 둘 다 평시에 경제법이나 징병법을 완화할 필요가 없습니다.\n\n§R게임 속도가 매우 느려지는 것을 신경 쓰지 않거나, 정말 성능 좋은 컴퓨터로 게임을 진행할 경우에만 선택하는 것을 추천합니다.§!"
+ IND_AI_BEHAVIOR:0 "@IND 인도차이나 연합"
+ RULE_OPTION_HISTORICAL_IND_AI:0 "@IND 역사적"
+ RULE_OPTION_HISTORICAL_IND_AI_DESC:0 "인도차이나 AI는 볼렌호븐을 임명하고 프랑스에 충성을 유지하려는 시도와 관련 있는 국가적 중점 계통도를 따라 내려갈 것입니다."
+ RULE_OPTION_IND_COOPERATIVE_EMPIRE:0 "@VIN 협력 제국"
+ RULE_OPTION_IND_COOPERATIVE_EMPIRE_IND_AI_DESC:0 "인도차이나 AI는 응우옌 푹브우다오를 황제이자 총독으로서 통치하도록 허락하고 프랑스에 충성을 유지하게끔 만드려는 시도와 관련 있는 국가적 중점 계통도를 따라 내려갈 것입니다."
